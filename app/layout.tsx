@@ -9,6 +9,9 @@ export const metadata: Metadata = {
   title: 'SpoonsMenu | Independent Wetherspoons Menu Guide',
   description:
     'An independent guide to the Wetherspoons menu with typical UK prices, calories, dietary notes and food club details.',
+  verification: {
+    google: '9nHkkhMyColv9C2zlyE85GDreqFwDn6_-wCofttKO4s',
+  },
 };
 
 export default function RootLayout({

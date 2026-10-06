@@ -1,0 +1,28 @@
+{
+  "city": "birmingham",
+  "localNote": "Birmingham's four Wetherspoons pubs span the city centre and Perry Barr. The Briar Rose and The Square Peg are both on the main shopping streets near New Street station, while The Figure of Eight is handy for the canal basin and Broad Street nightlife. The Arthur Robertson serves the Perry Barr area near the stadium.",
+  "pubs": [
+    {
+      "name": "The Briar Rose",
+      "history": "Occupies a former Abbey National bank on Bennetts Hill that closed in 1997. The late-Victorian building retains its original bank vaults in the basement. Named after a series of paintings by Birmingham-born artist Sir Edward Burne-Jones depicting the Sleeping Beauty tale.",
+      "nearestStation": "Birmingham New Street station, about 5 minutes on foot",
+      "features": ["Listed building", "Free Wi-Fi"]
+    },
+    {
+      "name": "The Square Peg",
+      "history": "Set in the ground floor of the former Lewis's department store, which traded on Corporation Street from 1885 until 1991. Wetherspoon's first Midlands pub, opened in 1995. The name came from chairman Tim Martin remarking the floor plan looked like a square peg in a round hole.",
+      "nearestStation": "Birmingham New Street station, about 5 minutes on foot",
+      "features": ["Listed building"]
+    },
+    {
+      "name": "The Figure of Eight",
+      "history": "Named after the figure-of-eight shape formed by the national canal network centred on Birmingham. The building was previously a clothing warehouse. Opened in 1996 as the second Wetherspoon pub in the city, close to the Gas Street canal basin.",
+      "nearestStation": "Five Ways station, about 10 minutes on foot",
+      "features": ["Outdoor seating", "Free Wi-Fi"]
+    },
+    {
+      "name": "The Arthur Robertson",
+      "nearestStation": "Perry Barr station, about 5 minutes on foot"
+    }
+  ]
+}

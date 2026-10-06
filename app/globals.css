@@ -1,0 +1,252 @@
+@import "tailwindcss";
+
+@theme inline {
+  /* ------------------------------------------------------------------
+     Brand palette (from jdwetherspoon.com stylesheet, chosen by owner)
+     ------------------------------------------------------------------ */
+  --color-primary: #1565C0;        /* official --color-primary */
+  --color-primary-hover: #0D47A1;  /* official --color-primary-hover */
+  --color-teal: #067B7B;           /* official --color-secondary */
+  --color-teal-dark: #006060;      /* official --color-secondary-hover */
+  --color-mint: #7CC7C5;           /* official --color-green / gradient stop 2 */
+  --color-royal: #245AA7;          /* official gradient stop 1 */
+  --color-mist: #EBF3FA;           /* official --color-background-1 */
+  --color-foam: #ECF7F7;           /* official --color-background-2 */
+  --color-cloud: #F5F7FA;          /* official light surface */
+  --color-line: #E0E0E0;           /* official --border-color */
+  --color-muted: #757575;          /* official secondary text */
+  --color-gold: #BDA06A;           /* official accent, decorative only (low contrast) */
+  --color-navy: #0A2E5C;           /* deep surface, darkened from #0D47A1 for contrast */
+  --color-navy-deep: #071F3F;
+
+  /* Legacy token names, remapped so every existing page adopts the palette */
+  --color-pub-blue: #0A2E5C;
+  --color-pub-blue-light: #1565C0;
+  --color-pub-blue-dark: #071F3F;
+  --color-warm-cream: #F5F7FA;
+  --color-brass: #067B7B;
+  --color-brass-light: #7CC7C5;
+  --color-brass-dark: #006060;
+  --color-cream-dark: #E0E0E0;
+  --color-ink: #212121;
+  --color-paper: #FFFFFF;
+
+  /* Typography */
+  --font-display: var(--font-serif), Georgia, serif;
+  --font-body: var(--font-sans), system-ui, sans-serif;
+
+  /* Radii */
+  --radius-sm: 10px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+
+  /* Shadows: soft, layered, never heavy */
+  --shadow-soft: 0 1px 2px rgba(10, 46, 92, 0.06), 0 1px 3px rgba(10, 46, 92, 0.08);
+  --shadow-card: 0 1px 2px rgba(10, 46, 92, 0.04), 0 8px 24px -12px rgba(10, 46, 92, 0.18);
+  --shadow-lift: 0 2px 4px rgba(10, 46, 92, 0.04), 0 22px 44px -20px rgba(10, 46, 92, 0.32);
+  --shadow-float: 0 30px 80px -30px rgba(7, 31, 63, 0.55);
+
+  /* Motion */
+  --duration-fast: 180ms;
+  --duration-normal: 260ms;
+  --duration-slow: 420ms;
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+
+  /* Layout */
+  --max-content: 1200px;
+  --measure: 68ch;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+  }
+
+  body {
+    background-color: var(--color-paper);
+    color: var(--color-ink);
+    font-family: var(--font-body);
+    font-size: 16px;
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-display);
+    color: var(--color-ink);
+    line-height: 1.2;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    font-variation-settings: "opsz" 72, "SOFT" 30;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 3px;
+    border-radius: 6px;
+  }
+
+  ::selection {
+    background-color: var(--color-primary);
+    color: var(--color-paper);
+  }
+
+  .skip-link {
+    position: absolute;
+    top: -40px;
+    left: 0;
+    background: var(--color-navy);
+    color: var(--color-paper);
+    padding: 8px 16px;
+    z-index: 100;
+  }
+
+  .skip-link:focus {
+    top: 0;
+  }
+}
+
+@layer components {
+  /* Page width container */
+  .shell {
+    width: 100%;
+    max-width: var(--max-content);
+    margin-inline: auto;
+    padding-inline: 1.25rem;
+  }
+  @media (min-width: 640px) {
+    .shell {
+      padding-inline: 2rem;
+    }
+  }
+
+  /* Small uppercase label above section titles */
+  .eyebrow {
+    display: inline-block;
+    font-family: var(--font-body);
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--color-primary);
+  }
+
+  /* Frosted glass on dark surfaces */
+  .glass-dark {
+    background: rgba(255, 255, 255, 0.07);
+    border: 1px solid rgba(255, 255, 255, 0.14);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.08);
+    -webkit-backdrop-filter: blur(18px) saturate(140%);
+    backdrop-filter: blur(18px) saturate(140%);
+  }
+
+  /* Frosted glass on light surfaces */
+  .glass-light {
+    background: rgba(255, 255, 255, 0.72);
+    border: 1px solid rgba(255, 255, 255, 0.9);
+    box-shadow: var(--shadow-card);
+    -webkit-backdrop-filter: blur(16px) saturate(160%);
+    backdrop-filter: blur(16px) saturate(160%);
+  }
+
+  /* Solid fallbacks where blur is unsupported */
+  @supports not ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
+    .glass-dark {
+      background: rgba(10, 46, 92, 0.92);
+    }
+    .glass-light {
+      background: rgba(255, 255, 255, 0.97);
+    }
+  }
+
+  /* Card hover lift */
+  .lift {
+    transition:
+      transform var(--duration-normal) var(--ease-out),
+      box-shadow var(--duration-normal) var(--ease-out),
+      border-color var(--duration-normal) var(--ease-out);
+  }
+  .lift:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-lift);
+  }
+
+  /* Animated underline for text links */
+  .link-underline {
+    background-image: linear-gradient(currentColor, currentColor);
+    background-size: 0% 1px;
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    transition: background-size var(--duration-normal) var(--ease-out);
+  }
+  .link-underline:hover {
+    background-size: 100% 1px;
+  }
+}
+
+/* ------------------------------------------------------------------
+   Motion. All decorative, so it is progressive enhancement:
+   browsers without support, and users preferring reduced motion,
+   simply see the content in place.
+   ------------------------------------------------------------------ */
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+}
+
+@keyframes reveal-in {
+  from {
+    opacity: 0;
+    transform: translateY(28px) scale(0.985);
+  }
+}
+
+@keyframes drift {
+  0%, 100% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+  50% {
+    transform: translate3d(3%, -4%, 0) scale(1.06);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  /* Staggered entrance for hero content on load */
+  .enter {
+    animation: fade-up 800ms var(--ease-out) both;
+  }
+  .enter-1 { animation-delay: 60ms; }
+  .enter-2 { animation-delay: 160ms; }
+  .enter-3 { animation-delay: 260ms; }
+  .enter-4 { animation-delay: 360ms; }
+  .enter-5 { animation-delay: 460ms; }
+
+  /* Slow ambient movement for background glows */
+  .drift {
+    animation: drift 18s ease-in-out infinite;
+  }
+  .drift-slow {
+    animation: drift 26s ease-in-out infinite reverse;
+  }
+
+  /* Reveal on scroll (Chrome, Edge, Safari 26+) */
+  @supports ((animation-timeline: view()) and (animation-range: entry)) {
+    .reveal {
+      animation: reveal-in linear both;
+      animation-timeline: view();
+      animation-range: entry 0% entry 55%;
+    }
+  }
+}

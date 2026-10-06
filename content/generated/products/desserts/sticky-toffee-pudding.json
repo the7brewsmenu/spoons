@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "title": "Wetherspoons Sticky Toffee Pudding Price and Calories 2026",
+    "description": "Wetherspoons sticky toffee pudding typically costs {price} with {calories} kcal. Explore its rich toffee sauce, serving options and allergen guidance."
+  },
+  "subtitle": "A moist, dark sponge with rich toffee sauce, suited to diners who enjoy a sweet, traditional British dessert.",
+  "quickAnswer": "Wetherspoons sticky toffee pudding typically costs {price}, contains {calories} kcal, and is described with vanilla ice cream or hot custard. The pudding combines a moist, dark sponge with rich, buttery toffee sauce. Prices vary by pub, so check the local menu for the current price and which accompaniment is offered.",
+  "components": [
+    {
+      "name": "Dark sponge pudding",
+      "note": "The moist, dark sponge gives the dessert a light texture while retaining the richness of a traditional pudding."
+    },
+    {
+      "name": "Toffee sauce",
+      "note": "A generous covering of sweet, buttery toffee sauce brings a deep, caramelised flavour to the sponge."
+    },
+    {
+      "name": "Vanilla ice cream",
+      "note": "Described as a serving option, a scoop of vanilla ice cream melts against the warm sponge and sauce."
+    },
+    {
+      "name": "Hot custard",
+      "note": "Thick, hot custard is the other described accompaniment, keeping the emphasis on a warm, comforting dessert."
+    }
+  ],
+  "taste": "This is a sweet, sauce-led pudding, with a moist, dark sponge beneath a generous covering of buttery toffee sauce. The sponge is described as light yet rich, so its appeal is not simply a heavy texture. Deep, caramelised flavour comes from the sauce, which gives the dessert its distinctive toffee character and makes sweetness central to each mouthful.\n\nWarm serving brings out the comforting character of this traditional British dessert. Vanilla ice cream is described as melting against the pudding, while thick, hot custard offers an alternative warm accompaniment. Check which option your pub offers before ordering. It suits an end to a hearty meal when you still want something rich and sweet.",
+  "value": "At a typical {price}, the pudding is {pricePosition} in the {category} section we track. Its value depends on how much you want a rich, sauce-heavy finish rather than a different style of dessert. Prices are set locally and vary by pub.\n\nCompare it with warm chocolate fudge cake if you are deciding between toffee and chocolate, or Bramley apple crumble if an apple dessert appeals more. Check the local menu for those prices and the pudding's accompaniment before choosing. A confirmed serving option is more useful than assuming extras are included.",
+  "nutrition": "The listed energy figure is {calories} kcal, equivalent to {calorieShare}; it is {caloriePosition} among the {category} items we track. Use that as a comparison point when deciding how this dessert fits alongside your main meal.\n\nAny extra sides, additional sauce or drinks need to be counted separately when considering the whole order. Check how the listed figure accounts for ice cream or custard before changing the accompaniment, rather than assuming every serving choice has the same total.",
+  "dietaryGuidance": "The pudding is tagged vegetarian in our data, and cereals containing gluten are the listed allergen. That makes the gluten information important for diners with coeliac disease or a gluten allergy. A vegetarian tag does not establish suitability for a vegan diet.\n\nThe allergen list here should not replace the pub's current information. Ask staff to check the pudding, sauce and chosen accompaniment together. Swapping ice cream for custard, or making another change, can alter the allergens in your order.",
+  "bestFor": [
+    {
+      "title": "Traditional pudding fans",
+      "text": "This suits diners looking for a familiar British dessert built around moist sponge and sweet toffee sauce, rather than choosing a chocolate or fruit-based option."
+    },
+    {
+      "title": "A chilly evening",
+      "text": "A warm pudding suits the end of a meal on a chilly evening. Ask which accompaniment is offered if you particularly want hot custard."
+    },
+    {
+      "title": "A sweet finish",
+      "text": "The rich, buttery sauce makes this a good fit for diners who actively want a sweet finish. Choose it for the toffee flavour, not a restrained dessert."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "lavazza-filter-coffee",
+      "reason": "Lavazza filter coffee is an option if you like finishing a pub meal with coffee alongside a traditional pudding, without adding another food order."
+    },
+    {
+      "slug": "lavazza-cappuccino",
+      "reason": "Choose Lavazza cappuccino if that is your preferred after-meal coffee; it lets you keep the food order focused on the sponge and toffee sauce."
+    }
+  ],
+  "tips": [
+    "Check whether your pub offers vanilla ice cream or hot custard with the pudding, and confirm your preferred accompaniment before placing the order.",
+    "Use the local menu or Wetherspoon app to check the current price, since the typical price is not a fixed charge across pubs.",
+    "Ask staff for current allergen information covering the sponge, toffee sauce and accompaniment, especially if you need to avoid cereals containing gluten.",
+    "Compare the listed energy figure with your whole order, and check whether a change of accompaniment affects the information shown."
+  ],
+  "faqs": [
+    {
+      "question": "How much is sticky toffee pudding at Wetherspoons?",
+      "answer": "Sticky toffee pudding has a typical price of {price} at Wetherspoons, but prices vary by pub. It is {pricePosition} among the [desserts](/desserts) we track. Check your chosen pub's menu or the Wetherspoon app for the current price and confirm which accompaniment is offered before ordering."
+    },
+    {
+      "question": "How many calories are in Wetherspoons sticky toffee pudding?",
+      "answer": "Wetherspoons sticky toffee pudding is listed at {calories} kcal, equivalent to {calorieShare}. It is {caloriePosition} among the [desserts](/desserts) we track. Drinks and any extra food add to the total for your order. Check the pub's current information if you change the accompaniment or request additional sauce."
+    },
+    {
+      "question": "Is Wetherspoons sticky toffee pudding vegetarian?",
+      "answer": "Wetherspoons sticky toffee pudding is tagged vegetarian in our data. That tag does not confirm vegan suitability or suitability for someone with a food allergy. Cereals containing gluten are listed as an allergen. Ask staff to check the current information for the pudding, sauce and whichever accompaniment you choose."
+    },
+    {
+      "question": "What comes with Wetherspoons sticky toffee pudding?",
+      "answer": "Wetherspoons sticky toffee pudding is described as a dark sponge with rich toffee sauce, best enjoyed warm with vanilla ice cream or thick, hot custard. The description does not confirm which option each pub offers. Check the local menu or ask staff before relying on a particular accompaniment being included."
+    },
+    {
+      "question": "Does Wetherspoons sticky toffee pudding contain gluten?",
+      "answer": "Cereals containing gluten are listed as an allergen for Wetherspoons sticky toffee pudding in our data. Diners with coeliac disease or a gluten allergy should check the pub's current allergen information before ordering. Ask about the complete serving, including the sauce and accompaniment, rather than relying on a change to one element."
+    },
+    {
+      "question": "Can I get Wetherspoons sticky toffee pudding as a meal deal?",
+      "answer": "A meal deal for Wetherspoons sticky toffee pudding is not confirmed in our data. Many mains can be ordered with an eligible drink, but that does not establish that this dessert is included. Check your pub's current menu for any applicable offer and its terms before placing an order."
+    }
+  ],
+  "slug": "sticky-toffee-pudding",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

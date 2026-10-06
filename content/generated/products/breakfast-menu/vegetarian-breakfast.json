@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "title": "Wetherspoons Vegetarian Breakfast Price and Calories 2026",
+    "description": "Wetherspoons vegetarian breakfast costs a typical {price} and has {calories} kcal. Get a meat-free plate with Quorn sausages, plus ingredients and allergy advice."
+  },
+  "subtitle": "A meat-free cooked breakfast with Quorn sausages, egg and hash browns, suited to vegetarians who want a full morning plate.",
+  "quickAnswer": "The Wetherspoons vegetarian breakfast costs a typical {price}, varies in price by pub, and contains {calories} kcal. It comes with a fried egg, two Quorn vegetarian sausages, baked beans, two hash browns, a roasted tomato, a flat mushroom and a slice of toast. Breakfast is typically served from eight in the morning until noon.",
+  "components": [
+    {
+      "name": "Fried egg",
+      "note": "A freshly fried egg with a golden yolk sits alongside the sausages, vegetables and toast."
+    },
+    {
+      "name": "Quorn vegetarian sausages",
+      "note": "Two Quorn vegetarian sausages provide the savoury flavour that pairs with the crunchy hash browns."
+    },
+    {
+      "name": "Baked beans",
+      "note": "A generous helping of baked beans accompanies the egg, sausages and other cooked breakfast elements."
+    },
+    {
+      "name": "Hash browns",
+      "note": "Two crispy hash browns bring a comforting crunch alongside the savoury Quorn vegetarian sausages."
+    },
+    {
+      "name": "Roasted tomato",
+      "note": "The juicy roasted tomato adds a different texture alongside the crisp hash browns and savoury sausages."
+    },
+    {
+      "name": "Flat mushroom",
+      "note": "An earthy flat mushroom adds another savoury element to the meat-free cooked breakfast plate."
+    },
+    {
+      "name": "Toast",
+      "note": "A slice of warm toast completes the plate alongside the egg, baked beans and cooked vegetables."
+    }
+  ],
+  "taste": "This breakfast combines savoury Quorn sausages, crisp hash browns and earthy mushroom, with a juicy roasted tomato providing contrast. The sausages and hash browns are the central flavour and texture pairing: savoury bites alongside a comforting crunch. A freshly fried egg with a golden yolk adds another familiar cooked-breakfast element, without meat taking the lead.\n\nBaked beans come in a generous helping, so they are a substantial part of the plate rather than a small accompaniment. Warm toast completes the selection, giving you something to eat alongside the egg and beans. Served piping hot, this is a varied breakfast with plenty of contrasting textures, rather than a single main ingredient with a few extras.",
+  "value": "The typical {price} buys a complete meat-free breakfast plate, making it worth considering if you want several cooked elements in one order. Within the [breakfast menu](/breakfast-menu), it is {pricePosition}. Prices are set by each pub, so check the local menu before deciding.\n\nFor vegetarians, useful comparisons include Beans on Toast, Mushroom Benedict and the Vegetarian Breakfast Wrap. Choose this plate when the combination of Quorn sausages, egg, hash browns and vegetables is what you want. If you need a vegan option instead, compare the separately listed Vegan Breakfast rather than assuming this dish can be adapted.",
+  "nutrition": "The Vegetarian Breakfast contains {calories} kcal, representing {calorieShare}. In the breakfast menu comparison, it is {caloriePosition}. Use those figures to judge how the listed plate fits into your day, rather than treating its vegetarian tag as a guide to calorie content.\n\nThe stated total is for the breakfast, not everything you might order alongside it. Added sides, sauces and drinks can change the overall total, so include those separately when comparing options. Check the current menu information if you request changes, as the listed figure may no longer describe your order.",
+  "dietaryGuidance": "The Vegetarian Breakfast is tagged vegetarian, and eggs are the allergen listed in our data. It includes a fried egg, so the vegetarian label should not be read as a vegan label. Diners avoiding egg should check the separately listed Vegan Breakfast and its current [allergen information](/allergen-information).\n\nOur recorded allergen list is not a complete assurance of suitability for every allergy. Ask the pub to check the current ingredients and preparation information before ordering if you have an allergy or intolerance. Swaps and additions can change allergens, including when replacing or removing an element of the plate.",
+  "bestFor": [
+    {
+      "title": "Vegetarian cooked breakfast",
+      "text": "This suits vegetarians who want a cooked breakfast built around Quorn sausages, egg and hash browns, with beans, tomato, mushroom and toast completing the plate."
+    },
+    {
+      "title": "A meat-free morning",
+      "text": "You do not need to follow a vegetarian diet to choose this breakfast. It suits anyone who wants the listed cooked-breakfast elements without meat."
+    },
+    {
+      "title": "Breakfast before noon",
+      "text": "Consider this for a morning pub meal when you want several components on one plate. Breakfast is typically served from eight in the morning until noon."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "lavazza-filter-coffee",
+      "reason": "Lavazza Filter Coffee is a straightforward accompaniment if you want coffee with your cooked breakfast. Check its separate price when comparing the total order."
+    },
+    {
+      "slug": "large-pepsi-max",
+      "reason": "Large Pepsi Max is an option if you prefer a soft drink alongside the savoury breakfast. Check local availability and do not assume it is included."
+    }
+  ],
+  "tips": [
+    "Check your chosen pub's breakfast service times before travelling, particularly near noon, when the typical breakfast serving window ends.",
+    "Compare the local price with Beans on Toast, Mushroom Benedict and the Vegetarian Breakfast Wrap before choosing which vegetarian breakfast suits you.",
+    "Ask about any component changes before ordering, and confirm the revised allergen information rather than assuming a swap keeps the same dietary suitability.",
+    "Check whether your chosen drink is charged separately before placing the order at the bar or through the Wetherspoon app."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the Vegetarian Breakfast at Wetherspoons?",
+      "answer": "The Wetherspoons Vegetarian Breakfast costs a typical {price}, but the price varies by pub. Each location sets its own prices, so check the menu for the pub you plan to visit. The listed plate includes the egg, Quorn sausages, beans, hash browns, tomato, mushroom and toast."
+    },
+    {
+      "question": "How many calories are in the Wetherspoons Vegetarian Breakfast?",
+      "answer": "The Wetherspoons Vegetarian Breakfast contains {calories} kcal, equivalent to {calorieShare}. That figure describes the listed breakfast rather than your entire order. Drinks, extra sides and sauces can change the total, while requested component swaps may mean the stated calorie figure no longer matches the plate you receive."
+    },
+    {
+      "question": "What comes with the Wetherspoons Vegetarian Breakfast?",
+      "answer": "The Wetherspoons Vegetarian Breakfast comes with a fried egg, two Quorn vegetarian sausages, baked beans, two crispy hash browns, a roasted tomato, a flat mushroom and a slice of warm toast. It is served piping hot. Ask the pub about any requested changes rather than assuming substitutions are available."
+    },
+    {
+      "question": "Is the Wetherspoons Vegetarian Breakfast vegan?",
+      "answer": "The Wetherspoons Vegetarian Breakfast is tagged vegetarian, not vegan, and includes a fried egg. A separate Vegan Breakfast is listed in the same menu section. If you need a vegan meal, check that option's current ingredients and [allergen information](/allergen-information) rather than assuming removing the egg makes this plate suitable."
+    },
+    {
+      "question": "What allergens are in the Wetherspoons Vegetarian Breakfast?",
+      "answer": "Eggs are the [allergen](/allergen-information) listed in our data for the Wetherspoons Vegetarian Breakfast. That recorded list should not be treated as a complete assurance for someone with an allergy or intolerance. Ask the pub to check current ingredients and preparation information, especially if you request swaps or additions."
+    },
+    {
+      "question": "What time is the Vegetarian Breakfast served at Wetherspoons?",
+      "answer": "The Wetherspoons Vegetarian Breakfast is typically served daily from eight in the morning until noon. Check the breakfast service times at your chosen pub before travelling, particularly if you plan to arrive close to noon. You can order at the bar or at your table through the Wetherspoon app."
+    },
+    {
+      "question": "Can I swap items in the Wetherspoons Vegetarian Breakfast?",
+      "answer": "Swaps for the Wetherspoons Vegetarian Breakfast are not confirmed in our information, so ask your chosen pub before ordering. Explain which component you want changed and check any effect on the price, calories and allergens. Removing the egg should not be taken as confirmation that the remaining plate is vegan."
+    },
+    {
+      "question": "Does the Wetherspoons Vegetarian Breakfast include a drink?",
+      "answer": "A drink-inclusive deal for the Wetherspoons Vegetarian Breakfast is not confirmed in our information. Although many Wetherspoons mains can be ordered with an eligible drink, that does not establish a breakfast deal. Check your chosen pub's current menu and confirm whether a drink is included or charged separately before ordering."
+    }
+  ],
+  "slug": "vegetarian-breakfast",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

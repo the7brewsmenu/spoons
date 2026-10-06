@@ -1,0 +1,27 @@
+{
+  "city": "plymouth",
+  "localNote": "Plymouth's four Wetherspoons span the city from the historic Barbican to suburban Plympton. The Union Rooms on Union Street is the most central, The Gog and Magog in the Barbican is close to the harbour and Mayflower Steps, The Britannia Inn in Milehouse has deep local roots, and The Stannary Court in Plympton occupies a Grade II listed building.",
+  "pubs": [
+    {
+      "name": "The Union Rooms",
+      "history": "Occupies a former car showroom on Union Street, the road laid out in the early nineteenth century to connect the three towns that eventually became Plymouth.",
+      "nearestStation": "Plymouth station, about 15 minutes on foot"
+    },
+    {
+      "name": "The Gog and Magog",
+      "history": "Named after two legendary giants whose images were reportedly cut into the turf near this site before the Royal Citadel fortress was built in the 1660s under Charles II. Located in the historic Barbican quarter near the harbour.",
+      "nearestStation": "Plymouth station, about 20 minutes on foot"
+    },
+    {
+      "name": "The Britannia Inn",
+      "history": "The original inn on this site dates to the 1830s and was built by ancestors of the Antarctic explorer Captain Robert Falcon Scott. It was also known as The Traveller's Rest for a period before returning to its original name.",
+      "nearestStation": "Plymouth station, about 10 minutes by bus"
+    },
+    {
+      "name": "The Stannary Court",
+      "history": "A Grade II listed building dating from 1840 to 1866. Plympton was an ancient stannary town, a centre for tin trading. The Stannary Court was historically held at Crocken Tor on Dartmoor, and Plympton sent twelve jurates to attend it from at least 1494.",
+      "nearestStation": "Plymouth station, about 15 minutes by bus",
+      "features": ["Listed building"]
+    }
+  ]
+}

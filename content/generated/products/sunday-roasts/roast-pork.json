@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "title": "Wetherspoons Roast Pork Price and Calories 2026",
+    "description": "Wetherspoons roast pork costs a typical {price} with {calories} kcal. See its crackling, roast accompaniments, allergens and Sunday availability before ordering."
+  },
+  "subtitle": "Tender slow-roasted pork with crispy crackling and traditional accompaniments, suited to diners wanting a hearty Sunday roast.",
+  "quickAnswer": "Wetherspoons roast pork costs a typical {price}, has {calories} kcal and comes with crackling, a Yorkshire pudding, roasted potatoes, seasonal vegetables and gravy. Tender slices of slow-roasted pork make this a hearty Sunday roast, with crisp accompaniments alongside the rich, savoury meat. It is available on Sundays only; check availability with your pub.",
+  "components": [
+    {
+      "name": "Roast pork",
+      "note": "Tender slices of slow-roasted pork form the centre of the plate, bringing a rich, savoury flavour."
+    },
+    {
+      "name": "Crackling",
+      "note": "Salty, crispy crackling adds a sharp crunch that contrasts with the tender slices of pork."
+    },
+    {
+      "name": "Yorkshire pudding",
+      "note": "A large, crisp Yorkshire pudding adds another contrasting texture alongside the meat and rich gravy."
+    },
+    {
+      "name": "Roasted potatoes",
+      "note": "Golden roasted potatoes provide a substantial accompaniment to the pork, rounding out the traditional roast plate."
+    },
+    {
+      "name": "Seasonal vegetables",
+      "note": "Fresh seasonal vegetables accompany the meat and potatoes, adding variety to this hearty Sunday roast."
+    },
+    {
+      "name": "Gravy",
+      "note": "A generous pour of rich gravy brings the meat and roast accompaniments together on the plate."
+    }
+  ],
+  "taste": "This roast centres on rich, savoury pork and the contrast between tender meat and crisp crackling. The slow-roasted slices have a melt-in-the-mouth texture, while the salty crackling gives each mouthful a sharper crunch. A generous pour of rich gravy brings the pork and its accompaniments together, making this a hearty plate rather than a lighter meal.\n\nThe large Yorkshire pudding adds another crisp element alongside the golden roasted potatoes. Fresh seasonal vegetables give the plate variety without taking the focus away from the meat. Served steaming hot, it suits someone who wants the familiar combination of roast pork, crackling and traditional Sunday accompaniments.",
+  "value": "The value lies in getting a complete roast plate for a typical {price}, rather than needing to choose separate accompaniments. Pork, crackling, Yorkshire pudding, roasted potatoes, seasonal vegetables and gravy are all included. It is {pricePosition} in our tracked {category} section.\n\nCompare it with Roast Beef or Roast Chicken Breast if your choice mainly comes down to the meat. Vegetarian Wellington and Vegan Wellington are alternatives for diners avoiding pork. Prices vary by pub, so check the local menu before deciding which roast offers the best value for you.",
+  "nutrition": "The listed Roast Pork contains {calories} kcal, representing {calorieShare}. It is {caloriePosition} in our tracked {category} section, which gives you a comparison point when choosing a roast.\n\nTreat that figure as the reference for the listed dish, not your whole order. Extra sides, additional sauces or gravy, and drinks can change the total. If you are tracking intake, check the information for each addition separately and ask the pub how any changes to the standard plate affect the listed figure.",
+  "dietaryGuidance": "Roast Pork is a meat dish and is not suitable for vegetarian or vegan diners. Our data lists cereals containing gluten, eggs and milk as allergens, so anyone avoiding these should check the pub's current [allergen information](/allergen-information) before ordering.\n\nNo dietary tags are recorded for this dish. Swapping or removing an accompaniment can change the allergen profile, but should not be assumed to make the meal suitable. Ask staff about the whole plate and any proposed changes. Vegetarian Wellington and Vegan Wellington are alternatives to consider.",
+  "bestFor": [
+    {
+      "title": "Traditional Sunday lunch",
+      "text": "This suits diners who want roast meat with the familiar accompaniments already included. The Sunday-only availability makes checking the pub's current offering worthwhile before setting out."
+    },
+    {
+      "title": "Crackling enthusiasts",
+      "text": "Choose this if the contrast between tender pork and salty, crispy crackling is what you enjoy most about a roast. Both are named elements of the plate."
+    },
+    {
+      "title": "A hearty meal",
+      "text": "The pork, large Yorkshire pudding, roasted potatoes, vegetables and gravy suit someone seeking a substantial main rather than a lighter plate. Consider that combination before adding extra sides."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "bramley-apple-crumble",
+      "reason": "Bramley Apple Crumble is an apple-based dessert option after the rich, savoury pork, if you want to follow your roast with a separate sweet course."
+    },
+    {
+      "slug": "lavazza-filter-coffee",
+      "reason": "Lavazza Filter Coffee suits an order where you want to finish the Sunday meal with a coffee rather than add a dessert."
+    },
+    {
+      "slug": "side-salad",
+      "reason": "A Side Salad is an option if you want another accompaniment without ordering more potatoes, since the roast already includes roasted potatoes."
+    }
+  ],
+  "tips": [
+    "Plan this order for a Sunday, as Roast Pork is listed for Sundays only. Check with your chosen pub before making a special trip.",
+    "Check the local menu for the current price before ordering. The typical {price} is a guide, and prices vary between pubs.",
+    "Review the included potatoes, Yorkshire pudding and vegetables before adding sides. The standard plate already brings together the main roast accompaniments.",
+    "Ask staff to check the current allergen information if you avoid gluten-containing cereals, eggs or milk, including any changes you request.",
+    "Order at the bar or through the Wetherspoon app at your table, checking the local listing for availability and any drink options."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the Roast Pork at Wetherspoons?",
+      "answer": "The Roast Pork at Wetherspoons costs a typical {price}, but prices vary by pub. The listed plate includes pork, crackling, a Yorkshire pudding, roasted potatoes, seasonal vegetables and gravy. Check your chosen pub's menu or the Wetherspoon app for the local price before ordering."
+    },
+    {
+      "question": "How many calories are in Wetherspoons Roast Pork?",
+      "answer": "Wetherspoons Roast Pork contains {calories} kcal in the listed dish, representing {calorieShare}. Additional sides, sauces and drinks can change the total for your order. Use the dish figure as a starting point, then check the information for anything else you add to the meal."
+    },
+    {
+      "question": "What comes with Wetherspoons Roast Pork?",
+      "answer": "Wetherspoons Roast Pork comes with salty, crispy crackling, a large Yorkshire pudding, golden roasted potatoes, fresh seasonal vegetables and a generous pour of rich gravy. The main element is tender slices of slow-roasted pork. Specific vegetables are not named in our data, so ask the pub if that affects your choice."
+    },
+    {
+      "question": "Is Wetherspoons Roast Pork available every day?",
+      "answer": "Wetherspoons Roast Pork is listed as available on Sundays only, rather than throughout the week. Check availability with your chosen pub before travelling specifically for it. The Sunday-only note does not give serving times, so ask the pub when it is taking roast orders."
+    },
+    {
+      "question": "Is Wetherspoons Roast Pork vegetarian or vegan?",
+      "answer": "Wetherspoons Roast Pork is neither vegetarian nor vegan because it contains pork. No dietary tags are recorded for the dish. Vegetarian Wellington and Vegan Wellington are listed in the same roast section as alternatives. Check their current ingredients and [allergen information](/allergen-information) at your pub if you have additional dietary requirements."
+    },
+    {
+      "question": "What allergens are in Wetherspoons Roast Pork?",
+      "answer": "Our data lists cereals containing gluten, eggs and milk as allergens in Wetherspoons Roast Pork. Anyone avoiding these should consult the pub's current [allergen information](/allergen-information) before ordering. Removing or swapping an accompaniment can change the allergen profile, but does not by itself establish that the whole meal is suitable."
+    },
+    {
+      "question": "Can I get Wetherspoons Roast Pork as a meal deal?",
+      "answer": "A drink-inclusive meal option for Roast Pork is not confirmed in our data. Many Wetherspoons mains can be ordered with an eligible soft or alcoholic drink, but you should check this dish's local listing before assuming it qualifies. Ask at the bar or review the options in the Wetherspoon app."
+    }
+  ],
+  "slug": "roast-pork",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

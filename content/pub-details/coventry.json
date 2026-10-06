@@ -1,0 +1,9 @@
+{
+  "city": "coventry",
+  "localNote": "The Flying Standard on Trinity Street and the Earl of Mercia on High Street are both in the compact city centre, a short stroll from the cathedral ruins and the Lady Godiva statue. Note that the Spon Gate at the SkyDome was reported closed in 2025, so check before heading there.",
+  "pubs": [
+    { "name": "The Flying Standard", "history": "Named after the Flying Standard cars built in Coventry from 1936 until the Second World War. The mock-Tudor building dates from 1938 to 1939 and once housed a Timothy Whites chemist." },
+    { "name": "The Earl of Mercia", "history": "Opened in 1896 as a London and Midland Bank branch. The name honours Leofric, Earl of Mercia, founder of St Mary's Priory and husband of Lady Godiva." },
+    { "name": "The Spon Gate", "status": "closed", "history": "Named after one of the gates in Coventry's medieval city walls, which stood on Spon Street until 1771. The pub occupied a former Chicago Rock Cafe in the SkyDome complex from 2010." }
+  ]
+}

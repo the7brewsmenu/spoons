@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "title": "Wetherspoons Skinny Chicken Burger Price and Calories 2026",
+    "description": "Wetherspoons skinny chicken burger costs a typical {price} and has {calories} kcal. Served with salad, not chips. Check ingredients and allergens before ordering."
+  },
+  "subtitle": "A grilled chicken breast burger with salad instead of chips, suited to diners wanting a lighter pub lunch.",
+  "quickAnswer": "The Wetherspoons Skinny Chicken Burger costs a typical {price}, contains {calories} kcal and comes with a side salad instead of chips. Grilled chicken breast, crisp lettuce and fresh tomato sit in a soft bun, with light vinaigrette dressing accompanying the salad. Prices vary by pub, so check your chosen location before ordering.",
+  "components": [
+    {
+      "name": "Grilled chicken breast",
+      "note": "The tender chicken breast provides the warm, savoury centre of the burger and its main source of protein."
+    },
+    {
+      "name": "Soft bun",
+      "note": "A soft bun holds the chicken, lettuce and tomato together, contrasting with the crisp vegetables inside."
+    },
+    {
+      "name": "Crisp lettuce",
+      "note": "The lettuce adds crunch within the bun, giving a crisp contrast to the tender chicken breast."
+    },
+    {
+      "name": "Fresh tomato",
+      "note": "Fresh tomato accompanies the lettuce in the bun, keeping the burger's filling focused on chicken and fresh vegetables."
+    },
+    {
+      "name": "Side salad",
+      "note": "Crisp greens replace the chips, making the side a fresh contrast to the warm chicken burger."
+    },
+    {
+      "name": "Light vinaigrette dressing",
+      "note": "The light vinaigrette brings a zesty flavour to the salad, contrasting with the savoury grilled chicken."
+    }
+  ],
+  "taste": "The Skinny Chicken Burger combines tender, savoury grilled chicken with crisp vegetables and a soft bun. Lettuce gives the filling some crunch, while fresh tomato keeps the combination light and fresh. The contrast is straightforward: warm chicken at the centre, softer bread around it and crisp lettuce between bites. This is a chicken burger with a salad accompaniment, rather than a bunless version.\n\nThe side salad is the main distinction on the plate. Crisp greens and a light vinaigrette offer a zesty contrast to the chicken, with salad taking the place of chips. That makes it a useful choice when you want the familiar burger format but prefer a fresh side.",
+  "value": "The Skinny Chicken Burger is worth considering if you want grilled chicken and would choose salad over chips. Its typical price is {price}, placing it at {pricePosition} in the {category} section we track. Prices vary by pub, so the local menu is the deciding reference.\n\nCompare it with the Grilled Chicken Breast Burger and Fried Buttermilk Chicken Burger before choosing, especially if the side matters more to you than the burger format. Many mains can be ordered with an eligible drink, but check whether this dish qualifies and compare the local meal price.",
+  "nutrition": "The Skinny Chicken Burger contains {calories} kcal, equivalent to {calorieShare}. It is {caloriePosition} in the {category} section we track. The chicken breast supplies protein, while the bun remains part of the meal despite the skinny name.\n\nSalad replaces chips in the described serving, but extra sides, sauces and drinks change the total you consume. Adding a bowl of chips means ordering beyond that serving. If you change the dressing or add a drink, check the relevant [nutrition information](/nutrition-information) rather than treating the listed figure as your complete order.",
+  "dietaryGuidance": "The Skinny Chicken Burger is not vegetarian or vegan because it contains chicken breast. No dietary tags are recorded for this dish, so do not read the skinny name as a dietary certification.\n\nOur data lists cereals containing gluten and sesame as allergens. Anyone avoiding either should check the pub's current [allergen information](/allergen-information) before ordering. These listed allergens are not a substitute for a full check against your own requirements. Swapping the bun, dressing or side can change the allergen profile, so discuss any proposed alteration with staff.",
+  "bestFor": [
+    {
+      "title": "A lighter lunch",
+      "text": "Choose this when you want a chicken burger for lunch but prefer crisp greens and vinaigrette to a side of chips. The bun remains part of the meal."
+    },
+    {
+      "title": "Salad over chips",
+      "text": "This suits diners whose main preference is the accompaniment: the described plate comes with salad, so you need not choose a chip-based serving to get a burger."
+    },
+    {
+      "title": "Grilled chicken fans",
+      "text": "The tender grilled breast makes this a sensible choice if you want chicken with lettuce and tomato, rather than choosing the Fried Buttermilk Chicken Burger."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "bowl-of-chips",
+      "reason": "A bowl of chips adds the side omitted from the described serving, useful if you want both salad and chips with your burger."
+    },
+    {
+      "slug": "mini-chocolate-brownie",
+      "reason": "The Mini Warm Chocolate Brownie gives you a chocolate dessert after the chicken and salad, if you want to finish with something sweet."
+    },
+    {
+      "slug": "lavazza-filter-coffee",
+      "reason": "Lavazza Filter Coffee is an option to follow the burger at lunch, especially if you would rather order coffee than a dessert."
+    }
+  ],
+  "tips": [
+    "Check the price at your chosen pub before ordering, since {price} is a typical guide price rather than a fixed charge across locations.",
+    "Choose this for its salad accompaniment, but remember that the skinny description does not mean the burger is served without a bun.",
+    "Ask whether the burger qualifies for a meal with an eligible drink, then compare that option with ordering your preferred drink separately.",
+    "Check current allergen information for gluten-containing cereals and sesame, and confirm any requested changes with staff before placing your order.",
+    "Use the Wetherspoon app or order at the bar, checking that your selection is the salad-served Skinny Chicken Burger."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the Skinny Chicken Burger at Wetherspoons?",
+      "answer": "The Skinny Chicken Burger at Wetherspoons costs a typical {price}, though prices vary by pub. It is {pricePosition} in the {category} section we track. Check the menu for your chosen location before ordering, and compare any eligible meal-with-drink option with the cost of ordering your drink separately."
+    },
+    {
+      "question": "How many calories are in the Wetherspoons Skinny Chicken Burger?",
+      "answer": "The Wetherspoons Skinny Chicken Burger contains {calories} kcal, equivalent to {calorieShare}. It is {caloriePosition} in the {category} section we track. Extra sides, sauces or drinks change the total for your order, so check their [nutrition](/nutrition-information) information separately if you are keeping track of your intake."
+    },
+    {
+      "question": "What comes with the Skinny Chicken Burger at Wetherspoons?",
+      "answer": "The Skinny Chicken Burger comes with a side salad instead of chips. The burger itself contains a grilled chicken breast, crisp lettuce and fresh tomato in a soft bun. Crisp greens and a light vinaigrette dressing make up the salad accompaniment, providing a zesty contrast to the warm chicken."
+    },
+    {
+      "question": "Is the Wetherspoons Skinny Chicken Burger served without a bun?",
+      "answer": "No, the Wetherspoons Skinny Chicken Burger is served in a soft bun. The skinny description refers to the salad accompaniment replacing chips, not to removing the bread. Inside the bun are grilled chicken breast, lettuce and tomato. If you want an alteration, ask the pub whether it can accommodate your request."
+    },
+    {
+      "question": "Is the Skinny Chicken Burger vegetarian or vegan?",
+      "answer": "No, the Skinny Chicken Burger is neither vegetarian nor vegan because it contains chicken breast. No dietary tags are recorded for it. The burger section also lists the Beyond Meat Plant-Based Burger and Fiesta Burger with vegan and vegetarian tags, but check current ingredients and [allergen information](/allergen-information) before choosing an alternative."
+    },
+    {
+      "question": "What allergens are in the Wetherspoons Skinny Chicken Burger?",
+      "answer": "Our data lists cereals containing gluten and sesame as allergens in the Wetherspoons Skinny Chicken Burger. Check the pub's current [allergen information](/allergen-information) against your specific requirements before ordering. Changes to the bun, dressing or side can alter the allergen profile, so a requested swap needs its own check with staff."
+    },
+    {
+      "question": "Can I get the Skinny Chicken Burger as a meal deal?",
+      "answer": "A meal-with-drink option may be available for the Skinny Chicken Burger, but you need to confirm eligibility at your chosen pub. Many Wetherspoons mains can be ordered with an eligible soft or alcoholic drink. Check the local menu for included drinks and pricing rather than assuming your preferred drink qualifies."
+    }
+  ],
+  "slug": "skinny-chicken-burger",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

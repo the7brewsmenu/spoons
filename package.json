@@ -1,0 +1,37 @@
+{
+  "name": "spoonsmenu",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit",
+    "content:validate": "tsx scripts/validate-content.ts",
+    "content:gen": "tsx scripts/generate-content.ts",
+    "prebuild": "npm run content:validate"
+  },
+  "dependencies": {
+    "@types/sharp": "^0.31.1",
+    "dotenv": "^18.0.5",
+    "next": "16.3.8",
+    "openai": "^7.28.0",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "schema-dts": "^2.1.0",
+    "sharp": "^0.35.5",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.3.8",
+    "tailwindcss": "^4",
+    "tsx": "^4.23.15",
+    "typescript": "^5"
+  }
+}

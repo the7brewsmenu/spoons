@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "title": "Wetherspoons Large Breakfast Price and Calories 2026",
+    "description": "Wetherspoons large breakfast costs a typical {price} and has {calories} kcal. Get the full plate breakdown, serving times and allergen guidance before ordering."
+  },
+  "subtitle": "A substantial cooked breakfast with eggs, bacon, Lincolnshire sausages and toast, suited to bigger appetites and weekend brunch.",
+  "quickAnswer": "The Wetherspoons Large Breakfast costs a typical {price}, varies by pub and contains {calories} kcal. It comes with two fried eggs, two bacon slices, two Lincolnshire sausages, baked beans, three hash browns, a flat mushroom, half a grilled tomato and two slices of toast with butter.",
+  "components": [
+    {
+      "name": "Fried eggs",
+      "note": "Two fried eggs contribute to the rich, savoury character of this substantial cooked breakfast."
+    },
+    {
+      "name": "Bacon",
+      "note": "Two slices of crispy bacon bring salty flavour and a crisp texture alongside the eggs and sausages."
+    },
+    {
+      "name": "Lincolnshire sausages",
+      "note": "Two Lincolnshire sausages form part of the substantial meat portion, alongside the two slices of bacon."
+    },
+    {
+      "name": "Baked beans",
+      "note": "Baked beans sit alongside the eggs, meat and hash browns as another classic breakfast component."
+    },
+    {
+      "name": "Hash browns",
+      "note": "Three crunchy hash browns add a distinct crisp texture to an already generously stocked breakfast plate."
+    },
+    {
+      "name": "Mushroom and tomato",
+      "note": "An earthy flat mushroom and half a grilled tomato accompany the richer eggs, bacon and sausages."
+    },
+    {
+      "name": "Toast with butter",
+      "note": "Two slices of toast with butter complete the plate, adding another crisp element and buttery richness."
+    }
+  ],
+  "taste": "The Large Breakfast is a rich, savoury plate with plenty of crisp texture from the bacon, hash browns and toast. Two fried eggs, two Lincolnshire sausages and two slices of bacon give it a substantial centre, while the three hash browns make crunch a prominent part of the meal. Buttered toast adds another layer of richness rather than making this a restrained breakfast.\n\nThe earthy flat mushroom brings a different flavour alongside the salty bacon. Baked beans and half a grilled tomato round out the familiar cooked breakfast combination. With several components to alternate between, this suits someone who wants variety as well as quantity on the same plate.",
+  "value": "The Large Breakfast is worth considering for a bigger appetite, with a typical price of {price} that varies by pub. Its price position is {pricePosition}. The clearest reason to choose it is the combination of two eggs, two bacon slices, two sausages and three hash browns, rather than price alone.\n\nCompare it with the Traditional Breakfast before ordering if you are unsure how much you want. Beans on Toast and the Breakfast Wrap are other options in the same section. Check their descriptions and local prices to decide which best fits your appetite and budget.",
+  "nutrition": "The Large Breakfast contains {calories} kcal, equivalent to {calorieShare}. Its calorie position is {caloriePosition}. That gives you a useful reference when deciding how this substantial breakfast fits into the rest of your day's food.\n\nUse the listed figure for the dish, not as a total for everything you order. Additional sides, sauces and drinks can change the overall calorie count, so check their nutrition separately. If you request changes to the plate, ask for guidance rather than assuming the published figure still applies.",
+  "dietaryGuidance": "The Large Breakfast is not suitable for vegetarian or vegan diets because it includes bacon and Lincolnshire sausages, as well as eggs and butter. No dietary tags are recorded for this dish in our data. The listed allergen is eggs, which are served as part of the breakfast.\n\nThat allergen entry should not be treated as a complete safety check. Anyone with an allergy or intolerance should consult the pub's current [allergen information](/allergen-information) before ordering. Removing ingredients or requesting swaps can change the allergen profile, but does not establish that the meal is safe for a particular allergy.",
+  "bestFor": [
+    {
+      "title": "Bigger morning appetites",
+      "text": "This suits diners who want a substantial cooked breakfast, with two eggs, two sausages and two bacon slices rather than choosing mainly for a lower price."
+    },
+    {
+      "title": "Weekend brunch",
+      "text": "The generous mix of cooked breakfast classics makes sense for a weekend brunch. Plan around the stated breakfast serving window and confirm local service times before travelling."
+    },
+    {
+      "title": "Classic breakfast variety",
+      "text": "Choose this if you like several flavours and textures on one plate, from salty bacon and crunchy hash browns to an earthy mushroom and buttered toast."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "lavazza-filter-coffee",
+      "reason": "Filter coffee is the suggested accompaniment in the dish description, making it a straightforward choice alongside this rich, savoury breakfast."
+    },
+    {
+      "slug": "lavazza-cappuccino",
+      "reason": "Lavazza Cappuccino is another coffee option to consider if you prefer it to filter coffee. Check its separate price and nutrition when ordering."
+    }
+  ],
+  "tips": [
+    "Plan to order between eight in the morning and noon, the stated breakfast window, and confirm service times with your chosen pub.",
+    "Check the local price before choosing, as each pub sets its own prices and the figure shown here is typical.",
+    "Compare the full plate with the Traditional Breakfast if you are unsure about portion size, rather than judging by the dish name alone.",
+    "Read the current allergen information before requesting swaps, since changing ingredients does not by itself make the breakfast suitable for an allergy.",
+    "Order at the bar or through the Wetherspoon app at your table, checking any requested changes with the pub before completing your order."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the Large Breakfast at Wetherspoons?",
+      "answer": "The Wetherspoons Large Breakfast costs a typical {price}, but the amount varies by pub. Each location sets its own prices, so check the menu at your chosen pub before ordering. Compare the local price with the Traditional Breakfast if you are deciding which cooked breakfast offers better value for your appetite."
+    },
+    {
+      "question": "How many calories are in the Wetherspoons Large Breakfast?",
+      "answer": "The Wetherspoons Large Breakfast contains {calories} kcal, equivalent to {calorieShare}. Its calorie position is {caloriePosition}. Drinks, extra sides and sauces can change the total for your order. Requested ingredient changes may also affect the figure, so use the published calories as a reference for the listed dish."
+    },
+    {
+      "question": "What comes with the Wetherspoons Large Breakfast?",
+      "answer": "The Wetherspoons Large Breakfast comes with two fried eggs, two slices of crispy bacon, two Lincolnshire sausages, baked beans, three crunchy hash browns, an earthy flat mushroom, half a grilled tomato and two slices of toast with butter. It is designed for bigger appetites, with several classic cooked breakfast components on the plate."
+    },
+    {
+      "question": "What time does Wetherspoons serve the Large Breakfast?",
+      "answer": "The stated serving time for the Wetherspoons Large Breakfast is eight in the morning to noon daily. Breakfast service is typically within that window, but confirm the arrangements at your chosen pub before making a special trip. You can order at the bar or at your table through the Wetherspoon app."
+    },
+    {
+      "question": "Is the Wetherspoons Large Breakfast vegetarian or vegan?",
+      "answer": "The Wetherspoons Large Breakfast is neither vegetarian nor vegan, as it contains bacon, Lincolnshire sausages, eggs and butter. The Vegetarian Breakfast and Vegan Breakfast are listed alternatives in the same menu section. Check their current descriptions and [allergen information](/allergen-information) rather than assuming that removing the meat makes the Large Breakfast suitable."
+    },
+    {
+      "question": "What allergens are in the Wetherspoons Large Breakfast?",
+      "answer": "Eggs are the allergen listed for the Wetherspoons Large Breakfast in our data. This is not a complete assurance about every ingredient or preparation detail. Consult the pub's current [allergen information](/allergen-information) if you have an allergy or intolerance, and discuss any substitutions before ordering because swaps can change the allergen profile."
+    },
+    {
+      "question": "Does the Wetherspoons Large Breakfast include coffee?",
+      "answer": "Coffee is suggested as an accompaniment to the Wetherspoons Large Breakfast, but the supplied dish description does not say it is included in the price. Filter coffee is the recommended pairing. Check the local menu for drink prices and any applicable breakfast offer rather than assuming your drink comes with the meal."
+    }
+  ],
+  "slug": "large-breakfast",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

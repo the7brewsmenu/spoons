@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "title": "Wetherspoons Classic 6oz Beef Burger Price and Calories 2026",
+    "description": "Wetherspoons classic six ounce beef burger comes with chips and fresh salad. Check typical {price} pricing, {calories} kcal and allergens before ordering."
+  },
+  "subtitle": "A traditional beef burger with fresh salad and chips, suited to diners who prefer straightforward pub food.",
+  "quickAnswer": "{name} costs a typical {price}, contains {calories} kcal and comes with chips, lettuce, tomato and red onion in a soft, lightly toasted bun. Prices vary by pub, so check your chosen location before ordering. The thick beef patty keeps the focus on savoury meat rather than elaborate toppings.",
+  "components": [
+    {
+      "name": "Beef patty",
+      "note": "The thick, juicy beef patty supplies the main savoury flavour and gives this classic burger its meaty centre."
+    },
+    {
+      "name": "Lightly toasted bun",
+      "note": "A soft, lightly toasted bun holds the beef and salad together, keeping the bread softer than the crisp lettuce."
+    },
+    {
+      "name": "Lettuce",
+      "note": "Fresh, crisp lettuce adds crunch alongside the juicy patty and helps balance the burger's savoury meat flavour."
+    },
+    {
+      "name": "Tomato",
+      "note": "A slice of ripe tomato adds a fresh element alongside the beef, lettuce and thinly sliced red onion."
+    },
+    {
+      "name": "Red onion",
+      "note": "Thinly sliced red onion forms part of the fresh salad filling, adding another texture alongside the lettuce and tomato."
+    },
+    {
+      "name": "Chips",
+      "note": "A generous portion of golden chips accompanies the burger, making the plate a traditional burger and chips meal."
+    }
+  ],
+  "taste": "This is a savoury, meat-led burger with a straightforward mix of soft bread, juicy beef and crisp salad. The thick patty is the centre of the meal, while the lightly toasted bun stays soft enough to contrast with the lettuce. A slice of ripe tomato and thinly sliced red onion complete the fresh filling without making the description about elaborate toppings.\n\nServed hot with a generous portion of golden chips, it suits someone who wants a familiar pub burger rather than a more involved combination. The appeal lies in the contrast between the meaty centre and fresh salad crunch. Expect an unfussy plate built around beef, bread and chips.",
+  "value": "{name} offers a straightforward burger and chips meal at a typical {price}, with prices varying by pub. It is {pricePosition} in the {category} section we track, giving you a useful starting point for comparison.\n\nCompare it with the American Cheese Burger or BBQ Bacon Burger if you are weighing up other named options. For a traditional beef burger with fresh salad, this is a clear choice. Many mains can be ordered with an eligible drink, but check whether this burger qualifies and compare the local meal price before deciding.",
+  "nutrition": "{name} contains {calories} kcal, equivalent to {calorieShare}. It is {caloriePosition} in the {category} section we track. Use those figures to judge how the listed meal fits your day, rather than treating a burger as a small snack.\n\nExtra sides, any sauces you add and drinks can change the total beyond the listed figure. Chips are already part of the described plate, so distinguish the included portion from additional sides when reviewing your order. Check the pub's current [nutrition information](/nutrition-information) if you request changes.",
+  "dietaryGuidance": "{name} contains beef and is not suitable for vegetarians or vegans. Our data lists cereals containing gluten and sesame as allergens; anyone avoiding either should [check the current allergen](/allergen-information) information with the pub before ordering.\n\nNo dietary tags are recorded for this dish. Removing an ingredient or requesting a swap can change the allergen profile, but does not establish that the meal is suitable for an allergy. The Beyond Meat Plant-Based Burger and Fiesta Burger have vegan and vegetarian tags in our data, though their allergens need checking separately.",
+  "bestFor": [
+    {
+      "title": "Traditional burger fans",
+      "text": "Choose this if you want the beef patty to remain the focus, with a soft bun, fresh salad and chips rather than a more elaborate burger description."
+    },
+    {
+      "title": "An unfussy pub meal",
+      "text": "The included chips make this a straightforward main meal for diners who want a familiar plate without needing to choose a separate side."
+    },
+    {
+      "title": "Comparing burger options",
+      "text": "Use this as a starting point when comparing the American Cheese Burger and BBQ Bacon Burger, especially if a traditional beef and salad combination is your preference."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "side-salad",
+      "reason": "A Side Salad makes sense if the fresh salad filling is part of the burger's appeal and you want an additional salad alongside."
+    },
+    {
+      "slug": "large-pepsi-max",
+      "reason": "Large Pepsi Max is a soft drink option to consider alongside the burger. Check whether it qualifies for a meal combination at your pub."
+    },
+    {
+      "slug": "mini-chocolate-brownie",
+      "reason": "Mini Warm Chocolate Brownie offers a chocolate dessert after the savoury burger and chips, if you want to finish with something sweet."
+    }
+  ],
+  "tips": [
+    "Check the price at your chosen pub before ordering, as {price} is a typical figure rather than a fixed price across locations.",
+    "Remember that chips are included in the described meal before adding a Bowl of Chips or another side to your order.",
+    "Ask whether this burger can be ordered with an eligible drink, then compare the local meal price with ordering the items separately.",
+    "Consult the pub's current allergen information for gluten-containing cereals and sesame, particularly if you plan to request an ingredient change."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the classic beef burger at Wetherspoons?",
+      "answer": "{name} costs a typical {price}, but prices are set by each pub and vary by location. The described meal includes the burger and chips, so bear that in mind when comparing options. Check your chosen pub's current menu or the Wetherspoon app for the local price before ordering."
+    },
+    {
+      "question": "How many calories are in the classic beef burger?",
+      "answer": "{name} contains {calories} kcal, equivalent to {calorieShare}. That is the listed figure for the dish, rather than a total for everything you might order alongside it. Additional sides, any sauces you add and drinks can change your meal total, while ingredient changes should be checked against current [nutrition](/nutrition-information) information."
+    },
+    {
+      "question": "What comes with the classic beef burger at Wetherspoons?",
+      "answer": "{name} comes with a generous portion of golden chips, plus lettuce, a slice of tomato and thinly sliced red onion inside a soft, lightly toasted bun. A thick, juicy beef patty forms the centre of the burger. The described plate is a straightforward burger and chips meal with fresh salad filling."
+    },
+    {
+      "question": "Is the classic beef burger vegetarian or vegan?",
+      "answer": "{name} is neither vegetarian nor vegan because it contains a beef patty. No dietary tags are recorded for this dish in our data. The Beyond Meat Plant-Based Burger and Fiesta Burger carry both vegan and vegetarian tags, while the Breaded Vegetable Burger carries a vegetarian tag. Check their current ingredients and allergens separately."
+    },
+    {
+      "question": "What allergens are in the classic beef burger?",
+      "answer": "{name} lists cereals containing gluten and sesame as allergens in our data. If you have an allergy or need to avoid either, consult the pub's current [allergen information](/allergen-information) before ordering. Ingredient removals or swaps can alter the allergen profile, but should not be assumed to make the meal suitable for you."
+    },
+    {
+      "question": "Can I get the classic beef burger with a drink deal?",
+      "answer": "You need to check with your chosen pub whether {name} qualifies for a meal with a drink. Many mains can be ordered with an eligible soft or alcoholic drink, but the supplied information does not confirm this burger's eligibility. Compare the local combined price and check which drinks are included before ordering."
+    },
+    {
+      "question": "How do I order the classic beef burger at Wetherspoons?",
+      "answer": "You can order {name} at the bar or at your table using the Wetherspoon app. Check the chosen pub's menu for the current price and whether the dish is available before placing your order. If you have an allergy or want an ingredient change, clarify the details with the pub first."
+    }
+  ],
+  "slug": "classic-6oz-beef-burger",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

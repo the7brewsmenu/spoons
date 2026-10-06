@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "title": "Wetherspoons Vegan Roasted Vegetable Pizza Price and Calories 2026",
+    "description": "Wetherspoons vegan roasted vegetable pizza has a crisp base and roasted peppers. Check typical {price} pricing, {calories} kcal and the milk allergen warning."
+  },
+  "subtitle": "A crisp, tomato-based pizza with roasted vegetables and a vegan-friendly cheese alternative, aimed at diners choosing plant-based toppings.",
+  "quickAnswer": "The Vegan Roasted Vegetable [Pizza](/pizza) typically costs {price}, contains {calories} kcal and comes topped with tomato sauce, a vegan-friendly cheese alternative, roasted peppers, courgettes and onions. Prices vary by pub. No separate side is named in the description, and our allergen data lists milk despite the vegan tag.",
+  "components": [
+    {
+      "name": "Crisp pizza base",
+      "note": "The crisp base gives the pizza its textural contrast against the tomato sauce, tender vegetables and melting cheese alternative."
+    },
+    {
+      "name": "Tomato sauce",
+      "note": "A rich tomato sauce forms the layer beneath the toppings, bringing tomato flavour to each bite."
+    },
+    {
+      "name": "Vegan-friendly cheese alternative",
+      "note": "The melting cheese alternative adds a creamy, savoury finish that complements the natural sweetness of the roasted vegetables."
+    },
+    {
+      "name": "Roasted peppers",
+      "note": "Sweet roasted peppers bring a distinct sweetness to the topping mix, alongside the courgettes and onions."
+    },
+    {
+      "name": "Courgettes",
+      "note": "Tender courgettes add a softer texture to the vegetable topping, contrasting with the crisp pizza base."
+    },
+    {
+      "name": "Onions",
+      "note": "Onions complete the vegetable topping mix, joining the roasted peppers and tender courgettes over the tomato sauce."
+    }
+  ],
+  "taste": "This pizza combines a crisp base with soft vegetable toppings and a creamy, savoury cheese alternative. Rich tomato sauce sits underneath the peppers, courgettes and onions, so the flavour is built around tomato and roasted vegetables rather than meat. Sweet roasted peppers provide the clearest sweet note, while the tender courgettes contrast with the texture of the base.\n\nServed fresh and hot, it is described as having a melting topping rather than a dry cheese substitute. The creamy finish complements the vegetables' natural sweetness, giving you a useful guide to the overall balance: crisp underneath, softer on top, with savoury and sweet flavours together.",
+  "value": "The typical price is {price}, with a tracked price position of {pricePosition}. That gives a useful starting point for comparison, but the price at your chosen pub is what matters when ordering.\n\nCompare it with the vegetarian Roasted Vegetable [Pizza](/pizza) if you are weighing up the vegetable options, or Margherita Pizza if you prefer a simpler choice. Many mains can be ordered with an eligible drink, so check whether this pizza qualifies locally and compare the meal option with ordering your preferred drink separately.",
+  "nutrition": "The pizza contains {calories} kcal, representing {calorieShare}. Its tracked calorie position is {caloriePosition}, which helps put it alongside the other pizzas rather than judging it by the vegan label alone.\n\nUse the pizza figure as the starting point for your order. Extra sides, additional sauces and drinks can change the total, so check their separate [nutrition information](/nutrition-information) before adding them. Choosing plant-based toppings does not, by itself, tell you how the full meal compares nutritionally.",
+  "dietaryGuidance": "Our data tags this pizza as vegan and vegetarian, but also lists cereals containing gluten and milk as allergens. That is an important conflict: a vegan-friendly cheese alternative does not resolve the milk warning in the supplied information.\n\nAnyone with a milk allergy, gluten-related condition or dairy intolerance should [check the current allergen](/allergen-information) information with the pub before ordering. Do not rely on the dish name or dietary tags alone. Requested swaps can change the allergen profile and need checking separately.",
+  "bestFor": [
+    {
+      "title": "Vegetable topping fans",
+      "text": "This is a good option if you want peppers, courgettes and onions on a crisp pizza base, with tomato sauce and a creamy, savoury finish."
+    },
+    {
+      "title": "Plant-based menu browsing",
+      "text": "The vegan and vegetarian tags make this worth considering when browsing plant-based options, but the conflicting milk allergen listing needs checking before you order."
+    },
+    {
+      "title": "Comparing vegetable pizzas",
+      "text": "Consider this alongside the vegetarian Roasted Vegetable Pizza when choosing between the named vegetable options. Check the current descriptions rather than assuming their toppings and allergens are identical."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "vegan-chocolate-tart",
+      "reason": "Vegan Chocolate Tart is a dessert option to consider after the pizza. Check its current dietary and allergen information separately before choosing it."
+    },
+    {
+      "slug": "side-salad",
+      "reason": "A Side Salad is worth considering if you want an extra side alongside the pizza. Confirm its ingredients and dietary suitability at your pub."
+    },
+    {
+      "slug": "large-pepsi-max",
+      "reason": "Large Pepsi Max is a soft-drink option to consider with your pizza. Check whether it is eligible if the pub offers a meal with a drink."
+    }
+  ],
+  "tips": [
+    "Check the milk allergen listing with the pub before ordering, even though the pizza is named vegan and uses a vegan-friendly cheese alternative.",
+    "Look for the full Vegan Roasted Vegetable Pizza name when ordering, since a separate vegetarian Roasted Vegetable Pizza also appears in the section.",
+    "Compare the typical {price} with the price shown at your chosen pub, as each location sets its own prices.",
+    "Ask whether an eligible drink can be included with this pizza, then compare that option with buying your preferred drink separately.",
+    "Check any requested topping swaps and added sides separately for allergens and nutrition rather than carrying over the pizza's listed information."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the vegan roasted vegetable pizza at Wetherspoons?",
+      "answer": "The Vegan Roasted Vegetable [Pizza](/pizza) typically costs {price}, but prices vary by pub. Its tracked price position is {pricePosition}. Check the price at your chosen location before ordering, and ask whether a meal option with an eligible drink is available for this pizza."
+    },
+    {
+      "question": "How many calories are in the Wetherspoons vegan roasted vegetable pizza?",
+      "answer": "The Vegan Roasted Vegetable Pizza contains {calories} kcal, representing {calorieShare}. Its tracked calorie position is {caloriePosition}. Added sides, sauces and drinks can change the total for your order, so check their [nutrition](/nutrition-information) information separately rather than treating the pizza figure as the whole meal."
+    },
+    {
+      "question": "What comes with the vegan roasted vegetable pizza?",
+      "answer": "The Vegan Roasted Vegetable [Pizza](/pizza) has a crisp base, rich tomato sauce, a melting vegan-friendly cheese alternative, roasted peppers, tender courgettes and onions. It is described as served fresh and hot. No separate side is named in the supplied description, so check with the pub before expecting one."
+    },
+    {
+      "question": "Is the Wetherspoons vegan roasted vegetable pizza vegan and vegetarian?",
+      "answer": "The Vegan Roasted Vegetable Pizza is tagged vegan and vegetarian in our data, but milk is also listed as an allergen. Its description names a vegan-friendly cheese alternative. Because those details conflict, confirm the current dietary and allergen information with the pub rather than relying on the vegan name alone."
+    },
+    {
+      "question": "Does the vegan roasted vegetable pizza contain milk or gluten?",
+      "answer": "Our allergen data for the Vegan Roasted Vegetable Pizza lists milk and cereals containing gluten. The milk listing conflicts with its vegan tag and the description of a vegan-friendly cheese alternative. If you have an allergy, intolerance or gluten-related condition, check the current information with the pub before ordering."
+    },
+    {
+      "question": "Can I get the vegan roasted vegetable pizza as a meal deal?",
+      "answer": "You need to check with your pub whether the Vegan Roasted Vegetable Pizza can be ordered as a meal with a drink. Many Wetherspoons mains have an eligible soft or alcoholic drink option, but the supplied information does not confirm this pizza's eligibility. Ask which drinks qualify and compare the local prices."
+    },
+    {
+      "question": "What does the vegan roasted vegetable pizza taste like?",
+      "answer": "The Vegan Roasted Vegetable Pizza combines sweet roasted vegetables with rich tomato sauce and a creamy, savoury cheese alternative. Its crisp base contrasts with tender courgettes and the melting topping. Peppers, courgettes and onions make up the vegetable mix, and the pizza is described as served fresh and hot."
+    }
+  ],
+  "slug": "vegan-roasted-vegetable-pizza",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

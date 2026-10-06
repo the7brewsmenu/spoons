@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "title": "Wetherspoons BBQ Bacon Burger Price and Calories 2026",
+    "description": "Wetherspoons BBQ Bacon Burger comes with chips and maple-cured bacon. Check typical {price} pricing, {calories} kcal and listed allergens before you order."
+  },
+  "subtitle": "A beef burger with cheddar, maple-cured bacon and smoky BBQ sauce, suited to diners who like sweet and savoury flavours.",
+  "quickAnswer": "The Wetherspoons BBQ Bacon Burger typically costs {price}, has {calories} kcal and comes with chips alongside a beef patty, cheddar, maple-cured bacon and BBQ sauce in a soft bun. Prices vary by pub, so check your chosen location before ordering. Its main appeal is the combination of smoky sauce, sweet bacon and contrasting textures.",
+  "components": [
+    {
+      "name": "Beef patty",
+      "note": "The juicy beef patty provides the savoury centre of the burger and a tender contrast to the crispy bacon."
+    },
+    {
+      "name": "Cheddar cheese",
+      "note": "Melting cheddar adds another savoury layer alongside the beef, bacon and smoky BBQ sauce."
+    },
+    {
+      "name": "Maple-cured bacon",
+      "note": "Crispy maple-cured bacon brings sweetness and crunch, contrasting with the soft bun and tender beef."
+    },
+    {
+      "name": "BBQ sauce",
+      "note": "The rich, smoky BBQ sauce gives the burger its barbecue character and ties together the sweet and savoury flavours."
+    },
+    {
+      "name": "Soft bun",
+      "note": "A soft bun surrounds the layered filling, providing a gentler texture against the crisp bacon."
+    },
+    {
+      "name": "Chips",
+      "note": "A hearty portion of golden chips accompanies the burger, making them part of the plate rather than an extra."
+    }
+  ],
+  "taste": "The BBQ Bacon Burger combines sweet maple-cured bacon, smoky BBQ sauce and savoury beef and cheddar. The sauce gives it a bold barbecue character, while the melting cheese adds another layer around the tender patty. This is a burger for someone who wants several flavours in the same bite, rather than beef taking the lead on its own.\n\nTexture is just as important here: crispy bacon breaks up the softness of the bun and the tenderness of the beef. Served hot with a hearty portion of golden chips, the plate has more to it than the burger alone. Choose it if that sweet, smoky combination appeals; consider another burger if BBQ sauce is not your preference.",
+  "value": "The BBQ Bacon Burger is worth considering if you want bacon, cheddar and BBQ sauce together, with chips already part of the plate. Its typical price is {price}, and it is {pricePosition} in our tracked {category} section. Prices vary by pub.\n\nCompare it with the American Cheese Burger and Double American Cheese Burger when deciding which combination you actually want. Many mains can be ordered with an eligible drink, so check whether this burger has a meal option at your chosen pub and compare that with ordering your drink separately.",
+  "nutrition": "The listed energy figure is {calories} kcal, equivalent to {calorieShare}. It is {caloriePosition} in our tracked {category} section, which gives you a useful comparison when choosing between burgers.\n\nChips are part of the described serving, so check what the displayed nutrition figure covers before making adjustments. Extra sides, additional sauce and a drink can change the total for your meal. If you request a swap or leave something off, do not assume the listed figure still describes your order.",
+  "dietaryGuidance": "The BBQ Bacon Burger is not suitable for vegetarian or vegan diners because it contains beef and bacon. No dietary tags are recorded for it in our data. The listed allergens are cereals containing gluten and sesame.\n\nAnyone avoiding either should check the pub’s current [allergen information](/allergen-information) before ordering. This list should not be treated as a complete assessment of every ingredient or preparation risk. Swaps can change the allergens in your meal, so discuss the exact order with staff rather than relying on the standard description.",
+  "bestFor": [
+    {
+      "title": "Sweet and smoky tastes",
+      "text": "Choose this if you enjoy maple-cured bacon and BBQ sauce together. The beef and cheddar provide a savoury counterpoint, rather than leaving sweetness as the only flavour."
+    },
+    {
+      "title": "Texture-led burger choices",
+      "text": "This suits diners who want contrast in their burger: crispy bacon against a soft bun, melting cheese and tender beef, with chips alongside."
+    },
+    {
+      "title": "An evening pub meal",
+      "text": "The hot burger and chips suit an evening meal when you want a main with its side already included. Check the kitchen’s serving times at your chosen pub."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "pint-doom-bar",
+      "reason": "Consider a pint of Doom Bar if you want the pint-and-burger combination suggested by the dish description. Check whether it qualifies for a meal option."
+    },
+    {
+      "slug": "side-salad",
+      "reason": "A side salad gives you a different accompaniment alongside the burger, rather than adding another portion of chips to a plate that already includes them."
+    },
+    {
+      "slug": "mini-chocolate-brownie",
+      "reason": "The Mini Warm Chocolate Brownie is an option if you want a dessert in a mini format after the burger and chips."
+    }
+  ],
+  "tips": [
+    "Check the price at your chosen pub before ordering, as the typical figure is a guide and prices vary by location.",
+    "Chips already accompany this burger, so only add a bowl of chips if you specifically want an extra portion for the table.",
+    "Ask whether this burger can be ordered with an eligible drink, then compare the meal option with buying the food and drink separately.",
+    "If gluten or sesame is a concern, check current allergen information with staff and explain any changes you want to make.",
+    "Order at the bar or through the Wetherspoon app, checking that you have selected the BBQ Bacon Burger rather than another beef burger."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the BBQ Bacon Burger at Wetherspoons?",
+      "answer": "The BBQ Bacon Burger typically costs {price}, but prices vary by pub. It is {pricePosition} in our tracked {category} section. Check the menu for your chosen location before ordering, and ask whether a meal option with an eligible drink offers better value for what you plan to buy."
+    },
+    {
+      "question": "How many calories are in the Wetherspoons BBQ Bacon Burger?",
+      "answer": "The listed energy figure for the BBQ Bacon Burger is {calories} kcal, equivalent to {calorieShare}. It is {caloriePosition} in our tracked {category} section. Check what the displayed figure covers, particularly if you change the serving, and account separately for any extra sides, sauces or drinks."
+    },
+    {
+      "question": "What comes with the BBQ Bacon Burger at Wetherspoons?",
+      "answer": "The BBQ Bacon Burger comes with chips and features a beef patty, melting cheddar, crispy maple-cured bacon and smoky BBQ sauce in a soft bun. The description specifies a hearty portion of golden chips alongside the hot burger. Additional sides or drinks are separate choices unless your selected meal option includes them."
+    },
+    {
+      "question": "Is the BBQ Bacon Burger vegetarian or vegan?",
+      "answer": "The BBQ Bacon Burger is neither vegetarian nor vegan because it contains beef and bacon. No dietary tags are recorded for it in our data. The Beyond Meat Plant-Based Burger and Fiesta Burger are listed with vegan and vegetarian tags, so compare those alternatives and check current details with the pub."
+    },
+    {
+      "question": "What allergens are listed for the BBQ Bacon Burger?",
+      "answer": "Cereals containing gluten and sesame are the allergens listed for the BBQ Bacon Burger in our data. This is not a substitute for the pub’s current [allergen information](/allergen-information) or a complete assessment of preparation risks. Ask staff about your specific requirements before ordering, especially if you request ingredient swaps."
+    },
+    {
+      "question": "Can I get the BBQ Bacon Burger as a meal deal?",
+      "answer": "A meal option may be available, but you should check whether the BBQ Bacon Burger qualifies at your chosen pub. Many mains can be ordered with an eligible soft or alcoholic drink. Confirm the drinks offered and the local price before deciding whether to order a meal option or buy separately."
+    },
+    {
+      "question": "What does the Wetherspoons BBQ Bacon Burger taste like?",
+      "answer": "The BBQ Bacon Burger has a sweet, smoky and savoury flavour, combining maple-cured bacon and BBQ sauce with beef and cheddar. Crispy bacon contrasts with the soft bun, melting cheese and tender patty. It suits diners who like barbecue-style flavours rather than a burger focused mainly on the taste of beef."
+    }
+  ],
+  "slug": "bbq-bacon-burger",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Wetherspoons Pepperoni Pizza Price and Calories 2026",
+    "description": "Wetherspoons pepperoni pizza has a thin, crispy base and costs a typical {price}, with {calories} kcal. Check toppings, allergens and practical ordering tips."
+  },
+  "subtitle": "A thin, crispy pizza with pepperoni, tomato sauce and mozzarella, suited to diners who enjoy rich, slightly spicy toppings.",
+  "quickAnswer": "The Wetherspoons Pepperoni [Pizza](/pizza) costs a typical {price}, contains {calories} kcal and comes with sliced pepperoni, tomato sauce and mozzarella on a thin, crispy base. Our description does not list a separate side. Prices vary by pub, so check your chosen location before ordering, including whether a drink can be added as a meal option.",
+  "components": [
+    {
+      "name": "Sliced pepperoni",
+      "note": "The generous pepperoni topping adds savoury flavour, slight spice and smoky oils, with edges that crisp during baking."
+    },
+    {
+      "name": "Tomato sauce",
+      "note": "Rich tomato sauce sits beneath the pepperoni and mozzarella, bringing tomato flavour to the meat and cheese topping."
+    },
+    {
+      "name": "Mozzarella",
+      "note": "A thick layer of melting mozzarella adds creamy richness and a softer texture against the crisp base and pepperoni edges."
+    },
+    {
+      "name": "Thin pizza base",
+      "note": "The thin, crispy base gives the rich topping a contrasting texture without a thick layer of dough beneath it."
+    }
+  ],
+  "taste": "The Pepperoni Pizza is rich and savoury, with a little spice rather than a topping described as intensely hot. Sliced pepperoni supplies the smoky flavour, while its crisp edges contrast with the thick layer of melting mozzarella. Rich tomato sauce sits underneath, bringing the meat and cheese together on a thin, crispy base.\n\nServed fresh and hot, it has a clear contrast between the creamy cheese and the crisper base and pepperoni. The oils released by the meat during baking add richness throughout the topping. This suits someone who enjoys a generous meat topping and a thin base, rather than looking for a pizza led by vegetables.",
+  "value": "The value of this [pizza](/pizza) depends on your pub's typical price and how much you want the pepperoni topping. At a typical {price}, it is {pricePosition} in our {category} comparison. Prices are set locally and vary by pub.\n\nCompare it with Margherita Pizza if you want a vegetarian option, or BBQ Chicken Pizza if you prefer chicken to pepperoni. Many Wetherspoons mains can be ordered with an eligible drink, but check whether this pizza qualifies at your chosen pub. Compare the combined typical cost with ordering the pizza and your preferred drink separately.",
+  "nutrition": "The Pepperoni Pizza contains {calories} kcal, representing {calorieShare}. It is {caloriePosition} in our {category} comparison, which helps put it alongside the other pizzas we track.\n\nThat figure covers the pizza rather than a complete order with extras. Sides, additional sauces and drinks can change the total, so check the information for each addition separately. If calories are part of your ordering decision, compare the whole meal you plan to have, not just the main dish.",
+  "dietaryGuidance": "The Pepperoni Pizza is not a vegetarian or vegan choice: it contains pepperoni and mozzarella. Our data records no dietary tags and lists cereals containing gluten and milk as allergens.\n\nAnyone avoiding gluten or milk should check the pub's current [allergen information](/allergen-information) before ordering. Ask about preparation and any proposed swaps, since changes can alter the allergen profile. Do not assume removing a topping makes the pizza suitable. Margherita Pizza and Roasted Vegetable Pizza are listed as vegetarian alternatives, but their allergens still need checking separately.",
+  "bestFor": [
+    {
+      "title": "Pepperoni fans",
+      "text": "Choose this if the pepperoni is the main attraction: the generous sliced topping brings savoury flavour, slight spice and crisp edges over melting mozzarella."
+    },
+    {
+      "title": "Thin base preferences",
+      "text": "This suits diners who want a thin, crispy base beneath a rich topping, with a contrast between the crust and the softer cheese."
+    },
+    {
+      "title": "Pizza with a beer",
+      "text": "The smoky pepperoni and creamy mozzarella suit a cold beer alongside. Check the drinks available at your pub and whether a meal option covers your choice."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "pint-stella-artois",
+      "reason": "A cold beer suits the rich pepperoni and creamy mozzarella. Check whether Stella Artois is available and eligible for any pizza meal option."
+    },
+    {
+      "slug": "bowl-of-chips",
+      "reason": "A bowl of chips adds a separate side if the pizza alone is not the order you want. Check the combined typical cost before adding it."
+    },
+    {
+      "slug": "mini-chocolate-brownie",
+      "reason": "Mini Warm Chocolate Brownie offers a chocolate dessert after the savoury pepperoni and cheese. Check its current description and allergens separately before ordering."
+    }
+  ],
+  "tips": [
+    "Check the typical price at your chosen pub before ordering, since prices vary by location rather than applying uniformly across Wetherspoons.",
+    "Ask whether this pizza can be ordered with an eligible drink, then compare that option with the combined typical cost of separate orders.",
+    "Do not assume chips or another side are included: our dish description lists the pizza only, so check before adding extras.",
+    "Consult the current allergen information if you avoid gluten or milk, and discuss any requested topping changes with the pub before ordering."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the Pepperoni Pizza at Wetherspoons?",
+      "answer": "The Wetherspoons Pepperoni [Pizza](/pizza) costs a typical {price}, though prices vary by pub. In our pizza comparison, it is {pricePosition}. Check the price at your chosen location before ordering, and ask whether an eligible drink can be included as a meal option rather than purchased separately."
+    },
+    {
+      "question": "How many calories are in the Wetherspoons Pepperoni Pizza?",
+      "answer": "The Wetherspoons Pepperoni Pizza contains {calories} kcal, representing {calorieShare}. It is {caloriePosition} among the pizza items we track. Any sides, extra sauces or drinks need to be considered separately, so check their [nutrition](/nutrition-information) information if you want to compare the total for your planned meal."
+    },
+    {
+      "question": "What comes with the Pepperoni Pizza at Wetherspoons?",
+      "answer": "The Wetherspoons Pepperoni [Pizza](/pizza) comes with sliced pepperoni, rich tomato sauce and a thick layer of melting mozzarella on a thin, crispy base. Our description does not list a separate side or drink as included. Check the options at your pub before assuming chips or a drink come with the order."
+    },
+    {
+      "question": "Is the Wetherspoons Pepperoni Pizza spicy?",
+      "answer": "The Wetherspoons Pepperoni Pizza is described as slightly spicy, with savoury sliced pepperoni rather than an intensely hot topping. Smoky oils from the meat add richness to the mozzarella and tomato sauce. If you are particularly sensitive to spice, ask the pub about the current dish before choosing it."
+    },
+    {
+      "question": "Is the Pepperoni Pizza at Wetherspoons vegetarian?",
+      "answer": "The Wetherspoons Pepperoni Pizza is not vegetarian because it contains pepperoni, and the mozzarella also makes it unsuitable for a vegan diet. No dietary tags are recorded for this dish. Margherita Pizza and Roasted Vegetable Pizza are listed as vegetarian alternatives, while Vegan Roasted Vegetable Pizza carries vegan and vegetarian tags."
+    },
+    {
+      "question": "What allergens are in the Wetherspoons Pepperoni Pizza?",
+      "answer": "Our data lists cereals containing gluten and milk as allergens in the Wetherspoons Pepperoni Pizza. Check the pub's current [allergen information](/allergen-information) before ordering if either is a concern. Requested swaps or topping removals can change the allergen profile, but should not be assumed to make the pizza suitable for your needs."
+    },
+    {
+      "question": "Can I get the Wetherspoons Pepperoni Pizza as a meal deal?",
+      "answer": "You need to check with your chosen pub whether the Pepperoni Pizza is available as a meal option with a drink. Many Wetherspoons mains can be ordered with an eligible soft or alcoholic drink, but that general option does not confirm this pizza's eligibility. Ask which drinks qualify and compare the typical combined cost."
+    }
+  ],
+  "slug": "pepperoni-pizza",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

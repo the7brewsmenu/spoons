@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "title": "Wetherspoons Glasgow: pubs, menu and local price guide",
+    "description": "Compare Wetherspoons Glasgow pubs by area, find national menu favourites and learn how to check local prices before choosing where to eat in the city."
+  },
+  "intro": "This guide covers {pubCount} open Wetherspoons pubs in Glasgow across {areaCount} areas, helping you choose a location and understand what to check before ordering. Every pub works from the national [Wetherspoons menu](/), but prices are set locally. Find The Counting House, The Crystal Palace and The Hengler's Circus, alongside guidance on national menu favourites, local pricing, breakfast and club days. SpoonsMenu is an independent guide, not affiliated with J D Wetherspoon plc, so check current details with your chosen pub.",
+  "quickAnswer": "This guide lists {pubCount} open Wetherspoons pubs in Glasgow across {areaCount} areas: The Counting House in George Square, The Crystal Palace in City Centre and The Hengler's Circus in Sauchiehall Street. Choose by the area that suits your visit, then check that pub's menu and prices rather than assuming every location charges the same.",
+  "areas": [
+    {
+      "area": "George Square",
+      "text": "The Counting House is the listed Wetherspoons for George Square, with its address on St Vincent Place. It suits visitors who want a pub in this area rather than choosing solely by menu, which is broadly shared nationally. Check its current prices before deciding what to order."
+    },
+    {
+      "area": "City Centre",
+      "text": "The Crystal Palace is the listed Wetherspoons in City Centre, with its address on Jamaica Street. Choose it if this area fits your plans. Its location is a useful starting point, but the national menu does not mean identical prices, so check the pub's own menu before ordering."
+    },
+    {
+      "area": "Sauchiehall Street",
+      "text": "The Hengler's Circus is the listed Wetherspoons in Sauchiehall Street, with its address on the same street. It suits anyone looking for a Wetherspoons specifically in this area. Start with the location, then confirm the dishes and prices you want rather than relying on another pub's menu."
+    }
+  ],
+  "pricing": "Wetherspoons menu prices in Glasgow are set pub by pub, even though the menu is broadly the same nationally. Any price shown in a guide should be treated as typical, not a promise of what your chosen pub will charge.\n\nCity centre pubs often charge more than suburban pubs, so a central location can affect the bill. That general pattern does not establish which of these listed pubs is cheapest, and you should not assume a dish costs the same at each one.\n\nFor the exact current price, check the menu for your selected pub or ask at the bar before ordering. If using the Wetherspoon app, select the intended pub before reviewing your order.",
+  "breakfastAndClubs": "Breakfast at Wetherspoons is typically served from eight in the morning until midday, while [Steak Club](/steak-club) traditionally falls on Tuesday and [Curry Club](/curry-club) on Thursday at participating pubs. These are general patterns, so confirm service times and participation with your chosen Glasgow pub.\n\nThe traditional breakfast is among the popular dishes on the national menu. For a club visit, check the current offer and local price before planning around it. [breakfast](/breakfast-menu) service times do not establish the pub's opening hours, and a club day should not be taken as a guarantee of participation.",
+  "tips": [
+    {
+      "title": "Choose your area first",
+      "text": "Start with George Square, City Centre or Sauchiehall Street, then choose the listed pub in that area. A broadly shared national menu makes location a useful first filter."
+    },
+    {
+      "title": "Check local prices",
+      "text": "Read the menu for the pub you intend to visit rather than using another location's prices. Each pub sets its own charges, so comparisons need current information."
+    },
+    {
+      "title": "Confirm breakfast service",
+      "text": "Check breakfast service with your selected pub before setting out. The typical window is eight in the morning until midday, but that is not a confirmed local timetable."
+    },
+    {
+      "title": "Check club participation",
+      "text": "Ask your chosen pub about Curry Club or Steak Club before planning a visit around either. The traditional days apply at participating pubs, not necessarily every location."
+    },
+    {
+      "title": "Select the right pub",
+      "text": "When ordering through the Wetherspoon app, select the pub you are visiting before reviewing the menu and order. Ordering at the bar is also an option."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How many Wetherspoons are in Glasgow?",
+      "answer": "This guide lists {pubCount} open Wetherspoons pubs in Glasgow across {areaCount} areas. They are The Counting House in George Square, The Crystal Palace in City Centre and The Hengler's Circus in Sauchiehall Street. The count refers to the open pubs covered by this guide, rather than a claim about every possible location."
+    },
+    {
+      "question": "Which Wetherspoons in Glasgow is in George Square?",
+      "answer": "The Counting House is the Wetherspoons listed in the George Square area of Glasgow, with its address on St Vincent Place. It is the relevant choice in this guide if you want that area. Check the pub's current menu and prices before ordering, as charges are set locally."
+    },
+    {
+      "question": "Which Wetherspoons in Glasgow is on Sauchiehall Street?",
+      "answer": "The Hengler's Circus is the listed Wetherspoons on Sauchiehall Street in Glasgow. Choose it if you are looking specifically for a pub in that area. The menu is broadly shared nationally, but prices are set by each pub, so confirm the current charges there before deciding on your order."
+    },
+    {
+      "question": "What time does breakfast start at Wetherspoons in Glasgow?",
+      "answer": "Wetherspoons breakfast typically starts at eight in the morning and runs until midday, but you should confirm the times with your chosen Glasgow pub. This is a general breakfast service window, not a statement of local opening hours. The traditional breakfast is among the popular dishes on the national menu."
+    },
+    {
+      "question": "Are prices higher at Wetherspoons in Glasgow?",
+      "answer": "Glasgow does not have one shared Wetherspoons price list, because each pub sets its own prices. City centre pubs often charge more than suburban pubs, but that does not prove every Glasgow pub is dearer. Check your selected pub's current menu for an exact price rather than relying on a typical guide figure."
+    },
+    {
+      "question": "What food is on the Wetherspoons menu in Glasgow?",
+      "answer": "Popular dishes on the national Wetherspoons menu include traditional breakfast, burgers, curries, fish and chips, and pizza. The menu is broadly the same nationally, making these useful starting points when choosing food in Glasgow. Check your selected pub's current menu for what you can order and the local prices."
+    },
+    {
+      "question": "What days are Curry Club and Steak Club in Glasgow?",
+      "answer": "Curry Club is traditionally on Thursday and Steak Club on Tuesday at participating Wetherspoons pubs. For a Glasgow visit, confirm that your chosen pub participates and check the current offer before making plans. The traditional schedule alone does not guarantee that either club will be offered at every listed location."
+    },
+    {
+      "question": "Can I order with the Wetherspoon app in Glasgow?",
+      "answer": "Customers can order at the table with the Wetherspoon app or order at the bar. For a visit to a listed Glasgow pub, select the correct location in the app before reviewing your order. Prices are set pub by pub, so use the menu for the location you are visiting."
+    }
+  ],
+  "slug": "glasgow",
+  "generatedAt": "2026-10-06",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

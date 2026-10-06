@@ -1,0 +1,9 @@
+{
+  "city": "belfast",
+  "localNote": "Only the Bridge House on Bedford Street is in Belfast city centre itself, a short walk from City Hall and Great Victoria Street station. The Central Bar is in Carrickfergus and the Spirit Merchant is in Newtownards, both towns within easy reach of Belfast and handy if you are exploring the wider area.",
+  "pubs": [
+    { "name": "The Bridge House", "nearestStation": "Great Victoria Street, about 10 minutes on foot" },
+    { "name": "The Central Bar", "address": "13-15 High Street, Carrickfergus" },
+    { "name": "The Spirit Merchant", "address": "54-56 Regent Street, Newtownards" }
+  ]
+}

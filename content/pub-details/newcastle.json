@@ -1,0 +1,23 @@
+{
+  "city": "newcastle",
+  "localNote": "Newcastle's three Wetherspoons are all within walking distance of Central Station. The Mile Castle is virtually next door, The Keel Row is inside The Gate leisure complex on Newgate Street, and The Quayside sits in converted riverside warehouses near the Millennium Bridge.",
+  "pubs": [
+    {
+      "name": "The Quayside",
+      "history": "Set in a collection of Grade II listed warehouse buildings formerly known as Dove's Warehouse, dating from the late sixteenth century. The structures originally stood at the water's edge until a pedestrian walkway was added in 1984.",
+      "nearestStation": "Newcastle Central station, about 15 minutes on foot",
+      "features": ["Listed building", "Outdoor seating"]
+    },
+    {
+      "name": "The Keel Row",
+      "history": "Named after the famous Tyneside folk song honouring the keelmen who transported coal on the River Tyne. Located in The Gate leisure complex, the pub originally stood opposite a model of a keelboat.",
+      "nearestStation": "Monument Metro station, about 5 minutes on foot"
+    },
+    {
+      "name": "The Mile Castle",
+      "history": "Occupies a Grade II listed building designed by J.E. Watson in 1862 for the Newcastle upon Tyne Savings Bank in a French Renaissance style. Named after the Roman forts built at one-mile intervals along Hadrian's Wall; one such fort lies nearby under the Newcastle Arts Centre.",
+      "nearestStation": "Newcastle Central station, about 1 minute on foot",
+      "features": ["Listed building"]
+    }
+  ]
+}

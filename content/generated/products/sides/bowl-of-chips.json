@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "title": "Wetherspoons Bowl of Chips Price and Calories 2026",
+    "description": "Wetherspoons bowl of chips costs a typical {price} and has {calories} kcal. Get thick-cut chips with fluffy centres, plus dietary advice before you order."
+  },
+  "subtitle": "Thick-cut pub chips with crisp edges and fluffy centres, suited to sharing over drinks or adding to a main.",
+  "quickAnswer": "The Wetherspoons bowl of chips costs a typical {price}, contains {calories} kcal and comes as a bowl of thick-cut chips, with no accompaniments listed. Prices vary by pub. Listed as vegan and vegetarian in our data, it suits a shared snack or an extra side alongside a main.",
+  "components": [
+    {
+      "name": "Crisp exterior",
+      "note": "The thick-cut chips have a golden-brown, crisp exterior that contrasts with the softness inside."
+    },
+    {
+      "name": "Fluffy centre",
+      "note": "A soft, fluffy potato centre gives each chip its comforting texture and rich, savoury flavour."
+    }
+  ],
+  "taste": "The bowl of chips offers the familiar contrast of a crisp, golden-brown exterior and a soft, fluffy middle. The thick cut makes that difference in texture central to the dish: there is more to each bite than just a crunchy edge. Its flavour is rich, savoury and distinctly potato-led, with no toppings or accompaniments named in the description.\n\nServed piping hot, this is a straightforward, comforting pub side rather than a dish built around several ingredients. The generous bowl is described as suitable for sharing over drinks, but it also works alongside a main. Burgers and steaks are the suggested matches, where the chips provide a substantial addition without introducing another topping or flavour combination.",
+  "value": "At a typical {price}, the bowl of chips is a straightforward choice if you want a generous side or something to share. Prices vary by pub, and its position in our tracked {category} section is {pricePosition}.\n\nCompare it with Bowl of Chips with Cheese if you want a topped version, rather than assuming the plain bowl includes cheese. Onion Rings and Garlic Pizza Bread offer different side options. For a main meal, check what is already included before ordering extra chips, so you are buying an addition you actually want.",
+  "nutrition": "The bowl contains {calories} kcal, equivalent to {calorieShare}. Its position among the items we track in the {category} section is {caloriePosition}. That figure covers the chips, not the rest of your order.\n\nAdding a main, another side, sauces or a drink changes the total, so consider the whole meal rather than the bowl alone. If sharing, your intake depends on how much you eat. Check the information for any extras separately rather than treating this figure as a total for a snack and drinks.",
+  "dietaryGuidance": "The bowl of chips is tagged vegan and vegetarian in our data. No allergens are listed in the supplied record, but an empty allergen list does not establish that the dish is suitable for someone with a food allergy.\n\nAnyone managing an allergy or intolerance should check the current information with the pub before ordering, including any preparation or cross-contact concerns. Swaps, toppings and sauces can change the allergen profile. Bowl of Chips with Cheese is a separate option and is listed as vegetarian, not vegan, in our data.",
+  "bestFor": [
+    {
+      "title": "Sharing over drinks",
+      "text": "The generous bowl suits a shared pub snack when you want something hot and savoury alongside drinks, without choosing a full main meal."
+    },
+    {
+      "title": "An extra side",
+      "text": "Order it alongside a burger or steak when you want more chips. Check the main's included sides first to avoid adding more than you need."
+    },
+    {
+      "title": "Keeping toppings simple",
+      "text": "This is the option for diners who want thick-cut chips without a listed topping. Its appeal is the crisp exterior, fluffy centre and savoury potato flavour."
+    },
+    {
+      "title": "Vegan side choices",
+      "text": "The vegan tag makes this a side to consider when choosing from the menu. Check current suitability with the pub if you have specific dietary requirements."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "pint-doom-bar",
+      "reason": "A pint of Doom Bar fits the suggested use of this generous bowl as a shared snack over drinks rather than a full meal."
+    },
+    {
+      "slug": "large-pepsi-max",
+      "reason": "Large Pepsi Max gives you a soft-drink option alongside the hot, savoury chips when you want a snack and drink."
+    },
+    {
+      "slug": "vegan-chocolate-tart",
+      "reason": "Vegan Chocolate Tart is an option to consider afterwards if you want dessert. Check its current dietary information separately from the chips."
+    }
+  ],
+  "tips": [
+    "Check the price at your chosen pub before ordering, as the listed {price} is typical and prices vary by location.",
+    "Look at your main's included sides before adding a bowl, especially if you are ordering it alongside a burger or steak.",
+    "Choose Bowl of Chips with Cheese separately if that is the version you want; the plain bowl has no topping listed.",
+    "Ask the pub for current allergen information if needed, and include any sauces or changes in that conversation rather than checking the chips alone.",
+    "Order at the bar or through the Wetherspoon app at your table, checking that you have selected the plain bowl rather than the cheese version."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the bowl of chips at Wetherspoons?",
+      "answer": "The bowl of chips at Wetherspoons costs a typical {price}, with prices varying by pub. Its price position in our tracked {category} section is {pricePosition}. Check the menu at your chosen pub before ordering, and compare the plain bowl with Bowl of Chips with Cheese if you are considering a topping."
+    },
+    {
+      "question": "How many calories are in the Wetherspoons bowl of chips?",
+      "answer": "The Wetherspoons bowl of chips contains {calories} kcal, equivalent to {calorieShare}. That figure applies to the bowl itself, not a main meal, sauces or drinks ordered alongside it. Its calorie position in our tracked {category} section is {caloriePosition}; any additions need to be considered separately."
+    },
+    {
+      "question": "Is the Wetherspoons bowl of chips vegan?",
+      "answer": "The Wetherspoons bowl of chips is listed as vegan and vegetarian in our data. Check the current information with the pub if you need confirmation for your dietary requirements. Toppings, sauces or swaps can change suitability, and the separate Bowl of Chips with Cheese is listed as vegetarian rather than vegan."
+    },
+    {
+      "question": "What comes with the bowl of chips at Wetherspoons?",
+      "answer": "The bowl of chips comes as a generous bowl of thick-cut pub chips, with no accompaniments named in the supplied description. They are described as golden-brown and crisp outside, soft and fluffy inside, and served piping hot. Cheese belongs to the separate Bowl of Chips with Cheese option."
+    },
+    {
+      "question": "What allergens are in the Wetherspoons bowl of chips?",
+      "answer": "No allergens are listed for the Wetherspoons bowl of chips in our supplied data, but that does not confirm suitability for someone with an allergy. Ask the pub for current [allergen information](/allergen-information) before ordering. Include any sauces, toppings or swaps in your check, and discuss preparation or cross-contact concerns where relevant."
+    },
+    {
+      "question": "Is the Wetherspoons bowl of chips big enough to share?",
+      "answer": "The Wetherspoons bowl of chips is described as generous and suitable for sharing as a snack over drinks. No portion weight or serving count is supplied, so it is not possible to say how many people it will feed. Consider it a shared snack or an extra side rather than a specified meal portion."
+    },
+    {
+      "question": "Can I get the bowl of chips as a Wetherspoons meal deal?",
+      "answer": "A meal deal for the standalone bowl of chips is not confirmed in the supplied information. Many Wetherspoons mains can be ordered with an eligible soft or alcoholic drink, but that does not establish the same offer for this side. Check the current menu at your chosen pub before assuming a drink is included."
+    }
+  ],
+  "slug": "bowl-of-chips",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

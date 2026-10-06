@@ -1,0 +1,21 @@
+{
+  "city": "leeds",
+  "localNote": "Leeds has three Wetherspoons pubs clustered around the city centre. The Hedley Verity on Woodhouse Lane is a short walk from the university quarter, The Cuthbert Brodrick faces Millennium Square near the First Direct Arena, and The Stick or Twist is in the Arena Quarter entertainment district. All three are within walking distance of Leeds station.",
+  "pubs": [
+    {
+      "name": "The Hedley Verity",
+      "history": "Housed in a former Methodist Sunday school. Named after Hedley Verity, the Leeds-born cricketer who took a record ten wickets for ten runs at Headingley in 1932. He played 40 Tests for England and died of wounds in Italy during the Second World War.",
+      "nearestStation": "Leeds station, about 12 minutes on foot"
+    },
+    {
+      "name": "The Cuthbert Brodrick",
+      "history": "Named after the Victorian architect Cuthbert Brodrick, who designed Leeds Town Hall and the Corn Exchange, two of the city's best-known landmarks.",
+      "nearestStation": "Leeds station, about 10 minutes on foot"
+    },
+    {
+      "name": "The Stick or Twist",
+      "history": "Located in the Arena Quarter, close to the First Direct Arena. The name comes from the card game pontoon, reflecting the pub's position in the entertainment district.",
+      "nearestStation": "Leeds station, about 8 minutes on foot"
+    }
+  ]
+}

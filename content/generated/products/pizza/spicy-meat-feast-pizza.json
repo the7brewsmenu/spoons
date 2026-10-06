@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "title": "Wetherspoons Spicy Meat Feast Pizza Price and Calories 2026",
+    "description": "Wetherspoons spicy meat feast pizza costs a typical {price} with {calories} kcal. Explore its crisp base, spicy toppings and allergen guidance before ordering."
+  },
+  "subtitle": "A thin, crisp pizza loaded with meat and roquito peppers, suited to a large appetite and a taste for heat.",
+  "quickAnswer": "The Spicy Meat Feast [Pizza](/pizza) costs a typical {price}, contains {calories} kcal and comes with tomato sauce, mozzarella, pepperoni, chicken breast, bacon, spicy sausage and roquito peppers on a thin, crisp base. Prices vary by pub. The description lists the pizza itself, rather than a separate side or drink.",
+  "components": [
+    {
+      "name": "Thin, crisp base",
+      "note": "The thin, crisp base provides a contrasting texture beneath the rich sauce, cheese and meat toppings."
+    },
+    {
+      "name": "Sauce and mozzarella",
+      "note": "Rich tomato sauce and mozzarella bring the toppings together, adding richness beneath the meat and peppers."
+    },
+    {
+      "name": "Sliced pepperoni",
+      "note": "Sliced pepperoni contributes to the intensely savoury meat topping alongside chicken, bacon and spicy sausage."
+    },
+    {
+      "name": "Chicken breast",
+      "note": "Tender chicken breast adds a softer texture against the crisp base and crispy bacon."
+    },
+    {
+      "name": "Crispy bacon",
+      "note": "Crispy bacon adds another crisp texture to a topping otherwise balanced by tender chicken and mozzarella."
+    },
+    {
+      "name": "Spicy sausage",
+      "note": "Spicy sausage adds heat as well as meat, reinforcing the pizza's bold, savoury flavour."
+    },
+    {
+      "name": "Roquito peppers",
+      "note": "Roquito peppers provide sharp, sweet heat that cuts through the richness of the meat toppings."
+    }
+  ],
+  "taste": "This is a rich, smoky and distinctly spicy pizza, with a thin, crisp base rather than a thick doughy centre. Tomato sauce and mozzarella sit beneath a substantial mix of pepperoni, chicken breast, bacon and spicy sausage. Tender chicken and crispy bacon give the topping contrasting textures, while the base adds a crisp bite beneath the richer ingredients.\n\nRoquito peppers bring sharp, sweet heat that cuts through the meats, rather than leaving savoury richness as the only impression. Spicy sausage adds to that heat, so this is a choice for someone who actively enjoys fiery flavours. Served fresh from the oven, it suits a large appetite.",
+  "value": "The value here lies in the range of meat toppings and bold flavour, at a typical {price}; prices vary by pub. Within the {category} section, it is {pricePosition}. Compare Pepperoni [Pizza](/pizza) if that is the meat topping you most want, or Chicken & Rib Meat Pizza if you would rather consider a different meat combination.\n\nChoose this option for its pepper-and-sausage heat, not simply because it has several toppings. Many mains can be ordered with an eligible drink, but check whether this pizza qualifies and compare the local options before ordering.",
+  "nutrition": "The pizza contains {calories} kcal, representing {calorieShare}. Within the {category} section, it is {caloriePosition}. That figure is a useful starting point when deciding whether to order the pizza on its own or add anything else.\n\nSides, extra sauces and drinks can increase the overall total, so check their separate [nutrition information](/nutrition-information) rather than treating the pizza figure as the whole meal. A dessert adds to the total too. Compare complete orders if calorie content is part of your decision.",
+  "dietaryGuidance": "This meat-topped pizza is not suitable for vegetarian or vegan diets, and no dietary tags are listed in our data. The recorded allergens are cereals containing gluten and milk. Anyone with coeliac disease, a gluten-related condition or a milk allergy should check the pub's current [allergen information](/allergen-information) before ordering.\n\nRemoving or swapping toppings can change the allergen profile, but should not be assumed to make the pizza suitable. Ask staff about the complete dish and preparation arrangements rather than relying on the topping list alone.",
+  "bestFor": [
+    {
+      "title": "Fans of heat",
+      "text": "Choose this if spicy sausage and fiery peppers are part of the appeal. The sharp, sweet roquito heat cuts through the rich meat topping."
+    },
+    {
+      "title": "A large appetite",
+      "text": "The loaded meat topping and rich sauce make this a sensible choice for someone seeking a substantial pizza. Decide on extra sides after considering the pizza itself."
+    },
+    {
+      "title": "Meat topping variety",
+      "text": "This suits diners who want pepperoni, chicken, bacon and sausage together rather than focusing on a single meat topping. Expect an intensely savoury, smoky flavour."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "side-salad",
+      "reason": "A side salad offers a different direction alongside the rich meat topping, rather than adding another bread-based side. Check the current ingredients and dressing."
+    },
+    {
+      "slug": "garlic-pizza-bread",
+      "reason": "Garlic Pizza Bread suits an order where you want more bread alongside the meat-heavy pizza. Consider your appetite before adding it to an already substantial choice."
+    },
+    {
+      "slug": "mini-chocolate-brownie",
+      "reason": "Mini Warm Chocolate Brownie offers a chocolate finish after the savoury, spicy pizza. Check its separate price and nutrition information before adding dessert."
+    }
+  ],
+  "tips": [
+    "Check the price at your chosen pub before ordering, as the listed {price} is typical rather than a fixed price across locations.",
+    "Ask whether this pizza qualifies for a meal with an eligible drink, then compare that option with ordering your preferred drink separately.",
+    "Choose it because you enjoy heat, not just meat toppings: both spicy sausage and roquito peppers contribute to its fiery flavour.",
+    "Consult current allergen information before requesting changes. Removing cheese or a topping should not be assumed to resolve a dietary concern.",
+    "Order at the bar or through the Wetherspoon app at your table, checking the local listing for availability and any options."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the Spicy Meat Feast Pizza at Wetherspoons?",
+      "answer": "The Spicy Meat Feast [Pizza](/pizza) costs a typical {price}, with prices set by each pub and varying by location. Within the pizza section, it is {pricePosition}. Check the menu at your chosen pub before ordering, and confirm separately whether an eligible drink can be included in a meal option."
+    },
+    {
+      "question": "How many calories are in the Wetherspoons Spicy Meat Feast Pizza?",
+      "answer": "The Spicy Meat Feast Pizza contains {calories} kcal, representing {calorieShare}. Within the pizza section, it is {caloriePosition}. This is the pizza figure, not a total for an order with added sides, sauces, drinks or dessert. Check the separate [nutrition](/nutrition-information) information for anything else you plan to order."
+    },
+    {
+      "question": "What comes on the Spicy Meat Feast Pizza at Wetherspoons?",
+      "answer": "The Spicy Meat Feast [Pizza](/pizza) has tomato sauce, mozzarella, sliced pepperoni, chicken breast, crispy bacon, spicy sausage and roquito peppers on a thin, crisp base. It is served fresh from the oven. The supplied description does not list a separate side or drink, so check those options with your pub."
+    },
+    {
+      "question": "Is the Wetherspoons Spicy Meat Feast Pizza very spicy?",
+      "answer": "The Spicy Meat Feast Pizza is described as fiery, with heat from spicy sausage and roquito peppers. The peppers add a sharp, sweet heat that cuts through the rich meats, alongside a savoury, smoky flavour. It suits someone who enjoys spicy food; no measured heat rating is provided in our data."
+    },
+    {
+      "question": "Is the Spicy Meat Feast Pizza vegetarian or vegan?",
+      "answer": "The Spicy Meat Feast Pizza is neither vegetarian nor vegan because it contains pepperoni, chicken, bacon and sausage, as well as mozzarella. No dietary tags are listed for it in our data. Margherita Pizza and Roasted Vegetable Pizza are listed as vegetarian alternatives, while Vegan Roasted Vegetable Pizza is tagged vegan and vegetarian."
+    },
+    {
+      "question": "What allergens are in the Spicy Meat Feast Pizza?",
+      "answer": "The allergens recorded for the Spicy Meat Feast Pizza are cereals containing gluten and milk. Check the pub's current [allergen information](/allergen-information) before ordering if either is a concern. Changes to toppings can alter allergens, but removing an ingredient should not be assumed to make the complete pizza suitable for your needs."
+    },
+    {
+      "question": "Can I get the Spicy Meat Feast Pizza as a meal deal?",
+      "answer": "You need to check with your chosen pub whether the Spicy Meat Feast Pizza qualifies for a meal with an eligible drink. Many Wetherspoons mains can be ordered this way, but our dish data does not confirm its eligibility. Compare the local meal option with ordering separately, as prices vary by pub."
+    }
+  ],
+  "slug": "spicy-meat-feast-pizza",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

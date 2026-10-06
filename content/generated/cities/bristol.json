@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "title": "Wetherspoons Bristol: Pub locations and menu guide",
+    "description": "Find Wetherspoons Bristol pubs in City Centre, Harbourside and Clifton. Compare locations, understand local pricing and check breakfast and club days."
+  },
+  "intro": "This guide covers {pubCount} open Wetherspoons pubs in Bristol across {areaCount} areas, helping you choose a location and plan what to order. Every pub works from the national [Wetherspoons menu](/), but prices are set locally. Find The Commercial Rooms in City Centre, The V-Shed in Harbourside and The W. G. Grace in Clifton. Alongside the pub list, we explain local pricing, typical breakfast hours and traditional club days so you can check the details that matter before visiting.",
+  "quickAnswer": "We list {pubCount} open Wetherspoons pubs in Bristol: The Commercial Rooms in City Centre, The V-Shed in Harbourside and The W. G. Grace in Clifton. These cover {areaCount} areas, so start with the location that suits your plans. The menu is broadly shared nationally, but each pub sets its own prices, making a local check worthwhile before ordering.",
+  "areas": [
+    {
+      "area": "City Centre",
+      "text": "The Commercial Rooms is the listed Wetherspoons pub in City Centre, on Corn Street. It suits visitors whose plans are already in this area and who want to choose a pub without changing locations. Check its current menu prices rather than assuming they match another Bristol branch."
+    },
+    {
+      "area": "Harbourside",
+      "text": "The V-Shed is the listed Wetherspoons pub in Harbourside, with an address at The Waterfront, Canons Road. Choose it if Harbourside is the most convenient area for your visit. The national menu provides a starting point for food choices, but confirm current dishes and prices with the pub."
+    },
+    {
+      "area": "Clifton",
+      "text": "The W. G. Grace is the listed Wetherspoons pub in Clifton, on Whiteladies Road. It suits anyone looking for a pub in this area rather than City Centre or Harbourside. Compare its current menu with your preferred order in mind, as prices are set by each pub."
+    }
+  ],
+  "pricing": "Wetherspoons menu prices in Bristol are set pub by pub, even though the food menu is broadly the same nationally. Popular national choices include [burgers](/burgers), curries, fish and chips and pizza, but confirm the current selection at your chosen branch.\n\nCity centre pubs often charge more than suburban pubs, so a central location can mean a higher bill. That general pattern does not establish which Bristol pub is cheapest, and any guide prices should be treated as typical rather than fixed.\n\nFor an exact price, check the chosen pub's current menu or ask at the bar before ordering. When comparing branches, compare the same dish rather than assuming every item differs equally.",
+  "breakfastAndClubs": "Breakfast at Wetherspoons is typically served from eight in the morning until noon, so that is the usual window to plan around in Bristol. The traditional breakfast is among the popular dishes on the national menu. Confirm the local serving times with your chosen pub, particularly if breakfast is the main reason for visiting.\n\n[Curry Club](/curry-club) is traditionally on Thursday and [Steak Club](/steak-club) on Tuesday at participating pubs. Check participation and current details with The Commercial Rooms, The V-Shed or The W. G. Grace before making plans around a club day.",
+  "tips": [
+    {
+      "title": "Choose your area first",
+      "text": "Start with City Centre, Harbourside or Clifton according to your plans. Each area has a listed pub, making location a useful first filter before comparing menus."
+    },
+    {
+      "title": "Check local prices",
+      "text": "Check the current menu at your chosen pub before deciding what to spend. A broadly shared national menu does not mean identical prices across Bristol branches."
+    },
+    {
+      "title": "Confirm breakfast service",
+      "text": "Confirm breakfast serving times with the pub if you are planning a morning visit. The typical window runs from eight in the morning until noon."
+    },
+    {
+      "title": "Ask about club days",
+      "text": "Ask your chosen branch about participation before planning around Curry Club or Steak Club. Thursday and Tuesday are the traditional days, not a promise of local availability."
+    },
+    {
+      "title": "Choose how to order",
+      "text": "Order at the bar or at your table using the Wetherspoon app. Check the current selection and price for your chosen pub before placing the order."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How many Wetherspoons are in Bristol?",
+      "answer": "We list {pubCount} open Wetherspoons pubs in Bristol across {areaCount} areas. The Commercial Rooms is in City Centre, The V-Shed is in Harbourside and The W. G. Grace is in Clifton. Use the area that best fits your plans as a starting point, then check that pub's current menu and prices."
+    },
+    {
+      "question": "Which Wetherspoons in Bristol is in the city centre?",
+      "answer": "The Commercial Rooms is the listed Wetherspoons pub in Bristol's City Centre, on Corn Street. It is the relevant choice if you want to stay in that area. Prices are set by the pub, so check its current menu rather than relying on prices seen at another branch."
+    },
+    {
+      "question": "Which Wetherspoons in Bristol is in Harbourside?",
+      "answer": "The V-Shed is the listed Wetherspoons pub in Bristol's Harbourside area, at The Waterfront, Canons Road. Choose it when that area suits your plans. The menu is broadly the same nationally, but local prices and the current selection should be checked with the pub before you order."
+    },
+    {
+      "question": "Which Wetherspoons in Bristol is in Clifton?",
+      "answer": "The W. G. Grace is the listed Wetherspoons pub in Clifton, on Whiteladies Road, Bristol. It is the branch to consider if Clifton is your preferred area. Check its current menu prices directly, as the shared national menu does not mean every pub charges the same amount."
+    },
+    {
+      "question": "What time does breakfast start at Wetherspoons in Bristol?",
+      "answer": "Breakfast at Wetherspoons typically starts at eight in the morning and runs until noon. For a Bristol visit, confirm the serving window with your chosen pub before making plans around those times. The traditional breakfast is a popular national menu choice, but check the current local menu before ordering."
+    },
+    {
+      "question": "Are prices higher at Wetherspoons in Bristol?",
+      "answer": "There is no single Wetherspoons price level across Bristol because each pub sets its own prices. City centre pubs often charge more than suburban pubs, but that general pattern does not prove which local branch is cheapest. Compare the same dish on current pub menus and treat guide prices as typical."
+    },
+    {
+      "question": "When are Curry Club and Steak Club at Wetherspoons in Bristol?",
+      "answer": "Curry Club is traditionally on Thursday and Steak Club on Tuesday at participating Wetherspoons pubs. For Bristol, check participation and current details with your chosen branch before planning a visit around either day. Use the traditional schedule as a starting point, then confirm the club you want with the pub."
+    }
+  ],
+  "slug": "bristol",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

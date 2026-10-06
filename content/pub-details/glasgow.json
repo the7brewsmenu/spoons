@@ -1,0 +1,23 @@
+{
+  "city": "glasgow",
+  "localNote": "Glasgow's three Wetherspoons pubs occupy some of the city's most impressive buildings. The Counting House on George Square is a grand former Bank of Scotland headquarters, The Crystal Palace on Jamaica Street has a striking Victorian cast-iron frame, and Hengler's Circus on Sauchiehall Street stands on the site of a beloved entertainment venue.",
+  "pubs": [
+    {
+      "name": "The Counting House",
+      "history": "A Category A listed building designed by J.T. Rochead between 1867 and 1870 in the Italian Renaissance style. It served as the Bank of Scotland's Glasgow headquarters for over a century. Wetherspoon's first pub in Scotland, opened in 1996. The original bank vaults are used as a seating area.",
+      "nearestStation": "Glasgow Queen Street station, about 3 minutes on foot",
+      "features": ["Listed building"]
+    },
+    {
+      "name": "The Crystal Palace",
+      "history": "Built in 1855 by architect John Baird, inspired by Joseph Paxton's Crystal Palace from the 1851 Great Exhibition. The cast-iron frame and over a hundred arched windows create a distinctive greenhouse effect. The building originally served as a furniture warehouse and retains a Victorian cast-iron lift.",
+      "nearestStation": "Glasgow Central station, about 5 minutes on foot",
+      "features": ["Listed building"]
+    },
+    {
+      "name": "Hengler's Circus",
+      "history": "Named after the circus that occupied the site from 1904 to 1924. Before that the building hosted a diorama, a panorama and an ice rink. Wetherspoon took over in 2001. The interior celebrates the site's long history as a popular entertainment venue.",
+      "nearestStation": "Buchanan Street subway station, about 5 minutes on foot"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "title": "Wetherspoons Freshly Battered Cod and Chips Price and Calories 2026",
+    "description": "Wetherspoons freshly battered cod and chips costs a typical {price}, with {calories} kcal and a choice of peas. Check the sides, allergens and pub pricing."
+  },
+  "subtitle": "A substantial battered cod fillet with thick-cut chips and a choice of peas, suited to a hearty pub meal.",
+  "quickAnswer": "Wetherspoons freshly battered cod and chips costs a typical {price}, contains {calories} kcal and comes with thick-cut chips plus mushy or garden peas. The responsibly sourced cod fillet has a light, crisp batter and moist, flaky flesh. Prices vary by pub, so check your chosen location before ordering.",
+  "components": [
+    {
+      "name": "Cod fillet",
+      "note": "The substantial, responsibly sourced cod fillet provides moist, tender white fish that flakes beneath the crisp coating."
+    },
+    {
+      "name": "Golden batter",
+      "note": "A light, crisp golden batter adds a salty crunch that contrasts with the delicate fish inside."
+    },
+    {
+      "name": "Thick-cut chips",
+      "note": "A generous helping of thick-cut chips makes this a substantial plate alongside the battered cod fillet."
+    },
+    {
+      "name": "Choice of peas",
+      "note": "Traditional mushy peas or sweet garden peas complete the plate, giving you a choice of accompaniment."
+    }
+  ],
+  "taste": "The main appeal is the contrast between crisp, salty batter and moist, flaky cod. A light golden coating gives the freshly fried fillet its crunch, while the thick white fish inside stays tender. This is a substantial serving rather than a small fish portion, with the delicate flavour of the cod set against the more assertive batter.\n\nA generous heap of thick-cut chips makes the plate feel hearty. You can choose traditional mushy peas or sweet garden peas, depending on which accompaniment you prefer. The combination suits someone looking for familiar British pub food, with texture coming chiefly from the crisp coating and the flakes of fish beneath it.",
+  "value": "This is a substantial fish meal at a typical {price}, with chips and a choice of peas included. Within the {category} section, it is {pricePosition}. Prices vary by pub, so that comparison is a guide rather than a promise of your local bill.\n\nCompare Small Battered Cod and Chips if you want the smaller option, or Whitby Breaded Scampi if you prefer a different fish dish. Fish Friday pricing applies on Fridays. Many mains also have eligible drink options, but check the local menu to see what applies to this order.",
+  "nutrition": "The listed serving contains {calories} kcal, equivalent to {calorieShare}. Among the {category} items we track, it is {caloriePosition}. That figure gives you a starting point for comparing this substantial plate with other meals.\n\nAdditional sides, sauces and drinks can increase the total, so count anything ordered beyond the listed serving separately. [Check the current nutrition](/nutrition-information) information for your chosen pea option and any changes to the meal rather than assuming every version has the same total.",
+  "dietaryGuidance": "This cod dish is not suitable for vegetarian or vegan diets because it contains fish. No dietary tags are recorded in our data. The listed allergens are cereals containing gluten, eggs and fish, so diners avoiding any of these should take particular care.\n\nAsk the pub to check its current [allergen information](/allergen-information) before ordering, especially if you have an allergy or coeliac disease. Swaps and additions can change the allergens in your meal; removing an accompaniment does not establish that the remaining plate is suitable.",
+  "bestFor": [
+    {
+      "title": "A hearty pub meal",
+      "text": "Choose this when you want a substantial main built around a large cod fillet, with a generous helping of thick-cut chips rather than a smaller fish portion."
+    },
+    {
+      "title": "Crisp batter fans",
+      "text": "The light golden batter is the main draw if you enjoy a salty crunch against tender fish. Consider Whitby Breaded Scampi instead if you prefer a breaded option."
+    },
+    {
+      "title": "A Friday fish meal",
+      "text": "Fish Friday pricing makes Friday worth checking if you are planning a fish meal. Confirm the typical price at your chosen pub before deciding where to eat."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "side-salad",
+      "reason": "A side salad adds another accompaniment if you want something beyond the chips and peas already included in this substantial meal."
+    },
+    {
+      "slug": "mini-chocolate-brownie",
+      "reason": "Mini Warm Chocolate Brownie offers a smaller dessert option if you want a chocolate finish after a generous fish main."
+    },
+    {
+      "slug": "lavazza-filter-coffee",
+      "reason": "Lavazza Filter Coffee is an option for finishing the meal with a drink rather than adding another course after the fish and chips."
+    }
+  ],
+  "tips": [
+    "Decide between mushy and garden peas when ordering; both are listed accompaniments, so make your preference clear at the bar or in the app.",
+    "Check Fish Friday pricing at your chosen pub on Fridays, rather than assuming the typical price shown here applies to that visit.",
+    "Compare Small Battered Cod and Chips before ordering if the substantial cod fillet and generous chips sound more than you want.",
+    "Ask which eligible drink options apply to this main before adding a separate drink, as meal options and prices need checking locally.",
+    "Check current allergen information with the pub before requesting swaps, particularly if you need to avoid gluten, eggs or fish."
+  ],
+  "faqs": [
+    {
+      "question": "How much is freshly battered cod and chips at Wetherspoons?",
+      "answer": "Freshly battered cod and chips costs a typical {price} at Wetherspoons, but prices vary by pub. The meal includes thick-cut chips and a choice of mushy or garden peas. Fish Friday pricing applies on Fridays, so check the menu at your chosen location for the price on the day."
+    },
+    {
+      "question": "How many calories are in Wetherspoons freshly battered cod and chips?",
+      "answer": "Wetherspoons freshly battered cod and chips contains {calories} kcal in the listed serving, equivalent to {calorieShare}. Additional sides, sauces and drinks can increase your meal total. Check the current [nutrition](/nutrition-information) information for your chosen accompaniments and any changes, rather than treating the listed figure as covering every possible order."
+    },
+    {
+      "question": "What comes with freshly battered cod and chips at Wetherspoons?",
+      "answer": "Freshly battered cod and chips comes with a generous helping of thick-cut chips and your choice of traditional mushy peas or sweet garden peas. The main is a substantial, responsibly sourced cod fillet with light, crisp golden batter and moist, flaky white fish inside."
+    },
+    {
+      "question": "Is Wetherspoons freshly battered cod and chips vegetarian?",
+      "answer": "Wetherspoons freshly battered cod and chips is not vegetarian or vegan because it contains cod. Our data records no dietary tags for this dish and lists cereals containing gluten, eggs and fish as allergens. If you have dietary restrictions, check the pub's current information before choosing an alternative."
+    },
+    {
+      "question": "What allergens are in Wetherspoons freshly battered cod and chips?",
+      "answer": "The allergens listed in our data for Wetherspoons freshly battered cod and chips are cereals containing gluten, eggs and fish. Anyone avoiding these should check the pub's current [allergen information](/allergen-information) before ordering. Swaps or additions can change the meal's allergens, and removing a component does not establish suitability."
+    },
+    {
+      "question": "Can I get freshly battered cod and chips as a meal deal?",
+      "answer": "A meal option with an eligible drink may be available for freshly battered cod and chips, but you should confirm this on the local menu. Many Wetherspoons mains can be ordered with an eligible soft or alcoholic drink. Check which drinks qualify and the typical local price before ordering."
+    },
+    {
+      "question": "Is there a smaller cod and chips at Wetherspoons?",
+      "answer": "Small Battered Cod and Chips is listed in the same [fish dishes](/fish-dishes) section at Wetherspoons. It is worth comparing if you do not want the substantial fillet and generous chips described for the full-sized dish. Check the smaller option's current accompaniments, nutrition information and typical price at your chosen pub."
+    }
+  ],
+  "slug": "battered-cod-chips",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

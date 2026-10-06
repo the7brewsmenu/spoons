@@ -1,0 +1,23 @@
+{
+  "city": "bristol",
+  "localNote": "Bristol's three Wetherspoons offer very different settings. The Commercial Rooms on Corn Street is a grand Grade II listed merchants' club from 1810, V-Shed sits in a converted dockside transit shed at the Harbourside, and The W. G. Grace on Whiteladies Road in Clifton is a short walk from Clifton Down station.",
+  "pubs": [
+    {
+      "name": "The Commercial Rooms",
+      "history": "Built in 1810 as a meeting point for Bristol's traders, designed by Charles Busby. Its first president was John Loudon McAdam, inventor of tarmac. The building's weather vane once signalled to merchants whether ships could safely navigate the Avon Gorge. It also housed Bristol's first telegraph office in 1852.",
+      "nearestStation": "Bristol Temple Meads station, about 15 minutes on foot",
+      "features": ["Listed building"]
+    },
+    {
+      "name": "The V-Shed",
+      "history": "Occupies a former transit shed at the City Docks dating from around 1900. The sheds were identified by individual letters and this one was designated V-Shed. The Harbourside area around it has been redeveloped into a leisure district.",
+      "nearestStation": "Bristol Temple Meads station, about 15 minutes on foot",
+      "features": ["Outdoor seating"]
+    },
+    {
+      "name": "The W. G. Grace",
+      "history": "Named after the legendary cricketer Dr W. G. Grace, born in Downend near Bristol in 1848. The pub on Whiteladies Road is close to the Clifton College cricket ground where Grace played his first serious representative match at the age of fifteen.",
+      "nearestStation": "Clifton Down station, about 3 minutes on foot"
+    }
+  ]
+}

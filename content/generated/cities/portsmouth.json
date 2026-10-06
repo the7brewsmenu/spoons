@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "title": "Wetherspoons Portsmouth: pubs, menu and prices guide",
+    "description": "Wetherspoons Portsmouth guide covering pubs in Guildhall Walk, Port Solent and Fratton. Compare menu choices and check pricing before you choose."
+  },
+  "intro": "This guide covers {pubCount} open Wetherspoons pubs in Portsmouth across {areaCount} areas: Guildhall Walk, Port Solent and Fratton. Every pub works from the national [Wetherspoons menu](/), but prices are set locally. This guide helps you choose a pub, understand how local pricing works and plan around breakfast or club days. The national menu includes traditional breakfast, burgers, curries, fish and chips and pizza, but check your chosen pub for current dishes and typical prices before ordering.",
+  "quickAnswer": "There are {pubCount} open Wetherspoons pubs listed in Portsmouth: The Isambard Kingdom Brunel in Guildhall Walk, The Sir Alec Rose in Port Solent and The John Jacques in Fratton. Those locations cover {areaCount} areas. Choose the area that suits your plans, then check the pub’s current menu and typical prices rather than assuming every branch charges the same.",
+  "areas": [
+    {
+      "area": "Guildhall Walk",
+      "text": "The Isambard Kingdom Brunel is the listed Wetherspoons in Guildhall Walk. It suits anyone whose plans are already in this area and who wants to compare familiar national menu choices. Check its current typical prices before ordering, particularly if you are comparing it with another Portsmouth pub."
+    },
+    {
+      "area": "Port Solent",
+      "text": "The Sir Alec Rose is the listed Wetherspoons in Port Solent. It is a practical choice if this area fits your visit, without needing to choose a pub elsewhere in Portsmouth. Use the broadly shared national menu as a starting point, then confirm dishes and typical prices with the pub."
+    },
+    {
+      "area": "Fratton",
+      "text": "The John Jacques is the listed Wetherspoons in Fratton. It suits visitors looking specifically for a pub in this area rather than Guildhall Walk or Port Solent. For a meal, compare the current menu and typical prices with your other options instead of assuming the location means a cheaper bill."
+    }
+  ],
+  "pricing": "Wetherspoons menu prices in Portsmouth are set pub by pub, even though the menu is broadly the same nationally. Any prices used for comparison should be treated as typical, not fixed across all locations.\n\nLocation matters when comparing costs: city centre pubs often charge more than suburban pubs. That general pattern does not establish which Portsmouth branch is cheapest, and the supplied information does not explain the reasons for individual price differences.\n\nFor an exact current price, check the menu at your chosen pub or ask at the bar before ordering. If using the Wetherspoon app, select the intended pub and check the amount shown before submitting your order. Compare the same dish across branches for a useful comparison.",
+  "breakfastAndClubs": "Breakfast at Wetherspoons is typically served from eight in the morning until noon, but Portsmouth visitors should confirm the schedule with their chosen pub. These are typical [breakfast](/breakfast-menu) service times, not a statement of each branch’s opening hours. Traditional breakfast is among the popular dishes on the national menu.\n\n[Curry Club](/curry-club) is traditionally on Thursday and [Steak Club](/steak-club) on Tuesday at participating pubs. Check participation, current dishes and typical prices before planning a visit around either club. For a straightforward choice outside those plans, the national menu also includes burgers, curries, fish and chips and pizza.",
+  "tips": [
+    {
+      "title": "Choose your area first",
+      "text": "Start with Guildhall Walk, Port Solent or Fratton according to your plans. Once you have chosen an area, check the listed pub’s menu rather than assuming every branch is identical."
+    },
+    {
+      "title": "Compare the same dish",
+      "text": "Use the same menu item when comparing typical prices between pubs. A broadly shared national menu does not mean a burger or breakfast costs the same at each location."
+    },
+    {
+      "title": "Confirm breakfast service",
+      "text": "Check breakfast service with your chosen pub before making a special visit. The typical window is eight in the morning until noon, but confirm locally."
+    },
+    {
+      "title": "Check club participation",
+      "text": "Confirm that your chosen pub participates before planning around Curry Club or Steak Club. Thursday and Tuesday are the traditional days, but local details need checking."
+    },
+    {
+      "title": "Check your app selection",
+      "text": "Select the intended pub when ordering at the table through the Wetherspoon app. Alternatively, order at the bar and ask about current dishes and typical prices before paying."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How many Wetherspoons are in Portsmouth?",
+      "answer": "There are {pubCount} open Wetherspoons pubs listed in Portsmouth across {areaCount} areas. The Isambard Kingdom Brunel is in Guildhall Walk, The Sir Alec Rose is in Port Solent and The John Jacques is in Fratton. Choose by location, then check the current menu and typical prices at that pub."
+    },
+    {
+      "question": "Which Wetherspoons in Portsmouth is in Guildhall Walk?",
+      "answer": "The Isambard Kingdom Brunel is the listed Wetherspoons in Guildhall Walk, Portsmouth. It is the relevant option if you want a pub in that area. The menu is broadly shared nationally, but each pub sets its own prices, so confirm current dishes and typical costs before ordering."
+    },
+    {
+      "question": "Which Wetherspoons in Portsmouth is in Port Solent?",
+      "answer": "The Sir Alec Rose is the listed Wetherspoons in Port Solent, Portsmouth. Choose it if Port Solent suits your plans rather than assuming you need to visit Guildhall Walk or Fratton. Check the pub’s current menu and typical prices, as the national menu does not imply identical pricing."
+    },
+    {
+      "question": "Which Wetherspoons in Portsmouth is in Fratton?",
+      "answer": "The John Jacques is the listed Wetherspoons in Fratton, Portsmouth. It is the option to consider when you specifically want that area. Popular national menu choices include burgers, curries, fish and chips and pizza, but confirm current dishes and typical prices with the pub before deciding what to order."
+    },
+    {
+      "question": "What time does breakfast start at Wetherspoons in Portsmouth?",
+      "answer": "Breakfast at Wetherspoons typically starts at eight in the morning and runs until noon, but confirm service times with your chosen Portsmouth pub. Traditional breakfast is a popular national menu choice. The typical breakfast window should not be taken as confirmation of a particular branch’s opening hours or current service."
+    },
+    {
+      "question": "Are prices higher at Wetherspoons in Portsmouth?",
+      "answer": "There is no single Portsmouth price level because each Wetherspoons pub sets its own prices. City centre pubs often charge more than suburban pubs, but that does not establish a price ranking for the listed branches. Compare the same dish at your chosen pubs and treat any quoted comparison prices as typical."
+    },
+    {
+      "question": "When are Curry Club and Steak Club at Wetherspoons in Portsmouth?",
+      "answer": "Curry Club is traditionally on Thursday and Steak Club on Tuesday at participating Wetherspoons pubs. For a Portsmouth visit, confirm participation with your chosen branch rather than assuming every listed pub follows the same arrangements. Ask about the current dishes and typical prices before planning your meal around a club day."
+    },
+    {
+      "question": "Can I order at the table at Wetherspoons in Portsmouth?",
+      "answer": "Customers can order at the table using the Wetherspoon app or order at the bar. For a Portsmouth visit, select the intended pub in the app and check your order before submitting it. If you need to clarify current dishes or typical prices, ask at the bar before paying."
+    }
+  ],
+  "slug": "portsmouth",
+  "generatedAt": "2026-10-06",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

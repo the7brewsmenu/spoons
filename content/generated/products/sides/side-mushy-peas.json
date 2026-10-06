@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "title": "Wetherspoons Mushy Peas Price and Calories 2026",
+    "description": "Wetherspoons mushy peas cost a typical {price}. Get a thick, creamy side for fish and chips, plus practical advice on nutrition and dietary suitability."
+  },
+  "subtitle": "A hot, thick and creamy pea side for fish and chip fans, with vegan and vegetarian tags in our data.",
+  "quickAnswer": "Wetherspoons mushy peas cost a typical {price}, with prices varying by pub. Calories are not verified in our data, so check the official nutrition information. This is a hot pea side with a thick, creamy texture; the description recommends battered fish or chips as accompaniments, rather than listing them as included.",
+  "components": [
+    {
+      "name": "Mushy peas",
+      "note": "The peas bring a sweet, earthy flavour and green colour to this traditional chip shop side."
+    },
+    {
+      "name": "Thick, creamy texture",
+      "note": "The soft, smooth consistency provides a contrast to the crunch of battered fish or crispy chips."
+    }
+  ],
+  "taste": "Mushy peas have a sweet, earthy flavour and a thick, creamy consistency. The peas are cooked down until soft and smooth, giving this side a very different texture from battered fish or crispy chips. Their green colour adds contrast to the plate, but the main reason to choose them is that combination of gentle sweetness and earthy flavour.\n\nServed steaming hot, they are a traditional chip shop accompaniment rather than a crunchy side. Alongside battered fish, the smooth peas contrast with the crisp coating; with chips, they offer the same change in texture. Choose them if you enjoy soft, comforting sides with a familiar fish and chip character.",
+  "value": "At a typical {price}, mushy peas are worth considering when you want a traditional accompaniment rather than another substantial part of the meal. Prices vary by pub, so check the local menu before deciding.\n\nCompared with a Bowl of Chips or Bowl of Chips with Cheese, the appeal here is the soft texture and sweet, earthy flavour. A Side Salad is another vegan-tagged option in the same section. Choose according to what your main needs: peas make particular sense beside battered fish or chips, rather than simply adding another side by habit.",
+  "nutrition": "The calorie content of Wetherspoons mushy peas is not verified in our data, so check the official [nutrition information](/nutrition-information) before using it in a daily total. We cannot give a reliable calorie comparison with other sides.\n\nCount the whole order, not just the peas: any main, additional sides, sauces and drinks need to be included in your calculation. Use the nutrition information for the items and serving options you actually choose.",
+  "dietaryGuidance": "Mushy peas are tagged vegan and vegetarian in our data. No allergens are listed in the supplied record, but that does not establish that the dish is suitable for someone with an allergy.\n\nIf you have an allergy or need to avoid a particular ingredient, [check the current allergen](/allergen-information) information and speak to the pub before ordering. Changes or substitutions can affect allergen suitability, and anything ordered alongside the peas needs its own check.",
+  "bestFor": [
+    {
+      "title": "Fish and chip fans",
+      "text": "Choose this side when you want the traditional chip shop combination, with soft, sweet and earthy peas contrasting with battered fish or crispy chips."
+    },
+    {
+      "title": "Vegan side choices",
+      "text": "The vegan tag makes these peas an option to consider when choosing a side. Check the rest of your order separately for dietary suitability."
+    },
+    {
+      "title": "Soft texture preferences",
+      "text": "This is a useful choice if you prefer a thick, smooth accompaniment over another crunchy side, particularly when your main already includes battered fish."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "large-pepsi-max",
+      "reason": "Large Pepsi Max is a drinks-menu option if you want a soft drink alongside your meal; check the local price separately."
+    },
+    {
+      "slug": "vegan-chocolate-tart",
+      "reason": "Vegan Chocolate Tart is a dessert to consider after your meal if the peas' vegan tag matters to you; confirm current dietary suitability."
+    }
+  ],
+  "tips": [
+    "Check the price at your chosen pub before ordering, as {price} is a typical figure rather than a fixed price across locations.",
+    "If ordering with battered fish, check what the main already includes before adding peas separately, so you avoid doubling up unintentionally.",
+    "Use the official nutrition information for the peas and your complete meal, rather than estimating calories from the side's appearance.",
+    "For allergy concerns, ask the pub about the current dish and any changes; an empty allergen list in our data is not confirmation of suitability."
+  ],
+  "faqs": [
+    {
+      "question": "How much are mushy peas at Wetherspoons?",
+      "answer": "Wetherspoons mushy peas cost a typical {price}, but the amount varies by pub. Each pub sets its own prices, so check the menu for your chosen location before ordering. Treat this figure as a guide to the side, not a fixed price for every Wetherspoons."
+    },
+    {
+      "question": "How many calories are in Wetherspoons mushy peas?",
+      "answer": "The calories in Wetherspoons mushy peas are not verified in our data, so check the official [nutrition](/nutrition-information) information for the current figure. If you are tracking your meal, include the main, other sides, sauces and drinks as well, rather than counting the peas alone."
+    },
+    {
+      "question": "Are Wetherspoons mushy peas vegan?",
+      "answer": "Wetherspoons mushy peas are tagged vegan in our data. If you need confirmation for your order, check the current dietary information with the pub, particularly if any changes are requested. The vegan tag applies to the peas, not automatically to the main, other [sides](/sides) or drinks you choose."
+    },
+    {
+      "question": "Are Wetherspoons mushy peas vegetarian?",
+      "answer": "Wetherspoons mushy peas are tagged vegetarian in our data, as well as vegan. They are a hot, thick and creamy pea side with a sweet, earthy flavour. Check any accompanying items separately, and confirm current suitability with the pub if you are requesting changes to the order."
+    },
+    {
+      "question": "What comes with Wetherspoons mushy peas?",
+      "answer": "Wetherspoons mushy peas are listed as a side, with no additional accompaniments specified in the supplied description. Battered fish and chips are suggested pairings, not stated inclusions. Check the local menu for what comes with your main before deciding whether to add peas as a separate side."
+    },
+    {
+      "question": "What allergens are in Wetherspoons mushy peas?",
+      "answer": "No allergens are listed for Wetherspoons mushy peas in our supplied data, but that is not confirmation of allergy suitability. Consult the current [allergen information](/allergen-information) and speak to the pub before ordering if you have an allergy. Requested changes and accompanying items also need checking."
+    },
+    {
+      "question": "Can I get Wetherspoons mushy peas as a meal deal?",
+      "answer": "A meal deal for mushy peas is not specified in our data. Many Wetherspoons mains can be ordered with an eligible soft or alcoholic drink, but that does not establish that this side is included. Check your chosen pub's menu for the inclusions and any separate side charges."
+    }
+  ],
+  "slug": "side-mushy-peas",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

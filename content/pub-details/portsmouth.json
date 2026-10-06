@@ -1,0 +1,22 @@
+{
+  "city": "portsmouth",
+  "localNote": "Portsmouth's three Wetherspoons cover the city centre, the marina district and Fratton. The Isambard Kingdom Brunel on Guildhall Walk is right beside Portsmouth and Southsea station, making it the easiest to reach by train. The Sir Alec Rose at Port Solent suits those near the marina, and The John Jacques serves the Fratton area a short walk from Fratton station.",
+  "pubs": [
+    {
+      "name": "The Isambard Kingdom Brunel",
+      "history": "Named after the famous engineer who was born in Britain Street, Portsmouth, in 1806. The building occupies the former site of the Portsea Island Gas Company and is noted for its grand Victorian character and high ceilings.",
+      "nearestStation": "Portsmouth and Southsea station, directly adjacent"
+    },
+    {
+      "name": "The Sir Alec Rose",
+      "history": "Named after Sir Alec Rose, a Portsmouth greengrocer who completed a solo circumnavigation of the globe in 354 days in 1968. He officially opened the Port Solent marina complex where this pub now stands, built on land reclaimed from the sea.",
+      "nearestStation": "Cosham station, about 10 minutes by bus",
+      "features": ["Outdoor seating"]
+    },
+    {
+      "name": "The John Jacques",
+      "history": "Named after Lord John Jacques, who served as chief executive of the Portsea Island Mutual Co-operative Society for twenty years. The pub is built on the site of a former PIMCO premises on Fratton Road.",
+      "nearestStation": "Fratton station, about 3 minutes on foot"
+    }
+  ]
+}

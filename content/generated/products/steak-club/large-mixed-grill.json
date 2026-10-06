@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "title": "Wetherspoons Large Mixed Grill Price and Calories 2026",
+    "description": "Wetherspoons large mixed grill costs a typical {price} with {calories} kcal. See which meats, eggs and chips come with it, plus allergens and Tuesday pricing."
+  },
+  "subtitle": "An expanded mixed grill with steak, sausages, gammon, pork loin, lamb, eggs and chips, suited to a substantial appetite.",
+  "quickAnswer": "The Wetherspoons Large Mixed Grill costs a typical {price}, contains {calories} kcal, and comes with steak, sausages, gammon, pork loin, lamb, two fried eggs and a large portion of chips. Prices vary by pub. It is an expanded version of the Mixed Grill, with extra steak and sausages; [Steak Club](/steak-club) pricing applies on Tuesdays.",
+  "components": [
+    {
+      "name": "Steak",
+      "note": "Extra cuts of steak help make this an expanded version of the classic mixed grill."
+    },
+    {
+      "name": "Sausages",
+      "note": "Additional savoury sausages add another meat to the selection and increase the size of the plate."
+    },
+    {
+      "name": "Gammon",
+      "note": "Gammon forms part of the varied meat selection, alongside steak, sausages, pork loin and lamb."
+    },
+    {
+      "name": "Pork loin",
+      "note": "Pork loin contributes to the range of meats and textures that defines this substantial mixed grill."
+    },
+    {
+      "name": "Lamb",
+      "note": "Lamb adds further variety to a plate built around several different rich, savoury meats."
+    },
+    {
+      "name": "Fried eggs",
+      "note": "Two fried eggs top the meats, adding another substantial element to an already generous plate."
+    },
+    {
+      "name": "Chips",
+      "note": "A large portion of golden chips accompanies the meats and eggs, completing the substantial meal."
+    }
+  ],
+  "taste": "This is a rich, savoury mixed grill whose main appeal is the variety of meats on one substantial plate. Steak, sausages, gammon, pork loin and lamb give you a range of textures rather than a meal centred on a single cut. The extra steak and additional sausages make the large version a more substantial choice than the classic Mixed Grill.\n\nTwo fried eggs sit on top, with a large portion of golden chips alongside. The emphasis is firmly on quantity and meaty variety, so choose it when that is what you want from a pub meal. If you would rather focus on one type of meat, a steak or gammon dish may be a better fit.",
+  "value": "The Large Mixed Grill makes most sense as a value choice when you want the extra steak, additional sausages and substantial overall portion. Its typical price is {price}, with {pricePosition}; prices vary by pub. Compare it with the Mixed Grill before ordering, since the expanded plate is only useful value if it matches your appetite.\n\n[Steak Club](/steak-club) pricing applies on Tuesdays. Participating pubs often include a drink with club meals, and many mains have an eligible drink option. Check the local menu for the applicable price and drink choices rather than assuming every combination is included.",
+  "nutrition": "The listed energy content is {calories} kcal, representing {calorieShare}. It is {caloriePosition}, which gives you a comparison within the section rather than a judgement about your individual needs.\n\nTreat this as a substantial main meal: the described plate already includes several meats, two fried eggs and a large portion of chips. Extra sides, sauces and drinks can change the total, so check their separate [nutrition information](/nutrition-information) if you are tracking intake. Confirm what the pub's current calorie listing covers before adding anything to your order.",
+  "dietaryGuidance": "The Large Mixed Grill is not suitable for vegetarian or vegan diets because it contains several meats and eggs. No dietary tags are recorded for this dish in our data, and the listed allergens are cereals containing gluten and eggs.\n\nAnyone avoiding gluten or eggs should [check the current allergen](/allergen-information) information with the pub before ordering. The data does not identify every component responsible for the gluten listing. Swaps or omissions can change the allergen profile, but removing one item should not be taken as confirmation that the remaining meal is suitable.",
+  "bestFor": [
+    {
+      "title": "A substantial appetite",
+      "text": "Choose this when you want a particularly substantial main, with extra steak, additional sausages, several other meats, two fried eggs and a large portion of chips."
+    },
+    {
+      "title": "Meat variety",
+      "text": "This suits diners who prefer several meats on one plate rather than a single steak. The combination of steak, sausages, gammon, pork loin and lamb is its central appeal."
+    },
+    {
+      "title": "Tuesday club meals",
+      "text": "Consider it for a Tuesday pub meal when Steak Club pricing is relevant. Check the participating pub's menu for the local price and any eligible drink option."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "large-pepsi-max",
+      "reason": "Large Pepsi Max is a soft drink option alongside this substantial main. Check whether it is eligible for the meal's drink option at your pub."
+    },
+    {
+      "slug": "side-salad",
+      "reason": "A side salad gives you a different accompaniment rather than adding more chips to a plate that already includes a large portion."
+    },
+    {
+      "slug": "mini-chocolate-brownie",
+      "reason": "The Mini Warm Chocolate Brownie is worth considering if you still want dessert after the grill. Decide after the main rather than ordering both upfront."
+    }
+  ],
+  "tips": [
+    "Compare the Large Mixed Grill with the Mixed Grill before ordering, focusing on whether you want the extra steak and additional sausages.",
+    "Check Tuesday Steak Club pricing at your chosen pub, including which drinks qualify if a drink option is offered.",
+    "Account for the included large portion of chips before adding a side; the expanded meat selection already makes this a substantial meal.",
+    "Ask the pub to confirm current gluten and egg allergen information before ordering, especially if you are considering any swaps or omissions."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the Large Mixed Grill at Wetherspoons?",
+      "answer": "The Large Mixed Grill costs a typical {price}, but prices vary by pub. It sits in the [Steak Club](/steak-club) section, with Steak Club pricing on Tuesdays. Check your chosen pub's current menu for the local price and whether an eligible drink option applies to your order."
+    },
+    {
+      "question": "How many calories are in the Wetherspoons Large Mixed Grill?",
+      "answer": "The Wetherspoons Large Mixed Grill is listed at {calories} kcal, representing {calorieShare}. The described meal includes the meats, two fried eggs and a large portion of chips. Additional sides, sauces or drinks can change your meal total, so check their separate [nutrition](/nutrition-information) information and the pub's current listing."
+    },
+    {
+      "question": "What comes with the Large Mixed Grill at Wetherspoons?",
+      "answer": "The Large Mixed Grill comes with steak, sausages, gammon, pork loin, lamb, two fried eggs and a large portion of golden chips. It is an expanded version of the classic Mixed Grill, with extra steak and additional sausages. Check with the pub before requesting changes to the described plate."
+    },
+    {
+      "question": "Is the Wetherspoons Large Mixed Grill vegetarian?",
+      "answer": "The Wetherspoons Large Mixed Grill is not vegetarian or vegan, as it contains steak, sausages, gammon, pork loin and lamb, alongside eggs and chips. No dietary tags are recorded in our data. If you need a vegetarian meal, check the pub's current menu rather than relying on changes to this dish."
+    },
+    {
+      "question": "What allergens are in the Wetherspoons Large Mixed Grill?",
+      "answer": "The allergens listed in our data for the Wetherspoons Large Mixed Grill are cereals containing gluten and eggs. Confirm the current [allergen information](/allergen-information) with the pub before ordering if either matters to your diet. Swaps and omissions can change the allergen profile, but do not establish that the remaining meal is suitable."
+    },
+    {
+      "question": "Can I get the Large Mixed Grill with a drink?",
+      "answer": "A drink option may be available with the Large Mixed Grill, but you should check the chosen pub's menu. Many Wetherspoons mains can be ordered with an eligible soft or alcoholic drink, and [Steak Club](/steak-club) at participating pubs often includes a drink. Eligibility and the applicable typical price need local confirmation."
+    },
+    {
+      "question": "What is the difference between the Mixed Grill and Large Mixed Grill?",
+      "answer": "The Large Mixed Grill is an expanded version of the Mixed Grill, with extra steak and additional sausages. Its description also includes gammon, pork loin, lamb, two fried eggs and a large portion of chips. Choose the larger version for the extra meat, and compare both current menu descriptions before ordering."
+    }
+  ],
+  "slug": "large-mixed-grill",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

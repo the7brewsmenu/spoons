@@ -1,0 +1,27 @@
+{
+  "city": "liverpool",
+  "localNote": "Liverpool's four Wetherspoons are all in the city centre, within easy reach of Lime Street station. The Fall Well and The Welkin sit close to the shopping district, The Richard John Blackler is on Charlotte Row near the old department store site, and The Lime Kiln faces Concert Square in the nightlife quarter.",
+  "pubs": [
+    {
+      "name": "The Fall Well",
+      "history": "Named after an eighteenth-century water source that once fed a fountain in Queen Square, owned by the merchant William Roe after whom nearby Roe Street is named.",
+      "nearestStation": "Liverpool Lime Street station, about 5 minutes on foot"
+    },
+    {
+      "name": "The Welkin",
+      "history": "The name means sky in Old English. It honours Jeremiah Horrocks, a Liverpool-born astronomer often called the father of English astronomy, who made the first recorded observation of the transit of Venus.",
+      "nearestStation": "Liverpool Lime Street station, about 5 minutes on foot"
+    },
+    {
+      "name": "The Richard John Blackler",
+      "history": "Named after the founder of Blackler's department store, which stood on this site from 1908 until 1988. The store was famous for its Christmas grotto and its rocking horse known as Blackie, now held by the Museum of Liverpool. George Harrison briefly worked there as an apprentice electrician in 1959.",
+      "nearestStation": "Liverpool Lime Street station, about 3 minutes on foot"
+    },
+    {
+      "name": "The Lime Kiln",
+      "history": "Takes its name from nearby Lime Street, originally called Lime Kiln Lane after the lime manufacturing works that once stood there. The pub occupies a converted 1890s Victorian warehouse.",
+      "nearestStation": "Liverpool Lime Street station, about 5 minutes on foot",
+      "features": ["Outdoor seating"]
+    }
+  ]
+}

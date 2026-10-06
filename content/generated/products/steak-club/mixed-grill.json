@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "title": "Wetherspoons Mixed Grill Price and Calories 2026",
+    "description": "Wetherspoons mixed grill costs a typical {price} with {calories} kcal. Compare the meat selection, chips and egg, plus allergens and Tuesday pricing before ordering."
+  },
+  "subtitle": "A hearty plate of gammon, pork, beef, lamb and sausage with egg and chips, suited to a substantial appetite.",
+  "quickAnswer": "The Wetherspoons mixed grill costs a typical {price}, contains {calories} kcal and comes with gammon steak, pork loin, rump steak, a lamb chop, sausage, a fried egg and chips. Prices vary by pub, with [Steak Club](/steak-club) pricing on Tuesdays. It suits diners wanting several meats rather than a single steak.",
+  "components": [
+    {
+      "name": "Gammon steak",
+      "note": "The thick gammon steak adds a substantial cut to a plate built around several different meats."
+    },
+    {
+      "name": "Pork loin",
+      "note": "Tender pork loin brings a softer texture to the mix alongside the steaks, lamb chop and sausage."
+    },
+    {
+      "name": "Rump steak",
+      "note": "The flavourful rump steak supplies the beef element, giving steak lovers a place in this varied meat selection."
+    },
+    {
+      "name": "Lamb chop",
+      "note": "A succulent lamb chop adds another meat and texture, broadening the plate beyond its beef and pork cuts."
+    },
+    {
+      "name": "Sausage",
+      "note": "The savoury sausage adds another flavour to the selection, alongside the larger cuts of steak and pork."
+    },
+    {
+      "name": "Fried egg",
+      "note": "A freshly fried egg crowns the meat selection, completing the traditional pub meal rather than arriving as a separate side."
+    },
+    {
+      "name": "Chips",
+      "note": "A large portion of chips accompanies the meats and egg, making this a substantial plate without an extra side."
+    }
+  ],
+  "taste": "The Mixed Grill is a hearty, meat-led plate with smoky grilled flavours and a range of textures. Thick gammon steak sits alongside tender pork loin, flavourful rump steak, a succulent lamb chop and savoury sausage. The appeal is variety: you can move between different cuts rather than work through a single steak, with each meat contributing to the substantial pub-food character.\n\nA freshly fried egg crowns the meat, while a large portion of chips completes the plate. This is a traditional, unpretentious meal built for a considerable appetite. Choose it when the assortment of meats matters more to you than focusing on one particular cut.",
+  "value": "The Mixed Grill offers its clearest value to diners who want several meats, egg and chips in one meal. Its typical price is {price}, and it is {pricePosition}; prices vary by pub. Compare it with the Sirloin Steak or Gammon Steak if you would rather concentrate on a single meat, and check the Large Mixed Grill before choosing by appetite.\n\n[Steak Club](/steak-club) pricing applies on Tuesdays. Many mains can also be ordered with an eligible drink, so check the options and total at your chosen pub before deciding.",
+  "nutrition": "The Mixed Grill contains {calories} kcal, representing {calorieShare}. It is {caloriePosition}, which helps place this substantial meat, egg and chips meal within the tracked Steak Club selection. Consider that figure alongside what else you plan to eat that day, rather than judging by the meat alone.\n\nAdditional sides, sauces and drinks can change the total beyond the listed dish figure. Check their separate [nutrition information](/nutrition-information) when ordering, particularly if you are comparing a meal with a drink against the dish on its own.",
+  "dietaryGuidance": "The Mixed Grill contains meat and egg, so it is not suitable for vegetarian or vegan diners. No dietary tags are recorded for this dish in our data. The listed allergens are cereals containing gluten and eggs; diners with coeliac disease or an allergy to either should take particular care.\n\n[Check the current allergen](/allergen-information) information with the pub before ordering, including any cross-contact advice. Removing an item or requesting a swap can change the allergen information, but should not be assumed to make the meal suitable.",
+  "bestFor": [
+    {
+      "title": "A substantial appetite",
+      "text": "Choose this when you want a hearty main with several meats, a fried egg and a large portion of chips already on the plate."
+    },
+    {
+      "title": "Trying several meats",
+      "text": "This suits diners who find a single steak too narrow a choice and would rather have gammon, pork, beef, lamb and sausage together."
+    },
+    {
+      "title": "Tuesday pub meals",
+      "text": "Consider it for a Tuesday visit when Steak Club pricing is relevant. Check your pub's price and any eligible drink options before placing the order."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "side-salad",
+      "reason": "A side salad is worth considering if you want something alongside the meat without ordering another portion of chips, which the grill already includes."
+    },
+    {
+      "slug": "large-pepsi-max",
+      "reason": "Large Pepsi Max gives you a soft drink option alongside the substantial meal. Check whether it is eligible for your pub's meal-with-drink pricing."
+    },
+    {
+      "slug": "mini-chocolate-brownie",
+      "reason": "Mini Warm Chocolate Brownie is a dessert to consider after the hearty grill if you still want a chocolate finish. Check portion details before ordering."
+    }
+  ],
+  "tips": [
+    "Check Tuesday Steak Club pricing at your chosen pub before ordering, since the typical listed price is not a fixed price across locations.",
+    "Remember that a large portion of chips is already included, so consider your appetite before adding another chip-based side.",
+    "Compare the Mixed Grill with the Large Mixed Grill on the current menu, and ask about portion differences rather than relying on the names alone.",
+    "Confirm eligible drinks and the combined meal price at the bar or in the Wetherspoon app before selecting a meal-with-drink option.",
+    "Ask the pub for current allergen information before requesting swaps or omissions, especially if cereals containing gluten or eggs are a concern."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the Mixed Grill at Wetherspoons?",
+      "answer": "The Mixed Grill at Wetherspoons costs a typical {price}, but prices vary by pub. [Steak Club](/steak-club) pricing applies on Tuesdays, so check the current price for your location and day of visit. You can confirm the dish price and any meal-with-drink options at the bar or through the Wetherspoon app."
+    },
+    {
+      "question": "How many calories are in the Wetherspoons mixed grill?",
+      "answer": "The Wetherspoons mixed grill contains {calories} kcal, representing {calorieShare}. That figure is for the listed dish, so additional sides, sauces or drinks can change your meal total. It is {caloriePosition} within the tracked section, which provides a useful comparison when choosing between [Steak Club](/steak-club) dishes."
+    },
+    {
+      "question": "What comes with the Mixed Grill at Wetherspoons?",
+      "answer": "The Mixed Grill at Wetherspoons comes with gammon steak, pork loin, rump steak, a lamb chop, sausage, a freshly fried egg and a large portion of chips. The egg crowns the meat selection. It is a substantial plate intended for diners who want several meats rather than a single cut."
+    },
+    {
+      "question": "Is the Wetherspoons mixed grill vegetarian?",
+      "answer": "The Wetherspoons mixed grill is not vegetarian or vegan because it contains gammon, pork, beef, lamb, sausage and egg. No dietary tags are recorded for it in our data. If you need a vegetarian or vegan meal, check the current menu and allergen information rather than assuming omissions will make this dish suitable."
+    },
+    {
+      "question": "What allergens are in the Wetherspoons mixed grill?",
+      "answer": "The allergens listed in our data for the Wetherspoons mixed grill are cereals containing gluten and eggs. Check the pub's current [allergen information](/allergen-information) before ordering, particularly if you have coeliac disease or a food allergy. Swaps and omissions can change the information, and you should also ask about cross-contact."
+    },
+    {
+      "question": "Can I get the Mixed Grill as a meal with a drink?",
+      "answer": "A meal-with-drink option may be available for the Mixed Grill, but you should confirm it at your chosen pub. Many Wetherspoons mains can be ordered with an eligible soft or alcoholic drink. Check the included choices and combined price at the bar or in the app before ordering."
+    },
+    {
+      "question": "Is the Mixed Grill part of Tuesday Steak Club?",
+      "answer": "The Mixed Grill has Steak Club pricing on Tuesdays according to our dish information. Steak Club traditionally runs on Tuesdays at participating pubs, often with a drink included. Confirm your pub's current arrangements, eligible drinks and price before visiting, since prices vary by location and local details need checking."
+    }
+  ],
+  "slug": "mixed-grill",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

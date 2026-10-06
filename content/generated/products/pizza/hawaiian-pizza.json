@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "title": "Wetherspoons Hawaiian Pizza Price and Calories 2026",
+    "description": "Wetherspoons Hawaiian Pizza has ham and pineapple, with a typical price of {price} and {calories} kcal. Check toppings, allergens and practical ordering tips."
+  },
+  "subtitle": "A thin, crispy pizza with Wiltshire cured ham and sweet pineapple, suited to diners who enjoy sweet and savoury toppings.",
+  "quickAnswer": "The Wetherspoons Hawaiian [Pizza](/pizza) costs a typical {price}, contains {calories} kcal and comes with tomato sauce, mozzarella, Wiltshire cured ham and pineapple on a thin, crispy base. Prices vary by pub. The description lists the pizza itself, not an accompanying side, so check before assuming chips or another extra are included.",
+  "components": [
+    {
+      "name": "Thin, crispy base",
+      "note": "The thin, crispy base gives the pizza a firm contrast to its melting cheese and juicy pineapple topping."
+    },
+    {
+      "name": "Tomato sauce",
+      "note": "Rich tomato sauce forms the layer beneath the cheese, bringing the ham and pineapple together with a savoury foundation."
+    },
+    {
+      "name": "Mozzarella",
+      "note": "Melting mozzarella adds creamy flavour and a softer texture between the crisp base and the sweet, savoury toppings."
+    },
+    {
+      "name": "Wiltshire cured ham",
+      "note": "Thick slices of Wiltshire cured ham bring salty, savoury flavour that contrasts with the sweetness of the pineapple."
+    },
+    {
+      "name": "Pineapple",
+      "note": "Juicy pineapple chunks add sweetness and bright acidity, balancing the cured ham and cutting through the creamy cheese."
+    }
+  ],
+  "taste": "This pizza is built around the contrast between salty cured ham and sweet, acidic pineapple. Thick ham slices give the savoury topping substance, while juicy fruit brings a noticeably different texture. Rich tomato sauce sits underneath, with melting mozzarella adding creaminess rather than another sharp flavour. If you enjoy fruit alongside savoury ingredients, that contrast is the main reason to choose it.\n\nThe thin, crispy base provides a firmer bite against the softer cheese and juicy topping. Served hot from the oven, the pizza brings those textures together without losing the distinction between ham and pineapple. Expect sweetness to be part of the meal, not merely a background note.",
+  "value": "The Hawaiian [Pizza](/pizza) is worth considering if ham and pineapple are the toppings you actually want: its typical price is {price}, and prices vary by pub. Within the {category} section, it is {pricePosition}. That comparison helps place it alongside Margherita Pizza, Pepperoni Pizza and BBQ Chicken Pizza without assuming their prices are identical across locations.\n\nMany mains can be ordered with an eligible drink, so check whether this pizza has a meal option at your chosen pub. Compare that option with ordering separately, especially if you already plan to have a drink.",
+  "nutrition": "The Hawaiian Pizza contains {calories} kcal, representing {calorieShare}. Within the {category} section, it is {caloriePosition}. Use that figure as the starting point for the pizza, rather than as a total for everything you might order with it.\n\nSides, extra sauces and drinks can change the meal's calorie total. If you are comparing orders, include those additions and any dessert in your calculation. Check the current menu information for each extra rather than assuming its contribution is covered by the pizza figure.",
+  "dietaryGuidance": "The Hawaiian Pizza is not suitable for vegetarian or vegan diners because it contains ham, and its mozzarella also matters for anyone avoiding dairy. Our data lists cereals containing gluten and milk as allergens, with no dietary suitability tags recorded for this dish.\n\nAnyone with coeliac disease, a milk allergy or another food allergy should [check the current allergen](/allergen-information) information with the pub before ordering. Ask about any proposed swaps too, as changes can alter the allergen profile. Removing a topping does not establish that the remaining pizza is suitable.",
+  "bestFor": [
+    {
+      "title": "Sweet and savoury fans",
+      "text": "Choose this when you want pineapple sweetness to play a clear role in a savoury meal. The cured ham provides the salty contrast, with creamy mozzarella bringing the toppings together."
+    },
+    {
+      "title": "Thin base preferences",
+      "text": "This suits diners who prefer a thin, crispy pizza base alongside softer toppings. The contrast with melting cheese and juicy pineapple is central to how the dish eats."
+    },
+    {
+      "title": "A familiar pizza choice",
+      "text": "Consider it when you already know you enjoy ham and pineapple together. Compare it with Margherita Pizza or Pepperoni Pizza if you would rather leave fruit out of your meal."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "side-salad",
+      "reason": "A Side Salad gives you a separate accompaniment without adding another bread-based item. Check its current ingredients and dressing before ordering."
+    },
+    {
+      "slug": "bowl-of-chips",
+      "reason": "A Bowl of Chips suits an order where you want an extra side alongside the pizza. Treat it as an addition, not an assumed inclusion."
+    },
+    {
+      "slug": "chocolate-fudge-cake",
+      "reason": "Warm Chocolate Fudge Cake gives you a chocolate dessert after the ham and pineapple pizza, if you want a separate sweet course."
+    }
+  ],
+  "tips": [
+    "Check the price at your chosen pub before ordering, since the typical {price} is a guide and local prices vary.",
+    "Ask whether the pizza can be ordered with an eligible drink, then compare that option with the items you intended to buy separately.",
+    "Order any wanted side explicitly. The dish description names the pizza components but does not list chips, salad or another accompaniment.",
+    "Check current allergen information before requesting topping changes, particularly if you need to avoid milk or cereals containing gluten.",
+    "Use the Wetherspoon app or order at the bar, checking the selected pub and any available options before placing your order."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the Hawaiian Pizza at Wetherspoons?",
+      "answer": "The Hawaiian [Pizza](/pizza) at Wetherspoons costs a typical {price}, but prices are set by each pub and vary by location. Within the {category} section, it is {pricePosition}. Check the menu for your chosen pub before ordering, and compare any eligible drink option with buying the pizza and drink separately."
+    },
+    {
+      "question": "How many calories are in the Wetherspoons Hawaiian Pizza?",
+      "answer": "The Wetherspoons Hawaiian [Pizza](/pizza) contains {calories} kcal, which represents {calorieShare}. Within the {category} section, it is {caloriePosition}. This is the pizza figure, not a total for a meal with extras. Include any sides, sauces, drinks or dessert when working out the calories for your full order."
+    },
+    {
+      "question": "What comes with the Hawaiian Pizza at Wetherspoons?",
+      "answer": "The Hawaiian Pizza comes with tomato sauce, mozzarella, thick slices of Wiltshire cured ham and juicy pineapple chunks on a thin, crispy base. It is served hot from the oven. The description does not list an accompanying side, so check with the pub rather than assuming chips or salad are included."
+    },
+    {
+      "question": "Is the Wetherspoons Hawaiian Pizza vegetarian?",
+      "answer": "The Wetherspoons Hawaiian Pizza is not vegetarian because it contains Wiltshire cured ham, and it is not vegan either. Margherita Pizza and Roasted Vegetable Pizza carry vegetarian tags in our data, while Vegan Roasted Vegetable Pizza carries vegan and vegetarian tags. Check current ingredients and suitability with the pub before ordering an alternative."
+    },
+    {
+      "question": "What allergens are in the Wetherspoons Hawaiian Pizza?",
+      "answer": "Our data lists cereals containing gluten and milk as allergens in the Wetherspoons Hawaiian Pizza. Anyone with an allergy or coeliac disease should check the pub's current [allergen information](/allergen-information) before ordering. Ask about any topping changes separately, because removing or swapping ingredients can change the allergen profile without establishing suitability."
+    },
+    {
+      "question": "Can I get the Hawaiian Pizza as a meal deal at Wetherspoons?",
+      "answer": "You should check with your chosen pub to see whether the Hawaiian Pizza can be ordered with an eligible drink. Many Wetherspoons mains have a meal option with a soft or alcoholic drink, but the supplied information does not confirm one for this dish. Check the available drinks and local price before ordering."
+    },
+    {
+      "question": "What does the Wetherspoons Hawaiian Pizza taste like?",
+      "answer": "The Wetherspoons Hawaiian Pizza combines salty, savoury cured ham with sweet, acidic pineapple, supported by rich tomato sauce and creamy mozzarella. Its thin, crispy base contrasts with the melting cheese and juicy fruit. Choose it if you enjoy a clear sweet and savoury combination rather than an entirely savoury pizza topping."
+    }
+  ],
+  "slug": "hawaiian-pizza",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

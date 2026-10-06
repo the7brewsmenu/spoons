@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "title": "Wetherspoons Pint of Guinness Price and Calories 2026",
+    "description": "A Wetherspoons pint of Guinness typically costs {price} and has {calories} kcal. Explore its creamy texture, dietary details and food pairings before ordering."
+  },
+  "subtitle": "A chilled Irish dry stout with roasted flavours and a creamy head, suited to drinkers who enjoy a dark, bitter pint.",
+  "quickAnswer": "A Wetherspoons pint of Guinness typically costs {price}, contains {calories} kcal and is served chilled on draught with a dense, creamy white head. Prices vary by pub. Expect roasted barley, dark chocolate notes and espresso-like bitterness, with a soft mouthfeel created by the nitrogen surge.",
+  "components": [
+    {
+      "name": "Irish dry stout",
+      "note": "The deep, ruby-black stout brings roasted barley and dark chocolate notes, balanced by a distinct espresso-like bitterness."
+    },
+    {
+      "name": "Creamy white head",
+      "note": "The dense white head accompanies the nitrogen surge, which gives the pint its soft, velvety mouthfeel."
+    }
+  ],
+  "taste": "Guinness is a dark, roasty pint with a notably soft texture rather than a sweet chocolate flavour. Roasted barley leads the profile, with dark chocolate notes and an espresso-like bitterness providing depth. That bitterness is central to its character, so it suits someone who enjoys a pronounced roasted flavour. The smooth, velvety mouthfeel balances those stronger notes without removing them.\n\nServed chilled on draught, it pours a deep, ruby-black colour beneath a dense, creamy white head. The nitrogen surge produces the characteristic cascade and soft texture. Its appeal is the contrast between a robust stout flavour and a gentle mouthfeel, rather than colour alone.",
+  "value": "At a typical {price}, Guinness is {pricePosition} in the drinks we track. Its value depends on how much you favour the roasted flavour and creamy texture, rather than price alone. Compare the local price with Pint of Ruddles Best, Pint of Doom Bar or Pint of Stella Artois before choosing.\n\nEach pub sets its own prices, so the comparison can vary by location. If ordering a main as well, check the eligible drinks for any meal-with-drink option. Do not assume Guinness is included without checking the pub's current menu.",
+  "nutrition": "A pint contains {calories} kcal, equivalent to {calorieShare}. It is {caloriePosition} among the drinks we track, giving you a useful comparison when choosing from the drinks menu.\n\nThat figure covers the Guinness, not food ordered alongside it. A main, dessert, sides or sauces add to the overall total, as does another drink. If you are tracking your intake, count each part of the order separately rather than treating the pint's figure as the total for your visit.",
+  "dietaryGuidance": "Guinness is tagged vegan and vegetarian in our data, but cereals containing gluten are listed as an allergen. The vegan tag does not mean it is suitable for someone avoiding gluten. Anyone with coeliac disease or a cereal allergy should check the pub's current [allergen information](/allergen-information) before ordering.\n\nFood ordered alongside the pint needs its own dietary check. Swapping to a different drink or changing an accompanying food order can change the allergens involved, so confirm the details for the final order rather than relying on this pint's tags.",
+  "bestFor": [
+    {
+      "title": "Roasted flavour fans",
+      "text": "Choose this if roasted barley, dark chocolate notes and espresso-like bitterness appeal to you. Its robust flavour is balanced by a soft, velvety mouthfeel."
+    },
+    {
+      "title": "A pint with dessert",
+      "text": "Consider Guinness alongside chocolate fudge cake when you want a drink with similarly dark flavour notes. The stout brings roasted bitterness as well as a creamy texture."
+    },
+    {
+      "title": "Vegan drink choices",
+      "text": "This is an option for drinkers looking for a pint tagged vegan in our data. Check accompanying food separately, and note the listed cereals containing gluten allergen."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "chocolate-fudge-cake",
+      "reason": "Warm Chocolate Fudge Cake echoes the stout's dark chocolate notes, while the espresso-like bitterness offers a contrast to the rich dessert."
+    },
+    {
+      "slug": "vegan-chocolate-tart",
+      "reason": "Vegan Chocolate Tart is another chocolate pairing to consider, drawing on the pint's dark chocolate notes and roasted bitterness."
+    }
+  ],
+  "tips": [
+    "Check the price at your chosen pub before ordering, as the listed {price} is typical rather than a fixed price across locations.",
+    "If ordering Guinness with a main, check the eligible drinks first rather than assuming it is included in the meal option.",
+    "Choose it for roasted bitterness and a soft texture; the dark chocolate notes describe its flavour, not a sweet chocolate drink.",
+    "Review the pub's current allergen information if you avoid gluten, even though Guinness is tagged vegan and vegetarian in our data.",
+    "Order at the bar or through the Wetherspoon app at your table, checking the local listing for the pint you want."
+  ],
+  "faqs": [
+    {
+      "question": "How much is a pint of Guinness at Wetherspoons?",
+      "answer": "A pint of Guinness at Wetherspoons typically costs {price}, although prices vary by pub. Each location sets its own prices, so check the local menu before ordering. Our tracked comparison places it at {pricePosition} within the drinks section, rather than establishing a fixed nationwide price."
+    },
+    {
+      "question": "How many calories are in a Wetherspoons pint of Guinness?",
+      "answer": "A Wetherspoons pint of Guinness contains {calories} kcal, equivalent to {calorieShare}. It is {caloriePosition} among the drinks we track. That figure is for the pint alone, so count any accompanying main, sides, sauces, dessert or additional drinks separately when calculating your order's total."
+    },
+    {
+      "question": "Is Guinness at Wetherspoons vegan and vegetarian?",
+      "answer": "Guinness at Wetherspoons is tagged vegan and vegetarian in our data. Cereals containing gluten are also listed, so those dietary tags do not establish suitability for someone avoiding gluten. Check the pub's current information before ordering if you have an allergy, and assess any accompanying food separately."
+    },
+    {
+      "question": "Does a Wetherspoons pint of Guinness contain gluten?",
+      "answer": "Cereals containing gluten are listed as an allergen for the Wetherspoons pint of Guinness in our data. Anyone with coeliac disease or a cereal allergy should check the pub's current [allergen information](/allergen-information) before ordering. Its vegan and vegetarian tags do not remove that allergen concern."
+    },
+    {
+      "question": "What comes with a pint of Guinness at Wetherspoons?",
+      "answer": "The listed serving is a chilled draught pint of Irish dry stout with a dense, creamy white head. The description does not list accompanying food. Chocolate fudge cake is a suggested pairing, rather than a stated part of the serving, so check the menu and order food separately."
+    },
+    {
+      "question": "What does Guinness at Wetherspoons taste like?",
+      "answer": "Guinness has roasted barley and dark chocolate notes with a distinct espresso-like bitterness. Served chilled on draught, it has a smooth, velvety texture from the nitrogen surge and a dense white head. It suits drinkers who enjoy roasted flavours rather than those seeking a sweet chocolate drink."
+    },
+    {
+      "question": "Can I get Guinness in a Wetherspoons meal deal?",
+      "answer": "Guinness eligibility for a meal-with-drink option needs checking on your chosen pub's current menu. Many mains can be ordered with an eligible soft or alcoholic drink, but the supplied information does not confirm Guinness as an included choice. Check the drinks list for that meal before placing your order."
+    }
+  ],
+  "slug": "pint-guinness",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

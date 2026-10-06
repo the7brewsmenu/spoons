@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "title": "Wetherspoons Chicken & Rib Meat Pizza Price and Calories 2026",
+    "description": "Wetherspoons chicken & rib meat pizza costs a typical {price} and has {calories} kcal. Compare its spicy, smoky toppings, value and allergens before ordering."
+  },
+  "subtitle": "A tomato and mozzarella pizza with spicy chicken, pulled pork rib meat and garlic mayonnaise, suited to fans of rich toppings.",
+  "quickAnswer": "The Wetherspoons chicken & rib meat [pizza](/pizza) costs a typical {price}, contains {calories} kcal and comes topped with spicy chicken strips, pulled pork rib meat and creamy garlic mayonnaise on a tomato and mozzarella base. Prices vary by pub. These toppings define the dish, so check locally before assuming any separate side or drink is included.",
+  "components": [
+    {
+      "name": "Tomato base",
+      "note": "The tomato base sits beneath the mozzarella and meat toppings, forming the foundation of this richly topped pizza."
+    },
+    {
+      "name": "Mozzarella",
+      "note": "Mozzarella provides the cheese element of the base, alongside the tomato and beneath the spicy chicken and pulled pork."
+    },
+    {
+      "name": "Spicy chicken strips",
+      "note": "The chicken strips bring spice to the topping, contrasting with the smoky sweetness of the pulled pork rib meat."
+    },
+    {
+      "name": "Pulled pork rib meat",
+      "note": "Tender pulled pork rib meat adds smoky, sweet flavours and a softer meat texture alongside the spicy chicken strips."
+    },
+    {
+      "name": "Garlic mayonnaise",
+      "note": "A drizzle of creamy garlic mayonnaise finishes the pizza with tangy garlic flavour and adds to its mouth-coating richness."
+    }
+  ],
+  "taste": "This is a rich, hearty pizza built around the contrast between spicy chicken and smoky, sweet pulled pork rib meat. The chicken strips bring the spice, while the tender pulled pork gives the topping a softer texture. Tomato and mozzarella form the base beneath both meats, making this a choice for someone who wants several strong flavours rather than a simpler cheese-led pizza.\n\nCreamy garlic mayonnaise adds a tangy finish and contributes to the mouth-coating texture. Served hot, the pizza leans towards richness rather than restraint. Expect the combination of meat, mozzarella and mayonnaise to be the main attraction, with the pork's sweetness balancing the spiced chicken rather than removing its heat.",
+  "value": "This [pizza](/pizza) is worth considering if your priority is a combination of meat toppings rather than a simpler pizza. At a typical {price}, it is {pricePosition}. Prices are set by each pub and vary by location.\n\nCompare it with Pepperoni Pizza or BBQ Chicken Pizza before ordering, particularly if you prefer a different meat topping. Margherita Pizza offers a vegetarian alternative in the same section. Many mains can be ordered with an eligible drink, but check whether this pizza qualifies and compare the local meal option with ordering separately.",
+  "nutrition": "The pizza contains {calories} kcal, representing {calorieShare}. Within the pizzas we track, it is {caloriePosition}. That figure gives you a starting point for comparing menu choices, rather than a total for everything you might order.\n\nExtra sides, additional sauces and drinks can change the meal's calorie total. If you are tracking your intake, check their figures separately and confirm what the selected meal option includes. The creamy garlic mayonnaise is part of the described pizza, not an extra topping you need to add.",
+  "dietaryGuidance": "This pizza is not suitable for vegetarian or vegan diners because it contains chicken and pulled pork rib meat. No dietary tags are recorded for it in our data. The listed allergens are cereals containing gluten and milk, so diners avoiding either should take particular care.\n\nDo not treat that list as a complete assessment of your individual requirements. Check the pub's current [allergen information](/allergen-information) before ordering, especially if you have an allergy. Requested swaps or omissions can change the allergen information and do not establish that a dish is suitable.",
+  "bestFor": [
+    {
+      "title": "Fans of meat toppings",
+      "text": "Choose this if you want both chicken and pork on your pizza. The spicy strips and smoky, sweet rib meat give it more variety than a single-meat topping."
+    },
+    {
+      "title": "Rich flavour preferences",
+      "text": "The mozzarella and creamy garlic mayonnaise make this a good match for diners who enjoy a rich, mouth-coating finish rather than a more restrained pizza topping."
+    },
+    {
+      "title": "Spice with sweetness",
+      "text": "This suits someone who likes spicy chicken alongside sweeter meat flavours. The pulled pork brings smoky sweetness, though the description does not establish a precise heat level."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "side-salad",
+      "reason": "Side Salad is an option if you want a separate side without adding another bread-based dish alongside the already richly topped pizza."
+    },
+    {
+      "slug": "garlic-pizza-bread-cheese",
+      "reason": "Garlic Pizza Bread with Cheese suits diners who want to continue the pizza's garlic and cheese theme, rather than seek a contrasting accompaniment."
+    },
+    {
+      "slug": "mini-chocolate-brownie",
+      "reason": "Mini Warm Chocolate Brownie offers a chocolate dessert after the savoury toppings. Consider it separately rather than assuming dessert is included with the pizza."
+    }
+  ],
+  "tips": [
+    "Check the price at your chosen pub before ordering, since {price} is typical and the amount charged varies by location.",
+    "Ask whether this pizza qualifies for a meal with an eligible drink, then compare that option with ordering the pizza and drink separately.",
+    "If creamy garlic mayonnaise is not to your taste, ask whether it can be omitted before placing your order; do not assume customisation is available.",
+    "Review current allergen information for the pizza and any extras together, especially if you request a swap or need to avoid gluten or milk."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the Chicken & Rib Meat Pizza at Wetherspoons?",
+      "answer": "The Chicken & Rib Meat [Pizza](/pizza) costs a typical {price}, with prices varying by pub. Within the pizza section we track, it is {pricePosition}. Check the menu at your chosen location for the current amount and whether a meal option with an eligible drink offers better value for your order."
+    },
+    {
+      "question": "How many calories are in the Wetherspoons Chicken & Rib Meat Pizza?",
+      "answer": "The Chicken & Rib Meat [Pizza](/pizza) contains {calories} kcal, which represents {calorieShare}. In the pizza section we track, it is {caloriePosition}. Any separate sides, extra sauces or drinks can change your meal's total, so check those individually if you are comparing meals or tracking your intake."
+    },
+    {
+      "question": "What comes with the Chicken & Rib Meat Pizza?",
+      "answer": "The Chicken & Rib Meat Pizza has a tomato and mozzarella base topped with spicy chicken strips, pulled pork rib meat and creamy garlic mayonnaise. It is served hot. The description does not specify an included separate side or drink, so confirm the contents of any meal option with your chosen pub."
+    },
+    {
+      "question": "Is the Chicken & Rib Meat Pizza vegetarian or vegan?",
+      "answer": "The Chicken & Rib Meat Pizza is neither vegetarian nor vegan because it contains chicken and pulled pork rib meat. Mozzarella is also part of the base. The pizza section includes vegetarian Margherita Pizza and Roasted Vegetable Pizza, plus Vegan Roasted Vegetable Pizza, which are more relevant alternatives to check against your dietary needs."
+    },
+    {
+      "question": "What allergens are in the Chicken & Rib Meat Pizza?",
+      "answer": "The allergens listed in our data for the Chicken & Rib Meat Pizza are cereals containing gluten and milk. Anyone avoiding either should check the pub's current [allergen information](/allergen-information) before ordering. Do not assume these are the only considerations for your needs, and confirm how any requested swaps or omissions affect the dish."
+    },
+    {
+      "question": "Can I get the Chicken & Rib Meat Pizza as a meal deal?",
+      "answer": "A drink-inclusive meal option may be available for the Chicken & Rib Meat Pizza, but you should confirm eligibility with your chosen pub. Many Wetherspoons mains can be ordered with an eligible soft or alcoholic drink. Check which drinks qualify and compare the local meal price with ordering each item separately."
+    },
+    {
+      "question": "Is the Chicken & Rib Meat Pizza spicy?",
+      "answer": "The Chicken & Rib Meat Pizza includes spicy chicken strips, but the description does not give a precise heat level. Smoky, sweet pulled pork rib meat and creamy, tangy garlic mayonnaise provide contrasting flavours. If you are particularly sensitive to spice, ask the pub for guidance before choosing it."
+    }
+  ],
+  "slug": "chicken-rib-meat-pizza",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

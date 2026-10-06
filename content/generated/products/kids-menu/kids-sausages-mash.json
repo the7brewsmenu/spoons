@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "title": "Wetherspoons Kids Sausages and Mash Price and Calories 2026",
+    "description": "Wetherspoons kids sausages and mash includes a drink and fresh fruit. See the typical {price} price, what is served and which allergens to check."
+  },
+  "subtitle": "Mild pork sausages with creamy mash, peas and gravy, suited to younger diners who enjoy traditional British comfort food.",
+  "quickAnswer": "Wetherspoons kids sausages and mash costs a typical {price}, with prices varying by pub. Calories are not verified here, so check the official nutrition information. The meal comes with two pork sausages, creamy mashed potato, garden peas and gravy, plus a children’s drink and a piece of fresh fruit.",
+  "components": [
+    {
+      "name": "Pork sausages",
+      "note": "Two mild, savoury pork sausages form the centre of the meal, served on top of the mashed potato."
+    },
+    {
+      "name": "Mashed potato",
+      "note": "Smooth, creamy mashed potato provides a soft base beneath the sausages and accompanies the rich gravy."
+    },
+    {
+      "name": "Garden peas",
+      "note": "Sweet garden peas accompany the sausages and mash, bringing a contrasting flavour to the savoury elements."
+    },
+    {
+      "name": "Gravy",
+      "note": "A generous ladle of rich, dark gravy accompanies the plate and adds another layer of savoury flavour."
+    },
+    {
+      "name": "Children’s drink",
+      "note": "A children’s drink is included with the meal, so check the available choices at your chosen pub."
+    },
+    {
+      "name": "Fresh fruit",
+      "note": "A piece of fresh fruit is included to finish, giving the meal a simple ending after the savoury main."
+    }
+  ],
+  "taste": "This is a mild, savoury comfort meal built around soft textures and rich gravy. Two pork sausages sit on a mound of smooth, creamy mashed potato, with sweet garden peas alongside. The sausages provide the main savoury flavour, while the mash gives the plate a gentle, easy-to-eat texture. A generous ladle of dark gravy brings richness to the combination.\n\nThe peas offer a sweet contrast to the pork and gravy without taking the meal away from its traditional character. For younger diners who enjoy sausages and softer accompaniments, the appeal is straightforward: a warming plate rather than a meal centred on crisp textures. The included fresh fruit provides a separate finish.",
+  "value": "The included children’s drink and fresh fruit make this a useful option when comparing the complete meal rather than the main plate alone. Its typical price is {price}, although each pub sets its own prices. In our {category} comparison, it is {pricePosition}.\n\nChoose it over Kids Chicken Nuggets or Kids Fish Fingers if your child prefers creamy mash and gravy. Kids Margherita Pizza offers a vegetarian alternative, while Kids Vegan Sausages is worth comparing for a child who avoids meat. Check each alternative’s current inclusions before deciding which offers better value.",
+  "nutrition": "Calories are not verified for this meal in our data, so check the official [nutrition information](/nutrition-information) before using it to plan an order. The plate contains pork sausages, mash, peas and gravy, with a children’s drink and fresh fruit included.\n\nWhen checking the total, confirm whether the published information covers the main plate alone or the complete meal. Your drink choice, any extra sides and changes to sauces need to be accounted for separately where relevant. Ask the pub for guidance if the information does not clearly match your order.",
+  "dietaryGuidance": "This pork sausage meal is not suitable for vegetarian or vegan diners. No dietary suitability tags are recorded for it, and our [allergen data](/allergen-information) lists cereals containing gluten, milk and soybeans. Anyone avoiding these ingredients should check the current allergen information with the pub before ordering.\n\nDo not assume that removing gravy or changing an accompaniment makes the meal suitable. Swaps can change its allergen profile, so ask staff to check the whole revised order. Kids Vegan Sausages and Kids Tomato Pasta have vegan and vegetarian tags, but their allergens still need separate checking.",
+  "bestFor": [
+    {
+      "title": "Fans of soft textures",
+      "text": "The smooth mash and soft textures make this worth considering for younger diners who prefer an easy-to-eat meal with mild, savoury flavours."
+    },
+    {
+      "title": "A warming dinner",
+      "text": "Sausages, creamy potato and rich gravy suit a colder-day dinner when your child wants traditional British comfort food rather than pizza or nuggets."
+    },
+    {
+      "title": "A complete children’s meal",
+      "text": "The included drink and piece of fresh fruit suit parents comparing what comes with the main, without needing to choose a separate finish."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "mini-chocolate-brownie",
+      "reason": "Mini Warm Chocolate Brownie is an optional dessert after the savoury main. Consider it only if your child wants something beyond the included fruit."
+    },
+    {
+      "slug": "fresh-fruit-ice-cream",
+      "reason": "Fresh Fruit with Ice Cream offers another dessert option after the main, though a piece of fresh fruit already comes with the children’s meal."
+    }
+  ],
+  "tips": [
+    "Check which children’s drinks and fresh fruit are available at your pub before ordering, especially if your child has a strong preference.",
+    "Ask whether any requested change to the gravy, peas or mash is possible, rather than assuming the plate can be customised.",
+    "Review the current allergen information for the whole meal, including the drink, and ask staff to check any proposed swaps.",
+    "Order at the bar or through the Wetherspoon app, checking your chosen pub’s price and the meal details before confirming."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the kids sausages and mash at Wetherspoons?",
+      "answer": "The typical price of Wetherspoons kids sausages and mash is {price}, but prices vary by pub. The meal includes two pork sausages, mashed potato, garden peas and gravy, plus a children’s drink and fresh fruit. Check the price at your chosen location before ordering."
+    },
+    {
+      "question": "How many calories are in Wetherspoons kids sausages and mash?",
+      "answer": "The calorie total for Wetherspoons kids sausages and mash is not verified in our data. Check the official [nutrition](/nutrition-information) information for the current figure, and confirm whether it includes the children’s drink and fresh fruit. Any extras or changes should also be considered when checking your order."
+    },
+    {
+      "question": "What comes with Wetherspoons kids sausages and mash?",
+      "answer": "Wetherspoons kids sausages and mash comes with two mild pork sausages, creamy mashed potato, sweet garden peas and rich, dark gravy. A children’s drink and a piece of fresh fruit are also included. Ask your chosen pub which drink and fruit options are available before ordering."
+    },
+    {
+      "question": "Is Wetherspoons kids sausages and mash vegetarian?",
+      "answer": "Wetherspoons kids sausages and mash is not vegetarian because it contains pork sausages. It is not a vegan option either. Kids Vegan Sausages and Kids Tomato Pasta have vegan and vegetarian tags in our data, while Kids Margherita Pizza has a vegetarian tag. Check current details and allergens before choosing an alternative."
+    },
+    {
+      "question": "What allergens are in Wetherspoons kids sausages and mash?",
+      "answer": "Our allergen data for Wetherspoons kids sausages and mash lists cereals containing gluten, milk and soybeans. Check the current [allergen information](/allergen-information) with the pub before ordering if any of these are a concern. Removing an element or requesting a swap does not establish suitability, so have staff check the revised meal."
+    },
+    {
+      "question": "Does Wetherspoons kids sausages and mash include a drink?",
+      "answer": "Yes, Wetherspoons kids sausages and mash includes a children’s drink, as well as a piece of fresh fruit. These are listed as part of the meal alongside the sausages, mash, peas and gravy. Check the available drink choices and the current typical price at your chosen pub."
+    },
+    {
+      "question": "Can I change the sides with Wetherspoons kids sausages and mash?",
+      "answer": "Side swaps for Wetherspoons kids sausages and mash are not confirmed in our data, so ask the pub before ordering. The listed plate comes with mashed potato, garden peas and gravy. If staff can make a change, check any effect on the price and the allergens in the revised order."
+    }
+  ],
+  "slug": "kids-sausages-mash",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

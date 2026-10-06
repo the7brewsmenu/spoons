@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "title": "Wetherspoons Newcastle: pubs, menu and prices guide",
+    "description": "Compare Wetherspoons Newcastle pubs by area, see how menu prices vary and check breakfast and club days before choosing where to eat in the city."
+  },
+  "intro": "This guide covers {pubCount} open Wetherspoons pubs in Newcastle across {areaCount} areas: Quayside, The Gate and City Centre. Every pub works from the national [Wetherspoons menu](/), but prices are set locally. This guide helps you choose a pub, understand how menu prices vary and plan around breakfast and club days. Popular dishes on the national menu include burgers, curries, fish and chips, pizza and traditional breakfast. SpoonsMenu is an independent guide, not affiliated with J D Wetherspoon plc.",
+  "quickAnswer": "We list {pubCount} open Wetherspoons pubs in Newcastle across {areaCount} areas: The Quayside in Quayside, The Keel Row in The Gate and The Mile Castle in City Centre. Choose the area that suits your plans, then check the selected pub's current menu and prices before deciding what to order.",
+  "areas": [
+    {
+      "area": "Quayside",
+      "text": "The Quayside is the listed Wetherspoons pub in Quayside. It suits anyone whose plans centre on this area and who wants to compare familiar national menu options. Check the pub's current menu and prices rather than assuming they match another Newcastle branch."
+    },
+    {
+      "area": "The Gate",
+      "text": "The Keel Row is the listed Wetherspoons pub in The Gate. Choose it if this is the area that best fits your plans. For a meal, use the national menu as a starting point, then confirm your preferred dish and its price with the pub."
+    },
+    {
+      "area": "City Centre",
+      "text": "The Mile Castle is the listed Wetherspoons pub in City Centre. It suits visitors looking specifically for a pub in this area. If cost matters more than location, compare its current menu prices with the other listed Newcastle pubs before choosing where to eat."
+    }
+  ],
+  "pricing": "Wetherspoons menu prices in Newcastle are set pub by pub, even though the menu is broadly the same nationally. Any guide price is typical rather than a fixed amount you can expect at every branch. [burgers](/burgers), curries, fish and chips and pizza are useful national menu options to look for when comparing pubs.\n\nCity centre pubs often charge more than suburban pubs, so a central location can matter when budgeting. That general pattern does not establish which listed Newcastle pub is cheapest. Check the current menu at your chosen pub for the exact price before ordering. If comparing branches, compare the same dish rather than assuming that one lower-priced item means the whole menu costs less.",
+  "breakfastAndClubs": "Breakfast at Wetherspoons is typically served from eight in the morning until midday, but visitors to Newcastle should confirm the serving times with their chosen pub. Traditional breakfast appears on the national menu; check the local menu for the current choice and price.\n\n[Curry Club](/curry-club) traditionally runs on Thursday and [Steak Club](/steak-club) on Tuesday at participating pubs. These days are a planning guide, not confirmation that every Newcastle branch participates. Ask The Quayside, The Keel Row or The Mile Castle about participation and the current club menu before arranging your visit around it.",
+  "tips": [
+    {
+      "title": "Choose your area first",
+      "text": "Pick Quayside, The Gate or City Centre according to your plans, then use the listed pub name to check its current menu before making a decision."
+    },
+    {
+      "title": "Compare the same dish",
+      "text": "Check the same menu item at each pub when comparing prices. Pub by pub pricing means a typical guide price may not match your chosen branch."
+    },
+    {
+      "title": "Confirm breakfast service",
+      "text": "Ask your chosen pub about breakfast serving times before visiting. The typical national breakfast window is useful for planning, but it is not a local guarantee."
+    },
+    {
+      "title": "Check club participation",
+      "text": "Confirm participation before planning a Tuesday Steak Club or Thursday Curry Club visit. Ask about the current menu and price rather than relying on the day alone."
+    },
+    {
+      "title": "Choose how to order",
+      "text": "Order at the bar or at your table using the Wetherspoon app. Check your chosen items and their current prices before placing the order."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How many Wetherspoons are in Newcastle?",
+      "answer": "This guide lists {pubCount} open Wetherspoons pubs in Newcastle across {areaCount} areas. The pubs are The Quayside in Quayside, The Keel Row in The Gate and The Mile Castle in City Centre. Choose by area first, then check the selected pub's current menu and prices."
+    },
+    {
+      "question": "Which Wetherspoons in Newcastle is in Quayside?",
+      "answer": "The Quayside is the listed Wetherspoons pub in Newcastle's Quayside area. It is the option to check if you want to eat in that area. The menu is broadly the same nationally, but prices are set by each pub, so confirm the current cost before ordering."
+    },
+    {
+      "question": "Which Wetherspoons in Newcastle is in The Gate?",
+      "answer": "The Keel Row is the listed Wetherspoons pub in The Gate in Newcastle. Choose it if that area fits your plans, then check the local menu for your preferred meal. Popular dishes on the national menu include burgers, curries, fish and chips, pizza and traditional breakfast."
+    },
+    {
+      "question": "Which Wetherspoons in Newcastle is in the city centre?",
+      "answer": "The Mile Castle is the pub listed under City Centre in this Newcastle guide. The other listed options are The Quayside in Quayside and The Keel Row in The Gate. Each pub sets its own prices, so compare current menus if your decision depends on cost."
+    },
+    {
+      "question": "What time does breakfast start at Wetherspoons in Newcastle?",
+      "answer": "Wetherspoons breakfast typically starts at eight in the morning and runs until midday, but confirm the times with your chosen Newcastle pub. Traditional breakfast is among the popular dishes on the national menu. This serving window is not a statement of the pub's opening hours or a guarantee of local service."
+    },
+    {
+      "question": "Are prices higher at Wetherspoons in Newcastle?",
+      "answer": "There is no single Newcastle price level because each Wetherspoons pub sets its own prices. City centre pubs often charge more than suburban pubs, but that does not establish a ranking for the listed branches. Treat guide prices as typical and check the current local menu for the exact amount."
+    },
+    {
+      "question": "What days are Curry Club and Steak Club at Wetherspoons in Newcastle?",
+      "answer": "Curry Club is traditionally on Thursday and Steak Club on Tuesday at participating Wetherspoons pubs. For Newcastle, confirm participation with The Quayside, The Keel Row or The Mile Castle before planning around either day. Check the current club menu and price with the selected pub as well."
+    },
+    {
+      "question": "Can I order through the app at Wetherspoons in Newcastle?",
+      "answer": "Customers can order at their table using the Wetherspoon app or order at the bar. For a Newcastle visit, choose your pub and check the current menu prices before placing an order. The national menu is broadly similar across pubs, but each branch sets its own prices."
+    }
+  ],
+  "slug": "newcastle",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

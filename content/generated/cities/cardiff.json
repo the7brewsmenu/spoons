@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "title": "Wetherspoons Cardiff: pub locations and menu guide",
+    "description": "Find Wetherspoons Cardiff pubs by area, understand typical pricing and check breakfast and club days. Choose your pub with practical visiting advice."
+  },
+  "intro": "This guide covers {pubCount} open Wetherspoons pubs in Cardiff across {areaCount} areas, with choices in City Centre, Windsor Place, Central Station and Cardiff Bay. Every pub works from the national [Wetherspoons menu](/), but prices are set locally. This guide explains where each pub is, how menu pricing works and what to check before ordering. Use it to choose a location, plan breakfast or check club days. SpoonsMenu is an independent guide and is not affiliated with J D Wetherspoon plc.",
+  "quickAnswer": "There are {pubCount} open Wetherspoons pubs listed in Cardiff: The Prince of Wales in City Centre, The Central Bar in Windsor Place, The Great Western in Central Station and The Mount Stuart in Cardiff Bay. Their menus are broadly similar, but each pub sets its own prices, so check your chosen location before ordering.",
+  "areas": [
+    {
+      "area": "City Centre",
+      "text": "The Prince of Wales is the listed Wetherspoons option in City Centre, on St Mary Street. It suits visitors choosing this area for their meal. Check its current menu rather than assuming the prices match another Cardiff pub, particularly if you are comparing a specific order."
+    },
+    {
+      "area": "Windsor Place",
+      "text": "The Central Bar is the listed pub in Windsor Place, with its address on Windsor Place itself. Choose it if this is the area where you want to eat. For a particular breakfast or main course, check the pub's current menu and typical price before deciding."
+    },
+    {
+      "area": "Central Station",
+      "text": "The Great Western is the listed Wetherspoons pub for the Central Station area, on St Mary Street. It suits anyone looking for an option in this part of Cardiff. Compare its current menu prices with your other choices rather than assuming station-area pricing will be the same."
+    },
+    {
+      "area": "Cardiff Bay",
+      "text": "The Mount Stuart is the listed Wetherspoons option in Cardiff Bay, with an address at Stuart Terrace, Mermaid Quay. It suits visitors who want to eat in this area. Check the selected pub's menu for your preferred dish and its typical price before placing an order."
+    }
+  ],
+  "pricing": "Wetherspoons menu prices in Cardiff vary by pub, even though the menu is broadly the same nationally. Popular national choices include [burgers](/burgers), curries, fish and chips and pizza, but a shared menu does not mean a shared price.\n\nCity centre and station pubs often charge more than suburban pubs. That is a general pattern, not proof that any particular Cardiff pub is cheaper or more expensive than another. All prices should be treated as typical and checked at the location you choose.\n\nTo confirm the exact price for your order, select the correct pub in the Wetherspoon app or check its current menu at the bar. Compare the same dish across pubs for a useful comparison.",
+  "breakfastAndClubs": "Breakfast at Wetherspoons is typically served from eight in the morning until noon, while [Steak Club](/steak-club) is traditionally on Tuesday and [Curry Club](/curry-club) on Thursday at participating pubs. These are general timings and club days, so confirm the details with your chosen Cardiff pub before planning around them.\n\nThe traditional breakfast is among the popular dishes on the national menu. If that is your preferred order, check the selected pub's current menu. For club visits, ask about participation, the current dishes and typical prices rather than assuming every location offers the same arrangement.",
+  "tips": [
+    {
+      "title": "Choose by area",
+      "text": "Start with the area where you want to eat, then use the listed pub name to check its menu. This keeps your choice focused on location."
+    },
+    {
+      "title": "Compare the same dish",
+      "text": "Use the same menu item when comparing typical prices between pubs. A broadly shared national menu does not mean each location charges the same amount."
+    },
+    {
+      "title": "Check breakfast service",
+      "text": "Confirm breakfast service with your chosen pub before visiting. The typical window runs from eight in the morning until noon, rather than throughout the day."
+    },
+    {
+      "title": "Confirm club participation",
+      "text": "Ask your chosen pub about Steak Club or Curry Club before planning a visit around either. The traditional days apply at participating pubs, not necessarily every location."
+    },
+    {
+      "title": "Select the correct pub",
+      "text": "Choose the correct location when ordering through the Wetherspoon app, then review your order before submitting it. Ordering at the bar is another option."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How many Wetherspoons are in Cardiff?",
+      "answer": "There are {pubCount} open Wetherspoons pubs listed in Cardiff across {areaCount} areas. They are The Prince of Wales in City Centre, The Central Bar in Windsor Place, The Great Western in Central Station and The Mount Stuart in Cardiff Bay. Choose by area, then check the individual pub's current menu and typical prices."
+    },
+    {
+      "question": "Which Wetherspoons in Cardiff is in the city centre?",
+      "answer": "The Prince of Wales is the Wetherspoons pub listed in Cardiff's City Centre area, with an address on St Mary Street. The Great Western also has a St Mary Street address, but is listed under Central Station. Check the pub name carefully when viewing a menu or selecting a location in the Wetherspoon app."
+    },
+    {
+      "question": "Which Wetherspoons in Cardiff is in Cardiff Bay?",
+      "answer": "The Mount Stuart is the listed Wetherspoons pub in Cardiff Bay, at Stuart Terrace, Mermaid Quay. It is the option to check if you want to eat in that area. The national menu is broadly shared, but this pub sets its own prices, so review its current menu before ordering."
+    },
+    {
+      "question": "What time does breakfast start at Wetherspoons in Cardiff?",
+      "answer": "Breakfast at Wetherspoons typically starts at eight in the morning and runs until noon, but confirm service with your chosen Cardiff pub. These are general breakfast timings, not a statement of each location's opening hours. The traditional breakfast is a popular national menu choice; check the pub's current menu before visiting."
+    },
+    {
+      "question": "Are Wetherspoons prices higher in Cardiff?",
+      "answer": "There is no single Cardiff price level: each Wetherspoons pub sets its own prices. City centre and station pubs often charge more than suburban pubs, but that general pattern does not establish which Cardiff location is cheapest. Check the same dish on each selected pub's current menu to compare typical prices meaningfully."
+    },
+    {
+      "question": "What days are Curry Club and Steak Club in Cardiff?",
+      "answer": "Curry Club is traditionally on Thursday and Steak Club on Tuesday at participating Wetherspoons pubs. For a Cardiff visit, confirm that your chosen location participates before making plans. Ask about the current club menu and typical prices too, rather than assuming the same dishes and terms apply at every pub."
+    },
+    {
+      "question": "Can you order through the app at Wetherspoons in Cardiff?",
+      "answer": "Customers can order at the table using the Wetherspoon app or order at the bar. When using the app in Cardiff, select the correct pub and check the menu price before placing your order. Prices vary by location, so a menu viewed for another pub is not a reliable price check."
+    },
+    {
+      "question": "What food is on the Wetherspoons menu in Cardiff?",
+      "answer": "Popular dishes on the national Wetherspoons menu include traditional breakfast, burgers, curries, fish and chips and pizza. The menu is broadly the same nationally, but check your chosen Cardiff pub for its current selection. Each location sets its own prices, and breakfast typically has a separate service window from eight in the morning until noon."
+    }
+  ],
+  "slug": "cardiff",
+  "generatedAt": "2026-10-06",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

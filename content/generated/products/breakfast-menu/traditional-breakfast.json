@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "title": "Wetherspoons Traditional Breakfast Price and Calories 2026",
+    "description": "Wetherspoons traditional breakfast typically costs {price} with {calories} kcal. See what comes on the plate, serving times and allergen advice before ordering."
+  },
+  "subtitle": "A traditional cooked breakfast with egg, bacon and sausage, suited to diners wanting a familiar, hearty start to the morning.",
+  "quickAnswer": "The Wetherspoons traditional breakfast typically costs {price}, contains {calories} kcal and comes with a fried egg, back bacon, Lincolnshire sausage, baked beans, two hash browns and toast with butter. Prices vary by pub. Breakfast is typically served from eight in the morning until noon, so check your chosen pub before making a special trip.",
+  "components": [
+    {
+      "name": "Fried egg",
+      "note": "The fried egg has a runny yolk, adding a soft texture alongside the crisp bacon and hash browns."
+    },
+    {
+      "name": "Back bacon",
+      "note": "Crispy back bacon brings a contrasting texture to the softer egg and baked beans on the plate."
+    },
+    {
+      "name": "Lincolnshire sausage",
+      "note": "The succulent Lincolnshire sausage adds another substantial element to this familiar cooked breakfast."
+    },
+    {
+      "name": "Baked beans",
+      "note": "A generous portion of baked beans provides a softer accompaniment to the crisp elements of the breakfast."
+    },
+    {
+      "name": "Two hash browns",
+      "note": "The two golden hash browns add a satisfying crunch alongside the egg, bacon, sausage and beans."
+    },
+    {
+      "name": "Toast with butter",
+      "note": "A fresh slice of toast with butter completes the plate and gives the runny yolk something to accompany."
+    }
+  ],
+  "taste": "This breakfast combines rich, comforting flavours with a clear contrast between soft and crisp textures. The fried egg is described as having a runny yolk, while the back bacon is crispy and the Lincolnshire sausage succulent. Baked beans provide a softer element beside the meat, keeping the plate varied rather than making every mouthful about crunch.\n\nThe two golden hash browns supply that satisfying crunch, with a fresh slice of toast and butter completing the familiar breakfast combination. Served on a warm plate, it is a hearty option for someone who wants the traditional egg, bacon and sausage line-up rather than a different breakfast format.",
+  "value": "The Traditional Breakfast is worth considering if you want the full listed combination of egg, bacon, sausage and accompaniments for a typical {price}. Within the {category}, it is {pricePosition}, which gives you a useful starting point for comparing costs.\n\nLook at the Large Breakfast alongside it before ordering, checking the current contents and local prices rather than judging by the name alone. Beans on Toast is another breakfast option to compare if you do not want the whole combination. Prices are set by each pub, so the local menu matters most.",
+  "nutrition": "The Traditional Breakfast contains {calories} kcal, representing {calorieShare}. It ranks as {caloriePosition} within the {category}, giving you a comparison with the other breakfasts tracked by SpoonsMenu.\n\nUse that figure for the listed dish rather than your entire order. Any additional sides, sauces or drinks can change the total, so check their nutritional information separately if you add them. The included toast and butter are part of the described breakfast, not an extra pairing suggestion.",
+  "dietaryGuidance": "The Traditional Breakfast is not suitable for vegetarian or vegan diners because it includes back bacon and Lincolnshire sausage. No dietary tags are recorded for this dish in our data, and eggs are the listed allergen.\n\nThat allergen entry should not be treated as a complete assurance about other ingredients. If you have an allergy or intolerance, check the pub's current [allergen information](/allergen-information) before ordering. Ask staff about any proposed swaps, as changing an ingredient can change the allergens in the meal.",
+  "bestFor": [
+    {
+      "title": "A familiar cooked breakfast",
+      "text": "Choose this if your preferred breakfast centres on egg, bacon and sausage, with beans, hash browns and buttered toast completing the familiar combination."
+    },
+    {
+      "title": "A hearty morning meal",
+      "text": "The substantial mix suits diners wanting a hearty start to the day. Check the calorie information if you are deciding how it fits your plans."
+    },
+    {
+      "title": "Breakfast before noon",
+      "text": "It suits a morning pub visit, with breakfast typically served from eight until noon. Confirm the serving window locally before travelling specifically for this plate."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "lavazza-filter-coffee",
+      "reason": "Lavazza Filter Coffee is a straightforward choice if you want coffee alongside the cooked breakfast. Check its local price and availability when ordering."
+    },
+    {
+      "slug": "lavazza-cappuccino",
+      "reason": "Choose Lavazza Cappuccino if that is your preferred coffee with breakfast. Check the drink's nutritional and allergen information separately from the plate."
+    }
+  ],
+  "tips": [
+    "Check your pub's breakfast serving times before setting off, particularly if you expect to arrive close to noon.",
+    "Compare the Traditional Breakfast with the Large Breakfast on the local menu, checking both contents and prices before choosing.",
+    "Ask staff about any ingredient changes before ordering; do not assume a swap is available or leaves the allergen information unchanged.",
+    "Order at the bar or through the Wetherspoon app at your table, checking the displayed local price before confirming.",
+    "Count your chosen drink separately when reviewing the calories for your order, rather than relying only on the breakfast figure."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the Traditional Breakfast at Wetherspoons?",
+      "answer": "The Traditional Breakfast at Wetherspoons typically costs {price}, but prices vary by pub. Each location sets its own prices, so check the current local menu before ordering. Within the {category}, it is {pricePosition}, which helps put the typical cost in context."
+    },
+    {
+      "question": "How many calories are in the Wetherspoons Traditional Breakfast?",
+      "answer": "The Wetherspoons Traditional Breakfast contains {calories} kcal, representing {calorieShare}. That figure applies to the listed breakfast rather than everything you might order alongside it. Additional drinks, sides or sauces can change your total, so check their nutritional information separately when planning your meal."
+    },
+    {
+      "question": "What comes with the Traditional Breakfast at Wetherspoons?",
+      "answer": "The Traditional Breakfast comes with a fried egg, crispy back bacon, a Lincolnshire sausage, baked beans, two hash browns and a slice of toast with butter. The description specifies a runny egg yolk and a warm plate. Check with the pub before ordering if you want any changes."
+    },
+    {
+      "question": "What time is the Wetherspoons Traditional Breakfast served?",
+      "answer": "The Traditional Breakfast is listed as served daily from eight in the morning until noon. Breakfast service is typically within that window, but confirm the timing with your chosen pub before making a special trip. Arriving close to noon makes that local check particularly useful."
+    },
+    {
+      "question": "Is the Wetherspoons Traditional Breakfast vegetarian?",
+      "answer": "The Wetherspoons Traditional Breakfast is not vegetarian or vegan because it includes back bacon and Lincolnshire sausage. The same breakfast section lists a Vegetarian Breakfast and a Vegan Breakfast as alternatives. Check their current ingredients and [allergen information](/allergen-information) rather than assuming that removing the meat makes this plate suitable."
+    },
+    {
+      "question": "What allergens are in the Wetherspoons Traditional Breakfast?",
+      "answer": "Eggs are the listed allergen for the Wetherspoons Traditional Breakfast in our data. This is not a complete assurance about every ingredient or preparation detail. Anyone with an allergy or intolerance should consult the pub's current [allergen information](/allergen-information), and check again if requesting substitutions."
+    },
+    {
+      "question": "Does the Wetherspoons Traditional Breakfast include a drink?",
+      "answer": "A drink is not listed among the Traditional Breakfast components in our data, so do not assume one is included in the typical {price}. Check the local menu for the current ordering options. Lavazza Filter Coffee and Lavazza Cappuccino are drinks to consider alongside it, subject to local availability."
+    },
+    {
+      "question": "Can I order the Wetherspoons Traditional Breakfast on the app?",
+      "answer": "You can order at your table using the Wetherspoon app, or place your order at the bar. Check that the Traditional Breakfast is available at your chosen pub when ordering, along with its current price. Breakfast is typically served from eight in the morning until noon."
+    }
+  ],
+  "slug": "traditional-breakfast",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

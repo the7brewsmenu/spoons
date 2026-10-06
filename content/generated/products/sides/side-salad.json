@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Wetherspoons Side Salad Price and Calories 2026",
+    "description": "Wetherspoons side salad costs a typical {price} and has {calories} kcal. Get crisp vegetables with tangy vinaigrette, plus ingredients and dietary guidance."
+  },
+  "subtitle": "A crisp vegetable side with tangy vinaigrette, suited to vegan diners and anyone wanting a fresh contrast to richer mains.",
+  "quickAnswer": "The Wetherspoons side salad costs a typical {price}, contains {calories} kcal and comes with iceberg lettuce, cherry tomatoes, cucumber, red onion and vinaigrette dressing. Prices vary by pub. Listed in the {category} section, it is a chilled, crunchy accompaniment with vegan and vegetarian tags in our data.",
+  "components": [
+    {
+      "name": "Iceberg lettuce",
+      "note": "Torn iceberg lettuce gives the salad its crisp base and a light texture alongside the dressing."
+    },
+    {
+      "name": "Cherry tomatoes",
+      "note": "Juicy cherry tomatoes add colour and a softer bite against the crunchy lettuce and cucumber."
+    },
+    {
+      "name": "Cucumber slices",
+      "note": "Crisp cucumber slices reinforce the refreshing character of the salad and provide another layer of crunch."
+    },
+    {
+      "name": "Red onion rings",
+      "note": "Sharp red onion rings bring a more assertive flavour to the otherwise light vegetable mix."
+    },
+    {
+      "name": "Vinaigrette dressing",
+      "note": "The tangy vinaigrette lightly coats the vegetables, adding acidity that contrasts with the richness of heavier mains."
+    }
+  ],
+  "taste": "The side salad is crisp, chilled and tangy, with a clear contrast between crunchy vegetables and juicy tomatoes. Torn iceberg lettuce provides the base, while cucumber slices add more crunch. Red onion rings bring a sharp edge that makes this more than a mild lettuce accompaniment. The cherry tomatoes offer a softer bite within the mix.\n\nA light coating of vinaigrette supplies the acidity rather than a heavy dressing. That tang is particularly useful alongside a rich lasagne or hearty burger, where the cool vegetables provide a fresh textural contrast. Choose it when you want your side to balance the main rather than add more richness.",
+  "value": "The side salad offers value if you want a fresh accompaniment rather than another substantial element on the plate. Its typical price is {price}, and it is {pricePosition}; the amount charged varies by pub.\n\nCompare it with Bowl of Chips, Bowl of Chips with Cheese or Garlic Pizza Bread according to what you want from your side. Here, you are paying for crisp vegetables and a tangy dressing. It is a useful addition to a richer main, but check the combined meal cost before adding it to your order.",
+  "nutrition": "The side salad contains {calories} kcal, representing {calorieShare}. Within the {category} section, it is {caloriePosition}. That figure is for the salad, not the whole meal, so use it as one part of your ordering decision.\n\nYour main, any additional sides, extra sauces and drinks all affect the total. The described salad already includes vinaigrette, so [check the current nutrition](/nutrition-information) information if you request a different dressing or another adjustment. A light accompaniment does not make the rest of the order light.",
+  "dietaryGuidance": "The side salad is tagged vegan and vegetarian in our data, with no allergens listed in that record. An empty allergen list is not confirmation that the dish is suitable for every allergy or intolerance.\n\nAnyone with an allergy should check the pub's current [allergen information](/allergen-information) before ordering, including the vinaigrette dressing. Ask staff about preparation and possible cross-contact if these matter to you. Ingredient swaps, dressing changes or additions can alter the dietary suitability and allergen information, so check the version you intend to order.",
+  "bestFor": [
+    {
+      "title": "Balancing a rich main",
+      "text": "Choose this alongside a rich lasagne or hearty burger when you want chilled vegetables and tangy dressing to provide a fresh contrast."
+    },
+    {
+      "title": "Vegan side choices",
+      "text": "The vegan tag makes this worth considering when choosing a vegetable accompaniment. Check current ingredients with the pub if your dietary requirements need closer attention."
+    },
+    {
+      "title": "Fans of crisp textures",
+      "text": "Iceberg lettuce and cucumber give this side plenty of crunch, while juicy tomatoes vary the texture. It suits diners who enjoy sharp onion and tangy dressing."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "vegan-chocolate-tart",
+      "reason": "Vegan Chocolate Tart is a dessert to consider after a meal with this vegan-tagged side; check current dietary information for the complete order."
+    },
+    {
+      "slug": "lavazza-filter-coffee",
+      "reason": "Lavazza Filter Coffee is an option for finishing the meal if you prefer coffee afterwards rather than adding a dessert."
+    }
+  ],
+  "tips": [
+    "Check the price at your chosen pub before ordering, as {price} is a typical figure rather than a fixed charge across locations.",
+    "Order it alongside a rich lasagne or hearty burger if you want the vinaigrette and chilled vegetables to contrast with the main.",
+    "If sharp red onion or tangy dressing is not to your taste, ask whether an adjustment is possible before placing your order.",
+    "Use the bar or Wetherspoon app to order, but speak to staff first if you need current allergen information or an ingredient adjustment."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the side salad at Wetherspoons?",
+      "answer": "The side salad at Wetherspoons costs a typical {price}, with prices varying by pub. In our tracked {category} section, it is {pricePosition}. Check the menu at your chosen location before ordering, and include the cost of your main and any drink when comparing the full meal."
+    },
+    {
+      "question": "How many calories are in the Wetherspoons side salad?",
+      "answer": "The Wetherspoons side salad contains {calories} kcal, which represents {calorieShare}. It is {caloriePosition} in the {category} section we track. This figure covers the salad rather than your whole order, so account separately for the main, other [sides](/sides), additional sauces and drinks."
+    },
+    {
+      "question": "What comes in the Wetherspoons side salad?",
+      "answer": "The Wetherspoons side salad contains torn iceberg lettuce, cherry tomatoes, cucumber slices and red onion rings, lightly tossed in vinaigrette dressing. It is described as served chilled and crisp. Expect crunchy vegetables, juicy tomatoes and a tangy dressing, with the red onion adding a sharper flavour."
+    },
+    {
+      "question": "Is the Wetherspoons side salad vegan?",
+      "answer": "The Wetherspoons side salad is tagged vegan and vegetarian in our data. Its described ingredients are iceberg lettuce, cherry tomatoes, cucumber, red onion and vinaigrette dressing. Check the pub's current dietary information before ordering if you need confirmation, particularly when requesting a different dressing, a swap or an addition."
+    },
+    {
+      "question": "Does the Wetherspoons side salad contain allergens?",
+      "answer": "No allergens are listed for the Wetherspoons side salad in our data, but that does not establish suitability for someone with an allergy. Check the pub's current [allergen information](/allergen-information), including the dressing, and ask staff about preparation or cross-contact. Swaps and additions can change the relevant allergen information."
+    },
+    {
+      "question": "Can I get the Wetherspoons side salad as a meal deal?",
+      "answer": "A meal deal for the Wetherspoons side salad is not confirmed in our data. Many mains can be ordered with an eligible soft or alcoholic drink, but that does not establish that a separate salad is included. Check the current menu at your pub for what your chosen meal covers."
+    },
+    {
+      "question": "What does the Wetherspoons side salad go with?",
+      "answer": "The Wetherspoons side salad works well alongside a rich lasagne or hearty burger because its chilled vegetables and acidic vinaigrette provide contrast. Lettuce and cucumber add crunch, while tomatoes bring a juicy texture. It is a useful choice when you want freshness beside the main rather than more richness."
+    }
+  ],
+  "slug": "side-salad",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "title": "Wetherspoons Grilled Chicken Breast Burger Price and Calories 2026",
+    "description": "Wetherspoons grilled chicken breast burger comes with chips, lettuce and tomato. Check typical prices, calories and allergens before you order."
+  },
+  "subtitle": "Grilled chicken breast in a toasted bun with salad and chips, suited to diners who prefer straightforward burger flavours.",
+  "quickAnswer": "The Wetherspoons grilled chicken breast burger typically costs {price}, contains {calories} kcal and comes with a soft toasted bun, lettuce, tomato and chips. Prices vary by pub. It is a straightforward choice for diners who want grilled chicken with fresh salad rather than a more elaborate burger.",
+  "components": [
+    {
+      "name": "Grilled chicken breast",
+      "note": "Tender grilled chicken breast provides the main flavour, with a clean, roasted character that keeps the burger straightforward."
+    },
+    {
+      "name": "Soft toasted bun",
+      "note": "The soft toasted bun holds the chicken and salad together, adding a gentle contrast to the crisp lettuce."
+    },
+    {
+      "name": "Fresh lettuce",
+      "note": "Crisp fresh lettuce brings crunch to each bite, contrasting with the tender chicken and the soft toasted bun."
+    },
+    {
+      "name": "Ripe tomato",
+      "note": "Ripe tomato adds a fresh element alongside the lettuce, complementing the chicken without complicating the burger's simple flavour."
+    },
+    {
+      "name": "Chips",
+      "note": "A hearty helping of chips accompanies the burger, making this a full plate rather than a burger served alone."
+    }
+  ],
+  "taste": "This burger centres on tender grilled chicken, with clean, roasted flavours rather than a complicated combination of toppings. The soft toasted bun provides a gentle bite around the breast, while crisp lettuce adds a distinct crunch. Ripe tomato brings another fresh element, keeping the salad noticeable alongside the chicken rather than merely decorative.\n\nA hearty helping of chips makes the plate more substantial than the burger's simple filling might suggest. The appeal is the contrast between tender meat, soft bread and crisp salad, with the chips alongside. It suits a preference for straightforward flavours, but that lighter style should not be confused with a claim about its calorie ranking.",
+  "value": "At a typical {price}, this burger offers a complete plate with chips rather than just the filled bun. Its price position is {pricePosition}, which helps place it within the {category} selection we track. Local prices vary, so check your chosen pub before ordering.\n\nFor comparison, consider the American Cheese Burger or Fried Buttermilk Chicken Burger when deciding which style appeals most. Many mains can be ordered with an eligible drink, so ask whether this burger has a meal option and compare the total with ordering separately.",
+  "nutrition": "The listed energy figure is {calories} kcal, equivalent to {calorieShare}. Its position is {caloriePosition} within the {category} selection we track. Use that figure to judge how the meal fits your day, rather than assuming grilled chicken makes the whole plate a low-calorie choice.\n\nChips are part of the described serving. Additional sides, sauces or drinks can change the total, so check their nutrition separately. If you request changes, confirm which serving the displayed calorie figure covers.",
+  "dietaryGuidance": "This chicken burger is not suitable for vegetarian or vegan diners, and our data carries no dietary tags for it. The listed allergens are cereals containing gluten and sesame. Anyone avoiding either should check the pub's current [allergen information](/allergen-information) before ordering.\n\nThe list should not be treated as assurance about other allergens or individual requirements. Ask staff about the complete meal, including chips and any additions. Swapping components or adding sauces can change the allergens involved, so recheck the altered order.",
+  "bestFor": [
+    {
+      "title": "Straightforward burger preferences",
+      "text": "Choose this if tender grilled chicken, a toasted bun and fresh salad sound more appealing than a burger built around a more elaborate combination."
+    },
+    {
+      "title": "A full pub meal",
+      "text": "The included chips make this useful when you want a burger with an accompanying side, without needing to add another dish to complete the plate."
+    },
+    {
+      "title": "Comparing chicken options",
+      "text": "Consider it alongside the Fried Buttermilk Chicken Burger if you are choosing between chicken burgers and prefer the clean, roasted flavour described here."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "side-salad",
+      "reason": "A side salad suits diners who want more salad alongside the burger, rather than adding another portion of chips already included."
+    },
+    {
+      "slug": "mini-chocolate-brownie",
+      "reason": "The Mini Warm Chocolate Brownie gives you a chocolate dessert to follow a savoury meal whose main appeal is its straightforward chicken flavour."
+    },
+    {
+      "slug": "lavazza-filter-coffee",
+      "reason": "Lavazza Filter Coffee is an option to finish with after the burger, particularly if you would rather order coffee than a dessert."
+    }
+  ],
+  "tips": [
+    "Check the price at your chosen pub before ordering, as {price} is typical rather than a fixed price across locations.",
+    "Chips already accompany the burger, so consider whether you need an extra side before adding another portion to your order.",
+    "Ask which drinks are eligible if a meal option is offered, then compare the combined total with ordering your drink separately.",
+    "Check current gluten and sesame information with staff before ordering, and repeat that check if you request any swaps or additions.",
+    "Order at the bar or through the Wetherspoon app at your table, checking the local listing for the serving and options shown."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the grilled chicken breast burger at Wetherspoons?",
+      "answer": "The Wetherspoons grilled chicken breast burger typically costs {price}, but prices vary by pub. The described meal includes the burger and chips. Check the menu at your chosen location for its current price, and compare any eligible drink option with buying the drink separately."
+    },
+    {
+      "question": "How many calories are in the Wetherspoons grilled chicken breast burger?",
+      "answer": "The listed calorie figure for the Wetherspoons grilled chicken breast burger is {calories} kcal, equivalent to {calorieShare}. Its calorie position is {caloriePosition} in the [burgers](/burgers) selection we track. Extra sides, sauces and drinks can change your meal total, so check those separately before ordering."
+    },
+    {
+      "question": "What comes with the grilled chicken breast burger at Wetherspoons?",
+      "answer": "The Wetherspoons grilled chicken breast burger comes in a soft toasted bun with crisp fresh lettuce and ripe tomato, accompanied by chips. Tender grilled chicken breast is the main filling. Check with your chosen pub if you want to change any component of the described serving."
+    },
+    {
+      "question": "Is the Wetherspoons grilled chicken breast burger vegetarian?",
+      "answer": "No, the Wetherspoons grilled chicken breast burger contains chicken and is not suitable for vegetarian or vegan diners. Our data carries no dietary tags for this dish. The Beyond Meat Plant-Based Burger and Fiesta Burger have vegetarian and vegan tags in our data, but check current details with the pub."
+    },
+    {
+      "question": "What allergens are listed for the grilled chicken breast burger?",
+      "answer": "Cereals containing gluten and sesame are the listed allergens in our data for the Wetherspoons grilled chicken breast burger. Check the pub's current [allergen information](/allergen-information) before ordering, especially if you have an allergy or intolerance. Changes to the bun, sides or other components can alter the allergen information."
+    },
+    {
+      "question": "Can I get the grilled chicken breast burger as a meal deal?",
+      "answer": "You will need to check with your pub whether the grilled chicken breast burger can be ordered with an eligible drink. Many Wetherspoons mains have a meal option with a soft or alcoholic drink, but that general offer does not confirm this burger's inclusion. Compare the local options before ordering."
+    },
+    {
+      "question": "Is the Wetherspoons grilled chicken breast burger grilled or fried?",
+      "answer": "The chicken breast in the Wetherspoons grilled chicken breast burger is grilled, according to the dish description. It is served in a soft toasted bun with lettuce, tomato and chips. For a different chicken option, compare the Fried Buttermilk Chicken Burger on the same menu section."
+    }
+  ],
+  "slug": "grilled-chicken-breast-burger",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

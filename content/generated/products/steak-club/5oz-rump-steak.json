@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "title": "Wetherspoons 5oz Rump Steak Price and Calories 2026",
+    "description": "Wetherspoons five ounce rump steak comes with chips, peas, tomato and mushroom. Check the typical price of {price}, allergens and Tuesday Steak Club details."
+  },
+  "subtitle": "A smaller grilled rump steak with classic sides, suited to a lighter appetite at lunch or dinner.",
+  "quickAnswer": "The typical price of {name} is {price}, though prices vary by pub. Calories are not verified in our data, so check Wetherspoon’s current nutrition information before ordering. The plate comes with chips, peas, a grilled tomato and a flat mushroom, with the steak grilled to your liking.",
+  "components": [
+    {
+      "name": "Rump steak",
+      "note": "The smaller rump steak brings rich, savoury beef flavour and a firm texture, grilled to your liking."
+    },
+    {
+      "name": "Chips",
+      "note": "Golden chips provide the classic steak accompaniment, completing the plate alongside the beef and vegetables."
+    },
+    {
+      "name": "Peas",
+      "note": "Sweet peas offer a contrast to the savoury beef flavour and sit alongside the other classic sides."
+    },
+    {
+      "name": "Grilled tomato",
+      "note": "The grilled tomato adds another vegetable element to the plate, alongside the peas and flat mushroom."
+    },
+    {
+      "name": "Flat mushroom",
+      "note": "A flat mushroom completes the vegetable accompaniments, keeping the smaller steak within a classic steakhouse-style plate."
+    }
+  ],
+  "taste": "This is a smaller steak plate with rich, savoury beef flavour and a satisfyingly firm texture. The rump is grilled to your liking, so state your preferred doneness when ordering. Its appeal is the combination of a modest steak portion and familiar accompaniments, rather than a large serving of meat.\n\nGolden chips, sweet peas, a grilled tomato and a flat mushroom round out the plate. The peas bring sweetness against the beef’s savoury character, while the full set of sides keeps it recognisably a classic steak meal. It suits an appetite that wants steak without choosing a larger cut.",
+  "value": "The typical price is {price}, with the actual price set by each pub. Value here rests on getting a smaller steak with chips and vegetables, rather than choosing a larger cut such as the sirloin steak or Aberdeen Angus rump steak. Mixed Grill and Large Mixed Grill are other options to compare if appetite is your main concern.\n\n[Steak Club](/steak-club) pricing applies on Tuesdays at participating pubs, often with a drink included. Check the local price and eligible drinks before deciding which option offers better value for your visit.",
+  "nutrition": "Calorie information for {name} is not verified in our data, so check Wetherspoon’s current [nutrition information](/nutrition-information) for the full meal. A smaller steak portion should not be treated as a confirmed low-calorie choice.\n\nUse the information for the plate as ordered, including chips and vegetables. If you change sides or add a sauce or drink, check the corresponding nutrition details rather than relying on the steak figure alone.",
+  "dietaryGuidance": "This beef steak is not suitable for vegetarians or vegans, and our data lists no dietary tags for the dish. Mustard and sulphur dioxide are the recorded allergens, so diners who need to avoid either should check Wetherspoon’s current [allergen information](/allergen-information) before ordering.\n\nThe listing does not establish suitability for any other dietary requirement. Ask the pub about your specific needs, including any proposed swaps, because changing sides or adding sauces can change the allergen information that applies.",
+  "bestFor": [
+    {
+      "title": "A lighter appetite",
+      "text": "Choose this when you want the flavour and firm texture of rump steak but a smaller meat portion, with chips and vegetables still included."
+    },
+    {
+      "title": "A steak lunch",
+      "text": "The modest steak portion suits a lunch built around a classic pub plate, without making a larger cut the centre of the meal."
+    },
+    {
+      "title": "A modest evening meal",
+      "text": "This is an option for an evening when you fancy grilled beef and familiar sides but do not want a larger steak or mixed grill."
+    },
+    {
+      "title": "Tuesday menu comparisons",
+      "text": "Consider it when comparing Steak Club choices on Tuesday. Check the participating pub’s pricing and drink options before weighing it against a larger steak."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "mini-chocolate-brownie",
+      "reason": "A mini warm chocolate brownie is worth considering if you want a dessert after choosing a smaller steak portion rather than a larger main."
+    },
+    {
+      "slug": "side-salad",
+      "reason": "A side salad gives you another accompaniment to consider alongside the included chips and vegetables, without ordering a second helping of chips."
+    },
+    {
+      "slug": "large-pepsi-max",
+      "reason": "Large Pepsi Max is a soft drink option to consider with the meal. Check whether it qualifies for the pub’s current meal deal."
+    }
+  ],
+  "tips": [
+    "State your preferred steak doneness when ordering, as the rump is grilled to your liking rather than described with a fixed level of cooking.",
+    "Check Tuesday Steak Club pricing at your chosen pub, including which drinks qualify, before comparing the deal with the standard meal price.",
+    "Review the current allergen information if you need to avoid mustard or sulphur dioxide, and ask again if you change any accompaniments.",
+    "Remember that chips, peas, grilled tomato and a flat mushroom are already included before deciding whether to order an extra side.",
+    "Use Wetherspoon’s current nutrition information for your exact order, since our data does not provide a verified calorie figure for this plate."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the smaller rump steak at Wetherspoons?",
+      "answer": "The typical price of {name} at Wetherspoons is {price}, but prices vary by pub. Tuesday [Steak Club](/steak-club) pricing may differ at participating locations, often with a drink included. Check the price and eligible drink options at your chosen pub before ordering or comparing it with another steak."
+    },
+    {
+      "question": "How many calories are in the Wetherspoons rump steak meal?",
+      "answer": "Calories for {name} are not verified in our data, so check Wetherspoon’s current [nutrition](/nutrition-information) information for an accurate figure. Look for the complete plate, including chips and vegetables, rather than the steak alone. Any changed sides, added sauces or drinks should also be included when assessing your order."
+    },
+    {
+      "question": "What comes with the smaller rump steak at Wetherspoons?",
+      "answer": "{name} comes with golden chips, sweet peas, a grilled tomato and a flat mushroom. The rump steak itself is grilled to your liking and has a rich, savoury beef flavour with a firm texture. It is a smaller steak option served with classic accompaniments."
+    },
+    {
+      "question": "Is the Wetherspoons rump steak vegetarian?",
+      "answer": "{name} is a beef steak, so it is not suitable for vegetarians or vegans. Our data lists no dietary tags for this dish. The included vegetables do not change the suitability of the main meal, so diners avoiding meat should choose a different dish and check its current dietary information."
+    },
+    {
+      "question": "What allergens are listed for the Wetherspoons rump steak?",
+      "answer": "Mustard and sulphur dioxide are the allergens listed in our data for {name}. Anyone who needs to avoid either should consult Wetherspoon’s current [allergen information](/allergen-information) and speak to the pub before ordering. Do not assume a swap makes the meal suitable, as altered sides or sauces can change the relevant allergen details."
+    },
+    {
+      "question": "Can I get the Wetherspoons rump steak as a meal deal?",
+      "answer": "[Steak Club](/steak-club) pricing is listed for {name} on Tuesdays, and participating pubs often include a drink with Steak Club meals. Many mains can also be ordered with an eligible soft or alcoholic drink. Confirm the options, qualifying drinks and local price at your chosen pub before placing your order."
+    },
+    {
+      "question": "Can I choose how my Wetherspoons rump steak is cooked?",
+      "answer": "Yes, {name} is described as grilled to your liking, so state your preferred doneness when ordering. The cut has a firm texture and rich, savoury beef flavour. If you have a particular cooking request, ask the pub what it can accommodate before placing your order."
+    }
+  ],
+  "slug": "5oz-rump-steak",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

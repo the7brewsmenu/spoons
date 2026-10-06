@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "title": "Wetherspoons Large Pepsi Max Price and Calories 2026",
+    "description": "Wetherspoons Large Pepsi Max costs a typical {price} with {calories} kcal. See how this zero-sugar cola tastes, what comes with it and dietary guidance."
+  },
+  "subtitle": "A large, ice-cold zero-sugar cola for drivers and anyone wanting a bold, sweet soft drink with their meal.",
+  "quickAnswer": "Large Pepsi Max costs a typical {price}, contains {calories} kcal and comes served over plenty of ice in a large glass. Prices vary by pub. This zero-sugar, non-alcoholic cola has a bold, intensely sweet flavour and lively bubbles, making it a refreshing option alongside food.",
+  "components": [
+    {
+      "name": "Pepsi Max",
+      "note": "The zero-sugar cola brings a bold, crisp flavour, intense sweetness and lively carbonation to the large glass."
+    },
+    {
+      "name": "Ice cubes",
+      "note": "Plenty of ice cubes keep the drink ice-cold and add to its refreshing character as you sip."
+    }
+  ],
+  "taste": "Large Pepsi Max is a bold, intensely sweet cola with a crisp finish and lively carbonation. The bubbles give each sip a noticeable fizz, while the sharp cola flavour makes it more than a neutral drink alongside food. Although it contains no sugar, the taste is firmly on the sweet side, so it suits someone who wants sweetness rather than a restrained soft drink.\n\nServed ice-cold over plenty of ice cubes, it has a refreshing character from the first sip. The large glass suits anyone wanting a substantial non-alcoholic drink. Alongside spicy meat feast pizza or a BBQ bacon burger, its sharpness acts as a palate cleanser between bites.",
+  "value": "Large Pepsi Max is worth considering if you want a substantial zero-sugar soft drink at a typical {price}. Within the [drinks menu](/drinks-menu), it is {pricePosition}; local prices vary, so check your chosen pub before ordering.\n\nDiet Coke (Pint) is the other named cola option to compare, while Lavazza Filter Coffee offers a different choice from the same section. Many mains can be ordered with an eligible drink, but the supplied details do not confirm that this particular serving qualifies. Check the meal options before paying separately.",
+  "nutrition": "Large Pepsi Max contains {calories} kcal, representing {calorieShare}. It is {caloriePosition} within the drinks menu items we track. The zero-sugar description makes it a relevant option if you want a sweet cola without sugar.\n\nThat figure covers the drink, not the food you order alongside it. A main, extra sides, sauces or another drink will change the overall total, so consider the whole order rather than using the cola's calorie figure as a guide to the meal.",
+  "dietaryGuidance": "Large Pepsi Max is tagged as vegan and vegetarian in our data. No allergens are listed in the information supplied to us, but an empty allergen list is not confirmation that a drink is suitable for every allergy.\n\nAnyone with an allergy or a specific dietary requirement should check the pub's current [allergen information](/allergen-information) before ordering. Swaps or additions can change the allergen picture, and food ordered alongside the drink needs its own check rather than relying on these drink tags.",
+  "bestFor": [
+    {
+      "title": "Drivers wanting cola",
+      "text": "Large Pepsi Max suits drivers looking for a non-alcoholic drink with a bold flavour. The large glass and plenty of ice make it a substantial, refreshing choice."
+    },
+    {
+      "title": "Zero-sugar preferences",
+      "text": "This is a useful choice if you want zero-sugar cola but still enjoy an intensely sweet taste. Its crispness and lively bubbles keep the drinking experience distinctly fizzy."
+    },
+    {
+      "title": "Spicy or BBQ meals",
+      "text": "The sharp cola flavour suits spicy meat feast pizza or a BBQ bacon burger, acting as a palate cleanser between bites rather than a neutral accompaniment."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "bowl-of-chips",
+      "reason": "Choose a Bowl of Chips if you want a side alongside your drink; the crisp, bubbly cola provides a refreshing contrast between bites."
+    },
+    {
+      "slug": "vegan-chocolate-tart",
+      "reason": "Vegan Chocolate Tart is an option for a dessert alongside this vegan-tagged drink. Expect the cola to bring its own intense sweetness to the pairing."
+    }
+  ],
+  "tips": [
+    "Check the price at your chosen pub before ordering, since {price} is typical rather than a fixed price across Wetherspoons locations.",
+    "Ask whether the large serving is an eligible drink with your main before ordering it separately; the supplied information does not confirm inclusion.",
+    "Expect plenty of ice in the large glass. If you prefer a different amount, ask the pub whether it can accommodate your request.",
+    "Use the bar or Wetherspoon app to place your order, and check current allergen information first if you have a dietary concern."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the Large Pepsi Max at Wetherspoons?",
+      "answer": "Large Pepsi Max costs a typical {price} at Wetherspoons, although prices vary by pub. It is {pricePosition} among the [drinks menu](/drinks-menu) items we track. Check your chosen pub's current menu before ordering, and confirm any meal-and-drink option rather than assuming this serving is included."
+    },
+    {
+      "question": "How many calories are in Wetherspoons Large Pepsi Max?",
+      "answer": "Wetherspoons Large Pepsi Max contains {calories} kcal, equivalent to {calorieShare}. That makes it {caloriePosition} among the [drinks menu](/drinks-menu) items we track. The figure applies to the drink alone, so any main, sides, sauces or additional drinks need to be considered separately when looking at your whole order."
+    },
+    {
+      "question": "What comes with the Large Pepsi Max at Wetherspoons?",
+      "answer": "Large Pepsi Max comes in a large glass, served ice-cold over plenty of ice cubes. The supplied description does not name any other additions. Expect a zero-sugar cola with bold flavour, intense sweetness and lively bubbles, rather than a drink with a listed garnish or accompaniment."
+    },
+    {
+      "question": "Is Wetherspoons Large Pepsi Max vegan or vegetarian?",
+      "answer": "Large Pepsi Max is tagged as both vegan and vegetarian in our data. Those tags apply to the drink, not automatically to any food ordered with it. If you have a specific dietary requirement, check the pub's current information, especially if requesting a swap or addition."
+    },
+    {
+      "question": "Does the Large Pepsi Max have any listed allergens?",
+      "answer": "No allergens are listed for Large Pepsi Max in the data supplied to us, but that does not establish suitability for every allergy. Check the pub's current [allergen information](/allergen-information) before ordering if you need to avoid a particular allergen. Any swaps, additions or accompanying food require a separate check."
+    },
+    {
+      "question": "Can I get Large Pepsi Max as part of a Wetherspoons meal deal?",
+      "answer": "The supplied information does not confirm whether Large Pepsi Max is eligible for a meal-and-drink option. Many Wetherspoons mains can be ordered with an eligible soft or alcoholic drink, so check the options for your chosen meal and pub before ordering this large serving separately."
+    },
+    {
+      "question": "Is Wetherspoons Large Pepsi Max sugar-free and non-alcoholic?",
+      "answer": "Large Pepsi Max is described as a zero-sugar, non-alcoholic cola, making it a relevant choice for drivers or anyone avoiding alcohol. Its flavour is still intensely sweet, with a crisp edge and lively carbonation. Served over plenty of ice, it suits someone wanting a substantial cold soft drink."
+    }
+  ],
+  "slug": "large-pepsi-max",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

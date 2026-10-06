@@ -1,0 +1,26 @@
+{
+  "city": "sheffield",
+  "localNote": "Sheffield's four Wetherspoons are spread across the city centre and suburbs. The Bankers Draft on Market Place is the most central, The Roebuck is also in the city centre, The Rawson Spring in Hillsborough occupies a converted swimming baths, and The Woodseats Palace in the south is named after a much-loved local cinema.",
+  "pubs": [
+    {
+      "name": "The Bankers Draft",
+      "history": "A Grade II listed building designed by architect Walter Brierley in 1904 for the York City and County Bank. The site has a long connection to banking; the Sheffield Old Bank stood here before collapsing in 1785. The building became a Midland Bank branch in 1918 and served until 1989.",
+      "nearestStation": "Sheffield station, about 10 minutes on foot",
+      "features": ["Listed building"]
+    },
+    {
+      "name": "The Roebuck",
+      "nearestStation": "Sheffield station, about 8 minutes on foot"
+    },
+    {
+      "name": "The Rawson Spring",
+      "history": "Housed in the former Hillsborough Baths building. Named after a farm and natural spring that once supplied water to the local military barracks. The Hillsborough area was largely undeveloped until the 1860s.",
+      "nearestStation": "Sheffield station, about 20 minutes by bus"
+    },
+    {
+      "name": "The Woodseats Palace",
+      "history": "Named after the Woodseats Palace cinema which opened on this site in 1911, originally seating 500 and later expanding to 800 with a balcony in 1920. The cinema closed in September 1961 and the building was later demolished. The pub keeps the name alive.",
+      "nearestStation": "Sheffield station, about 15 minutes by bus"
+    }
+  ]
+}

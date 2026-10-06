@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Wetherspoons Chicken Tikka Masala Price and Calories 2026",
+    "description": "Wetherspoons chicken tikka masala costs a typical {price}, with {calories} kcal, pilau rice and naan. Check mild flavours, allergens and Thursday pricing."
+  },
+  "subtitle": "A mild chicken curry with creamy tomato sauce, pilau rice and naan, suited to diners who prefer flavour over heat.",
+  "quickAnswer": "Wetherspoons chicken tikka masala costs a typical {price}, contains {calories} kcal and comes with pilau rice and naan bread. The curry combines marinated chicken with a creamy tomato-based sauce and mild aromatic spices. Prices vary by pub, with [Curry Club](/curry-club) pricing on Thursdays, so check your chosen location before ordering.",
+  "components": [
+    {
+      "name": "Marinated chicken",
+      "note": "Tender pieces of marinated chicken give the curry its main substance, coated in the rich, mildly spiced sauce."
+    },
+    {
+      "name": "Creamy tomato sauce",
+      "note": "Tomato, cream and aromatic spices create a velvety sauce with balanced sweet and earthy flavours rather than strong heat."
+    },
+    {
+      "name": "Pilau rice",
+      "note": "Fluffy pilau rice accompanies the curry, giving you a base for the chicken and its creamy tomato sauce."
+    },
+    {
+      "name": "Naan bread",
+      "note": "Warm, soft naan bread comes alongside the rice and is useful for mopping up the remaining curry sauce."
+    }
+  ],
+  "taste": "Chicken tikka masala is a mild, creamy curry with a sweet and earthy flavour balance. The tomato-based sauce is enriched with cream, giving it a velvety texture around the tender marinated chicken. Aromatic spices provide flavour without making heat the main attraction. It suits someone looking for a rich curry rather than a strongly spiced meal.\n\nServed hot with fluffy pilau rice and warm, soft naan, the plate offers different textures without moving away from that gentle flavour profile. Spoon the sauce over the rice, then use the naan to mop up what remains. Creaminess is the defining feature, with tomato and spices keeping the flavour balanced.",
+  "value": "At a typical {price}, chicken tikka masala gives you a curry with both pilau rice and naan already included. Its price position is {pricePosition}, which helps place it against the other dishes we track in the {category} section.\n\nCompare it with Chicken Korma or Beef Madras when choosing within the same section, but check local prices before deciding. Thursday [Curry Club](/curry-club) pricing is relevant here. Participating pubs often include a drink with club meals, so confirm the eligible choices and total at your chosen pub rather than assuming every drink is covered.",
+  "nutrition": "The listed energy figure is {calories} kcal, equivalent to {calorieShare}. Its position is {caloriePosition} among the dishes we track in the {category} section. Use those figures to compare options, rather than judging the meal by its mild flavour.\n\n[Check the current nutrition](/nutrition-information) information for what the stated total covers. Extra sides, additional sauces and drinks can change your overall intake, while a dessert adds a separate item to account for. The included rice and naan are worth keeping in mind before ordering more accompaniments.",
+  "dietaryGuidance": "Chicken tikka masala is not suitable for vegetarian or vegan diners because it contains chicken, and the sauce also contains cream. No dietary tags are recorded for this dish in our data. The listed allergens are milk and mustard, so diners avoiding either should take particular care.\n\nDo not treat that short list as a complete allergen assessment for every accompaniment or variation. Ask the pub to check its current [allergen information](/allergen-information) before ordering. Any swaps or additions can change the allergens in the meal.",
+  "bestFor": [
+    {
+      "title": "Mild curry diners",
+      "text": "Choose this if you prefer a curry led by creaminess and aromatic spice rather than heat. The sweet, earthy tomato sauce keeps the flavour gentle but distinct."
+    },
+    {
+      "title": "Rice and naan fans",
+      "text": "This suits diners who want both rice and bread with their curry. Pilau rice takes the sauce, while the soft naan gives you something to mop it up with."
+    },
+    {
+      "title": "Thursday pub meals",
+      "text": "Consider it for a Thursday visit when Curry Club pricing applies. Check your pub's current offer and eligible drinks before deciding whether the club option suits your order."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "side-salad",
+      "reason": "Consider a side salad if you want an accompaniment other than more rice or bread. Check its current contents and dressing with the pub."
+    },
+    {
+      "slug": "mini-chocolate-brownie",
+      "reason": "A Mini Warm Chocolate Brownie gives you a chocolate finish after the creamy curry. Order it separately if you want dessert as well as the main."
+    },
+    {
+      "slug": "large-pepsi-max",
+      "reason": "Large Pepsi Max is a drink option alongside the curry. If ordering a meal deal, check whether it is eligible at your chosen pub."
+    }
+  ],
+  "tips": [
+    "Check Thursday Curry Club pricing at your chosen pub before ordering, including which drinks qualify and how the total compares with ordering separately.",
+    "Allow for the included pilau rice and naan when choosing extras. You already have both accompaniments for the creamy sauce.",
+    "Tell staff if you avoid milk or mustard, and ask them to check the current allergen information for the curry and its accompaniments.",
+    "Use the Wetherspoon app or order at the bar, checking the local price and any available meal-with-drink option before confirming."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the chicken tikka masala at Wetherspoons?",
+      "answer": "Wetherspoons chicken tikka masala costs a typical {price}, but prices vary by pub. It comes with pilau rice and naan bread, so those accompaniments are part of the described meal. Thursday [Curry Club](/curry-club) pricing may affect your choice, so check the current price and drink options at your chosen location."
+    },
+    {
+      "question": "How many calories are in Wetherspoons chicken tikka masala?",
+      "answer": "The listed energy figure for Wetherspoons chicken tikka masala is {calories} kcal, equivalent to {calorieShare}. Check the pub's current [nutrition](/nutrition-information) information to confirm what that figure covers. Additional sides, sauces, drinks or dessert can change the total for your order, so account for those separately when comparing meals."
+    },
+    {
+      "question": "What comes with Wetherspoons chicken tikka masala?",
+      "answer": "Wetherspoons chicken tikka masala comes with fluffy pilau rice and warm, soft naan bread. The curry itself contains tender marinated chicken in a creamy tomato-based sauce with aromatic spices. Both accompaniments work with the sauce, so consider what is already included before adding extra sides to your order."
+    },
+    {
+      "question": "Is Wetherspoons chicken tikka masala spicy?",
+      "answer": "Wetherspoons chicken tikka masala is described as mildly spiced, with a rich, creamy sauce rather than a heat-led flavour. Tomato, cream and aromatic spices give it a sweet and earthy balance. It is a suitable choice if you prefer a gentler curry, though individual tolerance for spice varies."
+    },
+    {
+      "question": "Is Wetherspoons chicken tikka masala vegetarian or vegan?",
+      "answer": "Wetherspoons chicken tikka masala is neither vegetarian nor vegan because it contains chicken, and its sauce contains cream. The same section includes Sweet Potato, Chickpea & Spinach Curry and Mangalorean Roasted Cauliflower & Spinach Curry, both tagged vegan and vegetarian in our data. Check current accompaniments and [allergen information](/allergen-information) before ordering either alternative."
+    },
+    {
+      "question": "What allergens are listed for Wetherspoons chicken tikka masala?",
+      "answer": "Milk and mustard are the allergens listed for Wetherspoons chicken tikka masala in our data. That list should not replace a check of the pub's current [allergen information](/allergen-information), including the rice and naan. Tell staff what you need to avoid, as substitutions, additions and changes to accompaniments can alter the allergens in your order."
+    },
+    {
+      "question": "Can I get Wetherspoons chicken tikka masala as a meal deal?",
+      "answer": "Wetherspoons chicken tikka masala has Curry Club pricing on Thursdays, and participating pubs often include a drink with club meals. Many mains also have an eligible soft or alcoholic drink option. Check your pub's current menu for the applicable offer, eligible drinks and total, since pricing varies by location."
+    }
+  ],
+  "slug": "chicken-tikka-masala",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

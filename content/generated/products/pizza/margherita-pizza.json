@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Wetherspoons Margherita Pizza Price and Calories 2026",
+    "description": "Wetherspoons margherita pizza costs a typical {price} and has {calories} kcal. Explore its crisp base, toppings and allergen guidance before ordering."
+  },
+  "subtitle": "A thin, crisp pizza with tomato sauce, mozzarella and fresh basil, suited to vegetarians and diners who prefer simple toppings.",
+  "quickAnswer": "The Wetherspoons margherita [pizza](/pizza) costs a typical {price}, contains {calories} kcal and comes with tomato sauce, mozzarella and fresh basil on a thin, crisp base. Prices vary by pub. The listed dish is vegetarian, with cereals containing gluten and milk recorded as allergens; check separately before adding sides or a drink.",
+  "components": [
+    {
+      "name": "Thin pizza base",
+      "note": "The thin, crisp base provides a crunchy foundation beneath the softer tomato sauce and melting mozzarella."
+    },
+    {
+      "name": "Tomato sauce",
+      "note": "A generous coating of rich, tangy tomato sauce brings sweetness and acidity to balance the creamy cheese."
+    },
+    {
+      "name": "Mozzarella",
+      "note": "Melting mozzarella blankets the tomato sauce, adding a creamy flavour and gooey texture against the crisp crust."
+    },
+    {
+      "name": "Fresh basil",
+      "note": "A scattering of fresh basil adds an aromatic herbal finish to the tomato and mozzarella toppings."
+    }
+  ],
+  "taste": "Expect a crisp, thin base with a softer topping of tomato sauce and melting mozzarella. The contrast is the main appeal: crunch from the crust, then gooey cheese and a generous layer of sauce. Tomato brings both sweetness and tang, while the mozzarella contributes a creamy flavour rather than competing with the sauce.\n\nFresh basil adds an aromatic finish to that straightforward combination. With just tomato, cheese and herbs over the base, this is a pizza for diners who want those flavours to remain the focus. It is served hot from the oven and can suit sharing, though the simple topping list alone does not tell you how substantial a meal it will be.",
+  "value": "At a typical {price}, this [pizza](/pizza) is {pricePosition} in the pizza section we track. Its value rests on whether you want a straightforward tomato, mozzarella and basil combination rather than a wider range of toppings. Prices vary by pub, so check locally before ordering.\n\nCompare it with Roasted Vegetable Pizza if you want another vegetarian option, or Pepperoni Pizza if vegetarian suitability is not a priority. Many mains can be ordered with an eligible drink, but check whether this pizza qualifies and compare the local meal price with ordering separately.",
+  "nutrition": "The listed pizza contains {calories} kcal, equivalent to {calorieShare}. It is {caloriePosition} in the pizza section we track, which gives you a useful comparison before choosing between pizzas.\n\nUse that figure as the starting point for your order, not the total for a meal with extras. Adding chips, another side, sauces or a drink changes the overall intake. Check the information for each addition separately, and do not assume that a simple topping combination makes this a low-calorie choice.",
+  "dietaryGuidance": "The Margherita Pizza is tagged vegetarian, and our data lists cereals containing gluten and milk as allergens. Mozzarella is part of the topping, so the listed dish is not a vegan choice.\n\nAnyone avoiding gluten or milk should check the pub's current [allergen information](/allergen-information) before ordering. Ask staff about preparation and cross-contact if you have an allergy or coeliac disease. Requested swaps or additions can change the allergen profile, so do not rely on the original listing for a modified order.",
+  "bestFor": [
+    {
+      "title": "Vegetarian pub meals",
+      "text": "Choose this if you want a vegetarian pizza centred on tomato, mozzarella and basil. Check current allergen information separately if dietary suitability involves more than avoiding meat."
+    },
+    {
+      "title": "Simple topping preferences",
+      "text": "This suits diners who prefer a short topping list and a clear contrast between crisp crust, tangy tomato and creamy cheese, rather than several competing flavours."
+    },
+    {
+      "title": "Sharing at the table",
+      "text": "Consider it for sharing when your group wants a straightforward vegetarian option. Decide on any extra sides separately rather than assuming they come with the pizza."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "side-salad",
+      "reason": "Choose a Side Salad if you want something alongside the pizza without repeating its bread and cheese components; check the current contents before ordering."
+    },
+    {
+      "slug": "bowl-of-chips",
+      "reason": "A Bowl of Chips makes sense if you want an extra side for the table, particularly when sharing the pizza rather than ordering individual mains."
+    },
+    {
+      "slug": "mini-chocolate-brownie",
+      "reason": "Mini Warm Chocolate Brownie offers a chocolate finish after the savoury tomato, mozzarella and basil combination; account for the dessert separately when planning your order."
+    }
+  ],
+  "tips": [
+    "Check the price at your chosen pub before ordering, as the typical {price} is a guide rather than a fixed price across locations.",
+    "Ask whether the pizza qualifies for a meal with an eligible drink, then compare that option with ordering your preferred drink separately.",
+    "Check current allergen information for cereals containing gluten and milk, and ask staff about any requested changes before placing the order.",
+    "If sharing, decide whether to add a separate side; the dish description lists the pizza components but does not specify an accompanying side."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the Margherita Pizza at Wetherspoons?",
+      "answer": "The Margherita [Pizza](/pizza) at Wetherspoons costs a typical {price}, with prices set by each pub and varying by location. It is {pricePosition} in the pizza section we track. Check your chosen pub's menu before ordering, and compare any eligible meal-with-drink option separately."
+    },
+    {
+      "question": "How many calories are in the Wetherspoons Margherita Pizza?",
+      "answer": "The Wetherspoons Margherita [Pizza](/pizza) contains {calories} kcal, equivalent to {calorieShare}. It is {caloriePosition} in the pizza section we track. Added sides, sauces, desserts and drinks change the total for your order, so check their nutritional information separately rather than treating the pizza figure as a complete meal total."
+    },
+    {
+      "question": "What comes with the Margherita Pizza at Wetherspoons?",
+      "answer": "The Margherita Pizza comes with tomato sauce, mozzarella and fresh basil on a thin, crisp pizza base. The dish description does not specify an accompanying side or drink. If you want chips, salad or another addition, check the local menu and order it separately unless the pub confirms it is included."
+    },
+    {
+      "question": "Is the Wetherspoons Margherita Pizza vegetarian?",
+      "answer": "The Wetherspoons Margherita Pizza is tagged vegetarian in our data. Its listed toppings are tomato sauce, mozzarella and fresh basil on a thin, crisp base. Because it contains mozzarella and lists milk as an allergen, it is not a vegan choice. Check any changes or additions before ordering."
+    },
+    {
+      "question": "What allergens are in the Wetherspoons Margherita Pizza?",
+      "answer": "The allergens listed for the Wetherspoons Margherita Pizza are cereals containing gluten and milk. Anyone with an allergy or coeliac disease should check the pub's current [allergen information](/allergen-information) and discuss preparation with staff. Swaps and added toppings or sides can change the allergen profile of the order."
+    },
+    {
+      "question": "Can I get the Margherita Pizza as a meal deal?",
+      "answer": "Check with your chosen Wetherspoons pub to confirm whether the Margherita Pizza can be ordered as a meal with an eligible drink. Many mains have this option, but the supplied information does not confirm it for this pizza. Compare the local meal price and eligible drinks before deciding."
+    },
+    {
+      "question": "Is the Wetherspoons Margherita Pizza suitable for sharing?",
+      "answer": "The Wetherspoons Margherita Pizza is described as suitable for sharing and is served hot from the oven. Its tomato, mozzarella and basil toppings offer a straightforward vegetarian option for the table. The supplied information does not specify portion dimensions, so judge whether to add sides or order separate mains at the pub."
+    }
+  ],
+  "slug": "margherita-pizza",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

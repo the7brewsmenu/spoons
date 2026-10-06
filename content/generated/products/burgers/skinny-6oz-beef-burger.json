@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "title": "Wetherspoons Skinny 6oz Beef Burger Price and Calories 2026",
+    "description": "Wetherspoons skinny 6oz beef burger swaps chips for a dressed side salad. Typical price {price}, varying by pub. Check ingredients and allergen advice."
+  },
+  "subtitle": "A juicy beef burger with dressed side salad instead of chips, for diners who want a meaty weekday lunch.",
+  "quickAnswer": "The {name} typically costs {price}, with prices varying by pub. Calories are not verified in our data, so check Wetherspoon's nutrition information. It comes with a beef patty in a soft bun, lettuce, tomato and red onion, plus a side salad with light vinaigrette instead of chips.",
+  "components": [
+    {
+      "name": "Beef patty",
+      "note": "The juicy beef patty provides the rich, savoury flavour at the centre of the burger."
+    },
+    {
+      "name": "Soft bun",
+      "note": "A soft bun gives the juicy beef and crisp lettuce a contrasting texture."
+    },
+    {
+      "name": "Lettuce",
+      "note": "Crisp lettuce adds a fresh texture alongside the beef inside the soft bun."
+    },
+    {
+      "name": "Fresh tomato",
+      "note": "Fresh tomato sits with the lettuce and red onion, adding freshness alongside the savoury beef."
+    },
+    {
+      "name": "Red onion",
+      "note": "Red onion joins the lettuce and tomato as part of the burger's vegetable filling."
+    },
+    {
+      "name": "Side salad",
+      "note": "The side salad replaces chips, giving the plate a crisp contrast to the rich beef."
+    },
+    {
+      "name": "Light vinaigrette",
+      "note": "A light vinaigrette dresses the salad, adding a tangy contrast to the burger's savoury flavour."
+    }
+  ],
+  "taste": "This is a juicy, savoury beef burger with a soft bun and crisp salad rather than chips. The patty brings the richness, while lettuce, fresh tomato and red onion sit inside the bun. That combination keeps the beef at the centre of the meal while providing a mix of soft and crisp textures.\n\nThe side salad is the main departure from the classic version: it comes with a light vinaigrette whose tanginess contrasts with the beef. Expect a meaty lunch with freshness on the side, not a smaller patty or a potato accompaniment.",
+  "value": "The {name} is worth considering if you want the classic beef patty but prefer salad to chips. At a typical {price}, it is {pricePosition}; prices vary by pub.\n\nCompare the local price with the Classic beef burger and American Cheese Burger, then decide how much the salad accompaniment matters to you. Many mains can be ordered with an eligible drink, so ask whether this burger qualifies and check the combined price before ordering.",
+  "nutrition": "Calorie information for the {name} is not verified in our data, so check Wetherspoon's [nutrition information](/nutrition-information) before relying on a total. The salad replaces chips, but that swap alone does not establish how this meal compares nutritionally with other burgers.\n\nIts beef patty, bun and vinaigrette all need to be considered in the meal total. Extra sides, sauces or a drink can change that total, so check the information for everything you order. The word skinny should not be treated as a verified calorie or health claim.",
+  "dietaryGuidance": "This beef burger is not suitable for vegetarians or vegans, and our data lists cereals containing gluten and sesame as allergens. No dietary suitability tags are recorded for this dish.\n\nAnyone with coeliac disease, a gluten-related condition or a sesame allergy should check Wetherspoon's [allergen information](/allergen-information) and speak to the pub before ordering. Do not assume replacing chips with salad changes the listed allergens. If you request a swap or leave something out, ask staff to confirm how that affects the full dish and its preparation.",
+  "bestFor": [
+    {
+      "title": "Weekday lunch",
+      "text": "This suits a weekday lunch when you want a meaty burger with a fresh accompaniment. The dressed salad replaces the potato side without changing the beef patty."
+    },
+    {
+      "title": "Salad over chips",
+      "text": "Choose this if you prefer a crisp, tangy side salad to chips. It keeps the soft bun and beef filling, rather than turning the meal into a bunless option."
+    },
+    {
+      "title": "Classic burger fans",
+      "text": "Fans of the Classic beef burger get the same beef patty with a different accompaniment. That makes it a straightforward choice when the burger matters more than chips."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "large-pepsi-max",
+      "reason": "Large Pepsi Max is an option if you want a drink alongside the burger. Ask whether it is eligible for a meal with a drink."
+    },
+    {
+      "slug": "mini-chocolate-brownie",
+      "reason": "The Mini Warm Chocolate Brownie adds a warm chocolate finish after the savoury beef, if you want dessert rather than another side."
+    },
+    {
+      "slug": "bowl-of-chips",
+      "reason": "A Bowl of Chips lets you have both accompaniments, if you want the dressed salad but do not want to leave potatoes out."
+    }
+  ],
+  "tips": [
+    "Confirm that you want the salad accompaniment when ordering, since this version replaces chips rather than removing the bun or changing the beef patty.",
+    "Check the typical {price} against your pub's menu before ordering, as each location sets its own prices.",
+    "Ask whether this burger can be ordered with an eligible drink, then compare the combined price with ordering your chosen drink separately.",
+    "Consult Wetherspoon's nutrition and allergen information before ordering if calories, gluten or sesame affect your choice; do not rely on the word skinny."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the {name} at Wetherspoons?",
+      "answer": "The {name} has a typical price of {price}, but each pub sets its own prices. In our comparison it is {pricePosition}. Check the menu at your chosen pub for the amount you will pay, and ask whether an eligible drink can be included as part of a meal."
+    },
+    {
+      "question": "How many calories are in the {name}?",
+      "answer": "We do not have verified calories for the {name}, so check Wetherspoon's [nutrition](/nutrition-information) information for the figure before ordering. A salad in place of chips does not establish a calorie saving on its own. Include any extra sides, sauces and drinks when assessing the total for your meal."
+    },
+    {
+      "question": "What comes with the {name}?",
+      "answer": "The {name} comes with a beef patty in a soft bun, lettuce, fresh tomato and red onion, plus a side salad with light vinaigrette. Chips are replaced by salad in this version. The bun is still part of the dish, so skinny does not mean bunless."
+    },
+    {
+      "question": "Is the {name} vegetarian or vegan?",
+      "answer": "No, the {name} is not vegetarian or vegan because it contains a beef patty. Our data records no dietary suitability tags for this dish. For alternatives in the [burgers](/burgers) section, the Beyond Meat Plant-Based Burger and Fiesta Burger are tagged vegan and vegetarian; confirm suitability with the pub before ordering."
+    },
+    {
+      "question": "What allergens are listed for the {name}?",
+      "answer": "Our data lists cereals containing gluten and sesame for the {name}. If you have an allergy or coeliac disease, check Wetherspoon's [allergen information](/allergen-information) and speak to staff before ordering. Any requested swaps or omissions need checking too, as the allergen information for the original dish should not be assumed to cover a changed order."
+    },
+    {
+      "question": "Does the {name} have a smaller beef patty?",
+      "answer": "No, the {name} uses the same beef patty as the Classic beef burger, according to the menu description. Its main change is the dressed side salad in place of chips, not a smaller beef portion. You still get a soft bun with lettuce, fresh tomato and red onion."
+    },
+    {
+      "question": "Can I get the {name} as a meal deal?",
+      "answer": "A meal deal for the {name} is not confirmed in the available information. Many Wetherspoon mains can be ordered with an eligible soft or alcoholic drink, so ask the pub whether this burger qualifies. Check which drinks are included and the combined price rather than assuming every drink is covered."
+    }
+  ],
+  "slug": "skinny-6oz-beef-burger",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

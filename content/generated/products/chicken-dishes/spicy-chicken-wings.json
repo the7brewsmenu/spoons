@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "title": "Wetherspoons 10 Spicy Chicken Wings Price and Calories 2026",
+    "description": "Wetherspoons ten spicy chicken wings cost a typical {price} and contain {calories} kcal. Compare dips, lingering heat and allergen notes before you order."
+  },
+  "subtitle": "Ten crisp, spicy chicken wings with a choice of creamy dip, suited to sharing or a hearty meal for one.",
+  "quickAnswer": "{name} costs a typical {price}, contains {calories} kcal and comes with a choice of blue cheese or garlic dip. Prices vary by pub. The ten wings have a crisp exterior, tender meat and spicy, tangy seasoning with lingering heat, making them suitable for sharing or eating as a hearty meal.",
+  "components": [
+    {
+      "name": "Ten chicken wings",
+      "note": "The wings provide a generous portion of tender, juicy meat beneath a crisp exterior, suitable for sharing or eating alone."
+    },
+    {
+      "name": "Spicy, tangy seasoning",
+      "note": "The coating gives the wings their tangy flavour and lingering heat, making spice a central part of the dish."
+    },
+    {
+      "name": "Blue cheese dip",
+      "note": "This cool, creamy dip is one of the available choices, providing a contrast to the heat of the wings."
+    },
+    {
+      "name": "Garlic dip",
+      "note": "The alternative dip brings a cool, creamy garlic contrast to the spicy coating; choose it instead of blue cheese."
+    }
+  ],
+  "taste": "These wings combine a crisp exterior with tender, juicy chicken and a spicy coating that leaves lingering heat. Tanginess is part of the seasoning too, so the flavour is not simply about chilli intensity. The contrast between the crisp outside and softer meat is central to the dish, which is described as served piping hot.\n\nA choice of cool blue cheese or garlic dip adds a creamy contrast between bites. Neither changes the character of the wings themselves: this remains a heat-led option rather than a mild chicken dish. The generous portion suits sharing, though it is also presented as a hearty meal for one.",
+  "value": "The wings make most sense as a value choice when you want a generous sharing portion or a hearty meal for yourself. At a typical {price}, their price position is {pricePosition} within the {category} items we track. Local prices vary.\n\nCompare them with the Southern-Fried Chicken Strips Basket or Chicken Breast Bites Basket before deciding which format you want. Many mains can be ordered with an eligible drink, but check whether these wings qualify at your chosen pub rather than assuming a drink is included.",
+  "nutrition": "The listed energy figure for {name} is {calories} kcal, equivalent to {calorieShare}. Its position within the {category} items we track is {caloriePosition}. Use that figure as a starting point when comparing your options.\n\nAdded sides, extra sauces and drinks can change the total for your order. A bowl of chips or a dessert needs to be considered separately, rather than treated as part of the wings' listed figure. Check the pub's current [nutrition information](/nutrition-information) for your chosen combination.",
+  "dietaryGuidance": "These chicken wings are not suitable for vegetarians or vegans, and our data lists milk as an allergen. No dietary tags are recorded for the dish. Anyone with a milk allergy should take particular care and consult the pub's current [allergen information](/allergen-information) before ordering.\n\nChoosing a different dip or requesting a swap can change the allergens in an order, but does not establish that it is safe for a particular allergy. Ask staff about the complete dish and your proposed changes.",
+  "bestFor": [
+    {
+      "title": "Sharing over a drink",
+      "text": "The ten-wing portion is described as a sharing option. It suits diners who want spicy chicken to eat together, with a creamy dip providing contrast to the heat."
+    },
+    {
+      "title": "A hearty solo meal",
+      "text": "Choose the full portion for yourself if you want a hearty chicken meal. The crisp exterior, tender meat and lingering spice make the wings the focus of the order."
+    },
+    {
+      "title": "Fans of lingering heat",
+      "text": "This is a suitable choice if you enjoy spice that lasts beyond the first bite. Tangy seasoning and a cool dip add contrast without turning it into a mild dish."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "pint-stella-artois",
+      "reason": "A pint of lager is the pairing suggested for these wings. Choose Stella Artois if that is your preferred drink alongside spicy chicken."
+    },
+    {
+      "slug": "bowl-of-chips",
+      "reason": "A separate bowl of chips adds another dish to a shared order. Check the combined cost and energy figure if you are comparing complete meals."
+    },
+    {
+      "slug": "large-pepsi-max",
+      "reason": "Large Pepsi Max is an option if you prefer a soft drink with your wings. Check whether it qualifies for any applicable meal-and-drink option."
+    }
+  ],
+  "tips": [
+    "Choose between blue cheese and garlic dip when ordering; the description offers a choice, rather than stating that both are served.",
+    "Check the price at your chosen pub before comparing options, since the listed {price} is typical and local prices vary.",
+    "Allow for the lingering heat when choosing this dish. The cool dip offers contrast, but the wings themselves remain spicy.",
+    "Ask whether the wings qualify for an eligible drink option, and compare the complete order before adding a separate drink.",
+    "Consult the pub's current allergen information if milk is a concern; changing the dip is not enough to establish suitability."
+  ],
+  "faqs": [
+    {
+      "question": "How much are the ten spicy chicken wings at Wetherspoons?",
+      "answer": "{name} costs a typical {price}, although prices vary by pub. Its price position is {pricePosition} within the {category} items we track. Check the menu at your chosen location for the current amount, and confirm whether any drink you want is included or charged separately."
+    },
+    {
+      "question": "How many calories are in Wetherspoons spicy chicken wings?",
+      "answer": "{name} contains {calories} kcal according to our listed data, equivalent to {calorieShare}. Its position is {caloriePosition} within the {category} items we track. Added sides, extra sauces and drinks can change the energy total, so check current [nutrition](/nutrition-information) information when comparing a complete order."
+    },
+    {
+      "question": "What comes with the ten spicy chicken wings?",
+      "answer": "The ten spicy chicken wings come with a choice of blue cheese or garlic dip. The wings have a crisp exterior, tender meat and spicy, tangy seasoning. The supplied description does not list chips or another side, so check the pub's menu before assuming anything else is included."
+    },
+    {
+      "question": "How spicy are the Wetherspoons chicken wings?",
+      "answer": "The wings are described as spicy and tangy, with lingering heat rather than a mild flavour. A cool blue cheese or garlic dip provides creamy contrast, but the description gives no measured heat rating. Choose them if you enjoy lasting spice, and ask the pub if you need more guidance."
+    },
+    {
+      "question": "Are the Wetherspoons spicy chicken wings vegetarian or vegan?",
+      "answer": "The spicy chicken wings are not vegetarian or vegan because they contain chicken. No dietary tags are recorded for this dish. The same section includes Quorn No Chicken Nuggets Basket, which is tagged vegetarian and vegan in our data; check current availability and [allergen information](/allergen-information) before choosing that alternative."
+    },
+    {
+      "question": "Do the Wetherspoons spicy chicken wings contain milk?",
+      "answer": "Milk is listed as an allergen for the spicy chicken wings in our data. The description offers a choice of blue cheese or garlic dip, but does not identify which components account for that listing. Consult the pub's current [allergen information](/allergen-information) rather than assuming a dip swap resolves the concern."
+    },
+    {
+      "question": "Can I get the spicy chicken wings as a meal deal?",
+      "answer": "You need to check with your chosen pub whether the spicy chicken wings qualify for a meal-and-drink option. Many Wetherspoons mains can be ordered with an eligible soft or alcoholic drink, but the supplied information does not confirm eligibility for this dish. Ask which drinks qualify and compare the total before ordering."
+    }
+  ],
+  "slug": "spicy-chicken-wings",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

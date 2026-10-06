@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "title": "Wetherspoons Plymouth: pubs, menu and prices guide",
+    "description": "Compare Wetherspoons Plymouth pubs across Union Street, Barbican, Milehouse and Plympton. Find your nearest option and learn how to check menu prices."
+  },
+  "intro": "This guide covers {pubCount} open Wetherspoons pubs in Plymouth across {areaCount} areas, helping you choose a location, compare menu prices and plan breakfast or a club visit. Every pub works from the national [Wetherspoons menu](/), but prices are set locally. Find The Union Rooms, The Gog and Magog, The Britannia Inn and The Stannary Court below, with practical advice on checking what each pub charges before ordering.\n\nSpoonsMenu is an independent guide, not affiliated with J D Wetherspoon plc.",
+  "quickAnswer": "We list {pubCount} open Wetherspoons pubs in Plymouth across {areaCount} areas: The Union Rooms on Union Street, The Gog and Magog in the Barbican, The Britannia Inn in Milehouse and The Stannary Court in Plympton. Choose the area that suits your plans, then check that pub’s menu prices rather than assuming every location charges the same.",
+  "areas": [
+    {
+      "area": "Union Street",
+      "text": "The Union Rooms is the listed Wetherspoons on Union Street in Plymouth. It suits visitors whose plans already bring them to this area and who want to order from the broadly national menu. Check the pub’s own prices before choosing between breakfast, a burger or another meal."
+    },
+    {
+      "area": "Barbican",
+      "text": "The Gog and Magog is the listed Wetherspoons in the Barbican, with an address on Southside Street. It is a practical choice if this area fits your visit. Use the pub’s menu to check current prices and availability rather than relying on what you paid at another Wetherspoons."
+    },
+    {
+      "area": "Milehouse",
+      "text": "The Britannia Inn is the listed Wetherspoons in Milehouse, on Wolseley Road. It suits people looking for a pub in this area rather than choosing solely by menu, since the food range is broadly shared nationally. Compare its current prices with another location if cost is your main concern."
+    },
+    {
+      "area": "Plympton",
+      "text": "The Stannary Court is the listed Wetherspoons in Plympton, with an address on Ridgeway. Choose it if Plympton is the area that works for your plans. For a breakfast or club visit, check serving times and participation with the pub before making a special trip."
+    }
+  ],
+  "pricing": "Wetherspoons menu prices in Plymouth vary by pub, even though the menu is broadly the same nationally. Popular national choices include traditional [breakfast](/breakfast-menu), [burgers](/burgers), curries, fish and chips, and pizza. A familiar dish does not mean a familiar bill: each pub sets its own prices.\n\nCity centre pubs often charge more than suburban pubs, so location can affect the comparison. That general pattern does not establish which Plymouth pub is cheapest, and any quoted price should be treated as typical rather than fixed.\n\nFor the exact price, check the menu for your chosen pub in the Wetherspoon app or ask at the bar before ordering. Compare the same dish across locations to make the comparison useful.",
+  "breakfastAndClubs": "Breakfast at Wetherspoons is typically served from eight am until midday, while [Curry Club](/curry-club) is traditionally on Thursday and [Steak Club](/steak-club) on Tuesday at participating pubs. These are general timings and club days, not confirmation of the arrangements at every Plymouth location.\n\nThe traditional breakfast is among the popular dishes on the national menu. If breakfast or a particular club is the reason for your visit, check serving times, participation and the current menu with your chosen pub first. Pub opening hours should be checked separately rather than inferred from the breakfast window.",
+  "tips": [
+    {
+      "title": "Choose your area first",
+      "text": "Pick the Plymouth area that fits your plans before comparing dishes. The menu is broadly shared nationally, so location and the pub’s own prices can guide your choice."
+    },
+    {
+      "title": "Compare the same dish",
+      "text": "Compare the same menu item at each pub if price matters. Each location sets its own prices, so a bill elsewhere is not a reliable guide."
+    },
+    {
+      "title": "Check breakfast service",
+      "text": "Confirm breakfast service with your chosen pub before travelling specifically for it. The typical window is eight am to midday, but check local arrangements first."
+    },
+    {
+      "title": "Confirm club participation",
+      "text": "Check that your chosen pub participates before planning around Curry Club or Steak Club. Thursday and Tuesday are the traditional days, not a promise for every location."
+    },
+    {
+      "title": "Choose how to order",
+      "text": "Order at the bar or at your table using the Wetherspoon app. Check the selected pub and current menu prices before placing an app order."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How many Wetherspoons are in Plymouth?",
+      "answer": "We list {pubCount} open Wetherspoons pubs in Plymouth across {areaCount} areas. They are The Union Rooms on Union Street, The Gog and Magog in the Barbican, The Britannia Inn in Milehouse and The Stannary Court in Plympton. Each pub sets its own prices, despite the broadly shared national menu."
+    },
+    {
+      "question": "Which Wetherspoons in Plymouth is in the Barbican?",
+      "answer": "The Gog and Magog is the listed Wetherspoons in the Barbican area of Plymouth, on Southside Street. It is the option to consider if your plans are in the Barbican. Check its current menu prices before ordering, and confirm breakfast service or club participation directly if either is important to your visit."
+    },
+    {
+      "question": "Which Wetherspoons in Plymouth is in Plympton?",
+      "answer": "The Stannary Court is the listed Wetherspoons in Plympton, with an address on Ridgeway. Choose it if you are looking for a pub in that area of Plymouth. The menu is broadly the same nationally, but check this pub’s prices and any serving arrangements relevant to your planned meal."
+    },
+    {
+      "question": "What time does breakfast start at Wetherspoons in Plymouth?",
+      "answer": "Wetherspoons breakfast typically starts at eight am and runs until midday, but confirm the arrangements at your chosen Plymouth pub. These are general breakfast times, not verified local opening hours. The traditional breakfast is a popular national menu choice; check the pub’s current menu and price before ordering."
+    },
+    {
+      "question": "Are prices higher at Wetherspoons in Plymouth?",
+      "answer": "There is no single Wetherspoons price level for Plymouth: each pub sets its own prices. City centre pubs often charge more than suburban pubs, but that general pattern does not prove which local option costs least. Compare the same dish on the current menus at the pubs you are considering."
+    },
+    {
+      "question": "What days are Curry Club and Steak Club in Plymouth?",
+      "answer": "Curry Club is traditionally on Thursday and Steak Club on Tuesday at participating Wetherspoons pubs. For a Plymouth visit, confirm that your chosen pub participates and check its current menu before making plans. Those traditional days should not be taken as confirmation that every listed location runs both clubs."
+    },
+    {
+      "question": "Can I order through the Wetherspoon app in Plymouth?",
+      "answer": "Customers can order at the table with the Wetherspoon app or order at the bar. For a Plymouth pub visit, check that you have selected the correct location before reviewing the menu and placing an order. Prices vary by pub, so use the menu for the location you are visiting."
+    }
+  ],
+  "slug": "plymouth",
+  "generatedAt": "2026-10-06",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

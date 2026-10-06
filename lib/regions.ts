@@ -1,0 +1,23 @@
+/** UK region for each city, used for "nearby" links and as a fact for the content generator. */
+export const CITY_REGIONS: Record<string, string> = {
+  london: 'London',
+  manchester: 'North West',
+  liverpool: 'North West',
+  birmingham: 'West Midlands',
+  coventry: 'West Midlands',
+  'stoke-on-trent': 'West Midlands',
+  leeds: 'Yorkshire and the Humber',
+  sheffield: 'Yorkshire and the Humber',
+  newcastle: 'North East',
+  nottingham: 'East Midlands',
+  leicester: 'East Midlands',
+  derby: 'East Midlands',
+  bristol: 'South West',
+  plymouth: 'South West',
+  southampton: 'South East',
+  portsmouth: 'South East',
+  glasgow: 'Scotland',
+  edinburgh: 'Scotland',
+  cardiff: 'Wales',
+  belfast: 'Northern Ireland',
+};

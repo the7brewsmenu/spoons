@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "title": "Wetherspoons Eggs Benedict Price and Calories 2026",
+    "description": "Wetherspoons eggs benedict costs a typical {price}, with {calories} kcal. Check ingredients in this ham and poached egg breakfast, serving times and allergens."
+  },
+  "subtitle": "Poached eggs, Wiltshire cured ham and hollandaise on an English muffin, suited to diners who prefer a rich, savoury breakfast.",
+  "quickAnswer": "Wetherspoons Eggs Benedict costs a typical {price}, contains {calories} kcal and comes with two poached eggs, thick slices of Wiltshire cured ham, a lightly toasted English muffin and hollandaise sauce. Prices vary by pub. It is served from eight am to noon daily, making it an option for breakfast or a late-morning brunch.",
+  "components": [
+    {
+      "name": "Poached eggs",
+      "note": "Two poached eggs bring a delicate texture and runny yolks that mingle with the hollandaise and muffin."
+    },
+    {
+      "name": "Wiltshire cured ham",
+      "note": "Thick slices of Wiltshire cured ham add a savoury bite alongside the soft eggs and rich sauce."
+    },
+    {
+      "name": "English muffin",
+      "note": "The lightly toasted English muffin provides a soft, chewy base beneath the ham, eggs and hollandaise."
+    },
+    {
+      "name": "Hollandaise sauce",
+      "note": "Rich, buttery hollandaise covers the assembled dish, adding a tangy finish to the eggs and savoury ham."
+    }
+  ],
+  "taste": "Eggs Benedict is a rich, savoury breakfast, with tangy hollandaise balancing the buttery sauce and cured ham. The poached eggs are described with runny yolks, so the centre of the dish is soft rather than firm. Thick slices of ham give each mouthful a more substantial bite, while the muffin adds chewiness beneath the delicate eggs.\n\nThe English muffin is lightly toasted but remains soft, rather than providing a hard, crisp base. Ham and eggs sit on top, with hollandaise draped over the assembled dish. Expect the sauce and yolks to mingle as you cut through it. Choose this if that combination appeals more than a breakfast built around separate components.",
+  "value": "Eggs Benedict is worth considering if you want the poached egg, ham and hollandaise combination rather than choosing on price alone. Its typical price is {price}, and it is {pricePosition} among the items we track in the {category}. Each pub sets its own prices, so check locally before ordering.\n\nCompare it with Traditional Breakfast or Breakfast Wrap if you are still deciding on the format of your breakfast. Mushroom Benedict is the named vegetarian alternative in the same section. The useful comparison is what you want on the plate, not an assumed saving or drink deal.",
+  "nutrition": "Eggs Benedict contains {calories} kcal, equivalent to {calorieShare}. It is {caloriePosition} among the items we track in the {category}. That gives you a starting point for comparing breakfasts, rather than a judgement about which one you should choose.\n\nThe listed dish includes hollandaise, so consider the sauce part of the breakfast rather than a separate extra. Additional sides, extra sauce or a drink can change the total for your order. Check the relevant menu information for anything you add, rather than treating the dish figure as the total for your whole meal.",
+  "dietaryGuidance": "Eggs Benedict is not suitable for vegetarian or vegan diners as described, because it contains ham and eggs. Our data lists eggs as an allergen and does not provide any dietary tags for this dish. That allergen entry should not be treated as a complete assessment of every component.\n\nAnyone with an allergy should check the pub's current [allergen information](/allergen-information) before ordering, including the muffin and hollandaise. Ask staff about any proposed substitution: swaps can change the allergens in the meal. Mushroom Benedict is listed as vegetarian, but still needs its own allergen check.",
+  "bestFor": [
+    {
+      "title": "Late morning brunch",
+      "text": "Choose this for a savoury brunch before breakfast service ends at noon. The poached eggs, ham and hollandaise suit someone wanting a composed dish on a muffin."
+    },
+    {
+      "title": "Runny yolk fans",
+      "text": "This suits diners who enjoy soft eggs and runny yolks mingling with sauce. The chewy muffin and thick ham provide contrast without changing that soft centre."
+    },
+    {
+      "title": "Hollandaise lovers",
+      "text": "Order it when buttery, tangy hollandaise is the main attraction. The sauce covers the eggs and ham, making it central to the flavour rather than a minor accompaniment."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "lavazza-filter-coffee",
+      "reason": "Lavazza Filter Coffee is a practical choice if you want coffee alongside your savoury breakfast. Check its price separately rather than assuming it is included."
+    },
+    {
+      "slug": "lavazza-cappuccino",
+      "reason": "Lavazza Cappuccino suits diners who would choose a cappuccino with brunch. Order it alongside the eggs, checking the drink's separate nutrition and allergen information."
+    }
+  ],
+  "tips": [
+    "Plan to order between eight am and noon, the listed daily serving window, and check with your chosen pub if timing is tight.",
+    "Check the price at your chosen pub before ordering. The listed {price} is typical, not a fixed price across every location.",
+    "Ask about the current allergen information for the whole dish, not just the eggs, particularly if you need to check the muffin or hollandaise.",
+    "Compare Mushroom Benedict if you want a vegetarian breakfast in the same section, rather than assuming a ham substitution is available.",
+    "Order at the bar or through the Wetherspoon app at your table. Check any drink separately rather than assuming the breakfast includes one."
+  ],
+  "faqs": [
+    {
+      "question": "How much is Eggs Benedict at Wetherspoons?",
+      "answer": "Eggs Benedict at Wetherspoons costs a typical {price}. Prices are set by individual pubs and vary by location, so check the price at the pub you plan to visit. The dish includes poached eggs, Wiltshire cured ham, an English muffin and hollandaise; do not assume a drink is included."
+    },
+    {
+      "question": "How many calories are in Wetherspoons Eggs Benedict?",
+      "answer": "Wetherspoons Eggs Benedict contains {calories} kcal, equivalent to {calorieShare}. The figure is for the listed dish, which includes the muffin, ham, poached eggs and hollandaise. Any additional sides, extra sauce or drinks can change the total, so check their menu information separately when planning your order."
+    },
+    {
+      "question": "What comes with Wetherspoons Eggs Benedict?",
+      "answer": "Wetherspoons Eggs Benedict comes with two poached eggs, thick slices of Wiltshire cured ham, a lightly toasted English muffin and hollandaise sauce. The ham and eggs are arranged on the muffin, with sauce over the top. No additional side or drink is specified in the dish description."
+    },
+    {
+      "question": "Is Wetherspoons Eggs Benedict vegetarian?",
+      "answer": "Wetherspoons Eggs Benedict is not vegetarian because it contains Wiltshire cured ham. It is also unsuitable for vegans as described, with eggs included in the dish. Mushroom Benedict is listed as a vegetarian option in the same breakfast section, but check its current ingredients and allergens before ordering."
+    },
+    {
+      "question": "What allergens are listed for Wetherspoons Eggs Benedict?",
+      "answer": "Eggs are the allergen listed in our data for Wetherspoons Eggs Benedict. This does not establish that the muffin, ham or hollandaise contain no other allergens. Check the pub's current [allergen information](/allergen-information) for the complete dish before ordering, and ask staff about any substitution because swaps can change allergens."
+    },
+    {
+      "question": "What time is Eggs Benedict served at Wetherspoons?",
+      "answer": "Eggs Benedict is listed as served from eight am to noon daily at Wetherspoons. That places it within breakfast service, including late-morning brunch. If you are visiting specifically for this dish or arriving close to noon, check with your chosen pub before relying on it being available."
+    },
+    {
+      "question": "Can I get Wetherspoons Eggs Benedict as a meal deal?",
+      "answer": "A meal deal is not specified for Wetherspoons Eggs Benedict in the information provided. Although many Wetherspoons mains can be ordered with an eligible drink, that does not confirm a breakfast deal for this dish. Check the current menu at your chosen pub and price any drink separately unless inclusion is stated."
+    }
+  ],
+  "slug": "eggs-benedict",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

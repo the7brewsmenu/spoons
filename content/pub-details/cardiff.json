@@ -1,0 +1,10 @@
+{
+  "city": "cardiff",
+  "localNote": "St Mary Street, a few minutes north of Cardiff Central station, holds both the Prince of Wales and the Great Western, making them the easiest picks before a train or a match at the Principality Stadium. The Central Bar sits closer to Queen Street in the Windsor Place area, while the Mount Stuart is down in Cardiff Bay near the waterfront.",
+  "pubs": [
+    { "name": "The Prince of Wales", "history": "Occupies a Victorian theatre opened in 1878 as the New Theatre Royal and renamed the Prince of Wales Theatre in 1920. It later served as a cinema and bingo hall before Wetherspoon restored it as a pub in 1999.", "nearestStation": "Cardiff Central, about 5 minutes on foot", "features": ["Listed building"] },
+    { "name": "The Central Bar", "history": "Takes its name from the Central Congregational Chapel, built on this Windsor Place site around 1901, at a time when Cardiff had dozens of nonconformist chapels.", "nearestStation": "Cardiff Queen Street, about 5 minutes on foot" },
+    { "name": "The Great Western", "history": "Named after the Great Western Hotel, built around 1879 to serve travellers using the nearby Great Western Railway station, now Cardiff Central.", "nearestStation": "Cardiff Central, about 3 minutes on foot" },
+    { "name": "The Mount Stuart", "history": "Housed in 1880s offices of the Mount Stuart Dry Docks Company, a name taken from the Marquesses of Bute's family seat on the Isle of Bute. It was a Harry Ramsden's restaurant before becoming a Wetherspoon in 2013.", "nearestStation": "Cardiff Bay, about 10 minutes on foot" }
+  ]
+}

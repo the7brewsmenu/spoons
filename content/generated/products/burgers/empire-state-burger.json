@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "title": "Wetherspoons Empire State Burger Price and Calories 2026",
+    "description": "The Wetherspoons Empire State Burger typically costs {price} and has {calories} kcal, with chips included. Check ingredients, allergens and ordering tips."
+  },
+  "subtitle": "A stacked beef burger with cheese, maple-cured bacon and chips, suited to diners with a substantial appetite.",
+  "quickAnswer": "The Wetherspoons Empire State Burger typically costs {price}, has {calories} kcal and comes with two beef patties, American-style cheese, maple-cured bacon, a soft bun and chips. Prices vary by pub, so check your chosen location before ordering this substantial option from the {category} section.",
+  "components": [
+    {
+      "name": "Beef patties",
+      "note": "Two thick beef patties form the centre of the stack, giving it a dense texture and bold, meaty flavour."
+    },
+    {
+      "name": "American-style cheese",
+      "note": "Layers of melting American-style cheese add richness to the beef and help make the stacked burger feel substantial."
+    },
+    {
+      "name": "Maple-cured bacon",
+      "note": "Crispy maple-cured bacon brings a firmer bite alongside the soft bun and melting cheese in the stack."
+    },
+    {
+      "name": "Soft bun",
+      "note": "The soft bun holds the stacked filling, adding a softer texture around the beef, cheese and crispy bacon."
+    },
+    {
+      "name": "Chips",
+      "note": "Golden chips come on the side, making this a substantial plate rather than a burger served on its own."
+    }
+  ],
+  "taste": "The burger is dense and beef-led, with two thick patties providing a substantial base and a bold, savoury flavour. Melting American-style cheese adds richness between the layers, while crispy maple-cured bacon gives a contrasting bite. Its soft bun offers a gentler texture around the substantial filling.\n\nExpect a tall stack served with a generous helping of golden chips on the side. This is a meal for a large appetite, with bold beef and rich cheese defining the experience. If you prefer a burger that is less dominated by meat and cheese, that emphasis is worth considering before ordering.",
+  "value": "Value comes from the substantial serving: two thick beef patties, cheese, bacon and chips make a sizeable meal. Its typical price is {price}, making it {pricePosition}. Compare it with the American Cheese Burger or Double American Cheese Burger if you are weighing up other options in the same section.\n\nMany mains can be ordered with an eligible soft or alcoholic drink. Check whether this burger qualifies at your chosen pub and compare the meal price with ordering separately, as prices vary by location.",
+  "nutrition": "At {calories} kcal, this burger represents {calorieShare} and is {caloriePosition}. Treat the daily reference comparison as context rather than a personal target. The burger is described with chips, so check which components the quoted figure covers before making changes. Extra sides, sauces and drinks can change the total; use their own nutrition figures when assessing the complete meal rather than assuming they are included.",
+  "dietaryGuidance": "The Empire State Burger is not suitable for vegetarians or vegans because it contains beef and bacon. No dietary tags are recorded for it in our data. Listed allergens are cereals containing gluten and sesame, so diners avoiding either should check the pub's current [allergen information](/allergen-information) before ordering.\n\nThe recorded allergens do not establish suitability for other food allergies. Ask about the full burger and chips, including any cross-contact concerns. Swaps or additions can change the allergen information, so confirm the details for your actual order.",
+  "bestFor": [
+    {
+      "title": "Large appetites",
+      "text": "This suits diners arriving with a large appetite who want two beef patties, cheese, bacon and chips on the same plate, without choosing an extra side."
+    },
+    {
+      "title": "Beef and cheese fans",
+      "text": "If your priority is a bold, meaty burger, the thick patties and melting American-style cheese put those flavours at the centre, with crispy bacon alongside."
+    },
+    {
+      "title": "Comparing burger options",
+      "text": "Consider this when choosing between beef burger options and prioritising a substantial stack. Compare its typical price and calorie figure with the Double American Cheese Burger before deciding."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "side-salad",
+      "reason": "Side Salad offers a different side alongside the beef, cheese and bacon, rather than duplicating the included chips. Check its ingredients before ordering."
+    },
+    {
+      "slug": "large-pepsi-max",
+      "reason": "Large Pepsi Max is worth checking as a drink choice alongside the burger if you are comparing meal options. Ask the pub whether it qualifies."
+    },
+    {
+      "slug": "mini-chocolate-brownie",
+      "reason": "Mini Warm Chocolate Brownie offers a chocolate finish after the beef-led main. Decide after eating if the burger and chips leave room for dessert."
+    }
+  ],
+  "tips": [
+    "Check the typical price of {price} against the menu at your chosen pub before ordering, as prices are set locally and vary by location.",
+    "Start with the included chips rather than adding another side automatically; the two patties, cheese and bacon already make a substantial plate.",
+    "Ask whether the burger can be ordered with an eligible drink, then compare that option with ordering the food and drink separately.",
+    "Review the current allergen information for the burger and chips, especially for cereals containing gluten and sesame, and recheck any requested swaps.",
+    "Use the Wetherspoon app at your table or order at the bar, checking the listed components before confirming your choice."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the Empire State Burger at Wetherspoons?",
+      "answer": "The Empire State Burger typically costs {price}, but the amount you pay varies by pub. Each location sets its own prices, so use that figure as a guide rather than a fixed quote. Check the menu at your chosen pub or in the Wetherspoon app before ordering."
+    },
+    {
+      "question": "How many calories are in the Empire State Burger?",
+      "answer": "At {calories} kcal, the Empire State Burger accounts for {calorieShare} and is {caloriePosition}. Check which components the figure covers if you change the order. Additional sides, sauces and drinks need to be considered separately when assessing the energy content of the complete meal."
+    },
+    {
+      "question": "What comes with the Empire State Burger?",
+      "answer": "The Empire State Burger comes with two thick beef patties, melting American-style cheese and crispy maple-cured bacon in a soft bun, plus golden chips. Its tall stack and generous side make this a substantial main. Check the local menu if you want to change any component or add something extra."
+    },
+    {
+      "question": "Is the Empire State Burger vegetarian or vegan?",
+      "answer": "No, the Empire State Burger is not vegetarian or vegan because it contains beef and bacon. Our data does not give it any dietary tags. The Beyond Meat Plant-Based Burger and Fiesta Burger are both tagged vegan and vegetarian in our records; check their current details with the pub before choosing an alternative."
+    },
+    {
+      "question": "What allergens are listed for the Empire State Burger?",
+      "answer": "Cereals containing gluten and sesame are the allergens listed for the Empire State Burger in our data. That record does not establish suitability for other allergies or account for every possible change to an order. Ask the pub for current [allergen information](/allergen-information), including any swaps, additions or cross-contact concerns, before deciding."
+    },
+    {
+      "question": "Can I get the Empire State Burger with a drink?",
+      "answer": "You need to check with your pub whether the Empire State Burger qualifies for a meal-with-drink option. Many mains can be ordered with an eligible soft or alcoholic drink. Compare the local meal price with ordering separately, and ask which drinks qualify before placing your order."
+    },
+    {
+      "question": "How do I order the Empire State Burger at Wetherspoons?",
+      "answer": "You can order the Empire State Burger at the bar or from your table using the Wetherspoon app. Before confirming, check the pub's current price, the listed components and any eligible drink options. If you have an allergy or want a swap, speak to staff and confirm the details of your order."
+    },
+    {
+      "question": "When is the Empire State Burger available at Wetherspoons?",
+      "answer": "Check with your chosen pub for current Empire State Burger availability and main-menu service times. The main menu typically runs from late morning until the kitchen closes, but that does not confirm this burger is being served at a particular location. Ask the pub before making a special trip."
+    }
+  ],
+  "slug": "empire-state-burger",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

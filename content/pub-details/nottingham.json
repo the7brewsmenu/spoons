@@ -1,0 +1,9 @@
+{
+  "city": "nottingham",
+  "localNote": "The Joseph Else faces the Council House on Old Market Square, the natural meeting point in the centre. The Roebuck Inn is a few minutes away near the Malt Cross, while the Company Inn sits on the canal at Castle Wharf, close to Nottingham station and a good choice if you are arriving or leaving by train.",
+  "pubs": [
+    { "name": "The Roebuck Inn", "history": "Recalls an earlier Roebuck inn first recorded in 1760 and demolished in 1877 to make room for the Malt Cross Music Hall. The present Grade II listed building dates from around 1770 and has been houses, warehouses and shops.", "features": ["Listed building"] },
+    { "name": "The Joseph Else", "history": "Named after Nottingham-born sculptor Joseph Else, head of the city's School of Art from 1923 to 1939, who carved the famous stone lions guarding the Council House just across the square." },
+    { "name": "The Company Inn", "history": "Set in a former canalside warehouse built by the Trent Navigation Company, from which the pub takes its name, in the historic Castle Wharf area.", "nearestStation": "Nottingham station, about 5 minutes on foot" }
+  ]
+}

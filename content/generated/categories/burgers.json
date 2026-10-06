@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "title": "Wetherspoons Burgers Menu With Prices 2026",
+    "description": "Explore the Wetherspoons burger menu, compare beef, chicken and vegan choices, and see which burgers come with salad rather than chips before you order."
+  },
+  "intro": "The Wetherspoons burger menu has {itemCount} choices, with typical prices from {minPrice} to {maxPrice} and {vegCount} vegetarian or vegan options. It is one section of the full [Spoons menu](/), and each pub sets its own prices. Its main strength is the range of formats: straightforward beef burgers, double-patty stacks, grilled or breaded chicken, and plant-based alternatives. Chips accompany the standard format, while the skinny beef and chicken burgers come with salad instead. That makes the side as important as the filling when choosing. Prices are typical rather than fixed because each pub sets its own, so check your chosen location before ordering.",
+  "quickAnswer": "The Wetherspoons burger menu includes {itemCount} beef, chicken and plant-based burgers, with typical prices ranging from {minPrice} to {maxPrice}. Choices include the American Cheese Burger, Empire State Burger and Beyond Meat Plant-Based Burger, alongside skinny versions served with salad rather than chips. There are {vegCount} vegetarian or vegan choices. Check the local menu for current prices, availability and any drink-inclusive offer.",
+  "overview": [
+    {
+      "heading": "What beef burgers does Wetherspoons serve?",
+      "body": "The beef selection runs from the classic beef burger to double-patty options with cheese and bacon. The classic combines a beef patty with lettuce, tomato and red onion, making it the straightforward starting point. The [American Cheese Burger](/burgers/american-cheese-burger) changes the flavour profile with American-style cheese, gherkins, ketchup and mustard. For something sweeter and smokier, the [BBQ Bacon Burger](/burgers/bbq-bacon-burger) adds cheddar, maple-cured bacon and BBQ sauce.\n\nThe [Double American Cheese Burger](/burgers/double-american-cheese-burger) uses two beef patties and double cheese, while the Empire State Burger combines two patties with American-style cheese and maple-cured bacon. Choose between them by toppings as well as appetite: the double cheese option has gherkins and mustard, whereas the Empire State emphasises cheese and bacon."
+    },
+    {
+      "heading": "Which Wetherspoons chicken burger should you choose?",
+      "body": "The chicken burgers differ chiefly in their coating and side, so those are the useful details to compare first. The Fried Buttermilk Chicken Burger has a chicken breast marinated in buttermilk and covered in seasoned breading, with lettuce, tomato and mayonnaise. It suits someone who specifically wants a crunchy coating rather than a grilled breast.\n\nThe Grilled Chicken Breast Burger comes in a toasted bun with lettuce and tomato, accompanied by chips. The Skinny Chicken Burger also uses grilled chicken but replaces the chips with a side salad. That is a clear change in meal format, not a reason to assume a particular calorie saving. If [nutrition](/nutrition-information) is your priority, check the current figures for the complete serving."
+    },
+    {
+      "heading": "Which Wetherspoons burgers are vegetarian or vegan?",
+      "body": "The Beyond Meat Plant-Based Burger and Fiesta Burger carry both vegan and vegetarian tags, while the Breaded Vegetable Burger is tagged vegetarian. The Beyond Meat option uses a plant-based patty in a bun with lettuce and tomato. Fiesta builds on a Beyond Meat patty with roasted red peppers, courgettes and onions, making the vegetable toppings its clearest point of difference.\n\nThe Breaded Vegetable Burger takes a different approach, with lentils, carrots and sweetcorn inside a breadcrumb coating. It is the choice to consider if you prefer a vegetable-based filling rather than a patty described as resembling beef. Do not assume the vegetarian option is also vegan: use the current dietary labelling and ask about the complete serving before ordering."
+    },
+    {
+      "heading": "Wetherspoons burger prices and included drinks",
+      "body": "Typical burger prices range from {minPrice} to {maxPrice}, with an average typical price of {avgPrice}; a drink is not confirmed for every item in this listing. Each pub sets its own prices, so use these figures to plan rather than as a promise of what you will pay. When comparing the classic beef burger with the Double American Cheese Burger, consider the extra patty and cheese as well as the difference on the local menu.\n\nCheck whether the displayed price covers food alone or a meal deal with an eligible drink. If drinks are offered, establish which choices qualify and whether your preferred drink changes the total. Comparing the same drink and meal format gives a more useful value judgement than comparing headline burger prices alone."
+    },
+    {
+      "heading": "Do Wetherspoons burger choices change by pub?",
+      "body": "No seasonal or rotating burger is identified in the supplied menu information, so this guide cannot name a confirmed special or promise the full selection at your pub. The named choices cover classic beef, cheese and bacon combinations, chicken, and plant-based fillings. Use that range as your starting point, then check the current local menu rather than expecting an additional seasonal item.\n\nIf your first choice cannot be ordered, look for the closest match by format. Compare the two American cheese options for a cheese-led beef burger, or the grilled and skinny chicken options when the side matters most. Plant-based diners should check the replacement's own dietary label, rather than assuming that an alternative topping or substitution keeps the meal vegan."
+    }
+  ],
+  "highlights": {
+    "bestValue": "The classic beef burger is the best-value highlight: a straightforward beef patty with lettuce, tomato and red onion, without the extra layers of the double-patty options. Check its typical local price.",
+    "lightest": "The Beyond Meat Plant-Based Burger is the lightest highlight in this listing. Check its current calorie figure against your daily intake budget, including the side and any drink.",
+    "mostFilling": "The Empire State Burger is the most-filling highlight, with two beef patties, American-style cheese and maple-cured bacon. It suits a larger appetite; check the complete meal's current calorie total.",
+    "vegetarian": "The Breaded Vegetable Burger stands out for its lentil, carrot and sweetcorn filling in a breadcrumb coating. It is tagged vegetarian, but not vegan, so check before making substitutions."
+  },
+  "timing": "Burgers fall within the main-menu period, which typically runs from late morning until the kitchen closes, usually around eleven in the evening. Check your pub's kitchen hours before travelling, particularly if you plan to eat late.\n\nNo burger-specific club day or separate serving window is supplied here. The general club information concerns Curry Club on Thursday and Steak Club on Tuesday at participating pubs, not a confirmed burger offer. If you arrive before main-menu service or after the kitchen has closed, ask staff what food, if any, can be ordered rather than assuming burgers are available.",
+  "deals": "A burger meal deal should be assessed as food plus an eligible drink, but this listing does not confirm which burgers have that offer. Check the local menu for the food-only price, any drink-inclusive price and the drinks that qualify. An included drink only improves value if it is one you would otherwise order.\n\nCurry Club is traditionally on Thursday and Steak Club on Tuesday at participating pubs, often with a drink included. Neither establishes a burger club day. For burger value, start with the classic beef burger, then compare the complete cost of your preferred side and drink against the larger cheese or bacon options. All prices are typical and vary by pub.",
+  "calorieGuide": "The Beyond Meat Plant-Based Burger is the lightest highlight and the Empire State Burger the heaviest highlight in the supplied selection, but no numerical calorie range is provided. Check current nutrition information before treating those positions as a complete calorie ranking.\n\nFor daily intake context, compare the listed meal total with the daily budget you use, rather than counting the patty alone. Establish whether the figure includes the bun, toppings and side, then account for your drink separately if necessary. The skinny beef and Skinny Chicken Burger replace chips with salad, making them useful alternatives to investigate. That substitution does not establish an exact saving, and a plant-based label alone does not tell you how many calories a meal contains.",
+  "allergenSummary": "Buns, breading, cheese, buttermilk and mustard are the main ingredient clues to check for burger allergens. Consult Wetherspoons' current allergen information for cereals containing gluten, milk and mustard, and check the egg status of mayonnaise rather than relying on the descriptions here. The supplied information is not a complete breakdown of the fourteen major allergens.\n\nTell staff about your allergy before ordering and do not rely on this independent guide alone. Ask about the entire meal, including the bun, sauces and side. If requesting a swap or omission, confirm how it affects allergen information and ask about shared kitchen equipment and cross-contact. A dietary tag does not establish suitability for someone with an allergy.",
+  "dietary": "There are {vegCount} vegetarian or vegan-tagged burgers in this selection. The Beyond Meat Plant-Based Burger and Fiesta Burger carry both tags; the Breaded Vegetable Burger carries a vegetarian tag only. Choose Beyond Meat for a beef-style plant-based patty, Fiesta for its roasted vegetable toppings, or the breaded option for a lentil, carrot and sweetcorn filling.\n\nFor ordering purposes, follow the label attached to the complete dish rather than judging it by the patty alone. A vegetarian label should not be read as vegan, and neither label guarantees separate preparation. Check the current bun, sauces and side if making changes, and ask staff about preparation if shared equipment is a concern.",
+  "ordering": "Check your selected pub's current burger menu before ordering through the Wetherspoon app at the table or speaking to staff at the bar. Use the pub-specific price shown for your order rather than this guide's typical range, and confirm whether a drink is included.\n\nChoose the listed skinny version if you want its salad format, rather than assuming a standard burger can be changed. For other omissions or swaps, ask what is possible before paying. Confirm your table details and any table-service arrangements with staff. If an item has sold out, check the alternative's toppings and dietary label before accepting a replacement.",
+  "bestChoices": [
+    {
+      "title": "Best for straightforward value",
+      "text": "The classic beef burger is the best-value highlight, with lettuce, tomato and red onion rather than extra cheese or bacon layers. Compare its typical local price with any drink-inclusive option before deciding."
+    },
+    {
+      "title": "Best for a larger appetite",
+      "text": "The Empire State Burger brings two beef patties, American-style cheese and maple-cured bacon. It is the most-filling highlight here, so consider it when a single-patty burger is not the format you want."
+    },
+    {
+      "title": "Best for the lightest highlight",
+      "text": "The Beyond Meat Plant-Based Burger is the lightest highlighted choice. Check the current calorie figure for the full serving, including its side, before comparing it with the skinny beef or chicken alternatives."
+    },
+    {
+      "title": "Best for vegan vegetable toppings",
+      "text": "The Fiesta Burger carries a vegan tag and combines a Beyond Meat patty with roasted red peppers, courgettes and onions. It offers more named vegetable toppings than the straightforward Beyond Meat option."
+    },
+    {
+      "title": "Best for a vegetable filling",
+      "text": "The Breaded Vegetable Burger uses lentils, carrots and sweetcorn within a breadcrumb coating. Choose it for that vegetable-led filling rather than a beef-style plant-based patty, noting that it is tagged vegetarian, not vegan."
+    },
+    {
+      "title": "Best for chicken with salad",
+      "text": "The Skinny Chicken Burger pairs grilled chicken, lettuce and tomato with a side salad instead of chips. It is the clearest chicken choice when changing the side matters more than adding a breaded coating."
+    }
+  ],
+  "howToChoose": [
+    {
+      "title": "Choose your main filling",
+      "text": "Start with beef, chicken or a labelled plant-based option. The American Cheese Burger suits a cheese-led beef choice, while the Grilled Chicken Breast Burger and Beyond Meat Plant-Based Burger provide different starting points."
+    },
+    {
+      "title": "Decide between chips and salad",
+      "text": "Choose the skinny beef burger or Skinny Chicken Burger if you want the listed salad format. For a standard burger, check its stated side rather than assuming salad can be substituted at your pub."
+    },
+    {
+      "title": "Match the stack to appetite",
+      "text": "Compare the single-patty American Cheese Burger with the Double American Cheese Burger before choosing a larger stack. The Empire State Burger adds a different cheese-and-bacon combination, so appetite and topping preference both matter."
+    },
+    {
+      "title": "Check labels and nutrition",
+      "text": "Read the current dietary and allergen information for the complete dish. If calories matter, compare full servings and account for drinks; do not assume the Fiesta Burger is lighter simply because it is vegan."
+    },
+    {
+      "title": "Compare the complete local total",
+      "text": "Confirm your pub's price, availability and any eligible drink before paying. Use the classic beef burger as the value starting point, then decide whether extra patties, cheese or bacon justify the local difference."
+    }
+  ],
+  "comparison": "Burgers are the useful starting point if you want to compare beef, chicken and plant-based fillings within one meal format. This section also gives a clear choice between single and double beef patties, plus skinny versions with salad. Its typical price range is {minPrice} to {maxPrice}, but prices vary by pub.\n\nLook at [Pizza](/pizza) if you would rather have a different main-meal format, or [Chicken Dishes](/chicken-dishes) if chicken is your priority beyond a burger bun. Curry Club is worth checking on its traditional Thursday at participating pubs, particularly for a drink-inclusive offer. No prices or portion details for those sections are supplied here, so compare locally rather than assuming burgers are cheaper or larger.",
+  "faqs": [
+    {
+      "question": "How much is the Wetherspoons burgers?",
+      "answer": "Wetherspoons burgers have typical prices from {minPrice} to {maxPrice}, with an average typical price of {avgPrice} across this selection. Each pub sets its own prices, so the amount at your chosen location may differ. Check the current local menu and establish whether the displayed price covers the burger meal alone or includes an eligible drink."
+    },
+    {
+      "question": "What is on the Wetherspoons burgers?",
+      "answer": "The Wetherspoons burger selection includes {itemCount} beef, chicken and plant-based choices. Named options include the American Cheese Burger, Double American Cheese Burger, BBQ Bacon Burger, Empire State Burger and Fried Buttermilk Chicken Burger. There are also grilled and skinny chicken formats, a classic and skinny beef choice, and {vegCount} vegetarian or vegan-tagged options. Check local availability before ordering."
+    },
+    {
+      "question": "How many calories in a Wetherspoons burgers?",
+      "answer": "There is no verified numerical calorie range in the supplied Wetherspoons burger information, so check the current [nutrition](/nutrition-information) listing for your chosen meal. The Beyond Meat Plant-Based Burger is the lightest highlight and the Empire State Burger the heaviest highlight here. Confirm whether the stated figure includes the side, and account for any drink separately if it is excluded."
+    },
+    {
+      "question": "Is there a vegan option on the Wetherspoons burgers?",
+      "answer": "Yes, the Beyond Meat Plant-Based Burger and Fiesta Burger are both tagged [vegan](/vegan-and-vegetarian-options) in this selection. Fiesta adds roasted red peppers, courgettes and onions to a Beyond Meat patty. The Breaded Vegetable Burger is tagged vegetarian only, so do not assume it is vegan. Check current labelling for the complete serving and ask staff about any changes or preparation concerns."
+    },
+    {
+      "question": "What time is the burgers served at Wetherspoons?",
+      "answer": "Wetherspoons burgers fall within the main-menu period, typically from late morning until the kitchen closes, usually around eleven in the evening. Exact kitchen hours should be checked with your chosen pub. No separate burger serving window is supplied here, so ask about food availability if you plan to arrive early or close to kitchen closing time."
+    },
+    {
+      "question": "Does the burgers include a drink?",
+      "answer": "A drink is not confirmed as included with every Wetherspoons burger in this listing. Check your pub's menu for a food-only price or a meal deal covering food plus an eligible drink. If a drink-inclusive offer is shown, confirm which drinks qualify and whether your preferred choice changes the total before comparing it with ordering separately."
+    },
+    {
+      "question": "What allergens are in the Wetherspoons burgers?",
+      "answer": "The ingredients described make buns, breading, cheese, buttermilk, mustard and mayonnaise important allergen checks for Wetherspoons burgers. Use Wetherspoons' current [allergen information](/allergen-information) for the exact dish rather than treating this guide as a complete allergen list. Tell staff about your allergy, include sauces and sides in the discussion, and ask how substitutions and shared kitchen equipment affect your order."
+    },
+    {
+      "question": "Do Wetherspoons burgers come with chips?",
+      "answer": "The standard Wetherspoons burger format comes with chips, but the skinny beef burger and Skinny Chicken Burger are described with side salad instead. That distinction is useful if you want a different side without relying on a requested swap. Check the current description of your chosen burger, and ask staff before assuming another side can be substituted."
+    },
+    {
+      "question": "What is the biggest burger at Wetherspoons?",
+      "answer": "The Empire State Burger is the most-filling highlight in this selection, with two beef patties, American-style cheese and maple-cured bacon. The Double American Cheese Burger also contains two patties, so it is another larger-stack option. No complete portion weights are supplied for comparing the finished meals, making toppings and the current menu description more useful than an assumed size ranking."
+    },
+    {
+      "question": "What is a Wetherspoons skinny burger?",
+      "answer": "A Wetherspoons skinny burger in this selection replaces the usual chips with a side salad. The skinny beef option retains the beef patty with lettuce, tomato and red onion, while the Skinny Chicken Burger uses grilled chicken with lettuce and tomato. The name describes a different meal format; check current nutrition information rather than assuming a specific calorie reduction."
+    },
+    {
+      "question": "Is the Wetherspoons vegetable burger vegan?",
+      "answer": "The Breaded Vegetable Burger is tagged vegetarian, not vegan, in this selection. Its filling contains lentils, carrots and sweetcorn within a breadcrumb coating, but that description alone does not establish the dietary status of every component. For a vegan-tagged choice, consider the Beyond Meat Plant-Based Burger or Fiesta Burger and confirm the current complete-serving label."
+    },
+    {
+      "question": "Is there a Wetherspoons burger club day?",
+      "answer": "No burger-specific club day is confirmed in the supplied information. Curry Club is traditionally on Thursday and Steak Club on Tuesday at participating pubs, often with a drink included, but those offers should not be applied to burgers. Check your pub's current menu for any burger deal, eligible drinks and the typical local price before making plans."
+    },
+    {
+      "question": "Can you order Wetherspoons burgers on the app?",
+      "answer": "For a Wetherspoons burger app order, check the selected pub's current menu and confirm your table details before paying. Use the pub-specific price shown for the order rather than this guide's typical range. If the burger or a requested change is not shown, ask at the bar about availability and ordering options instead of assuming a substitution can be made."
+    }
+  ],
+  "slug": "burgers",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "title": "Wetherspoons Manchester: Pubs, menu and prices guide",
+    "description": "Explore Wetherspoons Manchester pubs by area, compare typical menu pricing and check breakfast times. Find the right pub before deciding where to eat."
+  },
+  "intro": "This guide covers {pubCount} open Wetherspoons pubs in Manchester across {areaCount} areas, helping you choose a location and understand what to check before ordering. Every pub works from the national [Wetherspoons menu](/), but prices are set locally. Find options in City Centre, Deansgate and Rusholme, alongside guidance on typical pricing, breakfast and club days. Popular national menu choices include burgers, curries, fish and chips and pizza. SpoonsMenu is an independent guide, not affiliated with J D Wetherspoon plc.",
+  "quickAnswer": "We list {pubCount} open Wetherspoons pubs in Manchester across {areaCount} areas. City Centre has The Waterhouse on Princess Street and The Paramount on Oxford Street. Deansgate has The Moon Under Water, while Rusholme has The Ford Madox Brown at Wilmslow Park on Wilmslow Road. Choose your location first, then check that pub’s current menu and typical prices.",
+  "areas": [
+    {
+      "area": "City Centre",
+      "text": "City Centre has The Waterhouse on Princess Street and The Paramount on Oxford Street. These suit visitors choosing between the listed central locations. Use the address to decide which works better for your plans, then check the individual pub’s menu rather than assuming both charge the same typical prices."
+    },
+    {
+      "area": "Deansgate",
+      "text": "Deansgate has The Moon Under Water, with its address also on Deansgate. It suits visitors who want a listed Wetherspoons in this area rather than City Centre or Rusholme. Check the pub’s current menu before settling on an order, particularly if you are comparing typical prices elsewhere."
+    },
+    {
+      "area": "Rusholme",
+      "text": "Rusholme has The Ford Madox Brown at Wilmslow Park on Wilmslow Road. This is the listed option for visitors who want to eat in Rusholme. Compare its current menu with other pubs if cost matters, but do not assume it will be cheaper simply because it is outside the City Centre listing."
+    }
+  ],
+  "pricing": "Wetherspoons menu prices in Manchester vary by pub, even though the menu is broadly the same nationally. Treat any guide figure as typical rather than a fixed charge across every location. [burgers](/burgers), curries, fish and chips and pizza are popular national menu choices, but check the selected pub’s menu before deciding what to order.\n\nLocation is a useful clue when comparing typical prices: city centre pubs often charge more than suburban pubs. That pattern does not establish which Manchester pub is cheapest, so compare the same dish at the locations you are considering.\n\nFor the exact current price, select your pub in the Wetherspoon app or check its menu at the bar. Confirm the amount before placing your order.",
+  "breakfastAndClubs": "Breakfast is typically served from eight am until midday, while [Curry Club](/curry-club) is traditionally on Thursday and [Steak Club](/steak-club) on Tuesday at participating pubs. These are general Wetherspoons timings and club days, so confirm the arrangements with your chosen Manchester pub before making a special visit.\n\nThe traditional breakfast is among the popular dishes on the national menu. Check the local menu for the current choice and typical price, rather than assuming every listed pub offers identical options. Customers can order at the bar or at the table using the Wetherspoon app.",
+  "tips": [
+    {
+      "title": "Choose the area first",
+      "text": "Start with City Centre, Deansgate or Rusholme, then choose from the pubs listed there. Use the supplied street names to distinguish locations before checking the menu."
+    },
+    {
+      "title": "Compare the same dish",
+      "text": "Compare the same menu item at different pubs if cost guides your choice. Typical prices vary by location, so a national menu does not mean identical charges."
+    },
+    {
+      "title": "Check breakfast arrangements",
+      "text": "Confirm breakfast service with your chosen pub before visiting specifically for it. The typical serving window is eight am until midday, not a confirmed local opening time."
+    },
+    {
+      "title": "Confirm club participation",
+      "text": "Ask your chosen pub about Curry Club or Steak Club before planning around them. The traditional days apply at participating pubs, so check local arrangements first."
+    },
+    {
+      "title": "Select the correct pub",
+      "text": "Choose the correct location in the Wetherspoon app before ordering at your table. Alternatively, order at the bar and check the current menu there."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How many Wetherspoons are in Manchester?",
+      "answer": "This guide lists {pubCount} open Wetherspoons pubs in Manchester across {areaCount} areas. The Waterhouse and The Paramount are in City Centre, The Moon Under Water is in Deansgate, and The Ford Madox Brown is in Rusholme. This is the count covered by the guide, rather than a claim about every pub beyond these listings."
+    },
+    {
+      "question": "Which Wetherspoons in Manchester are in the city centre?",
+      "answer": "The Waterhouse and The Paramount are the pubs listed under City Centre in this Manchester guide. Their addresses are on Princess Street and Oxford Street respectively. Choose the location that suits your plans, then check its current menu and typical prices, as each pub sets its own charges."
+    },
+    {
+      "question": "Which Wetherspoons in Manchester is on Deansgate?",
+      "answer": "The Moon Under Water is the listed Wetherspoons on Deansgate in Manchester. It is the Deansgate option in this guide, separate from the City Centre and Rusholme listings. Check its current menu before ordering, since the broadly shared national menu does not mean typical prices are identical between pubs."
+    },
+    {
+      "question": "Which Wetherspoons in Manchester is in Rusholme?",
+      "answer": "The Ford Madox Brown is the listed Wetherspoons in Rusholme, at Wilmslow Park on Wilmslow Road, Manchester. Choose it if Rusholme is the area that suits your visit. For food choices and exact current prices, check the pub’s menu at the bar or select the location in the Wetherspoon app."
+    },
+    {
+      "question": "What time does breakfast start at Wetherspoons in Manchester?",
+      "answer": "Wetherspoons breakfast typically starts at eight am and runs until midday, but confirm service with your chosen Manchester pub. These are general breakfast timings, not confirmation of individual opening hours. The traditional breakfast is a popular national menu choice; check the local menu for its current availability and typical price."
+    },
+    {
+      "question": "Are Wetherspoons prices higher in Manchester city centre?",
+      "answer": "City centre Wetherspoons pubs often charge more than suburban pubs, but that does not prove which Manchester location has the lowest typical prices. Each pub sets its own charges despite the broadly shared national menu. Compare the same dish on the current menus at the pubs you are considering before choosing."
+    },
+    {
+      "question": "What days are Curry Club and Steak Club in Manchester?",
+      "answer": "Curry Club is traditionally on Thursday and Steak Club on Tuesday at participating Wetherspoons pubs. For a Manchester visit, check whether your chosen location participates and confirm its current arrangements before planning around either day. Typical prices vary by pub, so consult the local menu rather than assuming a shared charge."
+    },
+    {
+      "question": "Can I order from my table at Wetherspoons in Manchester?",
+      "answer": "Customers can order at the table using the Wetherspoon app or order at the bar. Select the correct Manchester pub in the app before choosing your food, and check the current menu price before submitting the order. Typical prices differ by pub, even where the menu is broadly the same."
+    }
+  ],
+  "slug": "manchester",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

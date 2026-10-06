@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "title": "Wetherspoons Quorn No Chicken Nuggets Basket Price and Calories 2026",
+    "description": "Wetherspoons Quorn No Chicken Nuggets Basket with chips and sweet chilli sauce, typically {price} and {calories} kcal. Check portions, flavour and allergens."
+  },
+  "subtitle": "Eight crispy Quorn vegan nuggets with chips and sweet chilli sauce, suited to meat-free diners wanting familiar pub food.",
+  "quickAnswer": "The Quorn No Chicken Nuggets Basket typically costs {price}, contains {calories} kcal and comes with eight vegan nuggets, chips and sweet chilli dipping sauce. Prices vary by pub, so check your chosen location before ordering. It is listed as vegan and vegetarian, with cereals containing gluten and soybeans recorded as allergens.",
+  "components": [
+    {
+      "name": "Quorn vegan nuggets",
+      "note": "Eight golden nuggets provide a crisp coating, a soft, tender centre and a savoury flavour without the meat."
+    },
+    {
+      "name": "Chips",
+      "note": "A hearty portion of chips makes this a complete basket meal rather than nuggets served on their own."
+    },
+    {
+      "name": "Sweet chilli sauce",
+      "note": "The sticky dipping sauce adds sweetness and a tangy kick alongside the savoury nuggets and their crunchy coating."
+    }
+  ],
+  "taste": "This basket offers crisp-coated, savoury nuggets with a soft, tender interior, served hot with chips and sweet chilli sauce. The contrast between the crunchy outside and softer centre is its main appeal. Quorn provides the plant-based alternative to chicken, while the familiar nugget format keeps the meal straightforward and easy to eat.\n\nSweet chilli sauce brings a sticky sweetness and tangy kick to the savoury coating. Dipping lets you choose how much of that contrast you want with each mouthful. A hearty portion of chips rounds out the basket, making it a casual pub meal rather than a plate of nuggets alone.",
+  "value": "The basket's value lies in getting eight vegan nuggets, chips and dipping sauce together for a typical {price}. Within the {category} section, it is {pricePosition}, although prices vary by pub. That makes its position useful for comparison, rather than a promise of the same cost everywhere.\n\nCompare it with the Southern-Fried Chicken Strips Basket or Chicken Breast Bites Basket if your group is choosing between basket meals. For a meat-free diner, the Quorn option is the relevant choice here. Ask whether an eligible drink can be included as a meal before paying.",
+  "nutrition": "The listed energy content is {calories} kcal, equivalent to {calorieShare}. It is {caloriePosition} within the {category} section, giving you a useful comparison with the other dishes tracked there.\n\nConsider the whole order rather than the nuggets alone: chips and sweet chilli sauce are part of this basket. Extra sides, additional sauce or a drink can change the meal total. If you alter the order, [check the nutrition](/nutrition-information) information for that version rather than assuming the listed figure still applies.",
+  "dietaryGuidance": "The Quorn No Chicken Nuggets Basket is listed as vegan and vegetarian, but its recorded allergens include cereals containing gluten and soybeans. Those tags describe its meat-free suitability, not its suitability for someone avoiding gluten or soya.\n\nAnyone with coeliac disease or an allergy to either listed allergen should [check the current allergen](/allergen-information) information with the pub before ordering. Ask about preparation and cross-contact as well as ingredients. Swapping a side, sauce or other component can change the allergens, so check the complete amended order.",
+  "bestFor": [
+    {
+      "title": "Vegan pub meals",
+      "text": "This basket suits vegan diners looking for a familiar main with chips included. The nuggets and sweet chilli dip keep the choice straightforward, subject to checking current dietary information."
+    },
+    {
+      "title": "Meat-free comfort food",
+      "text": "Choose this if you want the crunchy coating and tender centre of a nugget-style meal without meat. Eight nuggets and a hearty portion of chips make up the basket."
+    },
+    {
+      "title": "Sweet chilli fans",
+      "text": "The basket suits diners who enjoy a sweet, tangy dip alongside savoury food. Its separate dipping sauce lets you choose how much to use with the crispy nuggets."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "vegan-chocolate-tart",
+      "reason": "Vegan Chocolate Tart is a dessert to consider after this meat-free basket. Check its current dietary and allergen information separately before ordering."
+    },
+    {
+      "slug": "large-pepsi-max",
+      "reason": "Large Pepsi Max is a soft-drink option alongside the basket. Ask whether it qualifies for a meal-with-drink option at your chosen pub."
+    }
+  ],
+  "tips": [
+    "Check the basket price at your chosen pub before ordering, as the typical {price} is not a fixed price across locations.",
+    "Remember that chips and sweet chilli sauce already come with the nuggets, so consider those before adding another side.",
+    "Ask whether the basket can be ordered with an eligible drink, then compare that option with buying your chosen drink separately.",
+    "Check current gluten and soya allergen information with the pub, especially if you request a different sauce or side."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the Quorn No Chicken Nuggets Basket at Wetherspoons?",
+      "answer": "The Quorn No Chicken Nuggets Basket typically costs {price}, but prices vary by pub. That price covers the basket described here: eight Quorn vegan nuggets, chips and sweet chilli dipping sauce. Check your chosen pub's menu or the Wetherspoon app for the local price before ordering."
+    },
+    {
+      "question": "How many calories are in the Wetherspoons Quorn No Chicken Nuggets Basket?",
+      "answer": "The Quorn No Chicken Nuggets Basket is listed at {calories} kcal, equivalent to {calorieShare}. Within the {category} section, it is {caloriePosition}. Consider any additional sides, sauces and drinks separately when assessing your meal, and check updated [nutrition](/nutrition-information) information if you change the order."
+    },
+    {
+      "question": "What comes with the Quorn No Chicken Nuggets Basket?",
+      "answer": "The Quorn No Chicken Nuggets Basket comes with eight golden, crispy Quorn vegan nuggets, a hearty portion of chips and sweet chilli dipping sauce. Served hot, the nuggets have a crunchy coating and soft, tender interior. The sauce adds a sticky sweetness and tangy kick."
+    },
+    {
+      "question": "Is the Quorn No Chicken Nuggets Basket vegan and vegetarian?",
+      "answer": "The Quorn No Chicken Nuggets Basket is listed as both vegan and vegetarian in our data. It contains Quorn vegan nuggets served with chips and sweet chilli dipping sauce. Dietary tags do not establish allergy suitability, so check the pub's current information if ingredients or preparation are important to your needs."
+    },
+    {
+      "question": "What allergens are in the Quorn No Chicken Nuggets Basket?",
+      "answer": "The recorded allergens for the Quorn No Chicken Nuggets Basket are cereals containing gluten and soybeans. Anyone avoiding gluten or soya should check the pub's current [allergen information](/allergen-information) before ordering. Ask about preparation and cross-contact, and recheck the complete dish if you swap a sauce or side."
+    },
+    {
+      "question": "Can I get the Quorn No Chicken Nuggets Basket as a meal deal?",
+      "answer": "Check with your chosen pub to find out whether the Quorn No Chicken Nuggets Basket can be ordered with an eligible drink. Many Wetherspoons mains have a meal-with-drink option, but the supplied information does not confirm this basket's eligibility. Compare the local options before placing your order."
+    },
+    {
+      "question": "How do I order the Quorn No Chicken Nuggets Basket at Wetherspoons?",
+      "answer": "You can order at the bar or at your table using the Wetherspoon app, subject to the basket being available at your chosen pub. Check the local menu for its price and any drink options. If you have an allergy or need a swap, speak to staff before ordering."
+    }
+  ],
+  "slug": "quorn-nuggets-basket",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Wetherspoons Vegetarian Breakfast Wrap Price and Calories 2026",
+    "description": "Wetherspoons vegetarian breakfast wrap costs a typical {price} with {calories} kcal. See its egg, Quorn sausage and hash brown filling, plus allergen guidance."
+  },
+  "subtitle": "A warm tortilla filled with egg, Quorn sausages, hash browns and cheddar, suited to vegetarians wanting a substantial breakfast.",
+  "quickAnswer": "The Wetherspoons vegetarian breakfast wrap costs a typical {price}, contains {calories} kcal and comes with a fried egg, two Quorn vegetarian sausages, two hash browns and melting cheddar inside a warm flour tortilla. Prices vary by pub. It is a substantial meat-free breakfast, listed as served from eight in the morning until noon daily.",
+  "components": [
+    {
+      "name": "Flour tortilla",
+      "note": "The soft, warm flour tortilla holds the filling together, making this substantial breakfast easier to handle."
+    },
+    {
+      "name": "Fried egg",
+      "note": "A freshly fried egg adds a soft texture alongside the savoury sausages and crisp hash browns."
+    },
+    {
+      "name": "Quorn vegetarian sausages",
+      "note": "Two savoury Quorn vegetarian sausages give the wrap its meat-free sausage filling and help make it substantial."
+    },
+    {
+      "name": "Hash browns",
+      "note": "Two crispy hash browns bring crunchy potato texture, contrasting with the soft egg and melting cheddar."
+    },
+    {
+      "name": "Cheddar cheese",
+      "note": "A layer of melting cheddar adds richness and a gooey texture around the egg, sausages and potatoes."
+    }
+  ],
+  "taste": "This wrap offers a rich, savoury breakfast with contrasting soft and crunchy textures. The warm flour tortilla surrounds a generous filling of fried egg, Quorn vegetarian sausages, hash browns and melting cheddar. Crisp potato gives each bite some texture, while the soft egg and gooey cheese keep the filling from feeling uniformly firm.\n\nCheddar brings richness alongside the savoury sausages, so this is a substantial meat-free choice rather than a simple breakfast bite. Wrapped together, the ingredients are easily manageable without losing the familiar combination of egg, sausage and potato. It suits a sit-down breakfast with a morning cup of tea, as well as someone looking for a grab-and-go option.",
+  "value": "The wrap is worth considering if you want egg, vegetarian sausages, potatoes and cheese together in an easily manageable breakfast. Its typical price is {price}, with its position recorded as {pricePosition} within the {category}. Prices are set by each pub, so check your chosen location before ordering.\n\nCompare it with the Vegetarian Breakfast if you are deciding between a wrap and a named breakfast alternative. The Vegan Breakfast is another option to check if you avoid egg and cheese. Judge value by the filling you want and the local price, rather than assuming every vegetarian option costs the same.",
+  "nutrition": "The wrap contains {calories} kcal, equivalent to {calorieShare}. Its calorie position is {caloriePosition} within the {category}. That gives you a useful comparison when choosing between breakfast options, although calories alone do not describe the full nutritional balance.\n\nUse the wrap's figure as the starting point for your order, not the total for everything you might have alongside it. Any additional sides, sauces or drinks can change the total, so check their separate nutritional information before adding them.",
+  "dietaryGuidance": "The wrap is tagged vegetarian, but its egg and cheddar mean it is not a vegan choice. Our [allergen data](/allergen-information) lists cereals containing gluten and eggs, so anyone avoiding either should take particular care.\n\nThis list should not be treated as a complete allergen assessment: cheddar is also named in the filling, which matters if you avoid milk. Ask the pub to check the current ingredient and allergen information before ordering. Requested swaps can change the allergen profile, and suitability should be checked for the final order rather than assumed.",
+  "bestFor": [
+    {
+      "title": "A substantial vegetarian breakfast",
+      "text": "This suits vegetarians who want more than a simple breakfast bite, with egg, two Quorn sausages, two hash browns and cheddar gathered in a warm tortilla."
+    },
+    {
+      "title": "An easily manageable order",
+      "text": "Choose the wrap when you like the combination of egg, sausage and potato but want those ingredients held together rather than choosing a separate breakfast dish."
+    },
+    {
+      "title": "A sit-down morning meal",
+      "text": "The rich filling suits a morning meal with time to sit down. Pair it with tea, as suggested in the description, and check the pub's breakfast service before travelling."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "lavazza-filter-coffee",
+      "reason": "Lavazza Filter Coffee is a straightforward morning drink to consider alongside the substantial wrap. Check its separate price and availability at your pub."
+    },
+    {
+      "slug": "lavazza-cappuccino",
+      "reason": "Lavazza Cappuccino offers another coffee option for a sit-down breakfast. Include the drink's separate nutritional information when working out your whole order."
+    }
+  ],
+  "tips": [
+    "Check breakfast service before travelling: the wrap is listed from eight in the morning until noon daily, but confirm with your chosen pub.",
+    "Compare the local price with the Vegetarian Breakfast before deciding; the wrap's appeal is its combined filling and easily manageable format.",
+    "Ask for current allergen information if you avoid gluten, eggs or milk, rather than relying on the vegetarian tag alone.",
+    "Order at the bar or through the Wetherspoon app at your table, checking the selected pub's price before completing your order."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the Vegetarian Breakfast Wrap at Wetherspoons?",
+      "answer": "The Vegetarian Breakfast Wrap costs a typical {price} at Wetherspoons, but the price varies by pub. Its price position is {pricePosition} within the {category}. Check the price at your chosen location before ordering, particularly if you are comparing it with the Vegetarian Breakfast."
+    },
+    {
+      "question": "How many calories are in the Wetherspoons vegetarian breakfast wrap?",
+      "answer": "The Wetherspoons vegetarian breakfast wrap contains {calories} kcal, equivalent to {calorieShare}. Its calorie position is {caloriePosition} within the {category}. Any drinks, sauces or extra sides need to be considered separately, so the wrap's calorie figure should not be used as the total for an expanded order."
+    },
+    {
+      "question": "What comes in the Vegetarian Breakfast Wrap?",
+      "answer": "The Vegetarian Breakfast Wrap contains a freshly fried egg, two Quorn vegetarian sausages, two crispy hash browns and melting cheddar cheese inside a soft, warm flour tortilla. These ingredients make up the wrap itself. The supplied description does not list a separate side or a drink included with it."
+    },
+    {
+      "question": "Is the Wetherspoons vegetarian breakfast wrap vegan?",
+      "answer": "The Wetherspoons vegetarian breakfast wrap is vegetarian, not vegan, because it contains egg and cheddar cheese. Quorn vegetarian sausages provide the meat-free sausage filling. If you need a vegan breakfast, consider the separately listed Vegan Breakfast and check its current ingredients and suitability with the pub before ordering."
+    },
+    {
+      "question": "What allergens are in the Vegetarian Breakfast Wrap?",
+      "answer": "Our data lists cereals containing gluten and eggs for the Vegetarian Breakfast Wrap. Cheddar is also named in the filling, so anyone avoiding milk should check carefully too. Ask the pub for current, complete [allergen information](/allergen-information), including any changes caused by requested swaps, before deciding whether it is suitable."
+    },
+    {
+      "question": "What time is the Vegetarian Breakfast Wrap served?",
+      "answer": "The Vegetarian Breakfast Wrap is listed as served from eight in the morning until noon daily. Breakfast service is also typically described as running during those hours. Confirm availability with your chosen Wetherspoons before making a special trip, rather than assuming the dish will be available when you arrive."
+    },
+    {
+      "question": "Does the Vegetarian Breakfast Wrap include a drink?",
+      "answer": "A drink is not listed as included with the Vegetarian Breakfast Wrap in the supplied dish description. Tea is suggested as something to have alongside it, rather than as part of the order. Check the current menu at your chosen pub for any breakfast drink offer and its terms."
+    }
+  ],
+  "slug": "vegetarian-breakfast-wrap",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

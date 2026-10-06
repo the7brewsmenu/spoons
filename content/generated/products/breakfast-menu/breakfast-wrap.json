@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "title": "Wetherspoons Breakfast Wrap Price and Calories 2026",
+    "description": "Wetherspoons breakfast wrap costs a typical {price} with {calories} kcal. Get egg, bacon, sausage and hash brown in a tortilla, plus allergen and serving details."
+  },
+  "subtitle": "A warm tortilla filled with egg, bacon, sausage and hash brown, suited to busy mornings and diners who prefer breakfast wrapped.",
+  "quickAnswer": "The Wetherspoons breakfast wrap costs a typical {price}, contains {calories} kcal, and comes with fried egg, crispy bacon, Lincolnshire sausage and a hash brown inside a soft, gently toasted tortilla. Prices vary by pub. Served warm, it brings those breakfast components together in a portable format rather than keeping them separate.",
+  "components": [
+    {
+      "name": "Tortilla wrap",
+      "note": "The soft, gently toasted tortilla holds the breakfast fillings together and contrasts with the crisp bacon and potato."
+    },
+    {
+      "name": "Fried egg",
+      "note": "The fried egg joins the bacon, sausage and hash brown as part of the warm breakfast filling."
+    },
+    {
+      "name": "Crispy bacon",
+      "note": "Crispy bacon adds a firmer texture alongside the soft tortilla and contributes to the rich, meaty filling."
+    },
+    {
+      "name": "Lincolnshire sausage",
+      "note": "The savoury Lincolnshire sausage gives the filling a meaty flavour alongside the bacon, fried egg and hash brown."
+    },
+    {
+      "name": "Hash brown",
+      "note": "The golden hash brown brings crunchy potato to the wrap, providing a contrast to the soft tortilla."
+    }
+  ],
+  "taste": "The Breakfast Wrap combines rich, meaty fillings with crisp potato inside a soft tortilla. Bacon provides a crisp texture, while the Lincolnshire sausage brings a savoury flavour alongside the fried egg. The golden hash brown adds another crunchy element, so the texture is not simply soft throughout. Gentle toasting gives the tortilla a different feel from the fillings without losing its softness.\n\nIt is served warm, with the breakfast components gathered into a portable format. That makes it suited to someone who prefers their egg, bacon, sausage and potato together rather than eating each separately. The contrast between the soft outer wrap and crunchy filling is its main appeal.",
+  "value": "The Breakfast Wrap is worth considering if you value having egg, bacon, sausage and potato together in a portable format. Its typical price is {price}, though each pub sets its own prices. Within our tracked {category}, it is {pricePosition}.\n\nCompare it with the Traditional Breakfast and Large Breakfast if you are undecided about the format, checking the local menu for their contents and prices. The Vegetarian Breakfast Wrap is the named meat-free alternative in this section. Choose according to what you want to eat rather than assuming the wrap is automatically the cheapest breakfast.",
+  "nutrition": "The Breakfast Wrap contains {calories} kcal, representing {calorieShare}. Within our tracked {category}, it is {caloriePosition}. That gives you a useful comparison point when choosing breakfast, but the calorie figure alone does not provide a full nutritional breakdown.\n\nAny sides, sauces or drinks you add can change the total for your order. Check their individual [nutrition information](/nutrition-information) rather than treating the wrap's figure as the total for the whole meal. If you request a change to the filling, ask which calorie information applies.",
+  "dietaryGuidance": "The Breakfast Wrap contains bacon and Lincolnshire sausage, so it is not a vegetarian or vegan choice. No dietary tags are recorded for this dish in our data. The listed allergens are cereals containing gluten and eggs, which matter for diners avoiding gluten-containing cereals or egg.\n\nThese entries should not be treated as a complete assurance about other allergens. Check the pub's current [allergen information](/allergen-information) before ordering if you have an allergy or intolerance. Requested swaps can change the allergen profile, so confirm the amended order too.",
+  "bestFor": [
+    {
+      "title": "Busy mornings",
+      "text": "The portable tortilla format suits a morning when you want egg, bacon, sausage and potato together. Check service times with your chosen pub before planning your visit."
+    },
+    {
+      "title": "Breakfast in one",
+      "text": "Choose this if you prefer your breakfast components combined rather than separate. The soft tortilla brings the fried egg, crispy bacon, sausage and crunchy hash brown into the same bite."
+    },
+    {
+      "title": "Warm savoury breakfast",
+      "text": "This suits diners looking for a warm breakfast with meaty flavours and contrasting textures. Bacon and Lincolnshire sausage provide the savoury filling, with crunchy potato inside the soft wrap."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "lavazza-filter-coffee",
+      "reason": "Lavazza Filter Coffee is a straightforward choice if you want coffee alongside your breakfast. Check its local price and availability separately from the wrap."
+    },
+    {
+      "slug": "lavazza-cappuccino",
+      "reason": "Choose Lavazza Cappuccino if that is your preferred breakfast coffee. Include the drink when checking the cost and calories of your complete order."
+    }
+  ],
+  "tips": [
+    "Check the breakfast service window before travelling: the wrap is listed as served from eight in the morning to noon daily.",
+    "Confirm the price at your chosen pub before ordering, since the listed {price} is typical and prices vary by location.",
+    "Ask about any filling changes before placing your order, and check revised allergen information rather than assuming a swap is straightforward.",
+    "Order at the bar or through the Wetherspoon app at your table, checking the selected item is the Breakfast Wrap rather than its vegetarian alternative."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the Breakfast Wrap at Wetherspoons?",
+      "answer": "The Wetherspoons Breakfast Wrap costs a typical {price}, but the price varies by pub. Each location sets its own prices, so check the local menu or Wetherspoon app before ordering. In our tracked {category}, it is {pricePosition}, which provides a comparison rather than a fixed price for every venue."
+    },
+    {
+      "question": "How many calories are in the Wetherspoons breakfast wrap?",
+      "answer": "The Wetherspoons Breakfast Wrap contains {calories} kcal, equivalent to {calorieShare}. In our tracked {category}, it is {caloriePosition}. That figure applies to the wrap rather than everything you might order alongside it. Add the [nutrition](/nutrition-information) figures for drinks, sides or sauces when assessing the total for your breakfast."
+    },
+    {
+      "question": "What comes in the Breakfast Wrap at Wetherspoons?",
+      "answer": "The Wetherspoons Breakfast Wrap contains a fried egg, crispy bacon, a savoury Lincolnshire sausage and a golden hash brown inside a soft, gently toasted tortilla. It is served warm, with the fillings combined rather than presented separately. The description does not specify an accompanying side or an included drink."
+    },
+    {
+      "question": "Is the Wetherspoons Breakfast Wrap vegetarian?",
+      "answer": "The Wetherspoons Breakfast Wrap is not vegetarian because it contains bacon and Lincolnshire sausage. It is not a vegan choice either, and the filling also includes fried egg. A separate Vegetarian Breakfast Wrap appears in the breakfast section with a vegetarian tag. Check its current ingredients and [allergen information](/allergen-information) before choosing it."
+    },
+    {
+      "question": "What allergens are in the Wetherspoons Breakfast Wrap?",
+      "answer": "The allergens listed in our data for the Wetherspoons Breakfast Wrap are cereals containing gluten and eggs. Anyone avoiding either should check the pub's current [allergen information](/allergen-information) before ordering. The recorded list is not an assurance about other allergens, and any requested swaps can change which allergen information applies to your meal."
+    },
+    {
+      "question": "What time is the Wetherspoons Breakfast Wrap served?",
+      "answer": "The Wetherspoons Breakfast Wrap is listed as served from eight in the morning to noon daily. That matches the typical breakfast service window in our information. Check with your chosen pub before making a special trip, as the listing should not be treated as a guarantee of availability at every location."
+    },
+    {
+      "question": "Can I get the Wetherspoons Breakfast Wrap as a meal deal?",
+      "answer": "An included drink or meal deal is not confirmed for the Wetherspoons Breakfast Wrap in our information. Although many mains can be ordered with an eligible drink, that does not establish a breakfast wrap offer. Check the local menu or ask at the bar before assuming a drink is included in the typical {price}."
+    },
+    {
+      "question": "How do I order the Breakfast Wrap at Wetherspoons?",
+      "answer": "You can order the Wetherspoons Breakfast Wrap at the bar or at your table using the Wetherspoon app. Check the local price and breakfast availability before placing the order. If you need to discuss allergens or a filling change, ask the pub before ordering rather than assuming a requested alteration can be made."
+    }
+  ],
+  "slug": "breakfast-wrap",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

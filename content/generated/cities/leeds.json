@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "title": "Wetherspoons Leeds: a guide to pubs, menus and prices",
+    "description": "Explore Wetherspoons Leeds with pub locations, menu choices and pricing advice. Find your nearest listed pub and check breakfast and club details."
+  },
+  "intro": "This guide covers {pubCount} open Wetherspoons pubs in Leeds across {areaCount} areas, helping you choose where to eat and what to check before ordering. Every pub works from the national [Wetherspoons menu](/), but prices are set locally. Find The Hedley Verity, The Cuthbert Brodrick and The Stick or Twist by area, alongside guidance on the national menu, local pricing, breakfast and club days.\n\nSpoonsMenu is an independent guide, not affiliated with J D Wetherspoon plc. Use it to narrow your choice, then confirm current details with your chosen pub.",
+  "quickAnswer": "We list {pubCount} open Wetherspoons pubs in Leeds: The Hedley Verity in City Centre, The Cuthbert Brodrick in Millennium Square and The Stick or Twist in Arena Quarter. These cover {areaCount} listed areas. Choose the location that suits your plans, then check that pub’s current menu and prices rather than assuming every branch charges the same.",
+  "areas": [
+    {
+      "area": "City Centre",
+      "text": "The Hedley Verity is the listed Wetherspoons pub in City Centre. It suits visitors who want their pub choice in that area rather than Millennium Square or Arena Quarter. Check its current menu and prices before deciding what to order, as a shared national menu does not mean identical bills."
+    },
+    {
+      "area": "Millennium Square",
+      "text": "The Cuthbert Brodrick is the listed Wetherspoons option in Millennium Square. Choose it if this is the area where you want to eat or meet. For a particular breakfast or main meal, confirm the current selection with the pub rather than relying solely on the national menu."
+    },
+    {
+      "area": "Arena Quarter",
+      "text": "The Stick or Twist is the listed Wetherspoons pub in Arena Quarter. It suits anyone choosing a pub in this area rather than the other listed locations. If price is your deciding factor, check its current charges against your alternatives before settling on a meal."
+    }
+  ],
+  "pricing": "Wetherspoons menu prices in Leeds vary by pub, even though the menu is broadly the same nationally. Typical prices are a guide, not a promise of what your chosen branch will charge.\n\nCentral pubs often charge more than suburban ones, so location can affect the cost of a meal. That general pattern does not establish which of the listed pubs is cheapest, and there is no basis here for ranking them by price.\n\nFor the exact current price, check the menu at your chosen pub or select that location in the Wetherspoon app before ordering. Compare the same dish at each branch if cost matters more than location.",
+  "breakfastAndClubs": "Breakfast at Wetherspoons is typically served from eight in the morning until midday, while [Curry Club](/curry-club) traditionally runs on Thursday and [Steak Club](/steak-club) on Tuesday at participating pubs. For a Leeds visit, treat these as general timings and club days, then confirm arrangements with your chosen branch.\n\nTraditional breakfast, curries and other familiar choices feature on the national menu, but that does not confirm a particular dish or club offer at every location. Check participation, the current selection and the pub’s own prices before planning your meal around a club day.",
+  "tips": [
+    {
+      "title": "Choose your area first",
+      "text": "Start with City Centre, Millennium Square or Arena Quarter, then choose the listed pub there. This keeps the decision focused on where you actually want to eat."
+    },
+    {
+      "title": "Compare the same dish",
+      "text": "Check the same menu item at each pub when comparing costs. A broadly shared national menu makes comparison useful, but each branch sets its own prices."
+    },
+    {
+      "title": "Confirm breakfast service",
+      "text": "Ask your chosen pub about breakfast service before making a special visit. The typical window runs from eight in the morning until midday, rather than confirmed local hours."
+    },
+    {
+      "title": "Check club participation",
+      "text": "Confirm Curry Club or Steak Club with the pub before choosing your day. Traditional Thursday and Tuesday schedules apply at participating branches, not necessarily every location."
+    },
+    {
+      "title": "Choose how to order",
+      "text": "You can order at the bar or at your table using the Wetherspoon app. If using the app, check that you have selected your intended pub."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How many Wetherspoons are in Leeds?",
+      "answer": "This guide lists {pubCount} open Wetherspoons pubs in Leeds across {areaCount} areas. The Hedley Verity is in City Centre, The Cuthbert Brodrick is in Millennium Square and The Stick or Twist is in Arena Quarter. These are the listed locations, rather than a claim about every pub across a wider boundary."
+    },
+    {
+      "question": "Which Wetherspoons in Leeds is in City Centre?",
+      "answer": "The Hedley Verity is the listed Wetherspoons pub in City Centre, Leeds. It is the option to consider if you want to eat in that area. The menu is broadly shared nationally, but prices are set by each pub, so check its current charges before ordering."
+    },
+    {
+      "question": "Which Wetherspoons in Leeds is in Millennium Square?",
+      "answer": "The Cuthbert Brodrick is the listed Wetherspoons pub in Millennium Square, Leeds. Choose it if that area suits your plans better than City Centre or Arena Quarter. For a specific dish, breakfast visit or club day, confirm the current menu and arrangements directly with the pub."
+    },
+    {
+      "question": "Which Wetherspoons in Leeds is in Arena Quarter?",
+      "answer": "The Stick or Twist is the listed Wetherspoons pub in Arena Quarter, Leeds. It is the relevant choice if you want a pub in that area. Customers can order at the bar or at the table through the Wetherspoon app, with prices set by the individual branch."
+    },
+    {
+      "question": "What time does breakfast start at Wetherspoons in Leeds?",
+      "answer": "Wetherspoons breakfast typically starts at eight in the morning and runs until midday. These are general service times, not confirmed breakfast hours for every Leeds pub. Check with your chosen branch before making a special visit, particularly if you are planning to arrive near the start or end of service."
+    },
+    {
+      "question": "Are Wetherspoons prices higher in Leeds?",
+      "answer": "There is no confirmed Leeds price comparison here, but central Wetherspoons pubs often charge more than suburban pubs. Each branch sets its own prices despite the broadly shared national menu. Check the current price of the same dish at your shortlisted locations rather than assuming one is cheaper."
+    },
+    {
+      "question": "What days are Curry Club and Steak Club in Leeds?",
+      "answer": "Curry Club traditionally runs on Thursday and Steak Club on Tuesday at participating Wetherspoons pubs. For Leeds, confirm participation with The Hedley Verity, The Cuthbert Brodrick or The Stick or Twist before planning around either day. The general schedule does not confirm a club offer or its current price at a particular branch."
+    },
+    {
+      "question": "What food can I order at Wetherspoons in Leeds?",
+      "answer": "Popular choices on the national Wetherspoons menu include traditional breakfast, burgers, curries, fish and chips, and pizza. The menu is broadly the same nationally, but check your chosen Leeds pub for its current selection. Each branch sets its own prices, so national menu guidance alone will not establish your bill."
+    }
+  ],
+  "slug": "leeds",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

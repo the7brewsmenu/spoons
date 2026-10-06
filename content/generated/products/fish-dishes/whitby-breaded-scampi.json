@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "title": "Wetherspoons Whitby Breaded Scampi Price and Calories 2026",
+    "description": "Wetherspoons Whitby Breaded Scampi typically costs {price} with {calories} kcal. Served with chips and peas. Check sides, allergens and Friday pricing."
+  },
+  "subtitle": "Whole-tail scampi in crisp breadcrumbs, served with chips and garden peas for diners who enjoy sweet seafood and a crunchy coating.",
+  "quickAnswer": "Wetherspoons Whitby Breaded Scampi typically costs {price}, has {calories} kcal and comes with chips, garden peas and tartare sauce. Prices vary by pub, so check your chosen location before ordering. The whole-tail pieces have a crisp breadcrumb coating, and Fish Friday pricing applies on Fridays, subject to confirmation at the pub.",
+  "components": [
+    {
+      "name": "Breaded scampi",
+      "note": "Whole-tail scampi brings sweet, tender seafood beneath a crisp, golden breadcrumb coating that gives each piece its crunch."
+    },
+    {
+      "name": "Chips",
+      "note": "A hearty portion of chips makes this a full pub meal alongside the breaded seafood and garden peas."
+    },
+    {
+      "name": "Garden peas",
+      "note": "Garden peas accompany the scampi and chips, adding a vegetable element to this classic seaside-style plate."
+    },
+    {
+      "name": "Tartare sauce",
+      "note": "A pot of tangy tartare sauce adds a sharp contrast to the slightly sweet scampi and allows dipping."
+    }
+  ],
+  "taste": "Whitby Breaded Scampi combines a crisp breadcrumb coating with tender, slightly sweet seafood. The whole-tail pieces give you a clear contrast between the crunchy exterior and the softer centre. Its delicate flavour makes the tartare sauce useful rather than incidental: the sharpness cuts across the sweetness, while dipping lets you control how much sauce accompanies each mouthful.\n\nChips and garden peas make this a familiar seaside-style meal rather than scampi served on its own. The hearty portion of chips gives the plate substance, with the pot of tartare alongside for dipping. A squeeze of fresh lemon complements the seafood if you prefer that sharper finish. Choose it for breadcrumb crunch rather than the battered coating of cod and chips.",
+  "value": "The typical price is {price}, placing this dish at {pricePosition} within the [fish dishes](/fish-dishes) we track. With chips, garden peas and tartare sauce included, it is worth comparing as a complete meal rather than seafood alone. Prices vary by pub.\n\nFreshly Battered Cod and Chips is the alternative if you prefer batter to breadcrumbs. Small Whitby Breaded Scampi is another option to compare before ordering. Fish Friday pricing is listed for Fridays, so check the local price then. Many mains also have an eligible drink option, but confirm whether this dish qualifies at your pub.",
+  "nutrition": "Whitby Breaded Scampi is listed at {calories} kcal, equivalent to {calorieShare}. It is {caloriePosition} within the fish dishes we track, which helps when comparing meals from the same section.\n\nCheck what the published total includes before making changes to the plate. Chips, sauces, extra sides and drinks all matter when assessing the meal as a whole, so do not assume an added item is covered by the listed figure. If you want a smaller version, compare Small Whitby Breaded Scampi and its own [nutrition information](/nutrition-information) rather than estimating a reduced total.",
+  "dietaryGuidance": "Whitby Breaded Scampi is not a vegetarian or vegan choice because it contains seafood. No dietary tags are supplied in our data, so there is no additional suitability claim to rely on.\n\nThe listed allergens are cereals containing gluten, eggs and fish. Anyone avoiding these should check the pub's current [allergen information](/allergen-information) before ordering. Treat this list as a prompt for checking, not a complete safety assessment. Changes to sides, sauces or other components can alter allergens, and any proposed swap needs checking with staff rather than assuming it makes the meal suitable.",
+  "bestFor": [
+    {
+      "title": "Breadcrumb fans",
+      "text": "Choose this if you prefer a crisp breadcrumb coating to batter. The whole-tail scampi offers tender seafood underneath, with tartare sauce for a sharper contrast."
+    },
+    {
+      "title": "A seaside-style lunch",
+      "text": "Scampi, chips and garden peas suit diners looking for a familiar seafood meal. The included tartare sauce keeps the plate straightforward without needing an extra side."
+    },
+    {
+      "title": "Friday price comparisons",
+      "text": "Consider it when comparing Friday meal options, as Fish Friday pricing is listed. Check your chosen pub's price and any eligible drink option before deciding."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "side-salad",
+      "reason": "Side Salad is an option if you want another accompaniment without ordering more chips, which already come with the scampi."
+    },
+    {
+      "slug": "mini-chocolate-brownie",
+      "reason": "Mini Warm Chocolate Brownie offers a chocolate finish after the savoury scampi meal. Check its own price and nutrition before adding dessert."
+    },
+    {
+      "slug": "lavazza-filter-coffee",
+      "reason": "Lavazza Filter Coffee is an option for after the meal if you would rather finish with coffee than order a dessert."
+    }
+  ],
+  "tips": [
+    "Check your selected pub's menu before ordering, as the typical price is a guide and local pricing can differ.",
+    "Compare the Friday price with the usual menu listing, and confirm the Fish Friday terms at the pub rather than assuming what is included.",
+    "Ask whether an eligible drink can be added as a meal option, then compare the total with ordering your preferred drink separately.",
+    "Use the tartare sauce for dipping if you want to control the sharpness against the delicate, slightly sweet seafood.",
+    "Check Small Whitby Breaded Scampi if you want a smaller version, using its own price and nutrition rather than scaling down this listing."
+  ],
+  "faqs": [
+    {
+      "question": "How much is Whitby Breaded Scampi at Wetherspoons?",
+      "answer": "Whitby Breaded Scampi typically costs {price} at Wetherspoons, with prices varying by pub. The meal comes with chips, garden peas and tartare sauce. Fish Friday pricing is listed for Fridays, so check the current price at your chosen location before ordering rather than treating the typical figure as a fixed charge."
+    },
+    {
+      "question": "How many calories are in Wetherspoons Whitby Breaded Scampi?",
+      "answer": "Wetherspoons Whitby Breaded Scampi is listed at {calories} kcal, equivalent to {calorieShare}. Within the [fish dishes](/fish-dishes) we track, it is {caloriePosition}. Check what the current published figure includes, and account separately for any extra sides, drinks or dessert when considering the total for your meal."
+    },
+    {
+      "question": "What comes with Whitby Breaded Scampi at Wetherspoons?",
+      "answer": "Whitby Breaded Scampi at Wetherspoons comes with chips, garden peas and a pot of tartare sauce. The scampi consists of whole-tail pieces in a crisp, golden breadcrumb coating. Tartare provides a tangy contrast to the sweet seafood, and the sauce is served separately for dipping."
+    },
+    {
+      "question": "Is Wetherspoons Whitby Breaded Scampi vegetarian?",
+      "answer": "Wetherspoons Whitby Breaded Scampi is not vegetarian or vegan because it contains seafood. Our data provides no dietary tags for this dish. If you have another dietary requirement, check the pub's current ingredient and [allergen information](/allergen-information), including the accompaniments, before deciding whether it suits you."
+    },
+    {
+      "question": "What allergens are listed for Whitby Breaded Scampi?",
+      "answer": "The allergens listed in our data for Whitby Breaded Scampi are cereals containing gluten, eggs and fish. This should not be treated as a complete safety assessment. Check the current [allergen information](/allergen-information) with the pub before ordering, particularly if you have an allergy or intend to change a side or sauce."
+    },
+    {
+      "question": "Is Whitby Breaded Scampi included in Fish Friday?",
+      "answer": "Fish Friday pricing is listed for Whitby Breaded Scampi on Fridays. Confirm the current price and terms with your chosen Wetherspoons pub, as prices vary by location. Do not assume a drink or any other extra is included without checking the local menu or asking staff."
+    },
+    {
+      "question": "Can I get Whitby Breaded Scampi as a meal deal?",
+      "answer": "A drink-inclusive meal option may be available for Whitby Breaded Scampi, but you need to confirm eligibility at your pub. Many Wetherspoons mains can be ordered with an eligible soft or alcoholic drink. Check the current menu for this dish, the qualifying drinks and the local total before ordering."
+    }
+  ],
+  "slug": "whitby-breaded-scampi",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

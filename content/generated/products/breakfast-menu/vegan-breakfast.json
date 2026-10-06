@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "title": "Wetherspoons Vegan Breakfast Price and Calories 2026",
+    "description": "Wetherspoons vegan breakfast: typically {price}, {calories} kcal, with two crisp hash browns. Check the full plate, serving times and egg allergen note."
+  },
+  "subtitle": "A plant-based breakfast plate with vegan sausages, hash browns and toast, suited to vegans, vegetarians and flexitarians.",
+  "quickAnswer": "The Wetherspoons vegan breakfast typically costs {price}, contains {calories} kcal and comes with two vegan sausages, baked beans, two hash browns, a roasted flat mushroom, half a grilled tomato and toast with vegan spread. Prices vary by pub. It is listed as vegan and vegetarian, but our allergen data also lists eggs, so check before ordering.",
+  "components": [
+    {
+      "name": "Vegan sausages",
+      "note": "Two savoury vegan sausages give the plate its main plant-based element, with a tender texture alongside the crisp hash browns."
+    },
+    {
+      "name": "Baked beans",
+      "note": "Classic baked beans accompany the sausages and potatoes, keeping a familiar breakfast staple on this plant-based plate."
+    },
+    {
+      "name": "Hash browns",
+      "note": "Two crisp hash browns provide the crunchy potato element, contrasting with the tender vegan sausages."
+    },
+    {
+      "name": "Roasted flat mushroom",
+      "note": "An earthy roasted flat mushroom adds a distinct savoury flavour alongside the beans, potatoes and sausages."
+    },
+    {
+      "name": "Grilled tomato half",
+      "note": "Half a grilled tomato adds another vegetable element alongside the roasted mushroom and classic baked beans."
+    },
+    {
+      "name": "Toast with vegan spread",
+      "note": "A slice of toast comes with smooth vegan spread, adding a bread element to the breakfast plate."
+    }
+  ],
+  "taste": "Expect a savoury breakfast built around the contrast between tender vegan sausages and crisp hash browns. The sausages give the plate its main plant-based focus, while the crunchy potatoes make it more varied to eat than toast and beans alone. An earthy roasted flat mushroom brings a distinct flavour alongside the classic baked beans and grilled tomato half.\n\nThe toast is served with smooth vegan spread, adding another texture without changing the plant-based character described for the dish. With two sausages and two hash browns, this is a hearty breakfast rather than a minimal morning bite. It suits someone who wants familiar pub breakfast components without the meat, with several separate elements to work through.",
+  "value": "The Vegan Breakfast offers a complete plant-based plate for a typical {price}, with its tracked price position recorded as {pricePosition}. Prices are set by each pub, so compare the local menu before deciding.\n\nIts appeal is the range of components: sausages, potatoes, beans, vegetables and toast are included together. Compare it with the Vegetarian Breakfast if you are choosing between meat-free options, or Beans on Toast if that is closer to what you want. For a mixed group, the Traditional Breakfast is another option in the same section.",
+  "nutrition": "The Vegan Breakfast contains {calories} kcal, equivalent to {calorieShare}. Within the breakfast items we track, its calorie position is {caloriePosition}. That gives you a useful comparison point, rather than a judgement about how much you should eat.\n\nAny extra sides, sauces or drinks change the total beyond the listed breakfast figure. If you are tracking your intake, count those separately and check the information for each addition. The vegan and vegetarian labels describe dietary suitability, not a lower-calorie promise.",
+  "dietaryGuidance": "The Vegan Breakfast is tagged vegan and vegetarian, but our [allergen data](/allergen-information) also lists eggs. That conflict needs checking with the pub before you rely on the dietary label, particularly if you have an egg allergy or avoid eggs entirely.\n\nThe described plate uses vegan sausages and vegan spread, but those details do not resolve the allergen entry. Ask staff to check the current allergen information for the dish as served. Swaps, substitutions and extras can change its allergen profile, so confirm your complete order rather than just the breakfast name.",
+  "bestFor": [
+    {
+      "title": "Plant-based breakfast seekers",
+      "text": "This plate suits diners looking for vegan sausages, potatoes, beans and toast in one breakfast. Check the conflicting egg allergen entry with staff before relying on its vegan tag."
+    },
+    {
+      "title": "Flexitarian mornings",
+      "text": "The familiar breakfast components make this a practical choice for someone skipping meat without giving up sausages, hash browns or toast. The mushroom adds an earthy flavour."
+    },
+    {
+      "title": "Mixed breakfast groups",
+      "text": "It gives a plant-based option alongside the Traditional Breakfast and Vegetarian Breakfast in the same section. Each diner can compare their preferred dish before ordering."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "lavazza-filter-coffee",
+      "reason": "Lavazza Filter Coffee is a straightforward drink choice alongside a savoury breakfast. Check any additions separately if you need your whole order to meet vegan requirements."
+    },
+    {
+      "slug": "vegan-chocolate-tart",
+      "reason": "Vegan Chocolate Tart is a dessert option to consider after the savoury plate. Confirm its current dietary information and whether it is available during breakfast service."
+    }
+  ],
+  "tips": [
+    "Plan for the listed breakfast service of eight in the morning to noon daily, and check with your chosen pub before travelling specifically for it.",
+    "Ask staff about the egg allergen entry before ordering, even though the dish is tagged vegan and vegetarian in our data.",
+    "Check the local price at the bar or in the Wetherspoon app, since the typical {price} is not a fixed price across pubs.",
+    "If requesting a swap or adding anything to the plate, ask staff to check the dietary and allergen information for the complete order."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the Vegan Breakfast at Wetherspoons?",
+      "answer": "The Vegan Breakfast at Wetherspoons typically costs {price}, but prices vary by pub. Its price position among the breakfast items we track is {pricePosition}. Check the menu at your chosen location or in the Wetherspoon app for the local price before ordering."
+    },
+    {
+      "question": "How many calories are in the Wetherspoons vegan breakfast?",
+      "answer": "The Wetherspoons vegan breakfast contains {calories} kcal, equivalent to {calorieShare}. Its calorie position within the breakfast items we track is {caloriePosition}. Extra sides, sauces and drinks change the total, so include those separately if you are keeping track of your full meal."
+    },
+    {
+      "question": "What comes with the Vegan Breakfast at Wetherspoons?",
+      "answer": "The Vegan Breakfast at Wetherspoons comes with two vegan sausages, baked beans, two crisp hash browns, a roasted flat mushroom, half a grilled tomato and a slice of toast with vegan spread. The described plate combines tender sausages, crunchy potatoes and an earthy mushroom flavour."
+    },
+    {
+      "question": "Is the Wetherspoons Vegan Breakfast vegan and vegetarian?",
+      "answer": "The Wetherspoons Vegan Breakfast is tagged both vegan and vegetarian in our data, but eggs are also listed as an allergen. Ask the pub to clarify that conflict before ordering. The description specifies vegan sausages and vegan spread, but those details alone do not settle the allergen question."
+    },
+    {
+      "question": "Does the Wetherspoons Vegan Breakfast contain eggs?",
+      "answer": "Eggs appear in our [allergen data](/allergen-information) for the Wetherspoons Vegan Breakfast, although no egg is named among its described components. We cannot resolve that discrepancy from the information supplied. If you have an egg allergy or avoid eggs, ask staff to check the current allergen information before ordering."
+    },
+    {
+      "question": "What time is the Vegan Breakfast served at Wetherspoons?",
+      "answer": "The Vegan Breakfast is listed as served from eight in the morning to noon daily. That matches the typical breakfast service window in our information. Check with your chosen pub before making a special trip, rather than treating the listed times as a guarantee of availability."
+    },
+    {
+      "question": "Can I get the Vegan Breakfast as a meal deal?",
+      "answer": "A meal deal for the Vegan Breakfast is not confirmed in our information. Although many Wetherspoons mains can be ordered with an eligible drink, that does not establish a breakfast offer. Check the local menu or ask at the bar before assuming a drink is included in the typical {price}."
+    }
+  ],
+  "slug": "vegan-breakfast",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

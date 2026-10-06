@@ -1,0 +1,26 @@
+{
+  "city": "manchester",
+  "localNote": "Three of Manchester's Wetherspoons are in the city centre: The Waterhouse faces the Town Hall area, The Paramount sits on Oxford Street close to the theatres and Oxford Road station, and The Moon Under Water is on Deansgate. The Ford Madox Brown is further south on Wilmslow Road, opposite Whitworth Park and near the university and the Curry Mile.",
+  "pubs": [
+    {
+      "name": "The Waterhouse",
+      "history": "Occupies a row of Grade II listed Georgian townhouses finished by 1794, later used as shops, offices and warehouses. It is named after Alfred Waterhouse, the architect of Manchester Town Hall, and opened as a pub in 2002.",
+      "nearestStation": "St Peter's Square Metrolink stop, about 4 minutes on foot",
+      "features": ["Listed building"]
+    },
+    {
+      "name": "The Moon Under Water",
+      "history": "Housed in the former Deansgate Picture House, which opened in 1914 and later ran as an ABC and then Cannon cinema until 1990. Wetherspoon reopened it as a large pub in 1995, keeping the old balcony."
+    },
+    {
+      "name": "The Paramount",
+      "history": "Named after the 3,000-seat Paramount super-cinema of 1930 nearby, recalling Oxford Street's past as the heart of the city's cinema and theatre district. The pub stands on the site of the former Plaza ballroom.",
+      "nearestStation": "St Peter's Square Metrolink stop, about 4 minutes on foot"
+    },
+    {
+      "name": "The Ford Madox Brown",
+      "address": "Unit 1, Wilmslow Park, Wilmslow Road, Manchester, M13 9NG",
+      "history": "Named after the Pre-Raphaelite painter Ford Madox Brown, who lived in nearby Victoria Park and painted the murals in Manchester Town Hall. It is a modern open-plan pub facing Whitworth Park."
+    }
+  ]
+}

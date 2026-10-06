@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "title": "Wetherspoons Drinks Menu With Prices 2026",
+    "description": "Explore Wetherspoons drinks and prices, compare ales, wines and soft drinks, and find vegan choices before checking the current menu at your local pub."
+  },
+  "intro": "The Wetherspoons drinks menu covers {itemCount} listed choices, with typical prices from {minPrice} to {maxPrice} and {vegCount} carrying vegetarian or vegan tags. It is one section of the full [Spoons menu](/), and each pub sets its own prices. It brings together traditional bitter, lager, stout, cider, wine, spirits, soft drinks and Lavazza coffee, so choosing well starts with the style of drink you want rather than price alone. This independent guide explains the differences and flags what to check before ordering. Prices are typical rather than fixed because each pub sets its own, and availability needs checking locally.",
+  "quickAnswer": "The Wetherspoons drinks menu lists {itemCount} choices across beer, cider, wine, spirits, soft drinks and coffee, with typical prices from {minPrice} to {maxPrice}. Options include Ruddles Best, Guinness, Thatchers Gold and Lavazza Filter Coffee, alongside vegetarian and vegan choices. Each pub sets its own prices, so use this range as a guide and check the local menu before deciding what to order.",
+  "overview": [
+    {
+      "heading": "What is on the Wetherspoons drinks menu?",
+      "body": "The Wetherspoons drinks menu spans alcoholic, non-alcoholic and hot drinks, with clear differences between the named beer styles. Ruddles Best is an English bitter with toasted malt character, while Doom Bar is an amber ale with a slightly sweet, roasted-malt profile. Stella Artois offers a crisp Belgian-style lager alternative. Guinness takes a different direction again: an Irish dry stout with roasted barley and dark chocolate notes.\n\nCider drinkers can compare medium-dry Thatchers Gold with the sweeter blackcurrant and raspberry character of [Kopparberg Mixed Fruit](/drinks-menu/kopparberg-mixed-fruit). The wider section description also mentions craft beers, but no specific craft beer is named in this listing. Ask the pub about its current selection rather than assuming a particular label will be available."
+    },
+    {
+      "heading": "Wetherspoons drink sizes and serving formats",
+      "body": "The listed drinks use several serving formats, so compare the serving as well as the typical price. Ruddles Best, Doom Bar, Stella Artois, Guinness and Thatchers Gold are listed as pints. Diet Coke is also listed as a pint, whereas Pepsi Max is described as large. Those descriptions do not establish that every soft drink comes in the same glass size.\n\nSmirnoff Red Vodka & Mixer and Gordon’s Gin & Tonic are described as single-measure drinks. Coldwater Creek Pinot Grigio and Coldwater Creek Merlot are listed by a specified glass measure, rather than as bottles. Check that measure on the local menu. [Lavazza Filter Coffee](/drinks-menu/lavazza-filter-coffee) and [Lavazza Cappuccino](/drinks-menu/lavazza-cappuccino) offer another useful distinction: filter coffee has a medium-bodied profile, while the cappuccino combines espresso with steamed milk and milk foam."
+    },
+    {
+      "heading": "Which Wetherspoons meals include a drink?",
+      "body": "[Curry Club](/curry-club) and Steak Club often include a drink at participating pubs, but the eligible selection needs checking locally. Curry Club traditionally takes place on Thursday and Steak Club on Tuesday. These are food-and-drink offers, not evidence that every drink in this section qualifies or that every pub runs the same arrangement.\n\nBefore choosing Guinness, Gordon’s Gin & Tonic or Coldwater Creek Merlot alongside a club meal, ask which drinks are included and which require separate payment. A drink listed here should not be treated as eligible simply because it appears on the wider menu. Compare the complete food-and-drink offer with your preferred separate order, using the pub’s current prices and the serving size actually included."
+    },
+    {
+      "heading": "Do Wetherspoons drinks change by pub?",
+      "body": "Wetherspoons drink prices vary by pub, while specific seasonal or rotating drinks are not confirmed in this listing. The section gives you named choices such as Doom Bar, Stella Artois and Kopparberg Mixed Fruit, but it does not establish a seasonal calendar or a rotation schedule. Check the current local menu if your visit depends on a particular drink.\n\nThe broader description mentions real ales and craft beers, so asking about the current beer selection is more useful than expecting an unnamed special. For a straightforward alternative, identify another style you would enjoy: Ruddles Best for bitter, Thatchers Gold for medium-dry cider, or Pepsi Max for a non-alcoholic cola. That keeps your decision practical without relying on an unconfirmed promotion or guest drink."
+    }
+  ],
+  "highlights": {
+    "bestValue": "Lavazza Filter Coffee is the listed best-value pick, combining the lowest typical price with a medium-bodied flavour and roasted-nut notes. Check the price at your chosen pub.",
+    "lightest": "Lavazza Filter Coffee is the listed lightest choice. Check current nutrition information and any additions before counting it towards your daily intake, as a precise calorie total is not supplied here.",
+    "mostFilling": "Guinness is the listed highest-calorie choice, with roasted barley and dark chocolate notes. It suits someone seeking a stout’s fuller character, but should not be treated as a substitute for food.",
+    "vegetarian": "Lavazza Filter Coffee carries both vegetarian and vegan tags, making it a useful plant-based starting point. Its medium-bodied profile offers an alternative to the milk-based Lavazza Cappuccino."
+  },
+  "timing": "Drinks service times are not specified here, so check your chosen pub rather than applying kitchen hours to the bar. Breakfast is typically served from the morning until midday, while the main food menu usually runs from late morning until the kitchen closes in the late evening. Neither window confirms when every drink can be ordered. Curry Club traditionally runs on Thursday and Steak Club on Tuesday at participating pubs. If you arrive outside a food or club window, ask which drinks and any food-and-drink offers are currently available.",
+  "deals": "Curry Club and Steak Club are the relevant food-and-drink offers to check, traditionally on Thursday and Tuesday respectively at participating pubs. A meal deal means food plus an eligible drink, rather than unrestricted access to every beer, wine or spirit listed here. Both clubs often include a drink, but local participation and the qualifying choices need confirmation. For value, compare the complete offer with the typical cost of ordering your preferred food and drink separately. Lavazza Filter Coffee is the listed best-value standalone drink. Do not assume it, a pint of Guinness or a gin and tonic qualifies for a particular meal deal without checking locally.",
+  "calorieGuide": "Lavazza Filter Coffee is the listed lightest drink and Guinness the listed highest-calorie choice, but a numerical calorie range is not available here. Diet Coke is described as calorie-free, while Pepsi Max is described as zero-sugar; those descriptions are not a full nutritional comparison of the section. Check current nutrition information before ranking every option or calculating its share of your daily intake. Include any milk, mixer or other additions in that calculation rather than considering the base drink alone. If you are ordering food too, the meal and any sides also count towards the total. For a lighter starting point, compare filter coffee and the listed diet colas.",
+  "allergenSummary": "Milk in Lavazza Cappuccino and barley in Guinness are the clearest ingredient flags in this listing, but the information does not establish which major allergens occur most often across the section. Flavour notes alone are not a reliable allergen declaration. Check Wetherspoon’s current allergen information, tell staff about your allergy and do not rely on this independent guide alone. Ask about the exact drink, mixer and any requested change, since a swap may alter its allergen status. Shared preparation or serving equipment can also matter for cross-contact, so confirm the pub’s handling arrangements before ordering. Vegetarian and vegan tags do not establish allergy suitability.",
+  "dietary": "There are {vegCount} listed drinks with vegetarian or vegan tags, with several options across beer, cider, wine, spirits, soft drinks and coffee. Stella Artois, Guinness, Thatchers Gold, Pepsi Max and Lavazza Filter Coffee carry both tags. Ruddles Best, Doom Bar and Lavazza Cappuccino are tagged vegetarian, but not vegan, in this listing. Treat those labels as applying to the named drink rather than every possible variation. A vegetarian or vegan tag is not a guarantee of separate preparation or allergy suitability. Plant-based diners should check the current product information and any additions, especially when changing a mixer or adding milk to coffee.",
+  "ordering": "Use the current menu for your chosen pub to confirm drink prices, serving sizes and availability before ordering. At the bar, name the drink and the listed format, particularly when comparing a pint with a wine glass or a single-measure spirit and mixer. If you plan to use the Wetherspoon app at your table, check that the correct pub is selected and review the price shown there rather than relying on this guide’s typical range. App ordering and table-service arrangements are not confirmed in this listing, so ask staff if needed. Have an alternative in mind if your first choice is unavailable.",
+  "bestChoices": [
+    {
+      "title": "Best for standalone value",
+      "text": "Lavazza Filter Coffee is the listed best-value choice. Its medium-bodied profile and roasted-nut notes give you a clear flavour reason to choose it, not just a lower typical price."
+    },
+    {
+      "title": "Best for a lighter choice",
+      "text": "Lavazza Filter Coffee is the listed lightest option. Check its current nutritional information and any additions before ordering, particularly if you are comparing the complete drink rather than the coffee alone."
+    },
+    {
+      "title": "Best for a vegan beer",
+      "text": "Stella Artois carries vegan and vegetarian tags and offers a crisp Belgian-style lager profile. It is a useful choice if you prefer pale lager to the roasted character of Guinness."
+    },
+    {
+      "title": "Best for roasted flavours",
+      "text": "Guinness suits drinkers who want roasted barley and dark chocolate notes rather than a crisp lager profile. This Irish dry stout is also tagged vegan and vegetarian in the listing."
+    },
+    {
+      "title": "Best for medium-dry cider",
+      "text": "Thatchers Gold is the medium-dry cider choice, with apple character and both vegan and vegetarian tags. Compare it with Kopparberg Mixed Fruit if you are deciding between drier and sweeter styles."
+    },
+    {
+      "title": "Best for a non-alcoholic cola",
+      "text": "Large Pepsi Max offers a zero-sugar cola option with a bold, sweet flavour and carbonation. Check the local serving size when comparing it with the separately listed pint of Diet Coke."
+    }
+  ],
+  "howToChoose": [
+    {
+      "title": "Choose your drink style",
+      "text": "Start with beer, cider, wine, spirits, soft drinks or coffee. A crisp Stella Artois and a roasted Guinness offer quite different profiles, so style is a more useful first filter than price."
+    },
+    {
+      "title": "Check the serving format",
+      "text": "Compare the actual serving before comparing typical prices. Ruddles Best is listed as a pint, while Smirnoff Red Vodka & Mixer uses a single measure and the wines have specified glass measures."
+    },
+    {
+      "title": "Confirm dietary and allergy details",
+      "text": "Check the named drink’s current dietary and allergen information before adding milk or changing a mixer. Lavazza Filter Coffee is tagged vegan, but that does not establish the suitability of every customised version."
+    },
+    {
+      "title": "Compare any eligible meal deal",
+      "text": "Ask about eligible drinks if you are ordering Curry Club or Steak Club. Those offers often include a drink at participating pubs, but a listing here does not prove that your choice qualifies."
+    },
+    {
+      "title": "Check locally before you order",
+      "text": "Confirm the pub’s current price and availability, then keep an alternative in mind. If Thatchers Gold is unavailable, decide whether you want another cider style or a different type of drink altogether."
+    }
+  ],
+  "comparison": "The drinks menu is the section for choosing a beverage, while Breakfast Menu, [Burgers](/burgers) and Curry Club help you choose food. Its variety comes from drink styles and serving formats, including pints, wine glasses, single-measure spirits and coffee, rather than meal portions. Typical drink prices range from {minPrice} to {maxPrice}, but prices for those food sections are not supplied here, so a reliable cost ranking is not possible. If you want a complete meal, start with the relevant food section and then choose a drink. For Curry Club, check whether an eligible drink is included before paying for a separate order.",
+  "faqs": [
+    {
+      "question": "How much is the Wetherspoons drinks menu?",
+      "answer": "The Wetherspoons drinks menu has typical prices from {minPrice} to {maxPrice}, with a typical average of {avgPrice} across the listed choices. Each pub sets its own prices, so these figures are a guide rather than a fixed tariff. Check your chosen pub’s current menu and compare the serving size as well as the price."
+    },
+    {
+      "question": "What is on the Wetherspoons drinks menu?",
+      "answer": "The Wetherspoons drinks menu includes beer, cider, wine, spirits and mixers, soft drinks and Lavazza coffee. Named choices include Ruddles Best, Doom Bar, Stella Artois, Guinness, Thatchers Gold and Coldwater Creek wines. There are {itemCount} listed options, including vegetarian and vegan choices, but confirm the current selection with your chosen pub."
+    },
+    {
+      "question": "How many calories in a Wetherspoons drinks?",
+      "answer": "Calories depend on the drink, and exact totals are not supplied in this guide. Lavazza Filter Coffee is the listed lightest choice and Guinness the listed highest-calorie option. Diet Coke is described as calorie-free. Check current [nutrition](/nutrition-information) information for your specific serving, including any milk, mixer or other additions, before comparing totals."
+    },
+    {
+      "question": "Is there a vegan option on the Wetherspoons drinks menu?",
+      "answer": "Yes, several listed Wetherspoons drinks carry [vegan](/vegan-and-vegetarian-options) tags, including Stella Artois, Guinness, Thatchers Gold, Pepsi Max and Lavazza Filter Coffee. Coldwater Creek Pinot Grigio and Merlot are also tagged vegan. Check the current information for the exact drink and any additions, because the tag does not guarantee separate preparation or allergy suitability."
+    },
+    {
+      "question": "What time is the drinks menu served at Wetherspoons?",
+      "answer": "Drinks service times are not specified in this guide, so check directly with your chosen Wetherspoons pub. Food-service windows do not establish bar-service hours or the availability of every drink. If you are visiting for a club meal with an included drink, also confirm the local offer’s service window and eligible selection."
+    },
+    {
+      "question": "Does the drinks menu include a drink?",
+      "answer": "The drinks menu lists drinks themselves, rather than meals with an additional beverage included. Food-and-drink offers are a separate consideration: Curry Club and Steak Club often include an eligible drink at participating pubs. Check the local offer before assuming that a particular beer, wine, spirit or soft drink is included."
+    },
+    {
+      "question": "What allergens are in the Wetherspoons drinks menu?",
+      "answer": "Milk in Lavazza Cappuccino and barley in Guinness are ingredient flags to check, but this guide is not a complete allergen declaration for the drinks menu. Consult Wetherspoon’s current [allergen information](/allergen-information) and tell staff about your allergy. Confirm mixers, additions and cross-contact arrangements rather than relying on flavour descriptions or dietary tags."
+    },
+    {
+      "question": "What is the cheapest drink at Wetherspoons?",
+      "answer": "Lavazza Filter Coffee is the lowest-priced highlight in this drinks listing, making it the guide’s best-value pick. That does not establish the cheapest drink at every Wetherspoons pub. Prices are set locally, so compare the current menu at your chosen location before ordering and check the serving format you will receive."
+    },
+    {
+      "question": "Does Wetherspoons sell non-alcoholic drinks?",
+      "answer": "Yes, the listed non-alcoholic choices include Large Pepsi Max, a pint of Diet Coke and Lavazza coffee. Pepsi Max is described as zero-sugar, while Diet Coke is described as calorie-free. Filter coffee carries vegan and vegetarian tags; cappuccino is tagged vegetarian and contains milk. Check locally for the current selection."
+    },
+    {
+      "question": "Are Wetherspoons drink prices the same everywhere?",
+      "answer": "No, Wetherspoons drink prices vary because each pub sets its own prices. This guide’s {minPrice} to {maxPrice} range is typical, not a fixed price list for every location. Confirm the local price before ordering, and compare like-for-like servings rather than treating a pint, wine glass and spirit measure as equivalent."
+    },
+    {
+      "question": "Which Wetherspoons meals come with a drink?",
+      "answer": "Curry Club and Steak Club often come with an eligible drink at participating pubs, traditionally on Thursday and Tuesday respectively. The supplied information does not confirm drink inclusion for every other meal section. Check locally for the qualifying drinks, serving sizes and current terms before deciding between a club offer and separate food and drink."
+    },
+    {
+      "question": "What cider does Wetherspoons sell?",
+      "answer": "The listed Wetherspoons cider choices are Thatchers Gold and Kopparberg Mixed Fruit. Thatchers Gold is a medium-dry Somerset cider with apple character, while Kopparberg Mixed Fruit has a sweeter blackcurrant and raspberry profile. Both carry vegan and vegetarian tags in this listing. Confirm availability and the current serving format with your chosen pub."
+    }
+  ],
+  "slug": "drinks-menu",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

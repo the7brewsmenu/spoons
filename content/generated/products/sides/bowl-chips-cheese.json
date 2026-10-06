@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "title": "Wetherspoons Bowl of Chips with Cheese Price and Calories 2026",
+    "description": "Wetherspoons bowl of chips with cheese costs a typical {price}, with {calories} kcal. See what the melting cheddar adds, plus allergens and ordering tips."
+  },
+  "subtitle": "Hot, thick-cut chips topped with melting cheddar, suited to vegetarians wanting a rich side or a snack to share.",
+  "quickAnswer": "The Wetherspoons bowl of chips with cheese costs a typical {price}, contains {calories} kcal and comes as thick-cut chips topped with melting cheddar cheese. Prices vary by pub. Listed in {category}, it suits a rich side order or a standalone snack to share, rather than a main meal with extras.",
+  "components": [
+    {
+      "name": "Thick-cut chips",
+      "note": "Hot, crispy, golden chips provide the substantial base, with enough texture to contrast with the melting cheese topping."
+    },
+    {
+      "name": "Cheddar cheese",
+      "note": "A thick layer of melting cheddar adds salty, deeply savoury flavour and a gooey texture that reaches between the chips."
+    }
+  ],
+  "taste": "This is a rich, salty bowl of chips, with melting cheddar making the topping as much a part of the dish as the potatoes. The thick-cut chips are described as hot, golden and crispy, while the cheese adds a gooey contrast. Its deeply savoury flavour makes this a clear choice for someone who wants more richness than plain chips offer.\n\nServed steaming hot, the bowl centres on the contrast between crisp chips and soft, melting cheese. The thick cheddar layer seeps between the chips, bringing the elements together rather than sitting apart as a separate accompaniment. It works as a comforting side or a standalone snack to share.",
+  "value": "At a typical {price}, this bowl makes most sense if you specifically want a cheese topping rather than plain chips. It is {pricePosition}, and prices vary by pub, so check the local menu before ordering.\n\nBowl of Chips is the straightforward alternative if cheddar is not important to you. Onion Rings and Garlic Pizza Bread offer different side choices, while Garlic Pizza Bread with Cheese is another option for someone seeking a cheesy accompaniment. Judge value by what you want from the side: here, the main distinction is the thick layer of melting cheddar.",
+  "nutrition": "The bowl contains {calories} kcal, equivalent to {calorieShare}. It is {caloriePosition} among the items tracked in this section, which gives you a comparison point when choosing a side.\n\nCount the bowl alongside the rest of your order rather than treating it as a negligible extra. A main, additional sides, sauces and drinks can all change the meal total. If you share it, the amount you eat depends on how you divide the bowl; the listed figure remains the reference for the whole dish.",
+  "dietaryGuidance": "The bowl is listed as vegetarian, and milk is the allergen recorded in our data. The cheddar topping makes milk particularly relevant for anyone with a milk allergy or anyone avoiding dairy. This is not a vegan choice as described.\n\n[Check the current allergen](/allergen-information) information with the pub before ordering if you have an allergy or intolerance. Removing or swapping an ingredient can change the allergen profile, but should not be assumed to make the order suitable. Bowl of Chips is separately listed as vegan and vegetarian in our data.",
+  "bestFor": [
+    {
+      "title": "Vegetarian side orders",
+      "text": "This suits vegetarian diners who want a hot, savoury accompaniment with more richness than plain chips. The cheddar topping is the main reason to choose it."
+    },
+    {
+      "title": "A shared snack",
+      "text": "Choose it when you want a standalone pub snack to share rather than a full main. The generous bowl and melting cheese are central to its appeal."
+    },
+    {
+      "title": "Cheese over plain chips",
+      "text": "It suits anyone whose priority is a thick cheddar topping and a gooey texture. If you mainly want crisp chips without that richness, consider Bowl of Chips instead."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "large-pepsi-max",
+      "reason": "Large Pepsi Max is a soft-drink option alongside this savoury snack, useful when you want something to drink without choosing an alcoholic pairing."
+    },
+    {
+      "slug": "mini-chocolate-brownie",
+      "reason": "Mini Warm Chocolate Brownie gives you a dessert course after the cheesy chips, if you want to follow a savoury snack with something sweet."
+    }
+  ],
+  "tips": [
+    "Check the price at your chosen pub before ordering, as {price} is typical rather than a fixed price across locations.",
+    "Choose Bowl of Chips instead if the cheddar topping is not what you want; it is also listed as vegan and vegetarian.",
+    "Ask the pub to confirm current milk allergen information before ordering if you have an allergy, including for any requested changes.",
+    "Order at the bar or through the Wetherspoon app at your table, checking that you have selected the version with cheese.",
+    "If ordering this alongside a main, include its {calories} kcal when considering the meal total, plus any drinks or additional sides."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the bowl of chips with cheese at Wetherspoons?",
+      "answer": "The bowl of chips with cheese costs a typical {price} at Wetherspoons, but prices vary by pub. Check the menu at your chosen location before placing an order. It is {pricePosition} among the [sides](/sides) tracked by SpoonsMenu, giving you a comparison point rather than a fixed nationwide price."
+    },
+    {
+      "question": "How many calories are in the Wetherspoons bowl of chips with cheese?",
+      "answer": "The Wetherspoons bowl of chips with cheese contains {calories} kcal, equivalent to {calorieShare}. That figure is for the dish, not a complete meal with a main or drink. It is {caloriePosition} among the tracked [sides](/sides). Additional food, sauces and drinks can change the total for your order."
+    },
+    {
+      "question": "What comes with the bowl of chips with cheese?",
+      "answer": "The bowl of chips with cheese comes as hot, crispy, thick-cut golden chips topped with a thick layer of melting cheddar. No separate accompaniment is named in the supplied description. It is listed in the sides section and can be chosen as an accompaniment or a standalone snack to share."
+    },
+    {
+      "question": "Is the Wetherspoons bowl of chips with cheese vegetarian?",
+      "answer": "The Wetherspoons bowl of chips with cheese is listed as vegetarian in our data. It contains a cheddar topping, and milk is the recorded allergen, so it is not a vegan choice as described. Anyone with an allergy or intolerance should check the current information with the pub before ordering."
+    },
+    {
+      "question": "What allergens are in the bowl of chips with cheese?",
+      "answer": "Milk is the allergen listed in our data for the bowl of chips with cheese. The cheddar topping is relevant for anyone avoiding dairy or managing a milk allergy. Check the pub's current [allergen information](/allergen-information) rather than treating this listing as a complete safety assessment. Requested swaps or omissions can change the allergen profile."
+    },
+    {
+      "question": "Can I get the bowl of chips with cheese as a meal deal?",
+      "answer": "A meal deal is not confirmed for the bowl of chips with cheese in the supplied information. Many Wetherspoons mains can be ordered with an eligible soft or alcoholic drink, but this dish is listed as a side. Check your pub's current menu rather than assuming a drink is included with the bowl."
+    },
+    {
+      "question": "Can I order the bowl of chips with cheese on the Wetherspoon app?",
+      "answer": "You can order at your table using the Wetherspoon app, or place an order at the bar. Check your pub's current menu for the bowl of chips with cheese and its local price before selecting it. Make sure you choose the cheese-topped version rather than the separate Bowl of Chips listing."
+    }
+  ],
+  "slug": "bowl-chips-cheese",
+  "generatedAt": "2026-10-06",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

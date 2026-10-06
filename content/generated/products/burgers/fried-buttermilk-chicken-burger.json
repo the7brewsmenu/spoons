@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "title": "Wetherspoons Fried Buttermilk Chicken Burger Price and Calories 2026",
+    "description": "Wetherspoons fried buttermilk chicken burger costs a typical {price}, with {calories} kcal and chips. Check the toppings, texture and allergens before ordering."
+  },
+  "subtitle": "A crispy buttermilk chicken breast burger with chips, suited to diners who want crunch and a comforting alternative to beef.",
+  "quickAnswer": "The Wetherspoons fried buttermilk chicken burger costs a typical {price}, has {calories} kcal and comes with lettuce, tomato and mayonnaise in a soft bun, alongside chips. Its buttermilk-marinated chicken breast has a seasoned, crunchy coating. Prices vary by pub, so check the local menu before ordering.",
+  "components": [
+    {
+      "name": "Buttermilk chicken breast",
+      "note": "The buttermilk-marinated chicken breast provides a juicy, tender centre beneath the crunchy coating."
+    },
+    {
+      "name": "Seasoned breading",
+      "note": "A seasoned breading gives the chicken its crisp exterior and contrasts with the tender meat inside."
+    },
+    {
+      "name": "Soft bun",
+      "note": "The soft bun holds the chicken and toppings together, adding a softer texture against the crunchy breading."
+    },
+    {
+      "name": "Lettuce",
+      "note": "Crisp fresh lettuce adds another layer of crunch alongside the chicken and creamy mayonnaise."
+    },
+    {
+      "name": "Tomato",
+      "note": "A slice of tomato adds a fresh element between the breaded chicken, lettuce and soft bun."
+    },
+    {
+      "name": "Mayonnaise",
+      "note": "The creamy mayonnaise provides a smooth contrast to the crisp breading and fresh lettuce."
+    },
+    {
+      "name": "Chips",
+      "note": "A portion of chips accompanies the burger, making this a burger-and-chips meal rather than a standalone bun."
+    }
+  ],
+  "taste": "This burger centres on the contrast between crunchy seasoned breading and juicy, tender chicken breast. The buttermilk marinade is part of the chicken preparation, while the coating supplies the most noticeable crunch. A soft bun gives way more readily than the crisp exterior, so the textures stay distinct rather than feeling uniform. It is a comforting alternative to a beef burger, with the chicken taking the lead.\n\nLettuce adds fresh crispness, and the tomato brings a fresh element alongside the creamy mayonnaise. That mayonnaise softens the overall impression without replacing the coating's crunch. Served hot with chips, the plate suits someone who values texture as much as flavour.",
+  "value": "At a typical {price}, this burger offers a chicken breast, bun, toppings and chips as one meal. Within the {category} section, it is {pricePosition}, which helps place the cost against the other options we track.\n\nCompare it with the Grilled Chicken Breast Burger if the fried coating is your main deciding factor, or the American Cheese Burger if you are choosing between chicken and beef. Many mains can be ordered with an eligible drink, but check whether this burger qualifies at your pub and compare the local meal price before deciding.",
+  "nutrition": "The listed energy figure is {calories} kcal, equivalent to {calorieShare}. Among the {category} items we track, it is {caloriePosition}, giving you a useful comparison within the section rather than a judgement about your whole day's eating.\n\nChips are already part of the described plate, so check what the displayed figure covers before adding anything. Extra sides, additional sauces and drinks can change the meal total. Use the pub's current [nutrition information](/nutrition-information) for your chosen order, particularly if you request changes.",
+  "dietaryGuidance": "This chicken burger is not suitable for vegetarian or vegan diners, and our data assigns it no dietary tags. The listed allergens are cereals containing gluten and sesame. Anyone avoiding either should check the pub's current [allergen information](/allergen-information) before ordering.\n\nDo not treat that short list as a complete assessment of your needs. The described preparation includes buttermilk and mayonnaise, so discuss any relevant allergy with staff. Removing toppings or requesting swaps can change the allergen information, but does not establish that the meal is safe for you.",
+  "bestFor": [
+    {
+      "title": "An alternative to beef",
+      "text": "Choose this when you want a burger-and-chips meal but prefer chicken to beef. The breast, crunchy coating and soft bun keep the familiar burger format."
+    },
+    {
+      "title": "Texture-led choices",
+      "text": "This suits diners who put crunch first. Seasoned breading and crisp lettuce contrast with tender chicken, a soft bun and creamy mayonnaise."
+    },
+    {
+      "title": "A straightforward pub meal",
+      "text": "The burger arrives with chips, so it suits a lunch or dinner where you want the main and accompaniment together without choosing a separate side."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "side-salad",
+      "reason": "A side salad is worth considering if you want another fresh element alongside the breaded chicken, mayonnaise and included chips."
+    },
+    {
+      "slug": "large-pepsi-max",
+      "reason": "Large Pepsi Max is a soft-drink option to have alongside the burger. Check whether it qualifies for any meal-with-drink option at your pub."
+    },
+    {
+      "slug": "bramley-apple-crumble",
+      "reason": "Bramley Apple Crumble gives you an apple-based dessert after the savoury burger, if you want to follow the main with something sweet."
+    }
+  ],
+  "tips": [
+    "Check the price at your chosen pub before ordering, as the typical {price} is a guide rather than a fixed charge.",
+    "Chips are included in the described serving, so only add another side if you want something beyond the burger-and-chips plate.",
+    "If you prefer chicken without a fried coating, compare the Grilled Chicken Breast Burger on the local menu before making your choice.",
+    "Ask staff about the current allergen information before requesting topping changes, especially if you need to avoid gluten or sesame.",
+    "Check whether an eligible drink can be included with this burger, then order at the bar or through the Wetherspoon app."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the Fried Buttermilk Chicken Burger at Wetherspoons?",
+      "answer": "The Fried Buttermilk Chicken Burger costs a typical {price}, but prices vary by pub. That makes the figure a guide for planning rather than a fixed charge wherever you go. Check your chosen pub's menu before ordering, and compare any available meal-with-drink option separately."
+    },
+    {
+      "question": "How many calories are in the Wetherspoons Fried Buttermilk Chicken Burger?",
+      "answer": "The Fried Buttermilk Chicken Burger has a listed energy figure of {calories} kcal, representing {calorieShare}. It is {caloriePosition} among the burgers we track. Check the current [nutrition](/nutrition-information) information for what the figure includes, as extra sides, sauces, drinks or changes to the order can alter the total."
+    },
+    {
+      "question": "What comes with the Fried Buttermilk Chicken Burger?",
+      "answer": "The Fried Buttermilk Chicken Burger comes with lettuce, a slice of tomato and mayonnaise in a soft bun, alongside a portion of chips. The chicken breast is marinated in buttermilk and covered in seasoned, crunchy breading. You do not need to order chips separately to match the described plate."
+    },
+    {
+      "question": "Is the Fried Buttermilk Chicken Burger vegetarian or vegan?",
+      "answer": "No, the Fried Buttermilk Chicken Burger contains chicken and is not suitable for vegetarian or vegan diners. Our data gives it no dietary tags. The Beyond Meat Plant-Based Burger and Fiesta Burger are listed as vegetarian and vegan alternatives, but check their current details and availability at your chosen pub."
+    },
+    {
+      "question": "What allergens are listed for the Fried Buttermilk Chicken Burger?",
+      "answer": "Cereals containing gluten and sesame are the allergens listed in our data for the Fried Buttermilk Chicken Burger. This is not a complete assurance for every allergy, so consult the pub's current [allergen information](/allergen-information). The description also names buttermilk and mayonnaise, and any requested swaps need a fresh check with staff."
+    },
+    {
+      "question": "Can I get the Fried Buttermilk Chicken Burger as a meal deal?",
+      "answer": "You should check with your pub whether the Fried Buttermilk Chicken Burger can be ordered with an eligible drink as a meal. Many Wetherspoons mains have that option, but the supplied information does not confirm this burger's eligibility. Compare the local meal price and eligible drinks before ordering at the bar or through the app."
+    },
+    {
+      "question": "Is the Fried Buttermilk Chicken Burger crispy?",
+      "answer": "Yes, the Fried Buttermilk Chicken Burger is described as having a crispy, seasoned breading around a tender, juicy chicken breast. Crisp lettuce adds another contrasting texture, while mayonnaise and the soft bun bring creaminess and softness. It suits diners who want a crunchy chicken burger rather than a grilled chicken option."
+    }
+  ],
+  "slug": "fried-buttermilk-chicken-burger",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

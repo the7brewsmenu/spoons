@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "title": "Wetherspoons Breaded Vegetable Burger Price and Calories 2026",
+    "description": "Wetherspoons breaded vegetable burger costs a typical {price} and has {calories} kcal. Served with chips, see ingredients and allergens before ordering."
+  },
+  "subtitle": "A breadcrumb-coated lentil and vegetable burger with chips, suited to vegetarians who prefer familiar flavours and a crisp bite.",
+  "quickAnswer": "The Wetherspoons breaded vegetable burger costs a typical {price}, contains {calories} kcal and comes in a soft bun with lettuce, tomato and chips. Prices vary by pub. Its lentil, carrot and sweetcorn filling makes this a vegetarian choice with an earthy flavour, gentle sweetness and a crisp breadcrumb coating.",
+  "components": [
+    {
+      "name": "Breadcrumb coating",
+      "note": "The crisp breadcrumb exterior gives the burger a crunchy bite before you reach the softer vegetable filling."
+    },
+    {
+      "name": "Lentil and vegetable filling",
+      "note": "Tender lentils, sweet carrots and juicy sweetcorn bring an earthy, savoury centre with a little sweetness."
+    },
+    {
+      "name": "Soft bun",
+      "note": "The soft bun contrasts with the crisp coating and holds the vegetable burger, lettuce and tomato together."
+    },
+    {
+      "name": "Lettuce",
+      "note": "Crisp lettuce adds another texture inside the bun, alongside the softer filling and the breadcrumb coating."
+    },
+    {
+      "name": "Tomato",
+      "note": "Tomato sits alongside the lettuce in the soft bun, completing the burger's straightforward vegetable accompaniments."
+    },
+    {
+      "name": "Chips",
+      "note": "A hearty serving of chips accompanies the burger, making this a full plate rather than a burger alone."
+    }
+  ],
+  "taste": "This burger combines a crisp breadcrumb shell with a soft, earthy vegetable centre. Lentils give the filling its savoury character, while carrots and sweetcorn contribute a gentle sweetness. The contrast is its main attraction: a crunchy first bite followed by tender vegetables, rather than the same texture throughout. Served hot, it suits someone looking for a straightforward vegetable burger with familiar flavours.\n\nThe soft bun provides a gentler contrast to the coating, with crisp lettuce and tomato alongside the filling. Chips complete the plate with a hearty accompaniment. If your preference is for a veggie burger that tastes of its lentil and vegetable ingredients, this is a useful option to consider.",
+  "value": "At a typical {price}, this is worth considering if you want a vegetarian burger with chips included. In our {category} comparison, it is {pricePosition}. Prices are set by individual pubs, so check the local menu before deciding.\n\nCompare it with the Beyond Meat Plant-Based Burger and Fiesta Burger if you are choosing between vegetarian options. The breaded vegetable version offers a clearly described lentil, carrot and sweetcorn filling. Many mains can be ordered with an eligible drink, but check whether this burger qualifies and compare the local meal price with ordering separately.",
+  "nutrition": "The listed energy figure is {calories} kcal, equivalent to {calorieShare}. In our {category} comparison, it is {caloriePosition}. Use that as a way to compare menu choices, rather than assuming a vegetarian burger is necessarily a lighter meal.\n\nChips are part of the described serving, not an extra you need to add. Additional sides, any sauces you request and your drink can change the overall total. Check the current menu information if you alter the order, since the listed figure should not be treated as covering every possible addition or swap.",
+  "dietaryGuidance": "This burger is tagged vegetarian, but our data does not identify it as vegan. The listed allergens are cereals containing gluten and sesame. Anyone avoiding either should check the pub's current [allergen information](/allergen-information) before ordering, rather than relying on the vegetable filling alone.\n\nVegetarian suitability does not establish suitability for a particular allergy or intolerance. Ask staff about the complete serving, including the bun and accompaniments, if you need ingredient detail. Swaps and additions can change the allergens in your order, so have the amended meal checked too.",
+  "bestFor": [
+    {
+      "title": "Traditional veggie burger fans",
+      "text": "Choose this if you prefer a vegetable-led filling with recognisable lentils, carrots and sweetcorn, rather than making your decision around a meat-style burger."
+    },
+    {
+      "title": "A full pub meal",
+      "text": "The burger comes with chips, making it a practical choice when you want a main with its accompaniment already included rather than choosing separate sides."
+    },
+    {
+      "title": "Texture over toppings",
+      "text": "Its appeal is the contrast between crisp breadcrumbs, tender filling and a soft bun, suited to diners who want an uncomplicated burger with lettuce and tomato."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "side-salad",
+      "reason": "A side salad is an option if you want another accompaniment alongside the burger and included chips. Check its ingredients and dressing before ordering."
+    },
+    {
+      "slug": "mini-chocolate-brownie",
+      "reason": "The Mini Warm Chocolate Brownie offers a chocolate dessert after the savoury vegetable burger, if you want to finish the meal with something sweet."
+    },
+    {
+      "slug": "large-pepsi-max",
+      "reason": "Large Pepsi Max is a soft-drink option to consider with the meal. Check whether it is eligible for any burger-and-drink offer at your pub."
+    }
+  ],
+  "tips": [
+    "Check the price at your chosen pub before ordering, as {price} is typical rather than a fixed price across Wetherspoons locations.",
+    "Leave extra chips out of your initial order unless you specifically want more, because a hearty serving already accompanies this burger.",
+    "Ask whether this burger can be ordered with an eligible drink, then compare the local meal price against buying the items separately.",
+    "Check the current gluten and sesame information with staff if either matters to you, especially when requesting changes to the standard serving."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the breaded vegetable burger at Wetherspoons?",
+      "answer": "The breaded vegetable burger costs a typical {price} at Wetherspoons, with prices varying by pub. That serving comes with a soft bun, lettuce, tomato and chips. Check your chosen pub's menu for the local price, and ask whether an eligible drink can be included as part of a meal option."
+    },
+    {
+      "question": "How many calories are in the Wetherspoons breaded vegetable burger?",
+      "answer": "The listed energy figure for the Wetherspoons breaded vegetable burger is {calories} kcal, equivalent to {calorieShare}. The described serving includes chips as well as the burger in its bun. Additional sides, sauces or drinks can change your meal's total, so check current information if you customise the order."
+    },
+    {
+      "question": "Is the Wetherspoons breaded vegetable burger vegetarian or vegan?",
+      "answer": "The Wetherspoons breaded vegetable burger is tagged vegetarian, but our data does not identify it as vegan. Its filling contains lentils, carrots and sweetcorn inside a breadcrumb coating. If you need a vegan meal, check the pub's current guidance rather than assuming that a vegetable filling makes the complete serving suitable."
+    },
+    {
+      "question": "What comes with the breaded vegetable burger at Wetherspoons?",
+      "answer": "The breaded vegetable burger comes in a soft bun with crisp lettuce and tomato, accompanied by a hearty serving of chips. Inside the breadcrumb coating is a tender lentil, carrot and sweetcorn filling. You do not need to order a separate bowl of chips to get the described accompaniment."
+    },
+    {
+      "question": "What allergens are listed for the Wetherspoons breaded vegetable burger?",
+      "answer": "Cereals containing gluten and sesame are the allergens listed in our data for the Wetherspoons breaded vegetable burger. Check the pub's current [allergen information](/allergen-information) before ordering if you have an allergy or intolerance. Any swaps or additions can change the allergens in the meal, so ask about the complete order."
+    },
+    {
+      "question": "Can I get the breaded vegetable burger as a meal with a drink?",
+      "answer": "You should check with your chosen pub whether the breaded vegetable burger qualifies for a meal with an eligible drink. Many Wetherspoons mains can be ordered this way, but the supplied information does not confirm this burger's eligibility. Compare the local meal price and available drinks before placing your order."
+    },
+    {
+      "question": "What does the Wetherspoons breaded vegetable burger taste like?",
+      "answer": "The Wetherspoons breaded vegetable burger has a savoury, earthy filling with gentle sweetness from carrots and sweetcorn. A crisp breadcrumb coating contrasts with the tender lentils and vegetables inside. Served hot in a soft bun with lettuce, tomato and chips, it is a straightforward choice for familiar vegetable flavours."
+    }
+  ],
+  "slug": "breaded-vegetable-burger",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

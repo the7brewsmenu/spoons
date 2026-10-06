@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "title": "Wetherspoons Kids Fish Fingers Price and Calories 2026",
+    "description": "Wetherspoons kids fish fingers cost a typical {price} with {calories} kcal. Chips, peas, a drink and fruit are included. Check allergens before ordering."
+  },
+  "subtitle": "Breaded cod fish fingers with chips and garden peas, suited to children who prefer mild flavours and familiar textures.",
+  "quickAnswer": "Wetherspoons kids fish fingers cost a typical {price}, list {calories} kcal and come with chips, garden peas, a children’s drink and a fresh piece of fruit. The plate includes three thick breaded cod fish fingers with a crisp coating and soft, flaky fish inside. Prices vary by pub.",
+  "components": [
+    {
+      "name": "Cod fish fingers",
+      "note": "Three thick breaded cod fish fingers provide a crisp exterior and soft, flaky white fish with a mild flavour."
+    },
+    {
+      "name": "Chips",
+      "note": "Golden chips accompany the fish fingers, keeping the main plate familiar for children who enjoy this classic combination."
+    },
+    {
+      "name": "Garden peas",
+      "note": "Sweet garden peas add colour and a contrasting texture alongside the breaded fish fingers and golden chips."
+    },
+    {
+      "name": "Children’s drink",
+      "note": "A children’s drink is included with the meal, so check the available choices at your chosen pub."
+    },
+    {
+      "name": "Fresh fruit",
+      "note": "A fresh piece of fruit is included for dessert, giving the meal a simple finish after the main plate."
+    }
+  ],
+  "taste": "The fish fingers have a crisp breaded exterior around soft, flaky cod. Their mild white-fish flavour makes this a straightforward introduction to seafood, particularly for children who prefer familiar food without challenging flavours. Three thick fingers form the centre of the plate, with the contrast between coating and fish providing the main textural interest.\n\nGolden chips and sweet garden peas keep the accompaniments simple. The peas bring colour and sweetness alongside the fish, while the chips make the combination recognisably a childhood classic. A children’s drink comes with the meal, and a fresh piece of fruit follows as dessert rather than another breaded or chip-based element.",
+  "value": "The included children’s drink and fresh fruit make the typical {price} worth considering as a complete meal rather than just a main plate. Prices vary by pub, and it is {pricePosition}.\n\nCompare it with Kids Chicken Nuggets if your child prefers chicken, or Kids Sausages and Mash if that sounds more appealing. Kids Margherita Pizza is a listed vegetarian alternative. The practical value depends on how much of the fish, chips and peas your child is likely to eat, so preference matters alongside the price.",
+  "nutrition": "The listed energy figure is {calories} kcal, equivalent to {calorieShare}. Within the tracked {category} selection, it is {caloriePosition}. Use those comparisons as context, rather than as a target for an individual child.\n\nCheck which included elements the figure covers, particularly the children’s drink and fruit. Changing sides, choosing a different drink or adding sauces can change the total, so ask the pub for the information relevant to your order. Extra desserts should also be considered separately.",
+  "dietaryGuidance": "This cod-based meal is not suitable for vegetarian or vegan diners, and our data gives it no dietary tags. The listed allergens are cereals containing gluten, eggs and fish. Children who need to avoid any of these should have the current [allergen information](/allergen-information) checked before ordering.\n\nAsk the pub about the complete meal, including the drink and fruit, rather than checking only the fish fingers. Any agreed swaps can change the allergen profile. Kids Margherita Pizza is tagged vegetarian, while Kids Tomato Pasta and Kids Vegan Sausages are tagged vegan and vegetarian.",
+  "bestFor": [
+    {
+      "title": "Familiar pub meals",
+      "text": "Children who already enjoy fish fingers, chips and peas may find this an easy choice, with recognisable components and mild flavours rather than an unfamiliar main."
+    },
+    {
+      "title": "First tastes of fish",
+      "text": "The mild cod and familiar breaded coating make this worth considering for a child beginning to try seafood, provided the listed allergens are suitable for them."
+    },
+    {
+      "title": "A complete children’s meal",
+      "text": "Families looking for a main, drink and simple dessert in the same order can weigh up this meal without needing to choose a separate pudding."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "mini-chocolate-brownie",
+      "reason": "Consider the Mini Warm Chocolate Brownie only if a separate dessert is wanted; the fish finger meal already includes fresh fruit."
+    },
+    {
+      "slug": "fresh-fruit-ice-cream",
+      "reason": "Fresh Fruit with Ice Cream offers another dessert option if that combination appeals, but check the serving size before adding it to the included fruit."
+    }
+  ],
+  "tips": [
+    "Check the price at your chosen pub before ordering, since the typical {price} is a guide rather than a fixed charge.",
+    "Ask which children’s drinks and fruit are available before choosing, as the meal description does not specify the drink or fruit type.",
+    "Check the current allergen information for cereals containing gluten, eggs and fish, including any changes you request to the meal.",
+    "Factor in the included fruit before adding a dessert, and consider whether your child is likely to eat the garden peas.",
+    "Order at the bar or through the Wetherspoon app at your table, checking any requested changes with the pub before submitting."
+  ],
+  "faqs": [
+    {
+      "question": "How much are Wetherspoons kids fish fingers?",
+      "answer": "Wetherspoons kids fish fingers cost a typical {price}, with prices set by each pub and varying by location. The described meal includes three breaded cod fish fingers, chips, garden peas, a children’s drink and a fresh piece of fruit. Check your chosen pub’s current price before ordering."
+    },
+    {
+      "question": "How many calories are in Wetherspoons kids fish fingers?",
+      "answer": "Wetherspoons kids fish fingers are listed at {calories} kcal, equivalent to {calorieShare}. Check with the pub which parts of the meal are covered by that figure, especially the included drink and fruit. Different drink choices, agreed side changes or added sauces can change the total for your order."
+    },
+    {
+      "question": "What comes with Wetherspoons kids fish fingers?",
+      "answer": "Wetherspoons kids fish fingers come with chips, sweet garden peas, a children’s drink and a fresh piece of fruit for dessert. The main contains three thick breaded cod fish fingers with a crisp exterior and soft, flaky fish inside. Ask the pub which drink and fruit choices are available."
+    },
+    {
+      "question": "Are Wetherspoons kids fish fingers vegetarian?",
+      "answer": "Wetherspoons kids fish fingers are not vegetarian because they contain cod. Our data does not assign the dish any dietary tags. For an alternative in the same section, Kids Margherita Pizza is tagged vegetarian, while Kids Vegan Sausages and Kids Tomato Pasta are tagged both vegan and vegetarian."
+    },
+    {
+      "question": "What allergens are in Wetherspoons kids fish fingers?",
+      "answer": "The allergens listed for Wetherspoons kids fish fingers are cereals containing gluten, eggs and fish. Check the pub’s current [allergen information](/allergen-information) before ordering for a child with an allergy or intolerance. Include the sides, children’s drink and fruit in that check, since swaps can change the meal’s allergen profile."
+    },
+    {
+      "question": "Do Wetherspoons kids fish fingers include a drink?",
+      "answer": "Wetherspoons kids fish fingers include a children’s drink, as well as fresh fruit for dessert. The supplied meal description does not identify the drink choices, so ask your chosen pub before ordering. This inclusion is part of the described children’s meal, rather than a separate adult meal-and-drink offer."
+    },
+    {
+      "question": "Can you swap the peas with Wetherspoons kids fish fingers?",
+      "answer": "A swap for the garden peas is not confirmed in the supplied information, so ask the pub before ordering Wetherspoons kids fish fingers. The described sides are chips and sweet garden peas. If a change is agreed, check whether it affects the price, listed energy figure or allergens."
+    }
+  ],
+  "slug": "kids-fish-fingers",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

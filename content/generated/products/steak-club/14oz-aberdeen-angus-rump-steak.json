@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "title": "Wetherspoons 14oz Aberdeen Angus Rump Steak Price and Calories 2026",
+    "description": "Wetherspoons {name} costs a typical {price} and has {calories} kcal. See included sides, Tuesday pricing and allergen advice before ordering."
+  },
+  "subtitle": "A substantial Aberdeen Angus rump steak with chips and vegetables, suited to hearty appetites and diners who favour firm, beefy cuts.",
+  "quickAnswer": "{name} costs a typical {price}, contains {calories} kcal and comes with chips, garden peas, a grilled tomato and a flat mushroom. Prices vary by pub, with [Steak Club](/steak-club) pricing on Tuesdays. It is a substantial, firmly textured cut, so choose it for appetite and beef flavour rather than tenderness alone.",
+  "components": [
+    {
+      "name": "Aberdeen Angus rump steak",
+      "note": "The substantial rump cut provides the plate’s robust beef flavour and firmer texture, grilled to your preferred doneness."
+    },
+    {
+      "name": "Chips",
+      "note": "A generous portion of chips accompanies the steak, making this a substantial meal before any extra sides are considered."
+    },
+    {
+      "name": "Garden peas",
+      "note": "Garden peas provide a vegetable accompaniment alongside the chips, tomato and mushroom on this beef-focused plate."
+    },
+    {
+      "name": "Grilled tomato",
+      "note": "The grilled tomato adds another vegetable element to the plate, alongside the garden peas and flat mushroom."
+    },
+    {
+      "name": "Flat mushroom",
+      "note": "A flat mushroom completes the listed accompaniments, giving you another element to alternate with the steak and chips."
+    }
+  ],
+  "taste": "This is a robust, beef-led meal with a firmer texture than diners seeking a tender steak might expect. The source description emphasises the rump cut’s deep, rich flavour, so its main appeal is the beef itself rather than elaborate accompaniments. Aberdeen Angus beef forms the centre of the plate, and the steak is grilled to your preference. Be clear about your preferred doneness when ordering.\n\nServed sizzling hot with a generous portion of chips, it is aimed squarely at a hearty appetite. Garden peas, a grilled tomato and a flat mushroom complete the plate without distracting from the substantial cut. Choose it if you enjoy a steak with some chew and pronounced beef flavour, rather than expecting a soft texture throughout.",
+  "value": "The typical price is {price}, and its position within the [Steak Club](/steak-club) items we track is {pricePosition}. Value here rests on wanting a substantial rump steak with the listed sides, rather than simply choosing the largest meal available.\n\nCompare it with the smaller rump steak or sirloin steak if appetite or cut matters more than size. Mixed Grill and Large Mixed Grill are other named options in the section. Tuesday Steak Club pricing is relevant, but prices vary by pub. Ask whether the quoted meal includes an eligible drink before comparing the total.",
+  "nutrition": "The listed energy figure is {calories} kcal, equivalent to {calorieShare}; its position among the Steak Club items we track is {caloriePosition}. Use that figure when deciding how this substantial meal fits into your day, rather than judging it by the steak alone.\n\nThe described plate includes chips and vegetables. Extra sides, any added sauce and your chosen drink can change the total, so check their separate [nutrition information](/nutrition-information). If you request swaps or leave an accompaniment off, ask for guidance rather than assuming the listed figure still applies unchanged.",
+  "dietaryGuidance": "This beef steak is not suitable for vegetarians or vegans, and our data lists no dietary tags for the dish. The recorded allergens are mustard and sulphur dioxide. Anyone avoiding either should [check the current allergen](/allergen-information) information with the pub before ordering.\n\nThe data does not identify which individual component contains each allergen, so do not assume removing a side resolves the issue. Swaps, added sauces and other changes can alter the allergen profile. Explain any allergy clearly and ask staff to check the meal as you intend to order it.",
+  "bestFor": [
+    {
+      "title": "A hearty appetite",
+      "text": "Choose this when you want a substantial steak meal with chips and vegetables already included. The generous plate makes extra sides worth considering carefully rather than adding by habit."
+    },
+    {
+      "title": "Fans of rump",
+      "text": "It suits diners who value deep beef flavour and are comfortable with a firmer texture. If tenderness is your main priority, consider the cut before committing to this substantial serving."
+    },
+    {
+      "title": "A Tuesday steak meal",
+      "text": "Tuesday is the relevant day to check Steak Club pricing. Confirm the local price and any eligible drink inclusion before ordering, since the final offer and cost depend on the pub."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "side-salad",
+      "reason": "A side salad is worth considering if you want another accompaniment alongside the beef, rather than adding more chips to an already substantial plate."
+    },
+    {
+      "slug": "mini-chocolate-brownie",
+      "reason": "The Mini Warm Chocolate Brownie is a dessert option to consider if you still want something sweet after this substantial steak meal."
+    },
+    {
+      "slug": "large-pepsi-max",
+      "reason": "Large Pepsi Max gives you a soft-drink option with the steak; check whether it qualifies for any meal-with-drink offer at your pub."
+    }
+  ],
+  "tips": [
+    "State your preferred doneness when ordering, as the steak is grilled to your preference, and remember that rump has a naturally firmer texture.",
+    "Check Tuesday Steak Club pricing at your chosen pub and ask whether an eligible drink is included before deciding on the meal’s value.",
+    "Review the included chips, peas, tomato and mushroom before adding sides, especially if you are also planning to order dessert.",
+    "Ask staff to check mustard and sulphur dioxide information for your exact order, including any swaps or sauces you request.",
+    "Compare the smaller rump steak and sirloin steak on the local menu if you want steak but are unsure about this substantial portion."
+  ],
+  "faqs": [
+    {
+      "question": "How much is {name} at Wetherspoons?",
+      "answer": "{name} has a typical price of {price}, but the amount charged varies by pub. Tuesday [Steak Club](/steak-club) pricing is noted for this dish, so check the local menu for the relevant price. Confirm whether an eligible drink is included before comparing it with another meal."
+    },
+    {
+      "question": "How many calories are in {name}?",
+      "answer": "{name} is listed at {calories} kcal, which represents {calorieShare}. The described meal includes chips, garden peas, a grilled tomato and a flat mushroom. Extra sides, added sauces or a drink can change your order’s total, so check those separately rather than treating the dish figure as the whole order."
+    },
+    {
+      "question": "What comes with {name}?",
+      "answer": "{name} comes with a generous portion of chips, garden peas, a grilled tomato and a flat mushroom. The Aberdeen Angus rump steak is grilled to your preferred doneness and served sizzling hot. If you want to change an accompaniment, ask the pub what swaps are possible before placing your order."
+    },
+    {
+      "question": "Is {name} vegetarian or vegan?",
+      "answer": "{name} is neither vegetarian nor vegan because its main component is beef. Our data does not list any dietary tags for this dish. Removing the vegetable accompaniments would not change its suitability, so diners avoiding meat should look for a different meal and check its current dietary information."
+    },
+    {
+      "question": "What allergens are listed for {name}?",
+      "answer": "Mustard and sulphur dioxide are the allergens listed in our data for {name}. The record does not specify which components contain them, so check the pub’s current information before ordering. Tell staff about your allergy and any requested changes, because swaps or added sauces can change the [allergen](/allergen-information) profile."
+    },
+    {
+      "question": "Can I get {name} as a meal with a drink?",
+      "answer": "A meal-with-drink option may be available for {name}, but you should confirm eligibility at your chosen pub. Many Wetherspoons mains can be ordered with an eligible soft or alcoholic drink, and [Steak Club](/steak-club) traditionally runs on Tuesdays at participating pubs, often with a drink included. Prices vary by location."
+    },
+    {
+      "question": "Is {name} a tender steak?",
+      "answer": "{name} is described as having a firmer texture, so it is better chosen for robust beef flavour than an expectation of softness. The rump cut offers a rich taste and is grilled to your preference. Specify your preferred doneness, while keeping the cut’s characteristic texture in mind."
+    }
+  ],
+  "slug": "14oz-aberdeen-angus-rump-steak",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

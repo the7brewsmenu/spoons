@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Wetherspoons Kids Chicken Nuggets Price and Calories 2026",
+    "description": "Wetherspoons kids chicken nuggets cost a typical {price} and have {calories} kcal. Includes a drink and fruit. Check side choices and allergens before ordering."
+  },
+  "subtitle": "Five battered chicken breast nuggets with a choice of sides, a drink and fruit, suited to children who prefer mild flavours.",
+  "quickAnswer": "Wetherspoons kids chicken nuggets cost a typical {price}, contain {calories} kcal and come with chips or potato smiley faces, baked beans or garden peas, a children’s drink and fresh fruit. The meal includes five battered chicken breast nuggets. Prices vary by pub, so check your chosen location before ordering.",
+  "components": [
+    {
+      "name": "Chicken breast nuggets",
+      "note": "Five battered chicken breast nuggets provide the main part of the meal, with a mild savoury flavour and crunchy coating."
+    },
+    {
+      "name": "Chips or smiley faces",
+      "note": "Choose thick-cut chips or crispy potato smiley faces for the potato side served alongside the nuggets."
+    },
+    {
+      "name": "Beans or peas",
+      "note": "Baked beans or sweet garden peas add another texture alongside the battered nuggets and your chosen potato side."
+    },
+    {
+      "name": "Children’s drink",
+      "note": "A children’s drink is included with the meal, so check the available choices when you place your order."
+    },
+    {
+      "name": "Fresh fruit",
+      "note": "A piece of fresh fruit provides the included dessert, rather than requiring a separate sweet course."
+    }
+  ],
+  "taste": "The nuggets offer mild savoury flavour with a crunchy battered coating, making this a straightforward choice for children who prefer familiar food. Chicken breast is the centre of the meal, with five nuggets served alongside a choice of potato and vegetable sides. The contrast between the crunchy coating and the other elements gives the plate some variety without relying on strong flavours.\n\nThick-cut chips keep the potato choice simple, while crispy smiley faces offer an alternative shape and texture. Baked beans or sweet garden peas complete the savoury plate. A children’s drink accompanies the meal, and a piece of fresh fruit provides a separate finish for dessert.",
+  "value": "The included drink and fresh fruit make this a useful option when you want a main meal and dessert covered by one order. The typical price is {price}, with prices set by each pub. Its position within the section is {pricePosition}.\n\nCompare it with Kids Fish Fingers if you are choosing between familiar children’s meals, or Kids Sausages and Mash for a different main. For a vegetarian alternative, consider Kids Margherita Pizza. The practical value here is the included extras and choice of sides, rather than needing a separate meal deal.",
+  "nutrition": "The listed energy figure is {calories} kcal, equivalent to {calorieShare}. Within the children’s section, it is {caloriePosition}. Use that as a comparison point rather than a target for an individual child.\n\nThe meal offers alternative potato and vegetable sides, so check which combination the figure covers. Drink choice, any sauces you add and extra items can change the total. Ask the pub for the relevant [nutrition information](/nutrition-information) if you need a figure for the exact order, including the drink and fruit.",
+  "dietaryGuidance": "This chicken meal is not suitable for vegetarian or vegan diners, and no dietary tags are recorded in our data. The listed allergens are cereals containing gluten, milk and eggs. Anyone avoiding these ingredients should check the pub’s current [allergen information](/allergen-information) before ordering.\n\nSide or drink swaps can change the allergen picture, so discuss the complete order rather than just the nuggets. Kids Margherita Pizza is listed as vegetarian, while Kids Vegan Sausages and Kids Tomato Pasta are listed as vegan and vegetarian. Those tags do not establish suitability for a particular allergy.",
+  "bestFor": [
+    {
+      "title": "Children who prefer mild flavours",
+      "text": "The mild savoury nuggets suit children who prefer familiar flavours. A crunchy battered coating gives the main some texture, with potato and vegetable choices alongside."
+    },
+    {
+      "title": "A meal with extras",
+      "text": "The included children’s drink and piece of fresh fruit suit families who want to choose a main, drink and dessert together without ordering each separately."
+    },
+    {
+      "title": "Choosing familiar sides",
+      "text": "The choice between chips and potato smiley faces, plus beans or peas, suits children with clear side preferences. Confirm the available options at your chosen pub."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "fresh-fruit-ice-cream",
+      "reason": "Fresh Fruit with Ice Cream is an optional dessert if the included piece of fruit is not the finish your child wants."
+    },
+    {
+      "slug": "mini-chocolate-brownie",
+      "reason": "Mini Warm Chocolate Brownie offers a separate chocolate dessert after the savoury meal. Consider it an extra, since fresh fruit is already included."
+    }
+  ],
+  "tips": [
+    "Choose both sets of sides when ordering: thick-cut chips or potato smiley faces, then baked beans or garden peas.",
+    "Check which children’s drinks are available before adding a separate drink, as a children’s drink is already included in this meal.",
+    "Confirm the current price at your chosen pub, either at the bar or through the Wetherspoon app, before placing the order.",
+    "If your child has an allergy, check the complete meal with the pub, including side choices, the drink and any requested swaps."
+  ],
+  "faqs": [
+    {
+      "question": "How much are Wetherspoons kids chicken nuggets?",
+      "answer": "Wetherspoons kids chicken nuggets cost a typical {price}, although prices vary by pub. The meal includes five battered chicken breast nuggets, a choice of potato and vegetable sides, a children’s drink and a piece of fresh fruit. Check the price at your chosen location before ordering."
+    },
+    {
+      "question": "How many calories are in Wetherspoons kids chicken nuggets?",
+      "answer": "The listed energy figure for Wetherspoons kids chicken nuggets is {calories} kcal, equivalent to {calorieShare}. Check which side and drink choices that figure covers if you need information for a specific order. Any added sauces, extra sides or separate desserts can change the total."
+    },
+    {
+      "question": "What comes with Wetherspoons kids chicken nuggets?",
+      "answer": "Wetherspoons kids chicken nuggets come with thick-cut chips or potato smiley faces, baked beans or garden peas, a children’s drink and a piece of fresh fruit. The main consists of five battered chicken breast nuggets. Check the available drink choices with the pub when ordering."
+    },
+    {
+      "question": "How many nuggets are in the Wetherspoons kids meal?",
+      "answer": "The Wetherspoons kids chicken nuggets meal contains five battered chicken breast nuggets. They are served with a choice of chips or potato smiley faces and baked beans or garden peas. A children’s drink and a piece of fresh fruit are also included with the meal."
+    },
+    {
+      "question": "Are Wetherspoons kids chicken nuggets vegetarian?",
+      "answer": "Wetherspoons kids chicken nuggets are not vegetarian or vegan because they contain chicken breast. No dietary tags are recorded for this meal in our data. Alternatives in the same section include vegetarian Kids Margherita Pizza, plus Kids Vegan Sausages and Kids Tomato Pasta, both listed as vegan and vegetarian."
+    },
+    {
+      "question": "What allergens are in Wetherspoons kids chicken nuggets?",
+      "answer": "The allergens listed for Wetherspoons kids chicken nuggets in our data are cereals containing gluten, milk and eggs. Check the pub’s current [allergen information](/allergen-information) before ordering for anyone with an allergy. Side choices, drinks and swaps can affect the complete meal, so confirm the whole order rather than the nuggets alone."
+    },
+    {
+      "question": "Do Wetherspoons kids chicken nuggets include a drink and dessert?",
+      "answer": "Yes, the Wetherspoons kids chicken nuggets meal includes a children’s drink and a piece of fresh fruit for dessert. These accompany the nuggets and your chosen sides, so a separate dessert is optional. Ask the pub which children’s drinks are available before placing your order."
+    }
+  ],
+  "slug": "kids-chicken-nuggets",
+  "generatedAt": "2026-10-06",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

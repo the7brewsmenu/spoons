@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "title": "Wetherspoons Southampton: pubs, menu and prices guide",
+    "description": "Compare Wetherspoons Southampton pubs on High Street, London Road and in Bitterne, with menu choices, breakfast guidance and tips for checking prices."
+  },
+  "intro": "This guide covers {pubCount} open Wetherspoons pubs in Southampton across {areaCount} areas, helping you choose where to go and what to order. Every pub works from the national [Wetherspoons menu](/), but prices are set locally. Compare The Standing Order, The Giddy Bridge and The Red Lion, then check how local pricing, breakfast service and club days work. National menu choices include burgers, curries, fish and chips and pizza. Use the individual pub’s current menu to confirm your choices before ordering.",
+  "quickAnswer": "Our Southampton guide lists {pubCount} open Wetherspoons pubs across {areaCount} areas: The Standing Order on High Street, The Giddy Bridge on London Road and The Red Lion in Bitterne. Choose the location that suits your plans, then check that pub’s menu before ordering. The national menu is broadly shared, but each pub sets its own prices.",
+  "areas": [
+    {
+      "area": "High Street",
+      "text": "The Standing Order is the listed Wetherspoons on High Street in Southampton. It suits anyone whose plans already include High Street and who wants to compare familiar national menu choices. Check this pub’s prices rather than assuming they match those at The Giddy Bridge or The Red Lion."
+    },
+    {
+      "area": "London Road",
+      "text": "The Giddy Bridge is the listed Wetherspoons on London Road in Southampton. Choose it if London Road is the most convenient area for your meal. Burgers, curries and other national menu choices provide a starting point, but check the pub’s current menu for availability and prices."
+    },
+    {
+      "area": "Bitterne",
+      "text": "The Red Lion is the listed Wetherspoons in Bitterne, with an address on Bitterne Road. It suits visitors who would rather eat in Bitterne than choose High Street or London Road. Compare its current menu and prices before deciding, as a shared national menu does not mean identical costs."
+    }
+  ],
+  "pricing": "Wetherspoons menu prices in Southampton vary by pub, even though the menu is broadly the same nationally. The Standing Order, The Giddy Bridge and The Red Lion each set their own prices, so a meal at one should not be used as an exact cost guide for another.\n\nLocation can make a difference: city centre pubs often charge more than suburban pubs. That general pattern is a reason to compare menus, not evidence that a particular Southampton pub is cheaper.\n\nTreat any guide price as typical rather than fixed. For the exact cost of your order, select the relevant pub in the Wetherspoon app or check its current menu at the bar before paying.",
+  "breakfastAndClubs": "Wetherspoons breakfast is typically served from eight in the morning until midday, but check the chosen Southampton pub before planning around those times. The traditional breakfast is among the popular dishes on the national menu; consult the local menu for current choices and prices.\n\n[Curry Club](/curry-club) is traditionally on Thursday and [Steak Club](/steak-club) on Tuesday at participating pubs. Participation should not be assumed for The Standing Order, The Giddy Bridge or The Red Lion. Ask the pub or check its current menu for the relevant club, service details and pricing before making a special visit.",
+  "tips": [
+    {
+      "title": "Choose the area first",
+      "text": "Start with the area that fits your plans: High Street, London Road or Bitterne. Then compare the relevant pub’s menu rather than choosing solely on national menu familiarity."
+    },
+    {
+      "title": "Check the pub menu",
+      "text": "Use the current menu for your chosen pub to check prices and available dishes. A price seen at another Wetherspoons is only a comparison, not confirmation."
+    },
+    {
+      "title": "Confirm breakfast service",
+      "text": "Breakfast is typically served from eight in the morning until midday. Check with your chosen pub if breakfast is the main reason for your visit."
+    },
+    {
+      "title": "Check club participation",
+      "text": "Thursday is traditionally Curry Club day and Tuesday is Steak Club day at participating pubs. Confirm local participation and current details before planning your meal around either."
+    },
+    {
+      "title": "Pick your ordering method",
+      "text": "You can order at the bar or at your table using the Wetherspoon app. If using the app, select the correct pub before reviewing your order."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How many Wetherspoons are in Southampton?",
+      "answer": "This guide lists {pubCount} open Wetherspoons pubs in Southampton across {areaCount} areas. They are The Standing Order on High Street, The Giddy Bridge on London Road and The Red Lion in Bitterne. Their menus are broadly based on the national menu, but each pub sets its own prices."
+    },
+    {
+      "question": "Which Wetherspoons in Southampton is on High Street?",
+      "answer": "The Standing Order is the listed Wetherspoons on High Street in Southampton. Choose it if High Street fits your plans, then check its current menu for dishes and prices. Do not assume a price from The Giddy Bridge or The Red Lion will apply, as each pub sets its own prices."
+    },
+    {
+      "question": "Which Wetherspoons in Southampton is in Bitterne?",
+      "answer": "The Red Lion is the listed Wetherspoons in Bitterne, on Bitterne Road in Southampton. It is the relevant option in this guide if you want to eat in Bitterne rather than on High Street or London Road. Check its current menu for available dishes, local prices and any club participation."
+    },
+    {
+      "question": "What time does breakfast start at Wetherspoons in Southampton?",
+      "answer": "Wetherspoons breakfast typically starts at eight in the morning and runs until midday. These are general service times, so check your chosen Southampton pub before making plans. The traditional breakfast is a popular national menu choice, but the local menu is the place to confirm current options and prices."
+    },
+    {
+      "question": "Are prices higher at Wetherspoons in Southampton?",
+      "answer": "There is no single Southampton price level: each Wetherspoons pub sets its own prices. City centre pubs often charge more than suburban pubs, but that does not establish which local pub is cheapest. Compare the current menus for The Standing Order, The Giddy Bridge and The Red Lion, treating any guide prices as typical."
+    },
+    {
+      "question": "What days are Curry Club and Steak Club in Southampton?",
+      "answer": "Curry Club is traditionally on Thursday and Steak Club on Tuesday at participating Wetherspoons pubs. For Southampton, confirm participation with The Standing Order, The Giddy Bridge or The Red Lion before planning a visit around a club day. Check the chosen pub’s current menu for the offer details and local prices."
+    },
+    {
+      "question": "What can I order at Wetherspoons in Southampton?",
+      "answer": "Popular choices on the national Wetherspoons menu include traditional breakfast, burgers, curries, fish and chips and pizza. The menu is broadly the same nationally, but check your chosen Southampton pub for current availability and prices. You can order at the bar or at your table using the Wetherspoon app."
+    }
+  ],
+  "slug": "southampton",
+  "generatedAt": "2026-10-06",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

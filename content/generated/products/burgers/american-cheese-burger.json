@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "title": "Wetherspoons American Cheese Burger Price and Calories 2026",
+    "description": "Wetherspoons American Cheese Burger with chips: typical price {price} and {calories} kcal. Check toppings, allergens and value before ordering at your pub."
+  },
+  "subtitle": "A beef burger with American-style cheese, gherkins and chips for diners who favour familiar, mildly tangy flavours.",
+  "quickAnswer": "The Wetherspoons American Cheese Burger has a typical price of {price}, contains {calories} kcal and comes with chips. A beef patty sits in a soft bun with American-style cheese, sliced gherkins, ketchup and mild mustard. Prices vary by pub, so check the local menu before ordering.",
+  "components": [
+    {
+      "name": "Beef patty",
+      "note": "The beef patty provides the rich, savoury flavour at the centre of this diner-style burger."
+    },
+    {
+      "name": "American-style cheese",
+      "note": "Melting American-style cheese sits over the patty, adding a soft layer alongside the tangier gherkins and mustard."
+    },
+    {
+      "name": "Sliced gherkins",
+      "note": "Tangy sliced gherkins bring a sharp contrast to the rich beef and the sweetness of the ketchup."
+    },
+    {
+      "name": "Ketchup",
+      "note": "Sweet ketchup balances the sharper mustard and gherkins without changing the burger's familiar beef-and-cheese character."
+    },
+    {
+      "name": "Mild mustard",
+      "note": "A touch of mild mustard brings tang rather than dominating the savoury beef and melting cheese."
+    },
+    {
+      "name": "Soft bun",
+      "note": "The soft bun holds the beef and toppings together, giving the burger its familiar diner-style format."
+    },
+    {
+      "name": "Chips",
+      "note": "The hearty portion of golden chips adds a substantial side to the beef burger and its toppings."
+    }
+  ],
+  "taste": "Expect a rich, savoury beef burger with sweetness from ketchup and a sharper edge from the gherkins and mustard. Melting cheese sits over the patty, and the soft bun gives the burger a yielding outer texture. Mustard is described as mild and used sparingly, so the emphasis is on tang rather than a strongly mustard-led flavour.\n\nServed hot with a hearty portion of golden chips, this is a straightforward diner-style plate. Its appeal lies in the contrast between savoury beef, sweet ketchup and tangy toppings, rather than an elaborate combination. Choose it for the classic beef, cheese and pickle combination, with mustard adding a mild tang.",
+  "value": "The typical price is {price}, and it is {pricePosition}. Chips are included, so judge the value as a burger-and-chips meal rather than a burger alone. Compare the local prices of the Double American Cheese Burger and BBQ Bacon Burger before deciding which suits your budget. Many mains can be ordered with an eligible soft or alcoholic drink, but confirm the options for this burger at your pub. Prices vary by pub, so use the local menu and the drink you actually want when weighing up value.",
+  "nutrition": "The listed energy figure is {calories} kcal, equivalent to {calorieShare}. In our {category} comparison, it is {caloriePosition}, which describes its position rather than its overall nutritional balance. Extra sides, additional sauces and drinks can increase the total for your order. Chips already come with the dish, so distinguish those from any extra portion you add. Check the current menu for the energy values of your chosen additions and for any changes to the standard serving.",
+  "dietaryGuidance": "This beef-and-cheese burger is not a vegetarian or vegan choice, and our data lists cereals containing gluten, milk and sesame as allergens. No dietary tags are recorded for it. Anyone avoiding these allergens should check the pub's current [allergen information](/allergen-information) before ordering, rather than relying on the ingredient description alone. Swaps or omissions can change the allergen profile, so confirm the exact order with staff. For a plant-based alternative, our data tags the Beyond Meat Plant-Based Burger and Fiesta Burger as vegan and vegetarian.",
+  "bestFor": [
+    {
+      "title": "Classic cheeseburger fans",
+      "text": "Beef, American-style cheese and a soft bun make this a clear choice for diners who prefer a familiar burger format to something more elaborate."
+    },
+    {
+      "title": "A simple pub meal",
+      "text": "Choose it when you want a straightforward burger-and-chips meal without having to pick a separate side. The included chips keep the ordering decision simple."
+    },
+    {
+      "title": "Sweet and tangy flavours",
+      "text": "Pick this if you enjoy sweet ketchup against sharp gherkins and mild mustard. The combination gives the familiar beef-and-cheese filling a tangy edge."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "side-salad",
+      "reason": "Choose a Side Salad if you want a salad alongside the burger rather than another helping of chips. Check the current ingredients before ordering."
+    },
+    {
+      "slug": "large-pepsi-max",
+      "reason": "Large Pepsi Max is an option if you prefer a soft drink with your burger. Check whether it is eligible for a meal offer at your pub."
+    },
+    {
+      "slug": "chocolate-fudge-cake",
+      "reason": "Choose Warm Chocolate Fudge Cake if you want a chocolate dessert after the savoury burger. Check the local menu before adding it as a separate course."
+    }
+  ],
+  "tips": [
+    "Check the pub's current price before ordering, especially when comparing the American Cheese Burger with the Double American Cheese Burger.",
+    "Chips already accompany the burger, so only add a Bowl of Chips if you want an extra portion alongside the included side.",
+    "If gherkins or mild mustard are not to your taste, ask whether either can be left off rather than assuming customisation is available.",
+    "Confirm the exact order against the pub's current allergen information, including any requested swaps, particularly if you avoid gluten, milk or sesame.",
+    "Ask which drinks, if any, are eligible with this burger before selecting a meal option at the bar or through the Wetherspoon app."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the American Cheese Burger at Wetherspoons?",
+      "answer": "The American Cheese Burger at Wetherspoons has a typical price of {price}, with prices varying by pub. In our menu comparison, it is {pricePosition}. Check the local menu before ordering, and compare any eligible drink option separately rather than assuming the listed food price covers the drink you want."
+    },
+    {
+      "question": "How many calories are in the American Cheese Burger?",
+      "answer": "The American Cheese Burger is listed at {calories} kcal, equivalent to {calorieShare}. In our {category} comparison, it is {caloriePosition}. Extra sides, additional sauces and drinks can increase the energy total of your order. Check the current menu for your chosen additions rather than assuming the burger's listed figure covers everything you buy."
+    },
+    {
+      "question": "What comes with the American Cheese Burger at Wetherspoons?",
+      "answer": "The American Cheese Burger comes with a hearty portion of chips. Its beef patty is served in a soft bun with American-style cheese, sliced gherkins, sweet ketchup and mild mustard. If you want to omit a topping or change the side, ask the pub what is possible before placing your order."
+    },
+    {
+      "question": "Is the American Cheese Burger vegetarian or vegan?",
+      "answer": "The American Cheese Burger is not a vegetarian or vegan choice because it contains beef and cheese. Our data records no dietary tags for this dish. The Beyond Meat Plant-Based Burger and Fiesta Burger are tagged as vegan and vegetarian in our data, so check those alternatives and their current details with the pub."
+    },
+    {
+      "question": "What allergens are listed for the American Cheese Burger?",
+      "answer": "Our data lists cereals containing gluten, milk and sesame as allergens for the American Cheese Burger. Check the pub's current [allergen information](/allergen-information) before ordering if you need to avoid any of them. Requested swaps or omissions can alter the allergen profile, so confirm the exact version of the dish with staff rather than relying on the standard description."
+    },
+    {
+      "question": "Can I get the American Cheese Burger as a meal deal?",
+      "answer": "Check with your pub to confirm whether the American Cheese Burger can be ordered as a drink-inclusive meal. Many Wetherspoons mains can be ordered with an eligible soft or alcoholic drink. Ask which choices qualify and check the typical meal price before deciding, since prices vary by pub."
+    },
+    {
+      "question": "How do I order the American Cheese Burger at Wetherspoons?",
+      "answer": "You can order the American Cheese Burger at the bar or at your table using the Wetherspoon app. Check the current local menu for the price and any eligible drink options before paying. If you need an allergen check or want to request a change, speak to staff before placing the order."
+    }
+  ],
+  "slug": "american-cheese-burger",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

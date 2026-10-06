@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "title": "Wetherspoons Pint of Stella Artois Price and Calories 2026",
+    "description": "A Wetherspoons pint of Stella Artois costs a typical {price}. Explore its crisp lager flavour, food pairings and allergen guidance before you order."
+  },
+  "subtitle": "A chilled Belgian-style draught lager for drinkers who prefer pale golden colour, gentle malt sweetness and a crisp finish.",
+  "quickAnswer": "A Wetherspoons pint of Stella Artois costs a typical {price}, with prices varying by pub. Calories are not verified in our data, so check the official nutrition information. The listing describes a chilled pint of draught lager with a thick white head, rather than a food dish with accompaniments.",
+  "components": [
+    {
+      "name": "Belgian-style lager",
+      "note": "The pale golden lager brings subtle floral hop aromas, gentle malt sweetness and a clean, crisp bitter finish."
+    },
+    {
+      "name": "White head",
+      "note": "A thick white head tops the pour, contrasting with the bright, pale golden colour of the lager beneath."
+    },
+    {
+      "name": "High carbonation",
+      "note": "High carbonation gives the chilled lager its lively drinking texture and helps refresh the palate alongside richer food."
+    }
+  ],
+  "taste": "Stella Artois is a crisp Belgian-style lager with gentle malt sweetness, subtle floral hop aromas and a bitter finish. The balance is clean rather than dominated by sweetness, with the bitterness providing a sharp closing note. Its bright, pale golden colour and thick white head give you a clear idea of the style before the first sip.\n\nServed chilled on draught, it has high carbonation that keeps the drinking texture lively and refreshes the palate between mouthfuls. That sharpness is useful alongside battered cod and chips or spicy chicken dishes, where the lager's crisp finish provides a contrast to richness and stronger flavours.",
+  "value": "The typical price is {price}, but value depends on the price at your chosen pub and your preference for crisp lager. Within the {category}, it is {pricePosition}. Compare the local price with Pint of Ruddles Best, Pint of Doom Bar and Pint of Guinness rather than assuming the same price gap everywhere.\n\nIf you are ordering food too, many mains can be bought with an eligible soft or alcoholic drink. Check whether Stella Artois is eligible for your chosen meal before comparing a meal price with separate food and drink orders.",
+  "nutrition": "Calorie information for this pint is not verified in our data, so check the official [nutrition information](/nutrition-information) before using it in a daily total. An unverified figure would not be a useful basis for comparing drinks.\n\nFor a food order alongside it, include the meal, any extra sides and sauces, and the pint in your total. Consult the nutrition details for each item rather than treating a meal with a drink as a single known figure.",
+  "dietaryGuidance": "Stella Artois is tagged vegan and vegetarian in our data, and cereals containing gluten are listed as an allergen. Anyone avoiding gluten should take care and [check the current allergen](/allergen-information) information with the pub before ordering.\n\nThe dietary tags describe this drink listing, not any food ordered alongside it. Changing the drink or adding a meal can change the relevant allergens, so check each item separately rather than carrying the lager's dietary tags across the whole order.",
+  "bestFor": [
+    {
+      "title": "Crisp lager drinkers",
+      "text": "Choose this if you like pale lager with gentle malt sweetness and a clear bitter finish. Subtle floral hop aromas add interest without changing its clean flavour profile."
+    },
+    {
+      "title": "With richer pub food",
+      "text": "The chilled pour and high carbonation suit battered cod and chips, refreshing the palate between mouthfuls. Its crisp bitterness offers a useful contrast to the richness of the food."
+    },
+    {
+      "title": "Alongside spicy chicken",
+      "text": "This is a practical match for spicy chicken dishes if you want a sharp, bright lager alongside stronger flavours. Check which chicken dishes your pub currently offers."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "bowl-of-chips",
+      "reason": "A bowl of chips keeps the pairing simple, with the lager's high carbonation and crisp finish refreshing the palate between mouthfuls."
+    },
+    {
+      "slug": "bowl-chips-cheese",
+      "reason": "Chips with cheese offer a richer pairing, giving the lager's sharp carbonation and bitter finish something to contrast with."
+    }
+  ],
+  "tips": [
+    "Check the price at your chosen pub before ordering, since {price} is a typical figure rather than a fixed price across locations.",
+    "When ordering a main, ask whether Stella Artois is an eligible included drink before deciding between a meal option and separate purchases.",
+    "Use the current official nutrition and allergen information if you are tracking intake or avoiding gluten, rather than relying on the dietary tags alone.",
+    "Order at the bar or through the Wetherspoon app at your table, checking the current listing for your chosen pub."
+  ],
+  "faqs": [
+    {
+      "question": "How much is a pint of Stella Artois at Wetherspoons?",
+      "answer": "A pint of Stella Artois at Wetherspoons costs a typical {price}, with prices set by each pub and varying by location. Check the current price at your chosen pub before ordering. If you are buying a main as well, ask whether the lager is an eligible drink with that meal."
+    },
+    {
+      "question": "How many calories are in a Wetherspoons pint of Stella Artois?",
+      "answer": "Calories for a Wetherspoons pint of Stella Artois are not verified in our data, so check the official [nutrition](/nutrition-information) information for the current figure. If you are ordering food alongside the pint, include the meal, extra sides and sauces when working out the total for your order."
+    },
+    {
+      "question": "Is a pint of Stella Artois at Wetherspoons vegan or vegetarian?",
+      "answer": "A pint of Stella Artois is tagged both vegan and vegetarian in our data. Cereals containing gluten are also listed as an allergen, so those tags do not establish suitability for someone avoiding gluten. Check the current information with the pub, and assess any accompanying food separately."
+    },
+    {
+      "question": "Does Stella Artois at Wetherspoons contain gluten?",
+      "answer": "Cereals containing gluten are listed as an allergen for the pint of Stella Artois in our data. Anyone avoiding gluten should [check the current allergen](/allergen-information) information with the pub before ordering. Its vegan and vegetarian tags relate to different dietary requirements and should not be used as gluten guidance."
+    },
+    {
+      "question": "What comes with a pint of Stella Artois at Wetherspoons?",
+      "answer": "The listing describes a chilled pint of draught Stella Artois with a thick white head; no food accompaniment is listed. It is a drink rather than a plated meal. For food alongside it, battered cod and chips or spicy chicken dishes are suggested matches in the description."
+    },
+    {
+      "question": "Can I get Stella Artois with a Wetherspoons meal deal?",
+      "answer": "Stella Artois may be an option with a meal, but you need to check its eligibility for your chosen order at the pub. Many Wetherspoons mains can be ordered with an eligible soft or alcoholic drink. That general option does not confirm this lager is included with every meal."
+    },
+    {
+      "question": "What does a Wetherspoons pint of Stella Artois taste like?",
+      "answer": "Stella Artois has a clean, crisp lager flavour with subtle floral hop aromas, gentle malt sweetness and a bitter finish. Served chilled on draught, its high carbonation gives it a lively texture. The sharp finish makes it a useful match for richer food such as battered cod and chips."
+    }
+  ],
+  "slug": "pint-stella-artois",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

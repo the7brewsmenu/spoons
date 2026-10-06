@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "title": "Wetherspoons Liverpool: Pubs, menu and prices guide",
+    "description": "Explore Wetherspoons Liverpool pubs by area, compare menu choices and check typical pricing. Find the right pub and plan breakfast or a club visit."
+  },
+  "intro": "This guide covers {pubCount} open Wetherspoons pubs in Liverpool across {areaCount} areas, with locations, menu choices and practical ordering advice. Every pub works from the national [Wetherspoons menu](/), but prices are set locally. Use it to compare City Centre options with The Lime Kiln in Concert Square, understand how typical prices vary and plan a breakfast or club visit.\n\nSpoonsMenu is an independent guide, not affiliated with J D Wetherspoon plc. Check your chosen pub for current prices and availability.",
+  "quickAnswer": "We list {pubCount} open Wetherspoons pubs in Liverpool across {areaCount} areas. The Fall Well, The Welkin and The Richard John Blackler are in City Centre; The Lime Kiln is in Concert Square. Their listed streets are Roe Street, Whitechapel, Great Charlotte Street and Fleet Street respectively. Choose by location, then check the pub's current menu and prices.",
+  "areas": [
+    {
+      "area": "City Centre",
+      "text": "City Centre has The Fall Well on Roe Street, The Welkin on Whitechapel and The Richard John Blackler on Great Charlotte Street. These options suit visitors who want to choose between several listed central pubs. Start with the address that suits your plans, then compare current menus and typical prices."
+    },
+    {
+      "area": "Concert Square",
+      "text": "The Lime Kiln is the listed Wetherspoons option in Concert Square, with an address on Fleet Street. It suits visitors whose plans bring them to this area rather than City Centre. Check its current menu and typical prices before deciding what to order, especially if you are comparing it with another pub."
+    }
+  ],
+  "pricing": "Wetherspoons menu prices in Liverpool vary by pub, even though the menu is broadly the same nationally. Traditional [breakfast](/breakfast-menu), [burgers](/burgers), curries, fish and chips and pizza are popular national menu choices, but check your selected pub for current availability and the exact price.\n\nCity centre pubs often charge more than suburban pubs, so a central location can affect the bill. That is a general pattern, not proof that one listed Liverpool pub costs more than another.\n\nTreat any guide price as typical rather than fixed. Consult the current menu at your chosen pub, ask at the bar or check the amount shown when ordering through the Wetherspoon app before confirming your order.",
+  "breakfastAndClubs": "Breakfast at Wetherspoons is typically served from eight am until noon, while [Curry Club](/curry-club) is traditionally on Thursday and [Steak Club](/steak-club) on Tuesday at participating pubs. For a Liverpool visit, use those timings and days as a starting point, then confirm arrangements with your chosen pub.\n\nTraditional breakfast is among the popular choices on the national menu. Check the local menu for availability and typical pricing rather than assuming every pub offers the same deal.\n\nClub participation also needs checking. Ask the pub what is available on the day and confirm the current price before ordering.",
+  "tips": [
+    {
+      "title": "Choose by address",
+      "text": "Compare the listed addresses before settling on a pub. City Centre offers several options, while The Lime Kiln is the listed choice for Concert Square."
+    },
+    {
+      "title": "Check the local price",
+      "text": "Use the chosen pub's current menu when budgeting for food. A broadly shared national menu does not mean identical prices across Liverpool."
+    },
+    {
+      "title": "Confirm breakfast service",
+      "text": "Plan around the typical breakfast window of eight am until noon, but confirm service with the pub before relying on it for your visit."
+    },
+    {
+      "title": "Ask about club days",
+      "text": "Check participation before planning around Curry Club on Thursday or Steak Club on Tuesday. Confirm the current offer and typical price at the pub."
+    },
+    {
+      "title": "Pick your ordering method",
+      "text": "Order at the bar or at your table using the Wetherspoon app. Check your selections and the displayed total before confirming an app order."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How many Wetherspoons are in Liverpool?",
+      "answer": "This guide lists {pubCount} open Wetherspoons pubs in Liverpool across {areaCount} areas. The City Centre entries are The Fall Well, The Welkin and The Richard John Blackler. Concert Square has The Lime Kiln. Use the listed area and address to choose a pub, then check its current menu and typical prices."
+    },
+    {
+      "question": "Which Wetherspoons in Liverpool are in the city centre?",
+      "answer": "The Fall Well, The Welkin and The Richard John Blackler are the pubs listed in Liverpool's City Centre area. Their addresses are on Roe Street, Whitechapel and Great Charlotte Street respectively. Choose the location that suits your plans, rather than assuming their broadly similar menus come with identical prices."
+    },
+    {
+      "question": "Which Wetherspoons in Liverpool is in Concert Square?",
+      "answer": "The Lime Kiln is the Wetherspoons pub listed in Liverpool's Concert Square area, with an address on Fleet Street. It is the option to consider if you want a pub in that listed area. Check its current menu, typical prices and any club participation before planning your order."
+    },
+    {
+      "question": "What time does breakfast start at Wetherspoons in Liverpool?",
+      "answer": "Wetherspoons breakfast typically starts at eight am and runs until noon, but confirm service with your chosen Liverpool pub. Traditional breakfast is a popular national menu choice. Check the local menu for current availability and typical pricing, since a shared national menu does not mean every pub charges the same amount."
+    },
+    {
+      "question": "Are prices higher at Wetherspoons in Liverpool?",
+      "answer": "Liverpool Wetherspoons prices vary by pub; city centre pubs often charge more than suburban pubs, but that does not establish higher prices across the city. The national menu is broadly shared, while each pub sets its own prices. Check the current local menu or the amount shown when ordering before comparing costs."
+    },
+    {
+      "question": "What days are Curry Club and Steak Club in Liverpool?",
+      "answer": "Curry Club is traditionally on Thursday and Steak Club on Tuesday at participating Wetherspoons pubs. For Liverpool, confirm participation with the pub you intend to visit rather than assuming every listed location runs both. Ask about current availability and typical pricing before making a club day the basis of your plans."
+    },
+    {
+      "question": "What food can I order at Wetherspoons in Liverpool?",
+      "answer": "Popular choices on the national Wetherspoons menu include traditional breakfast, burgers, curries, fish and chips and pizza. Liverpool pubs broadly follow that national menu, but check your selected pub's current menu for availability. Prices vary by location, and you can order at the bar or at your table through the Wetherspoon app."
+    }
+  ],
+  "slug": "liverpool",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

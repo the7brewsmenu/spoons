@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "title": "Wetherspoons Fiesta Burger Price and Calories 2026",
+    "description": "The Wetherspoons Fiesta Burger costs a typical {price} and has {calories} kcal. Get a vegan burger with chips, plus topping details and allergen guidance."
+  },
+  "subtitle": "A Beyond Meat burger with vegetables, tangy salsa and chips, suited to diners wanting a hearty vegan pub meal.",
+  "quickAnswer": "The Wetherspoons Fiesta Burger costs a typical {price}, contains {calories} kcal and comes in a bun with chips. A Beyond Meat patty is topped with roasted red peppers, courgettes, onions and slightly spicy salsa. It is listed as vegan and vegetarian, and prices vary by pub.",
+  "components": [
+    {
+      "name": "Beyond Meat patty",
+      "note": "The plant-based patty provides the burger's savoury flavour and meaty texture beneath the vegetable toppings."
+    },
+    {
+      "name": "Roasted red peppers",
+      "note": "Sweet roasted red peppers add colour and sweetness, contrasting with the savoury Beyond Meat patty."
+    },
+    {
+      "name": "Courgettes",
+      "note": "Tender courgettes add a softer texture among the toppings and contribute to the Mediterranean-inspired vegetable combination."
+    },
+    {
+      "name": "Onions",
+      "note": "Onions join the peppers and courgettes in a vegetable topping described as sweet and smoky."
+    },
+    {
+      "name": "Salsa",
+      "note": "The slightly spicy, tangy salsa adds a sharper contrast to the sweet vegetables and savoury patty."
+    },
+    {
+      "name": "Bun",
+      "note": "The bun brings the patty, vegetable toppings and salsa together as a handheld burger."
+    },
+    {
+      "name": "Chips",
+      "note": "A side of golden chips accompanies the burger, making this a burger-and-chips meal rather than a standalone bun."
+    }
+  ],
+  "taste": "The Fiesta Burger combines a savoury, meaty-textured Beyond Meat patty with sweet, smoky vegetables and tangy salsa. Roasted red peppers provide sweetness, while tender courgettes give the topping a softer texture. Onions complete the vegetable mix. The salsa is described as slightly spicy, so the flavour centres on a balance of sweetness, savouriness and tang rather than strong heat.\n\nServed in a bun with golden chips alongside, this is a hearty plant-based burger meal. The Mediterranean-inspired toppings give it a different emphasis from a straightforward patty-and-bun choice: vegetables and salsa are central to the flavour, not just finishing touches. Expect the contrast between the meaty patty and tender toppings to define each bite.",
+  "value": "The Fiesta Burger is worth considering if you want a vegan burger with chips included and vegetable toppings that shape the flavour. Its typical price is {price}, placing it at {pricePosition} in the {category} section we track. Prices vary by pub.\n\nCompare it with the Beyond Meat Plant-Based Burger when choosing between plant-based options, or the vegetarian Breaded Vegetable Burger if vegan suitability is not essential. Many mains can be ordered with an eligible drink, so check whether this burger qualifies locally and compare the meal total before ordering.",
+  "nutrition": "The listed energy figure for the Fiesta Burger is {calories} kcal, equivalent to {calorieShare}. It is {caloriePosition} in the {category} section we track, which gives you a comparison with other burgers rather than a judgement about its overall nutritional balance.\n\nChips are part of the described serving. Extra sides, additional sauces and a drink can change the total for your order. Use the current menu information for any additions, and check the applicable energy figure if you request changes to the meal.",
+  "dietaryGuidance": "The Fiesta Burger is listed as vegan and vegetarian, making it an option for diners avoiding meat and animal-derived ingredients. Its recorded allergens are cereals containing gluten and sesame. Anyone managing either allergy should [check the current allergen](/allergen-information) information with the pub before ordering.\n\nA plant-based label does not establish suitability for every dietary requirement. Ask staff about your specific needs and preparation concerns. Swapping components or adding sauces, sides or drinks can change the allergens in the complete order, so check those separately too.",
+  "bestFor": [
+    {
+      "title": "Vegan pub meals",
+      "text": "Choose this if you want a burger-and-chips meal listed as vegan, with a Beyond Meat patty and vegetable toppings rather than a meat-based burger."
+    },
+    {
+      "title": "Sweet and tangy flavours",
+      "text": "This suits diners who like sweet roasted peppers and smoky vegetables balanced by tangy salsa. The described spice level is slight rather than the main focus."
+    },
+    {
+      "title": "Comparing plant-based burgers",
+      "text": "Consider it alongside the Beyond Meat Plant-Based Burger when deciding which plant-based option to order. Here, peppers, courgettes, onions and salsa define the topping combination."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "vegan-chocolate-tart",
+      "reason": "The Vegan Chocolate Tart is a relevant dessert to consider after a vegan main. Check its current dietary and allergen details before completing your order."
+    },
+    {
+      "slug": "large-pepsi-max",
+      "reason": "Large Pepsi Max is an option if you want a soft drink alongside your burger. Check whether it qualifies for a meal-with-drink option locally."
+    },
+    {
+      "slug": "bowl-of-chips",
+      "reason": "A Bowl of Chips is worth considering for the table if you want more of the burger's existing accompaniment, rather than another type of side."
+    }
+  ],
+  "tips": [
+    "Check the price at your chosen pub before ordering, particularly when comparing the burger alone with any available meal-with-drink option.",
+    "Ask about the current gluten and sesame allergen information before ordering if either affects you, even though the burger is listed as vegan.",
+    "Remember that chips already accompany the burger, so decide whether you need an extra side before adding a Bowl of Chips.",
+    "If you prefer less tang or spice, ask whether the salsa can be changed or omitted, then confirm any resulting dietary or allergen changes.",
+    "Compare the listed toppings with the Beyond Meat Plant-Based Burger before choosing, especially if roasted peppers, courgettes and salsa are your main reason for ordering."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the Fiesta Burger at Wetherspoons?",
+      "answer": "The Fiesta Burger costs a typical {price}, although prices vary by pub. Its price position is {pricePosition} within the {category} section we track. Check the current menu at your chosen location, and compare any eligible meal-with-drink option separately rather than assuming a drink is included."
+    },
+    {
+      "question": "How many calories are in the Wetherspoons Fiesta Burger?",
+      "answer": "The listed energy figure for the Wetherspoons Fiesta Burger is {calories} kcal, equivalent to {calorieShare}. Its calorie position is {caloriePosition} within the {category} section we track. Extra sides, sauces or drinks change the total for your order, so check their current menu information separately."
+    },
+    {
+      "question": "Is the Fiesta Burger vegan or vegetarian?",
+      "answer": "The Fiesta Burger is listed as both vegan and vegetarian. It features a Beyond Meat patty with roasted red peppers, courgettes, onions and salsa, served in a bun with chips. Check current dietary information with the pub, particularly if you request swaps or add other items to the meal."
+    },
+    {
+      "question": "What comes with the Fiesta Burger at Wetherspoons?",
+      "answer": "The Fiesta Burger comes in a bun with a side of golden chips. Its Beyond Meat patty is topped with sweet roasted red peppers, tender courgettes, onions and slightly spicy, tangy salsa. A drink is not part of the supplied dish description, so check any meal-with-drink option separately."
+    },
+    {
+      "question": "Is the Wetherspoons Fiesta Burger spicy?",
+      "answer": "The Wetherspoons Fiesta Burger has slightly spicy salsa, rather than being described as a strongly hot burger. Sweet, smoky vegetables contrast with the savoury Beyond Meat patty, while the salsa adds tang. If you are sensitive to spice, ask the pub whether the salsa can be omitted or changed."
+    },
+    {
+      "question": "What allergens are listed for the Fiesta Burger?",
+      "answer": "The recorded allergens for the Fiesta Burger are cereals containing gluten and sesame. Its vegan and vegetarian tags do not establish suitability for someone with either allergy. Check the pub's current [allergen information](/allergen-information) before ordering, and ask about any preparation concerns, swaps or additions that could affect your meal."
+    },
+    {
+      "question": "Can I get the Fiesta Burger as a meal deal?",
+      "answer": "You should check with your chosen pub whether the Fiesta Burger is available as a meal with an eligible drink. Many Wetherspoons mains can be ordered this way, but the supplied information does not confirm eligibility for this burger. Compare the local total and check which drinks qualify before ordering."
+    }
+  ],
+  "slug": "fiesta-burger",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

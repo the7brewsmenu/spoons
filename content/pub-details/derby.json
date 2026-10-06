@@ -1,0 +1,22 @@
+{
+  "city": "derby",
+  "localNote": "Derby's Wetherspoons scene has changed recently. The Standing Order on Iron Gate remains open in its grand former bank building, but The Thomas Leaper closed in early 2023 and The Babington Arms stopped trading as a Wetherspoon in April 2026. If you are visiting Derby, The Standing Order is your best option, about ten minutes on foot from the railway station.",
+  "pubs": [
+    {
+      "name": "The Standing Order",
+      "history": "A Grade II listed building on Iron Gate, originally built in the 1880s as the Crompton and Evans Union Bank. It later served as a NatWest branch until 1993. The site was previously associated with the home of the eighteenth-century painter Joseph Wright of Derby.",
+      "nearestStation": "Derby station, about 10 minutes on foot",
+      "features": ["Listed building"]
+    },
+    {
+      "name": "The Babington Arms",
+      "status": "closed",
+      "history": "Opened in 1997, taking the name of a historic pub which stood in the area until the 1920s. The name honours the Babington family, who lived in the area in the seventeenth century. Ceased trading as a Wetherspoon in April 2026."
+    },
+    {
+      "name": "The Thomas Leaper",
+      "status": "closed",
+      "history": "Occupied a four-storey Georgian brick building on Iron Gate. Closed permanently in February 2023."
+    }
+  ]
+}

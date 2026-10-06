@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "title": "Wetherspoons Stoke-on-Trent: Pubs, menu and prices guide",
+    "description": "Find Wetherspoons Stoke-on-Trent pubs across {areaCount} areas, compare local menu prices and check breakfast and club days before choosing where to go."
+  },
+  "intro": "This guide covers {pubCount} open Wetherspoons pubs in Stoke-on-Trent across {areaCount} areas, helping you choose a pub and plan what to order. Every pub works from the national [Wetherspoons menu](/), but prices are set locally. Find the pub names and locations below, alongside practical guidance on typical menu prices, breakfast service and club days.\n\nThe national menu provides a useful starting point, but prices are set by each pub. SpoonsMenu is an independent guide, not affiliated with J D Wetherspoon plc, so check your chosen pub’s menu before ordering.",
+  "quickAnswer": "Our Stoke-on-Trent guide lists {pubCount} open Wetherspoons pubs across {areaCount} areas: The Reginald Mitchell in Hanley, The Bradley Green in Biddulph, The Wheatsheaf in Stoke and The Arnold Machin in Newcastle-under-Lyme. Choose the area that suits your plans, then check that pub’s menu for current dishes and typical prices rather than assuming every location charges the same.",
+  "areas": [
+    {
+      "area": "Hanley",
+      "text": "The Reginald Mitchell is the listed Wetherspoons pub in Hanley, on Parliament Row. It suits anyone looking for a Wetherspoons meal in this area. Use its own menu to compare your options, as the broadly national food range does not mean identical prices between pubs."
+    },
+    {
+      "area": "Biddulph",
+      "text": "The Bradley Green is the listed Wetherspoons pub in Biddulph, on High Street. Choose it if Biddulph fits your plans rather than travelling to another listed area. Check the pub’s menu before settling on breakfast, a burger or another national menu option."
+    },
+    {
+      "area": "Stoke",
+      "text": "The Wheatsheaf is the listed Wetherspoons pub in Stoke, on Church Street. It is an option for visitors who want to eat in Stoke itself. Look at the local menu for current dishes and typical prices, particularly if you are comparing it with another pub."
+    },
+    {
+      "area": "Newcastle-under-Lyme",
+      "text": "The Arnold Machin is the listed Wetherspoons pub in Newcastle-under-Lyme, on Ironmarket. It suits visitors whose plans take them to this area. Before choosing what to order, check its menu rather than relying on a price seen at a different Wetherspoons pub."
+    }
+  ],
+  "pricing": "Wetherspoons menu prices in Stoke-on-Trent are set pub by pub, even though the food menu is broadly the same nationally. Traditional [breakfast](/breakfast-menu), [burgers](/burgers), curries, fish and chips, and pizza are popular national menu choices, but check your chosen pub’s menu for its current selection and typical prices.\n\nCity centre pubs often charge more than suburban pubs, so location can matter when comparing costs. That general pattern does not establish which of these listed pubs is cheapest.\n\nFor the exact price of your intended order, consult the menu at the pub or check it when ordering through the Wetherspoon app. Compare the same dish at each location rather than assuming a national menu means a national price.",
+  "breakfastAndClubs": "Wetherspoons breakfast is typically served from eight am until midday, while [Curry Club](/curry-club) is traditionally on Thursday and [Steak Club](/steak-club) on Tuesday at participating pubs. For a Stoke-on-Trent visit, treat those as general timings and days, not confirmation for every listed location.\n\nCheck [breakfast](/breakfast-menu) service with your chosen pub before planning an early meal. Traditional breakfast is a popular national menu option, but the local menu is the place to confirm your order and typical price. If a club day is your reason for visiting, ask the pub whether it participates before making plans.",
+  "tips": [
+    {
+      "title": "Choose your area first",
+      "text": "Start with the listed area that fits your plans, then identify its pub. This keeps your choice practical without assuming that every location has the same typical prices."
+    },
+    {
+      "title": "Compare the same dish",
+      "text": "Use the same menu item when comparing typical prices between pubs. A broadly shared national menu is useful for comparison, but each location sets its own prices."
+    },
+    {
+      "title": "Confirm breakfast service",
+      "text": "Check with your chosen pub if breakfast is central to your visit. The typical service window is eight am until midday, rather than a confirmed schedule for every location."
+    },
+    {
+      "title": "Check club participation",
+      "text": "Ask the pub about participation before planning around Curry Club or Steak Club. Thursday and Tuesday are the traditional days respectively, but participation needs checking locally."
+    },
+    {
+      "title": "Choose how to order",
+      "text": "Order at the bar or at your table using the Wetherspoon app. Check the selected pub and review the price of your order before confirming it."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How many Wetherspoons are in Stoke-on-Trent?",
+      "answer": "This guide lists {pubCount} open Wetherspoons pubs across {areaCount} areas for Stoke-on-Trent. They are The Reginald Mitchell in Hanley, The Bradley Green in Biddulph, The Wheatsheaf in Stoke and The Arnold Machin in Newcastle-under-Lyme. The listings cover these named areas, so choose by location as well as menu."
+    },
+    {
+      "question": "Which Wetherspoons in Stoke-on-Trent is in Hanley?",
+      "answer": "The Reginald Mitchell is the listed Wetherspoons pub in Hanley, on Parliament Row. It is an option if you want to eat in that area. Check its current menu for dishes and typical prices, since Wetherspoons pubs set their own prices despite sharing a broadly national menu."
+    },
+    {
+      "question": "Which Wetherspoons is in Stoke itself?",
+      "answer": "The Wheatsheaf is the listed Wetherspoons pub in Stoke itself, on Church Street. Other pubs in this guide are listed under Hanley, Biddulph and Newcastle-under-Lyme. Choose The Wheatsheaf if Stoke fits your plans, then consult its menu for the current selection and typical prices before ordering."
+    },
+    {
+      "question": "What time does Wetherspoons breakfast start in Stoke-on-Trent?",
+      "answer": "Wetherspoons breakfast typically starts at eight am and runs until midday, but confirm service with your chosen Stoke-on-Trent pub. Traditional breakfast is a popular option on the national menu. Check the local menu for the available selection and typical prices rather than treating the general breakfast window as a confirmed schedule."
+    },
+    {
+      "question": "Are Wetherspoons prices higher in Stoke-on-Trent?",
+      "answer": "There is no single Wetherspoons price level for Stoke-on-Trent because each pub sets its own prices. City centre pubs often charge more than suburban pubs, but that does not establish a ranking for these listings. Compare the same dish on each pub’s menu to see the current typical price."
+    },
+    {
+      "question": "What days are Curry Club and Steak Club in Stoke-on-Trent?",
+      "answer": "Curry Club is traditionally on Thursday and Steak Club on Tuesday at participating Wetherspoons pubs. For Stoke-on-Trent, check participation with the pub you intend to visit before planning around either day. The general club schedule does not confirm participation, menu details or typical prices at every listed location."
+    },
+    {
+      "question": "Can I order at the table in Wetherspoons in Stoke-on-Trent?",
+      "answer": "Customers can order at the table using the Wetherspoon app, or order at the bar. For a Stoke-on-Trent visit, make sure the app is set to your chosen pub before reviewing the menu and confirming your order. Prices are set locally, so check the price shown rather than relying on another pub’s menu."
+    }
+  ],
+  "slug": "stoke-on-trent",
+  "generatedAt": "2026-10-06",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

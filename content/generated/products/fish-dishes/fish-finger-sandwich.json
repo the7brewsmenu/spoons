@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "title": "Wetherspoons Fish Finger Sandwich Price and Calories 2026",
+    "description": "Wetherspoons fish finger sandwich has crisp cod and soft bread. Check the typical {price} price, {calories} kcal, bread choices and allergens before ordering."
+  },
+  "subtitle": "Crisp breaded cod, soft white or malted bread and tangy tartare sauce for diners after a familiar pub lunch.",
+  "quickAnswer": "The Wetherspoons fish finger sandwich costs a typical {price}, contains {calories} kcal and comes with breaded cod fish fingers, white or malted bread and tartare sauce. Prices vary by pub. The description does not confirm an included side, so check what your local pub serves with it before ordering.",
+  "components": [
+    {
+      "name": "Breaded cod fish fingers",
+      "note": "Thick cod fish fingers bring a crisp breaded coating that contrasts with the soft bread around them."
+    },
+    {
+      "name": "White or malted bread",
+      "note": "Soft slices of white or malted bread hold the generous fish filling and provide a gentler texture than the crisp coating."
+    },
+    {
+      "name": "Tartare sauce",
+      "note": "Sharp, tangy tartare sauce cuts through the richness of the breaded fish and adds contrast to each mouthful."
+    }
+  ],
+  "taste": "The fish finger sandwich is built around the contrast between crisp breaded cod and soft sliced bread. Thick fish fingers give the filling substance, while the bread keeps the texture softer around the edges. White or malted bread is listed, so check which option your pub can serve. The generous layering makes the fish the centre of the sandwich rather than a minor filling.\n\nTartare sauce supplies the sharpness that balances the richness of the breaded coating. Its tang gives the sandwich a more savoury edge without changing its familiar, comforting character. This is a straightforward lunch choice for someone who wants crunchy fish in bread rather than a plated fish dish.",
+  "value": "The sandwich is worth considering if you want breaded cod in a familiar lunch format at a typical {price}. It is {pricePosition} in the {category} section, though each pub sets its own prices.\n\nCompare it with Freshly Battered Cod and Chips if you want a fish-and-chips format, or Small Battered Cod and Chips if you are considering a smaller version of that dish. Whitby Breaded Scampi offers another breaded seafood option. Before judging the sandwich's overall value, check whether any side or drink is included rather than assuming the typical price covers extras.",
+  "nutrition": "The listed energy figure is {calories} kcal, equivalent to {calorieShare}. Within the {category} section, it is {caloriePosition}, which helps place it alongside the other dishes tracked here.\n\nUse that figure as the starting point for your order, not the total for everything you might add. A separate side, extra sauce or a drink can change the meal's energy total. Check the information for each addition, and confirm what the pub includes with the sandwich before comparing it with another meal.",
+  "dietaryGuidance": "The fish finger sandwich contains fish, so it is not suitable for vegetarian or vegan diets. No dietary tags are recorded in our data. The listed allergens are cereals containing gluten, eggs and fish.\n\nAnyone avoiding these allergens should check the pub's current [allergen information](/allergen-information) before ordering. A change of bread, removal of sauce or another requested swap can change the allergen profile, but it does not establish that the resulting meal is suitable. Ask staff about the full order, including any separately ordered sides.",
+  "bestFor": [
+    {
+      "title": "A familiar lunch",
+      "text": "Choose this for a straightforward pub lunch built around familiar flavours. Breaded cod, soft bread and tartare sauce offer a sandwich format rather than a plated fish dish."
+    },
+    {
+      "title": "Fans of crisp textures",
+      "text": "The contrast between crunchy breaded fish and soft slices of bread is the main attraction. It suits diners who enjoy texture as much as the sharpness of tartare sauce."
+    },
+    {
+      "title": "An afternoon sandwich",
+      "text": "Consider it for a casual afternoon snack when a fish sandwich appeals. The source description suggests a hot cup of tea alongside it, rather than an elaborate set of extras."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "bowl-of-chips",
+      "reason": "A separately ordered bowl of chips suits diners who want chips alongside their fish sandwich. Check the combined price and energy total before adding it."
+    },
+    {
+      "slug": "side-salad",
+      "reason": "A side salad is an alternative accompaniment if you would rather add salad than another bread-based side. Confirm its current contents and dressing with the pub."
+    },
+    {
+      "slug": "mini-chocolate-brownie",
+      "reason": "The Mini Warm Chocolate Brownie offers a sweet finish after the savoury fish and tangy sauce, if you want to follow the sandwich with dessert."
+    }
+  ],
+  "tips": [
+    "Ask which bread is available before ordering, as the description lists white or malted slices rather than a single fixed bread choice.",
+    "Check whether a side is included with the sandwich before adding a bowl of chips, so you know exactly what your order covers.",
+    "Confirm the price at your chosen pub, particularly on Fridays when Fish Friday pricing is noted for this dish.",
+    "If you need an ingredient removed or changed, discuss the request and current allergen information with staff rather than relying on the description alone."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the fish finger sandwich at Wetherspoons?",
+      "answer": "The Wetherspoons fish finger sandwich costs a typical {price}, but prices vary by pub. It is {pricePosition} within the {category} section tracked here. Check the price at your chosen location before ordering, and confirm whether the quoted amount includes any side or drink."
+    },
+    {
+      "question": "How many calories are in the Wetherspoons fish finger sandwich?",
+      "answer": "The Wetherspoons fish finger sandwich is listed at {calories} kcal, equivalent to {calorieShare}. It is {caloriePosition} within the {category} section tracked here. Separately ordered sides, extra sauce and drinks can change the total, so check their energy information when planning the full meal."
+    },
+    {
+      "question": "What comes with the fish finger sandwich at Wetherspoons?",
+      "answer": "The Wetherspoons fish finger sandwich contains thick breaded cod fish fingers, soft white or malted bread and tartare sauce. An included side is not confirmed in the description. Ask your pub what accompanies the sandwich before ordering chips or another side separately, and check which bread option is available."
+    },
+    {
+      "question": "Is the Wetherspoons fish finger sandwich vegetarian?",
+      "answer": "The Wetherspoons fish finger sandwich is not vegetarian because its filling contains cod. It is not suitable for a vegan diet either. No dietary tags are recorded in our data, and the listed allergens are cereals containing gluten, eggs and fish. Check current pub information for any alternative order."
+    },
+    {
+      "question": "What allergens are in the Wetherspoons fish finger sandwich?",
+      "answer": "The allergens listed for the Wetherspoons fish finger sandwich are cereals containing gluten, eggs and fish. Anyone avoiding these should consult the pub's current [allergen information](/allergen-information) before ordering. Bread changes, sauce removal or other swaps can alter the allergen profile, but do not establish suitability on their own."
+    },
+    {
+      "question": "Can I get the Wetherspoons fish finger sandwich with a drink deal?",
+      "answer": "A drink deal is not confirmed for the Wetherspoons fish finger sandwich in our data. Many Wetherspoons mains can be ordered with an eligible soft or alcoholic drink, but that general option does not establish this sandwich's eligibility. Check the current menu at your pub for the available choices and total price."
+    },
+    {
+      "question": "Is the Wetherspoons fish finger sandwich included in Fish Friday pricing?",
+      "answer": "Fish Friday pricing on Fridays is noted for the Wetherspoons fish finger sandwich in our data. Check your chosen pub's current menu for the applicable price and terms, as prices vary by location. The note does not confirm an included drink or side, so ask before assuming either comes with it."
+    }
+  ],
+  "slug": "fish-finger-sandwich",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

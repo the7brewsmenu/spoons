@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "title": "Wetherspoons London: Pubs, menus and local prices guide",
+    "description": "Find Wetherspoons London pubs by area, compare how local menu prices work and check breakfast and club days before choosing where to eat next."
+  },
+  "intro": "This guide covers {pubCount} open Wetherspoons pubs in London across {areaCount} areas, with practical advice on choosing a location and checking the menu before ordering. Every pub works from the national [Wetherspoons menu](/), but prices are set locally. Find pubs in Leicester Square, Farringdon, Marylebone, City of London and Camden, alongside guidance on typical pricing, breakfast and club days.\n\nSpoonsMenu is an independent guide, not affiliated with J D Wetherspoon plc. Use it to narrow your choices, then confirm current details with your chosen pub.",
+  "quickAnswer": "This guide lists {pubCount} open Wetherspoons pubs in London across {areaCount} areas, not a verified total for the whole city. They are The Moon Under Water in Leicester Square, The Sir John Oldcastle in Farringdon, The Metropolitan Bar in Marylebone, The Crosse Keys in City of London and The Ice Wharf in Camden. Choose by area, then check that pub’s current menu and prices.",
+  "areas": [
+    {
+      "area": "Leicester Square",
+      "text": "The Moon Under Water is the listed Wetherspoons pub in Leicester Square. It suits visitors who want to eat in this area and prefer to check one named pub before deciding. Compare its current menu and typical prices with your other options rather than assuming every London branch charges the same."
+    },
+    {
+      "area": "Farringdon",
+      "text": "The Sir John Oldcastle is the listed Wetherspoons option in Farringdon, on Farringdon Road. Choose it if this area fits your plans and you want to consider the national menu’s familiar dishes. Check the pub’s current selection and typical prices before settling on an order."
+    },
+    {
+      "area": "Marylebone",
+      "text": "The Metropolitan Bar is the listed Wetherspoons pub in Marylebone, at Station Approach on Marylebone Road. It suits someone choosing a meal in this area rather than travelling elsewhere solely for the menu. Confirm current dishes and typical prices at the pub before ordering."
+    },
+    {
+      "area": "City of London",
+      "text": "The Crosse Keys is the listed Wetherspoons pub in City of London, on Gracechurch Street. It is an option for visitors whose plans already bring them to this area. If keeping spending down matters most, check its typical prices rather than relying on a national menu comparison."
+    },
+    {
+      "area": "Camden",
+      "text": "The Ice Wharf is the listed Wetherspoons pub in Camden, at Suffolk Wharf on Jamestown Road. It suits visitors looking for a Wetherspoons meal in this area. Use the current pub menu to check your preferred dish and its typical price before placing an order."
+    }
+  ],
+  "pricing": "Wetherspoons menu prices in London vary by pub, even though the menu is broadly the same nationally. Any prices shown in a guide are typical, not a promise of what every branch will charge. Popular national menu choices include [burgers](/burgers), curries, fish and chips, pizza and traditional [breakfast](/breakfast-menu), but check your chosen pub’s current selection.\n\nLocation matters when comparing costs: city centre pubs often charge more than suburban pubs. That makes checking the individual branch more useful than assuming a single London price.\n\nFor the exact price of your order, select the correct pub in the Wetherspoon app and review it before confirming. Alternatively, check the current menu at the bar.",
+  "breakfastAndClubs": "Wetherspoons breakfast is typically served from eight in the morning until midday, while [Curry Club](/curry-club) is traditionally on Thursday and [Steak Club](/steak-club) on Tuesday at participating pubs. These are general timings and club days, not confirmation of the arrangements at every London branch.\n\nTraditional breakfast is among the popular dishes on the national menu. If breakfast or a particular club is the reason for your visit, check the chosen pub’s current menu and participation first. You can order at the bar or at your table using the Wetherspoon app.",
+  "tips": [
+    {
+      "title": "Choose your area first",
+      "text": "Start with the listed pub in the area that fits your plans. The national menu is broadly similar, so compare local prices before changing your destination solely for a familiar dish."
+    },
+    {
+      "title": "Check the selected pub",
+      "text": "Select your intended pub in the Wetherspoon app before reviewing the menu. Each branch sets its own prices, so a menu checked for another location may not reflect your order."
+    },
+    {
+      "title": "Confirm breakfast service",
+      "text": "Breakfast typically runs from eight in the morning until midday. Check with your chosen pub before planning around those times, particularly if breakfast is your main reason for visiting."
+    },
+    {
+      "title": "Verify club participation",
+      "text": "Curry Club is traditionally on Thursday and Steak Club on Tuesday at participating pubs. Ask your chosen branch about its current arrangements before making either club the basis of your visit."
+    },
+    {
+      "title": "Choose how to order",
+      "text": "You can order at the bar or at your table through the Wetherspoon app. Review the selected pub, dishes and current prices before confirming an app order."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How many Wetherspoons are in London?",
+      "answer": "This guide lists {pubCount} open Wetherspoons pubs in London across {areaCount} areas; it does not establish the total across the whole city. The areas covered are Leicester Square, Farringdon, Marylebone, City of London and Camden. Use the area entries to identify the listed pub that best fits your plans."
+    },
+    {
+      "question": "Which Wetherspoons in London are listed in this guide?",
+      "answer": "The listed London pubs are The Moon Under Water in Leicester Square, The Sir John Oldcastle in Farringdon, The Metropolitan Bar in Marylebone, The Crosse Keys in City of London and The Ice Wharf in Camden. All are listed as open. Check current menus and typical prices with the individual pub before visiting."
+    },
+    {
+      "question": "What time does breakfast start at Wetherspoons in London?",
+      "answer": "Wetherspoons breakfast typically starts at eight in the morning and runs until midday. Those are general service times, so confirm the arrangements at your chosen London pub rather than treating them as fixed for every branch. Traditional breakfast is among the popular dishes on the national menu, with prices set pub by pub."
+    },
+    {
+      "question": "Are Wetherspoons prices higher in London?",
+      "answer": "London Wetherspoons prices vary by pub, and city centre pubs often charge more than suburban pubs. There is no single price that applies across the listed branches. Treat guide prices as typical, then check the current menu for your chosen pub at the bar or in the Wetherspoon app before ordering."
+    },
+    {
+      "question": "What days are Curry Club and Steak Club at Wetherspoons in London?",
+      "answer": "Curry Club is traditionally on Thursday and Steak Club on Tuesday at participating Wetherspoons pubs. Participation should be checked with your chosen London branch before planning a visit around either club. Review its current menu and typical prices too, since the broadly shared national menu does not mean every pub charges the same."
+    },
+    {
+      "question": "What food is on the Wetherspoons menu in London?",
+      "answer": "Popular dishes on the national Wetherspoons menu include traditional breakfast, burgers, curries, fish and chips and pizza. The menu is broadly the same nationally, but that does not confirm every dish at every London pub. Check your selected branch’s current menu and typical prices before deciding what to order."
+    },
+    {
+      "question": "Can I order at my table in Wetherspoons in London?",
+      "answer": "You can order at your table using the Wetherspoon app, or order at the bar. When using the app, select the correct London pub and review its current menu and prices before confirming. Pub by pub pricing means details checked for another branch may not match the order you want to place."
+    }
+  ],
+  "slug": "london",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

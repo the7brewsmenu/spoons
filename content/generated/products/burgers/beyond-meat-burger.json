@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "title": "Wetherspoons Beyond Meat Plant-Based Burger Price and Calories 2026",
+    "description": "Wetherspoons Beyond Meat Plant-Based Burger comes with chips at a typical {price}, with {calories} kcal. Check toppings, vegan tags and allergens before ordering."
+  },
+  "subtitle": "A savoury Beyond Meat burger with salad and chips, suited to vegans, vegetarians and diners curious about meat alternatives.",
+  "quickAnswer": "The Wetherspoons Beyond Meat Plant-Based Burger costs a typical {price}, contains {calories} kcal and comes with lettuce, sliced tomato, red onion and chips. A soft bun holds the Beyond Meat patty, which has a dense texture and beef-like flavour. Prices vary by pub, so check your chosen location before ordering.",
+  "components": [
+    {
+      "name": "Beyond Meat patty",
+      "note": "The juicy plant-based patty provides the burger's dense texture, rich savoury flavour and subtle smoky undertone."
+    },
+    {
+      "name": "Soft bun",
+      "note": "A soft bun holds the patty and salad together, contrasting with the denser texture of the filling."
+    },
+    {
+      "name": "Lettuce",
+      "note": "Fresh lettuce adds a salad element alongside the rich patty, sliced tomato and red onion."
+    },
+    {
+      "name": "Sliced tomato",
+      "note": "Sliced tomato forms part of the fresh salad topping, accompanying the lettuce and red onion inside the bun."
+    },
+    {
+      "name": "Red onion",
+      "note": "Red onion completes the salad topping, giving the burger another element alongside the lettuce and sliced tomato."
+    },
+    {
+      "name": "Chips",
+      "note": "A generous portion of chips accompanies the burger, making this a burger-and-chips meal rather than a standalone sandwich."
+    }
+  ],
+  "taste": "This burger offers a rich, savoury flavour and a dense, juicy texture, with a subtle smoky undertone from the Beyond Meat patty. Its appeal is the beef-like eating experience without a meat patty, rather than a burger centred on vegetables. The soft bun contrasts with the substantial filling, while lettuce, sliced tomato and red onion provide the fresh salad elements.\n\nServed hot with a generous portion of chips, it follows the familiar pub burger format. Expect the patty to be the main focus of the flavour and texture. If you enjoy a savoury burger but want a plant-based option, that combination is the clearest reason to choose it.",
+  "value": "This is worth considering at a typical {price} if you want a plant-based burger with chips included. Within {category}, it is {pricePosition} in our tracked comparison. Prices vary by pub, so the local menu is the useful final check.\n\nCompare it with the Fiesta Burger, which also carries vegan and vegetarian tags, or the vegetarian Breaded Vegetable Burger. The Beyond Meat option is aimed more directly at a beef-like texture and flavour. Many mains can be ordered with an eligible drink, but check whether this burger qualifies and compare the local meal price before deciding.",
+  "nutrition": "The listed energy figure is {calories} kcal, equivalent to {calorieShare}. It is {caloriePosition} in our tracked {category} comparison. That gives you a way to compare menu choices, rather than a judgement about how much you should eat.\n\nChips are part of the described plate, so consider the meal as a whole rather than focusing only on the plant-based patty. Extra sides, sauces or drinks can change your order's total. Check the pub's current [nutrition information](/nutrition-information) for any additions or substitutions, rather than assuming the listed figure covers a modified meal.",
+  "dietaryGuidance": "This burger is tagged vegan and vegetarian in our data, and the listed allergens are cereals containing gluten and sesame. Those tags describe its dietary classification, not a guarantee of suitability for someone with an allergy.\n\nAnyone avoiding gluten or sesame should [check the current allergen](/allergen-information) information with the pub before ordering. Our data does not identify which individual components contain each allergen. Swapping the bun, changing toppings or adding sauces and sides can alter the allergen profile, so ask about the complete order rather than the patty alone.",
+  "bestFor": [
+    {
+      "title": "Vegan pub meals",
+      "text": "This suits vegan diners who want the familiar burger-and-chips format. The vegan tag makes it a relevant choice, though current ingredients and preparation questions should still be checked with the pub."
+    },
+    {
+      "title": "Trying meat alternatives",
+      "text": "Choose this if you are curious about a plant-based patty with a beef-like flavour and dense texture. The soft bun, salad toppings and chips keep the rest of the meal familiar."
+    },
+    {
+      "title": "Savoury burger fans",
+      "text": "The rich savoury profile and subtle smoky undertone suit diners who want the patty to lead the meal. It is a different proposition from choosing a burger primarily for its vegetable character."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "vegan-chocolate-tart",
+      "reason": "Vegan Chocolate Tart is a relevant dessert to consider after this vegan-tagged burger. Check its current ingredients and allergen information before completing your order."
+    },
+    {
+      "slug": "large-pepsi-max",
+      "reason": "Large Pepsi Max offers a soft-drink option alongside the burger and chips. Check whether it is eligible for any meal-with-drink option at your pub."
+    },
+    {
+      "slug": "side-salad",
+      "reason": "A Side Salad is worth considering if you want another salad element rather than more chips. Confirm its ingredients and any dressing before ordering."
+    }
+  ],
+  "tips": [
+    "Check the burger's price at your chosen pub before ordering, since {price} is typical and local prices can differ.",
+    "Ask whether the burger can be ordered with an eligible drink, then compare that option with buying your chosen drink separately.",
+    "Chips already accompany this burger, so decide whether you need an extra side before adding a separate bowl to your order.",
+    "If gluten or sesame is a concern, check the whole plate with staff and mention any proposed swaps or additions.",
+    "Compare the vegan-tagged Fiesta Burger if you want another plant-based choice, but check its description rather than assuming the fillings are similar."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the Beyond Meat Plant-Based Burger at Wetherspoons?",
+      "answer": "The Beyond Meat Plant-Based Burger costs a typical {price}, but prices vary by pub. The described meal includes the burger and chips. Check your chosen pub's current menu for the local price, and ask whether an eligible drink can be included before comparing meal options."
+    },
+    {
+      "question": "How many calories are in the Wetherspoons Beyond Meat Plant-Based Burger?",
+      "answer": "The listed energy figure for the Beyond Meat Plant-Based Burger is {calories} kcal, equivalent to {calorieShare}. The described dish comes with chips. Additional sides, sauces and drinks can change the total, so check current [nutrition](/nutrition-information) information if you modify the meal or add anything to it."
+    },
+    {
+      "question": "Is the Beyond Meat Plant-Based Burger at Wetherspoons vegan?",
+      "answer": "The Beyond Meat Plant-Based Burger is tagged vegan and vegetarian in our data. Its described components are a Beyond Meat patty, soft bun, lettuce, sliced tomato, red onion and chips. Confirm the current ingredients with the pub if needed, particularly when requesting substitutions or adding sauces and sides."
+    },
+    {
+      "question": "What comes with the Beyond Meat Plant-Based Burger?",
+      "answer": "The Beyond Meat Plant-Based Burger comes with a generous portion of chips. Inside the soft bun, the Beyond Meat patty is accompanied by fresh lettuce, sliced tomato and red onion. That is the plate described in our data, so check with the pub before assuming any additional toppings or sauces are included."
+    },
+    {
+      "question": "What allergens are listed for the Beyond Meat Plant-Based Burger?",
+      "answer": "Cereals containing gluten and sesame are the allergens listed for the Beyond Meat Plant-Based Burger in our data. The information does not specify which components contain them. Check the pub's current [allergen information](/allergen-information) before ordering, and ask about the complete meal if you plan to change toppings, sides or the bun."
+    },
+    {
+      "question": "Does the Beyond Meat Plant-Based Burger taste like beef?",
+      "answer": "The Beyond Meat patty is described as having a beef-like taste, with a rich savoury flavour and subtle smoky undertone. Its texture is dense and juicy rather than centred on pieces of vegetables. A soft bun and fresh salad toppings accompany it, with chips served alongside."
+    },
+    {
+      "question": "Can I get the Beyond Meat Plant-Based Burger as a meal deal?",
+      "answer": "Check with your chosen pub to see whether the Beyond Meat Plant-Based Burger can be ordered with an eligible drink. Many Wetherspoons mains have a meal-with-drink option, but the supplied information does not confirm eligibility for this burger. Compare the local meal price and available drinks before placing your order."
+    }
+  ],
+  "slug": "beyond-meat-burger",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

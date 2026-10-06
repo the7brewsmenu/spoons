@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "title": "Wetherspoons Chicken Jalfrezi Price and Calories 2026",
+    "description": "Wetherspoons chicken jalfrezi typically costs {price}, with rice, naan and poppadums included. Check the spice, allergens and ordering tips before you go."
+  },
+  "subtitle": "A warming chicken curry with green chillies, mixed peppers and accompanying breads, suited to diners who enjoy a spicy main.",
+  "quickAnswer": "Wetherspoons Chicken Jalfrezi typically costs {price}, its calorie figure is not verified in our data, and it comes with pilau rice, naan bread and poppadums. Check Wetherspoon's current nutrition information for the calorie total and your chosen pub's menu for the price before ordering.",
+  "components": [
+    {
+      "name": "Marinated chicken",
+      "note": "Tender pieces of marinated chicken give the curry its main substance alongside the robust, spicy sauce."
+    },
+    {
+      "name": "Spiced sauce",
+      "note": "The rich sauce brings aromatic spices and a warming kick of heat that defines the curry."
+    },
+    {
+      "name": "Green chillies",
+      "note": "Fresh green chillies contribute to the lively heat, making this a choice for diners who enjoy spice."
+    },
+    {
+      "name": "Mixed peppers",
+      "note": "Crisp mixed peppers add a firmer texture against the tender chicken and rich curry sauce."
+    },
+    {
+      "name": "Pilau rice",
+      "note": "Fragrant, fluffy pilau rice provides a contrasting accompaniment to the rich sauce and its warming spice."
+    },
+    {
+      "name": "Naan bread",
+      "note": "Soft, warm naan bread offers a gentler texture alongside the curry and crisp poppadums."
+    },
+    {
+      "name": "Poppadums",
+      "note": "Crisp poppadums add crunch to a plate otherwise built around tender chicken, soft bread and fluffy rice."
+    }
+  ],
+  "taste": "Chicken Jalfrezi is a warming, spicy curry with tender marinated chicken and a rich sauce. Aromatic spices and fresh green chillies give it a lively kick, while crisp mixed peppers introduce a firmer bite. The description points to a curry for people who enjoy heat, rather than those seeking a mild main. No specific spice rating is supplied, so check with the pub if that distinction matters to you.\n\nServed steaming hot, the curry comes with fragrant, fluffy pilau rice, soft warm naan and crisp poppadums. Those accompaniments create a useful contrast in texture, with the rice offering a gentler counterpoint to the robust sauce.",
+  "value": "The typical price is {price}, though prices vary by pub. Within the {category} section, its position is {pricePosition}. With pilau rice, naan and poppadums included, the accompaniments are worth considering before adding extra sides.\n\nCompare the whole plate with alternatives such as the Southern-Fried Chicken Strips Basket or Lemon and Herb Half Chicken, rather than judging by the main ingredient alone. Curry Club traditionally runs on Thursday at participating pubs, often with a drink included. Ask whether this curry qualifies and compare the local meal options before ordering.",
+  "nutrition": "A verified calorie figure is not available in our data for Chicken Jalfrezi. Check Wetherspoon's current [nutrition information](/nutrition-information) before using this meal in a calorie plan, and confirm whether the entry covers the pilau rice, naan and poppadums as well as the curry.\n\nExtra sides, additional sauces and your chosen drink can change the overall total. Use the information for each item you actually order rather than treating a figure for the main dish as the total for your meal.",
+  "dietaryGuidance": "Chicken Jalfrezi contains chicken, so it is not a vegetarian or vegan choice. No dietary tags are recorded for this dish in our data. Milk and mustard are the listed allergens, making the current [allergen information](/allergen-information) particularly important for anyone avoiding either.\n\nDo not treat that list as a complete assessment of suitability. Check Wetherspoon's current allergen information and speak to the pub about your requirements before ordering. Swapping an accompaniment or adding a sauce can change the allergens in the meal.",
+  "bestFor": [
+    {
+      "title": "Diners who enjoy heat",
+      "text": "This curry suits someone looking for a warming main with a noticeable kick. Green chillies and aromatic spices make heat part of its appeal, rather than an incidental detail."
+    },
+    {
+      "title": "A curry with accompaniments",
+      "text": "Choose it when you want rice and breads alongside your main without having to select them separately. Pilau rice, naan and poppadums provide contrasting textures around the rich sauce."
+    },
+    {
+      "title": "Checking Curry Club options",
+      "text": "It is worth considering when comparing Thursday Curry Club choices at a participating pub. Confirm that Chicken Jalfrezi is included locally and check the eligible drink options before ordering."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "side-salad",
+      "reason": "A side salad is an option if you want another accompaniment without choosing more bread or chips alongside the included rice, naan and poppadums."
+    },
+    {
+      "slug": "mini-chocolate-brownie",
+      "reason": "Mini Warm Chocolate Brownie offers a chocolate finish after the spicy main, if you would rather add dessert than another savoury side."
+    },
+    {
+      "slug": "bramley-apple-crumble",
+      "reason": "Bramley Apple Crumble gives you an apple dessert option after the curry, useful if that appeals more than a chocolate-based finish."
+    }
+  ],
+  "tips": [
+    "Check the price at your chosen pub before ordering, and compare any eligible meal-with-drink option with the curry ordered on its own.",
+    "Allow for the included pilau rice, naan and poppadums before adding sides, particularly if you are deciding between extra bread and dessert.",
+    "Ask about the heat if you usually choose mild curries, as the description highlights fresh green chillies and a warming spice profile.",
+    "Review the current allergen information for milk and mustard, then discuss any dietary requirements with the pub before placing your order.",
+    "On Thursday, ask whether Chicken Jalfrezi is part of the local Curry Club offer and which drinks qualify at that pub."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the Chicken Jalfrezi at Wetherspoons?",
+      "answer": "The typical price of Wetherspoons Chicken Jalfrezi is {price}, but the amount varies by pub. Pilau rice, naan bread and poppadums accompany the curry in our description. Check your chosen pub's menu for the current price and compare any eligible meal-with-drink option before ordering."
+    },
+    {
+      "question": "How many calories are in Wetherspoons Chicken Jalfrezi?",
+      "answer": "We do not have a verified calorie figure for Wetherspoons Chicken Jalfrezi. Check Wetherspoon's current [nutrition](/nutrition-information) information and confirm whether the listed total includes the pilau rice, naan bread and poppadums. Any additional sides, sauces or drinks need to be considered separately when calculating your meal total."
+    },
+    {
+      "question": "What comes with the Chicken Jalfrezi at Wetherspoons?",
+      "answer": "Wetherspoons Chicken Jalfrezi comes with pilau rice, naan bread and poppadums, according to our dish description. The curry contains tender marinated chicken in a rich, aromatic sauce with fresh green chillies and crisp mixed peppers. Check with your chosen pub before ordering if you need to change an accompaniment."
+    },
+    {
+      "question": "Is Wetherspoons Chicken Jalfrezi spicy?",
+      "answer": "Wetherspoons Chicken Jalfrezi is described as a spicy, warming curry with a kick of heat from fresh green chillies and aromatic spices. Our information does not give a specific heat rating. If you prefer mild food, ask the pub about the spice level rather than assuming it will suit you."
+    },
+    {
+      "question": "What allergens are in Wetherspoons Chicken Jalfrezi?",
+      "answer": "Milk and mustard are the allergens listed in our data for Wetherspoons Chicken Jalfrezi. This should not replace checking Wetherspoon's current [allergen information](/allergen-information) for the whole meal, including its accompaniments. Discuss your requirements with the pub before ordering, especially if you are requesting swaps or adding sauces."
+    },
+    {
+      "question": "Is the Chicken Jalfrezi at Wetherspoons vegetarian or vegan?",
+      "answer": "Wetherspoons Chicken Jalfrezi is neither vegetarian nor vegan because it contains chicken. No dietary tags are recorded for it in our data. The Quorn No Chicken Nuggets Basket is listed with vegetarian and vegan tags in the same section, but check current suitability and [allergen information](/allergen-information) before choosing an alternative."
+    },
+    {
+      "question": "Can I get Wetherspoons Chicken Jalfrezi as a meal deal?",
+      "answer": "You will need to check with your chosen pub whether Chicken Jalfrezi qualifies for a meal deal. Many Wetherspoons mains can be ordered with an eligible soft or alcoholic drink. Curry Club traditionally takes place on Thursday at participating pubs, often with a drink included, but local options need confirming."
+    }
+  ],
+  "slug": "chicken-jalfrezi",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

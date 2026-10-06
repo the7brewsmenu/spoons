@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "title": "Wetherspoons Roast Chicken Breast Price and Calories 2026",
+    "description": "Wetherspoons roast chicken breast with roast potatoes and Yorkshire pudding, typically {price} and {calories} kcal. Check sides, allergens and Sunday availability."
+  },
+  "subtitle": "A traditional Sunday roast with tender chicken, gravy and classic trimmings, suited to diners who prefer mild meat to beef.",
+  "quickAnswer": "The Wetherspoons roast chicken breast typically costs {price}, contains {calories} kcal and comes with savoury gravy, a Yorkshire pudding, roasted potatoes and seasonal vegetables. It is a Sunday-only option with mild, tender meat and contrasting crisp and soft textures. Prices vary by pub, so check your chosen location before ordering.",
+  "components": [
+    {
+      "name": "Roasted chicken breast",
+      "note": "Tender, mild chicken forms the centre of the plate and takes on the rich flavour of the accompanying gravy."
+    },
+    {
+      "name": "Savoury gravy",
+      "note": "The rich, savoury gravy brings a fuller flavour to the mild chicken and ties the roast elements together."
+    },
+    {
+      "name": "Yorkshire pudding",
+      "note": "An oversized Yorkshire pudding adds a crisp element alongside a soft texture, giving the plate variety beyond the meat."
+    },
+    {
+      "name": "Roasted potatoes",
+      "note": "Golden roasted potatoes bring crisp skins to the plate, contrasting with the tender chicken and soft Yorkshire pudding."
+    },
+    {
+      "name": "Seasonal vegetables",
+      "note": "A selection of seasonal vegetables adds colour and variety alongside the chicken, potatoes, Yorkshire pudding and savoury gravy."
+    }
+  ],
+  "taste": "This is a mild, gravy-led Sunday roast, with tender chicken and crisp trimmings providing the main contrast. The roasted breast is succulent rather than strongly flavoured, so the rich, savoury gravy does much of the work. It suits someone who wants the familiar character of a traditional roast without choosing beef. The meat absorbs the gravy well, keeping its gentle flavour at the centre of each mouthful.\n\nGolden roasted potatoes add crisp skins, while the oversized Yorkshire pudding brings both crispness and a softer texture. Seasonal vegetables give the plate colour and variety. Served hot, the combination is comforting and substantial in style, with enough texture to keep the softer chicken and gravy from dominating.",
+  "value": "The roast chicken breast offers a complete Sunday lunch at a typical price of {price}, with gravy and the named trimmings included. Within the {category} items we track, it is {pricePosition}. That provides a useful price comparison, though prices vary by pub.\n\nCompare it with Roast Beef or Roast Pork if your main priority is the meat, rather than the format of the meal. Vegetarian Wellington and Vegan Wellington are alternatives for diners avoiding meat. Check the local menu before assuming a drink is included.",
+  "nutrition": "The listed roast chicken breast contains {calories} kcal, equivalent to {calorieShare}. It is {caloriePosition} among the {category} items we track, which helps put the full plate in context rather than judging it by the chicken alone.\n\nUse that figure as the reference for the listed meal, not for an order with extras. Additional sides, extra sauces or gravy, desserts and drinks can change the total. If you alter the plate, [check the current nutrition](/nutrition-information) information rather than assuming the original figure still applies.",
+  "dietaryGuidance": "The roast chicken breast is a meat dish, and our data lists no dietary tags for it. The recorded allergens are cereals containing gluten, eggs and milk. Anyone avoiding these ingredients should [check the current allergen](/allergen-information) information with the pub before ordering.\n\nDo not assume that removing a trimming makes the remaining plate suitable for your needs. Swaps, sauces and other changes can alter the allergen profile. Vegetarian Wellington and Vegan Wellington are named alternatives in the same section, but their suitability still needs checking separately.",
+  "bestFor": [
+    {
+      "title": "A traditional Sunday lunch",
+      "text": "Choose this when you want the familiar roast combination of meat, gravy, potatoes, Yorkshire pudding and vegetables. Its Sunday-only listing makes it an option for a planned weekend pub lunch."
+    },
+    {
+      "title": "Fans of mild meat",
+      "text": "The tender chicken suits diners who prefer a gentler meat flavour than beef. Rich gravy supplies the savoury character, while the trimmings keep the plate recognisably traditional."
+    },
+    {
+      "title": "Diners who value texture",
+      "text": "Crisp potato skins and the Yorkshire pudding give contrast to the succulent chicken. It is a useful choice if you enjoy a roast with both crisp and soft elements."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "chocolate-fudge-cake",
+      "reason": "Warm Chocolate Fudge Cake is an option if you want to follow the savoury roast with a warm chocolate dessert."
+    },
+    {
+      "slug": "bramley-apple-crumble",
+      "reason": "Bramley Apple Crumble keeps the meal in a traditional pudding style, making it a fitting follow-up to chicken, gravy and roast trimmings."
+    },
+    {
+      "slug": "large-pepsi-max",
+      "reason": "Large Pepsi Max is an option if you prefer a soft drink with your Sunday roast. Check whether your pub offers an eligible meal-and-drink combination."
+    }
+  ],
+  "tips": [
+    "Plan for Sunday, as this dish is listed for Sundays only. Check with your chosen pub before making a trip specifically for the roast.",
+    "Check the price for your location at the bar or in the Wetherspoon app. The listed {price} is typical, not a fixed price across pubs.",
+    "Ask about the current seasonal vegetables if you have a strong preference, as the description names a selection rather than specific vegetables.",
+    "Review the allergen information before requesting swaps or removing trimmings. The recorded allergens include cereals containing gluten, eggs and milk.",
+    "Check any meal-and-drink option before adding a separate drink. Many mains have eligible drink combinations, but inclusion for this roast needs confirming locally."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the roast chicken breast at Wetherspoons?",
+      "answer": "The roast chicken breast at Wetherspoons typically costs {price}, although prices vary by pub. It is {pricePosition} within the {category} items we track. Check your chosen pub's current menu at the bar or in the Wetherspoon app before ordering, especially if you are adding a drink or extras."
+    },
+    {
+      "question": "How many calories are in the Wetherspoons roast chicken breast?",
+      "answer": "The Wetherspoons roast chicken breast is listed at {calories} kcal, equivalent to {calorieShare}. It is {caloriePosition} within the {category} items we track. Use this as the reference for the listed plate, and check separately for any extra sides, sauces, desserts or drinks added to your order."
+    },
+    {
+      "question": "What comes with the roast chicken breast at Wetherspoons?",
+      "answer": "The roast chicken breast at Wetherspoons comes with savoury gravy, an oversized Yorkshire pudding, golden roasted potatoes and seasonal vegetables. The description highlights tender, mild chicken, crisp potato skins and a Yorkshire pudding with contrasting textures. Specific vegetables are not named, so ask the pub if that affects your choice."
+    },
+    {
+      "question": "Is the Wetherspoons roast chicken breast available every day?",
+      "answer": "No, the Wetherspoons roast chicken breast is listed as available on Sundays only. Do not rely on the general main-menu service times to work out when this particular roast can be ordered. Check Sunday serving times and current availability with your chosen pub before travelling specifically for it."
+    },
+    {
+      "question": "Is the roast chicken breast at Wetherspoons vegetarian?",
+      "answer": "No, the roast chicken breast at Wetherspoons contains chicken and is not a vegetarian choice. Our data lists no dietary tags for this dish. Vegetarian Wellington and Vegan Wellington appear in the same menu section as alternatives, but check their current ingredients and [allergen information](/allergen-information) before choosing a replacement."
+    },
+    {
+      "question": "What allergens are listed for the Wetherspoons roast chicken breast?",
+      "answer": "The recorded allergens for the Wetherspoons roast chicken breast are cereals containing gluten, eggs and milk. Anyone with an allergy should check the pub's current [allergen information](/allergen-information) before ordering. Removing a component or requesting a swap does not establish suitability, and changes to the plate can alter its allergen profile."
+    },
+    {
+      "question": "Can I get the Wetherspoons roast chicken breast with a drink deal?",
+      "answer": "A drink deal for the Wetherspoons roast chicken breast is not confirmed in our dish information, so check the local menu. Many mains can be ordered with an eligible soft or alcoholic drink, but that general option does not establish inclusion for this roast. Confirm eligibility and the total before ordering."
+    }
+  ],
+  "slug": "roast-chicken-breast",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "title": "Wetherspoons Double American Cheese Burger Price and Calories 2026",
+    "description": "Wetherspoons Double American Cheese Burger: typical {price}, {calories} kcal, with chips. Prices vary by pub. Check ingredients and allergens before ordering."
+  },
+  "subtitle": "A double beef burger with American-style cheese and chips, suited to a hearty appetite and classic diner flavours.",
+  "quickAnswer": "{name} has a typical price of {price}, contains {calories} kcal and comes with chips. The burger stacks two beef patties with double American-style cheese, gherkins, ketchup and mustard in a soft toasted bun. Prices vary by pub, so check your chosen location before ordering.",
+  "components": [
+    {
+      "name": "Beef patties",
+      "note": "Two thick, juicy beef patties form the stack and provide the burger's substantial, savoury centre."
+    },
+    {
+      "name": "American-style cheese",
+      "note": "A double helping of melting American-style cheese adds richness and a soft texture between the layers."
+    },
+    {
+      "name": "Gherkins",
+      "note": "Crisp gherkins add a firmer bite against the juicy beef and melting cheese."
+    },
+    {
+      "name": "Ketchup",
+      "note": "Rich ketchup contributes another layer of flavour alongside the beef, cheese and tangy mustard."
+    },
+    {
+      "name": "Mustard",
+      "note": "Tangy mustard gives the rich beef and cheese stack a sharper note within the bun."
+    },
+    {
+      "name": "Toasted bun",
+      "note": "The soft toasted bun holds the patties, cheese, gherkins and sauces together in a tall stack."
+    },
+    {
+      "name": "Chips",
+      "note": "Chips come alongside the burger, making this a full meal rather than a burger on its own."
+    }
+  ],
+  "taste": "This is a rich, savoury burger built around two thick, juicy beef patties and a double helping of melting American-style cheese. The beef supplies the substantial bite, while the cheese gives the stack a softer, richer texture. Crisp gherkins provide contrast, with tangy mustard cutting across the richness and ketchup adding another layer of flavour.\n\nA soft toasted bun holds the tall stack together, so the emphasis is on a hearty burger rather than a restrained serving. Chips accompany it, and the dish is described as served fresh and hot. Choose it for classic diner flavours and a serious appetite, particularly if beef and cheese are your main reasons for ordering a burger.",
+  "value": "The double beef and cheese serving plus included chips makes {name} worth considering at a typical {price} if you have a hearty appetite. For price context, it is {pricePosition}. Compare the American Cheese Burger and BBQ Bacon Burger in the same {category} section before deciding which combination you want.\n\nMany mains can be ordered with an eligible soft or alcoholic drink, but check whether this burger qualifies at your pub. A meal option is worth comparing with separate food and drink orders, since prices vary by location.",
+  "nutrition": "The listed energy figure for {name} is {calories} kcal, equivalent to {calorieShare}. Within our tracked {category} selection, it is {caloriePosition}.\n\nExtra sides, added sauces and drinks can increase the total beyond the listed figure. Chips already accompany this dish, so another portion is an addition, not a missing side. If you request changes, check the pub's current [nutrition information](/nutrition-information) rather than assuming the same energy figure still applies.",
+  "dietaryGuidance": "This beef and cheese burger is not suitable for vegetarian or vegan diets, and no dietary tags are recorded in our data. The listed allergens are cereals containing gluten, milk and sesame. Anyone avoiding these should check the pub's current [allergen information](/allergen-information) before ordering.\n\nIngredient swaps or removals can change the allergen profile, but they do not establish that a meal is safe for an allergy. Speak to pub staff about your requirements rather than relying on the dish name or a requested change.",
+  "bestFor": [
+    {
+      "title": "Big appetites",
+      "text": "This suits diners who want two beef patties, a double helping of cheese and chips in one meal, rather than a burger with a modest filling."
+    },
+    {
+      "title": "Classic diner flavours",
+      "text": "Choose this if your preferred burger centres on beef, American-style cheese, gherkins, ketchup and mustard, rather than looking for a different combination of toppings."
+    },
+    {
+      "title": "Pub lunch or dinner",
+      "text": "Consider it for a substantial pub lunch or dinner when you want your burger and chips together. Confirm that the main menu is running at your chosen pub."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "side-salad",
+      "reason": "A Side Salad gives you a different accompaniment to the rich beef and cheese, rather than adding more chips to a meal that already includes them."
+    },
+    {
+      "slug": "mini-chocolate-brownie",
+      "reason": "The Mini Warm Chocolate Brownie offers a chocolate finish after the savoury burger. Consider it after the meal if you still have room following the double beef serving."
+    },
+    {
+      "slug": "large-pepsi-max",
+      "reason": "Large Pepsi Max is a drink option to check alongside the burger. Ask whether it qualifies for a meal deal before assuming it is included."
+    }
+  ],
+  "tips": [
+    "Check the price at your chosen pub before ordering, as the listed {price} is typical and prices vary by location.",
+    "Ask whether this burger qualifies for a meal with an eligible drink, then compare that option with ordering food and drink separately.",
+    "If you want the gherkins, ketchup or mustard left out, ask the pub before ordering rather than assuming a customised version is available.",
+    "Use the Wetherspoon app or order at the bar, and raise any allergen questions with staff before placing your order."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the Double American Cheese Burger at Wetherspoons?",
+      "answer": "{name} has a typical price of {price}, but prices vary by pub. Check the current menu for your chosen location before ordering. Chips are included with the burger, and it is worth asking whether an eligible drink can be added as part of a meal option."
+    },
+    {
+      "question": "How many calories are in the Double American Cheese Burger?",
+      "answer": "The listed figure for {name} is {calories} kcal, which represents {calorieShare}. Extra sides, added sauces and drinks can increase the energy total. If you change the order, check the pub's current [nutrition](/nutrition-information) information rather than assuming the listed figure covers your revised meal."
+    },
+    {
+      "question": "What comes with the Double American Cheese Burger?",
+      "answer": "{name} comes with chips and contains two beef patties, a double helping of American-style cheese, gherkins, ketchup and mustard in a soft toasted bun. A drink is not listed in the dish description, so check your pub's meal options rather than assuming one is included."
+    },
+    {
+      "question": "Is the Double American Cheese Burger vegetarian or vegan?",
+      "answer": "{name} is not suitable for vegetarian or vegan diets because it contains beef and American-style cheese. No dietary tags are recorded for it in our data. The Beyond Meat Plant-Based Burger and Fiesta Burger are listed with vegan and vegetarian tags, but check current details with the pub before choosing an alternative."
+    },
+    {
+      "question": "What allergens are in the Double American Cheese Burger?",
+      "answer": "{name} has cereals containing gluten, milk and sesame listed as allergens in our data. Check the pub's current [allergen information](/allergen-information) if you need to avoid any of these. Requested swaps or removals can change the allergen profile, so discuss your requirements with staff before ordering."
+    },
+    {
+      "question": "Can I get the Double American Cheese Burger as a meal deal?",
+      "answer": "You need to check with your pub whether {name} can be ordered as a meal with an eligible drink. Many Wetherspoons mains have this option, but eligibility for this burger is not confirmed in our data. Compare the pub's current meal and separate-order prices before deciding."
+    },
+    {
+      "question": "Can I order the Double American Cheese Burger without gherkins or sauces?",
+      "answer": "Ask your pub whether it can leave the gherkins, ketchup or mustard out of {name}, as customisation is not confirmed in our data. These ingredients are part of the listed burger. A requested change can affect nutrition and allergens, so confirm the details with staff before placing your order."
+    }
+  ],
+  "slug": "double-american-cheese-burger",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

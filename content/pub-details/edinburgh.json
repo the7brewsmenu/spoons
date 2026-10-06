@@ -1,0 +1,28 @@
+{
+  "city": "edinburgh",
+  "localNote": "Edinburgh's four Wetherspoons cover the New Town, Leith Walk and the Old Town. The Booking Office is right beside Waverley station and is ideal if you are arriving by train. The Standing Order and The Alexander Graham Bell are both on George Street in the New Town shopping area, while The Playfair in the OMNi Centre is handy for the east end of Princes Street.",
+  "pubs": [
+    {
+      "name": "The Standing Order",
+      "history": "Occupies a building designed by architect David Bryce in 1874 as the Edinburgh head office of the Union Bank. The impressive facade features Ionic and Corinthian columns. It was completed after Bryce's death by his nephew John Bryce in 1878.",
+      "nearestStation": "Edinburgh Waverley station, about 10 minutes on foot",
+      "features": ["Listed building"]
+    },
+    {
+      "name": "The Playfair",
+      "history": "Named after the Scottish architect William Henry Playfair, who designed many of Edinburgh's classical landmarks including the Royal Scottish Academy and the National Gallery of Scotland.",
+      "nearestStation": "Edinburgh Waverley station, about 7 minutes on foot"
+    },
+    {
+      "name": "The Alexander Graham Bell",
+      "history": "Named after the inventor of the telephone, who was born at 16 South Charlotte Street nearby. The pub sits on George Street and displays information about famous Scots.",
+      "nearestStation": "Edinburgh Waverley station, about 12 minutes on foot"
+    },
+    {
+      "name": "The Booking Office",
+      "history": "Housed in the original North British Railway booking office built in 1846 beside Waverley station. The Grade A listed building later served as a parcels office until around 1984 before becoming a pub. It retains its historic facade.",
+      "nearestStation": "Edinburgh Waverley station, directly adjacent",
+      "features": ["Listed building"]
+    }
+  ]
+}

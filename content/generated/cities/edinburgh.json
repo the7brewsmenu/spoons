@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "title": "Wetherspoons Edinburgh: pubs, menu and prices guide",
+    "description": "Explore Wetherspoons Edinburgh with pub locations, menu favourites and practical price advice. Compare areas and find where to check before you order."
+  },
+  "intro": "This guide covers {pubCount} open Wetherspoons pubs in Edinburgh across {areaCount} areas: New Town, Leith Walk and Old Town. Every pub works from the national [Wetherspoons menu](/), but prices are set locally. Use it to choose a location, compare the national menu options and understand why your bill can differ between pubs.\n\nYou will also find breakfast guidance, club days and practical ordering advice. SpoonsMenu is an independent guide and is not affiliated with J D Wetherspoon plc.",
+  "quickAnswer": "We list {pubCount} open Wetherspoons pubs in Edinburgh across {areaCount} areas. New Town has The Standing Order and The Alexander Graham Bell, both on George Street. The Playfair is at the Omni Centre on Leith Walk, while The Booking Office is on Waverley Bridge in Old Town. Check your chosen pub for current menu prices.",
+  "areas": [
+    {
+      "area": "New Town",
+      "text": "New Town has The Standing Order and The Alexander Graham Bell, both on George Street. These are the listed options if you want to eat in this area. Compare each pub's current menu prices before choosing, rather than assuming the same order will cost the same at both."
+    },
+    {
+      "area": "Leith Walk",
+      "text": "The Playfair is the listed Wetherspoons option for Leith Walk, at the Omni Centre. It suits visitors who have chosen this area and want a named pub to check before heading out. Confirm current food availability and prices with the pub rather than relying solely on the national menu."
+    },
+    {
+      "area": "Old Town",
+      "text": "The Booking Office is the listed Wetherspoons pub in Old Town, with its address on Waverley Bridge. It is the option in this guide for anyone planning to eat in that area. Check the pub's current menu before settling on a dish or comparing its prices with other locations."
+    }
+  ],
+  "pricing": "Wetherspoons menu prices in Edinburgh vary by pub, even though the menu is broadly the same nationally. Any price shown in a guide should be treated as typical, not a fixed amount for every location.\n\nCity centre pubs often charge more than suburban pubs, so a central location can affect what you pay. That does not establish which of the listed pubs is cheapest: compare the same dish at each before deciding.\n\nFor an exact current price, check the menu at your chosen pub or select that location in the Wetherspoon app. National menu favourites include [burgers](/burgers), curries, fish and chips and pizza, but confirm local availability before ordering.",
+  "breakfastAndClubs": "Breakfast is typically served from eight in the morning until noon, while [Curry Club](/curry-club) is traditionally on Thursday and [Steak Club](/steak-club) on Tuesday at participating pubs. These are general Wetherspoons timings and club days, not confirmation of the arrangements at every Edinburgh location.\n\nThe traditional breakfast is among the dishes on the national menu. If breakfast or a club meal is the reason for your visit, check the chosen pub's current menu and participation first. You can order at the bar or at your table using the Wetherspoon app.",
+  "tips": [
+    {
+      "title": "Choose your area first",
+      "text": "Start with New Town, Leith Walk or Old Town, then use the listed pub names to narrow your choice. New Town offers a choice between The Standing Order and The Alexander Graham Bell."
+    },
+    {
+      "title": "Compare the same order",
+      "text": "Compare the same dish at each pub when checking prices. The national menu is broadly shared, but each location sets its own prices, so a familiar order can cost differently."
+    },
+    {
+      "title": "Check breakfast service",
+      "text": "Check breakfast service with your chosen pub before setting out. The typical serving window is eight in the morning until noon, but that is not confirmation of local opening hours."
+    },
+    {
+      "title": "Confirm club participation",
+      "text": "Confirm that your chosen pub participates before planning around a club meal. Curry Club is traditionally on Thursday and Steak Club on Tuesday, with local details best checked directly."
+    },
+    {
+      "title": "Select the right pub",
+      "text": "Select your chosen pub in the Wetherspoon app before checking its menu or ordering at the table. Ordering at the bar is another option if you prefer not to use the app."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How many Wetherspoons are in Edinburgh?",
+      "answer": "This guide lists {pubCount} open Wetherspoons pubs in Edinburgh across {areaCount} areas. The Standing Order and The Alexander Graham Bell are in New Town, The Playfair is on Leith Walk, and The Booking Office is in Old Town. Use those locations to narrow your choice, then check the selected pub's current menu and prices."
+    },
+    {
+      "question": "Which Wetherspoons in Edinburgh are in New Town?",
+      "answer": "The Standing Order and The Alexander Graham Bell are the listed Wetherspoons pubs in New Town, both on George Street. If this is your preferred area, compare their current menus before choosing. Each pub sets its own prices, so the broadly shared national menu does not mean an identical bill at both."
+    },
+    {
+      "question": "Which Wetherspoons in Edinburgh is on Leith Walk?",
+      "answer": "The Playfair is the listed Wetherspoons pub on Leith Walk, at the Omni Centre. It is the location to check if you want to eat in that area. Look at its current menu or select the pub in the Wetherspoon app to confirm prices before ordering."
+    },
+    {
+      "question": "Which Wetherspoons in Edinburgh is in Old Town?",
+      "answer": "The Booking Office is the listed Wetherspoons pub in Old Town, on Waverley Bridge. Check its current menu when deciding what to order, as national menu listings do not confirm local availability. Prices are set by the pub, and customers can order at the bar or at the table through the Wetherspoon app."
+    },
+    {
+      "question": "What time does breakfast start at Wetherspoons in Edinburgh?",
+      "answer": "Wetherspoons breakfast typically starts at eight in the morning and is served until noon. Those are general serving times, so check with your chosen Edinburgh pub before planning a visit around breakfast. The traditional breakfast appears on the national menu, but confirm the local menu and current price before ordering."
+    },
+    {
+      "question": "Are prices higher at Wetherspoons in Edinburgh?",
+      "answer": "Prices can be higher at city centre Wetherspoons pubs than at suburban locations, but Edinburgh does not have a single shared price list. Each pub sets its own prices despite the broadly national menu. Compare the same dish on the current menus of your shortlisted pubs rather than assuming one location will be cheaper."
+    },
+    {
+      "question": "What days are Curry Club and Steak Club at Wetherspoons in Edinburgh?",
+      "answer": "Curry Club is traditionally on Thursday and Steak Club on Tuesday at participating Wetherspoons pubs. For an Edinburgh visit, confirm participation with the particular pub rather than assuming every listed location follows those arrangements. Check its current menu for the available choices and local prices before planning your meal around a club day."
+    },
+    {
+      "question": "What food is on the Wetherspoons menu in Edinburgh?",
+      "answer": "The broadly shared national Wetherspoons menu includes traditional breakfast, burgers, curries, fish and chips and pizza. For an Edinburgh pub, treat that list as a starting point rather than confirmation that every dish is available. Check the selected location's current menu for your choice and its price before ordering at the bar or through the app."
+    }
+  ],
+  "slug": "edinburgh",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

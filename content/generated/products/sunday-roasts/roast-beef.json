@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "title": "Wetherspoons Roast Beef Price and Calories 2026",
+    "description": "Wetherspoons roast beef typically costs {price}, with {calories} kcal. See what comes with this Sunday roast, plus allergen guidance before you order."
+  },
+  "subtitle": "Tender roast beef with Yorkshire pudding, roast potatoes, seasonal vegetables and gravy, suited to diners wanting a traditional Sunday meal.",
+  "quickAnswer": "Wetherspoons roast beef typically costs {price}, contains {calories} kcal and comes with Yorkshire pudding, roasted potatoes, seasonal vegetables and meat gravy. Available on Sundays only, it combines tender beef with crisp and fluffy accompaniments. Prices vary by pub, so check the local menu and availability before making a special trip.",
+  "components": [
+    {
+      "name": "Roast beef",
+      "note": "Generous, tender slices bring the deep, savoury flavour that forms the centre of this traditional Sunday plate."
+    },
+    {
+      "name": "Yorkshire pudding",
+      "note": "A tall, crisp Yorkshire pudding adds texture and takes up the rich meat gravy alongside the beef."
+    },
+    {
+      "name": "Roasted potatoes",
+      "note": "Fluffy roasted potatoes with a golden crunch provide a contrast to the tender beef and gravy."
+    },
+    {
+      "name": "Seasonal vegetables",
+      "note": "A medley of fresh seasonal vegetables accompanies the beef, potatoes and Yorkshire pudding on the plate."
+    },
+    {
+      "name": "Meat gravy",
+      "note": "Rich, dark meat gravy brings the savoury elements together and soaks into the crisp Yorkshire pudding."
+    }
+  ],
+  "taste": "This roast centres on tender beef and deep, savoury flavour, with crisp accompaniments giving the plate some contrast. The slices are described as generous, while the rich, dark meat gravy ties the beef, potatoes and Yorkshire pudding together. It is a traditional combination rather than a roast built around unusual additions.\n\nThe potatoes offer a golden crunch outside and a fluffy texture within. Alongside them, the tall Yorkshire pudding starts crisp, with gravy soaking into it as you eat. Seasonal vegetables complete the plate without changing its emphasis on beef and gravy. For diners who value contrasting textures, the tender meat, crisp pudding and fluffy potatoes are the main draw.",
+  "value": "At a typical {price}, this roast is worth considering if you want beef with the traditional accompaniments included. Within the [Sunday roasts](/sunday-roasts) section, it is {pricePosition}. Prices are set by each pub, so use that comparison as a guide rather than a fixed local offer.\n\nRoast Chicken Breast and Roast Pork are the named meat alternatives to compare before ordering. Vegetarian Wellington and Vegan Wellington provide other choices in the same section. The useful value check is the complete plate and your preferred main, not simply the headline price.",
+  "nutrition": "The listed roast contains {calories} kcal, equivalent to {calorieShare}. Among the Sunday roasts we track, it is {caloriePosition}. Treat that figure as the reference for the listed dish, rather than the total for everything you might order.\n\nExtra sides, additional sauces and drinks can change the meal's calorie total, as can adding dessert. Check the information for those separately. If you request changes to the plate, ask the pub how those affect the listed nutrition rather than assuming the original figure still applies.",
+  "dietaryGuidance": "Roast beef is not a vegetarian or vegan choice, and our data lists no dietary tags for this dish. The recorded allergens are cereals containing gluten, eggs and milk. Diners avoiding any of these should [check the current allergen](/allergen-information) information with the pub before ordering.\n\nThe data does not identify which individual components contain each allergen, so removing an accompaniment is not enough to establish suitability. Swaps can also change the allergens present. Vegetarian Wellington and Vegan Wellington are tagged alternatives, but their allergen information needs checking separately.",
+  "bestFor": [
+    {
+      "title": "Traditional roast diners",
+      "text": "This suits diners who want beef, Yorkshire pudding, roasted potatoes, seasonal vegetables and gravy together, rather than choosing separate sides to build a Sunday meal."
+    },
+    {
+      "title": "Sunday family meals",
+      "text": "The traditional plate suits a Sunday meal with family or friends. Check local availability before arranging the visit, particularly if several people plan to order the same roast."
+    },
+    {
+      "title": "Texture focused diners",
+      "text": "Tender beef, crisp Yorkshire pudding and potatoes with fluffy centres make this a useful choice for diners who enjoy contrasting textures within a familiar savoury meal."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "bramley-apple-crumble",
+      "reason": "Bramley Apple Crumble gives you an apple dessert after the savoury roast, if you want to follow the main with a pudding."
+    },
+    {
+      "slug": "mini-chocolate-brownie",
+      "reason": "Mini Warm Chocolate Brownie is worth considering if you want a chocolate dessert after beef and gravy. Check its separate nutrition before adding it."
+    },
+    {
+      "slug": "large-pepsi-max",
+      "reason": "Large Pepsi Max is a soft drink option to consider alongside the roast. Ask whether it is eligible for any meal and drink offer."
+    }
+  ],
+  "tips": [
+    "Plan this order for Sunday, and check with your chosen pub before travelling specifically for the roast; no serving hours are supplied here.",
+    "Compare the local price with Roast Chicken Breast and Roast Pork if your priority is value rather than beef specifically.",
+    "Check the current allergen information before requesting swaps, because changing a component can alter the allergens in the meal.",
+    "Ask whether the roast qualifies for a meal with an eligible drink, rather than assuming a drink is included in the typical price."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the roast beef at Wetherspoons?",
+      "answer": "The roast beef has a typical price of {price}, but the amount charged varies by pub. It comes with Yorkshire pudding, roasted potatoes, seasonal vegetables and meat gravy. Check your chosen pub's menu for the local price, and ask separately whether an eligible drink can be included in a meal offer."
+    },
+    {
+      "question": "How many calories are in Wetherspoons roast beef?",
+      "answer": "Wetherspoons roast beef contains {calories} kcal in the listed dish, equivalent to {calorieShare}. That figure is not a total for a meal with added drinks, sides or dessert. Check those items separately, and ask the pub about [nutrition](/nutrition-information) if you change any part of the listed plate."
+    },
+    {
+      "question": "What comes with the roast beef at Wetherspoons?",
+      "answer": "The roast beef comes with a crisp Yorkshire pudding, fluffy roasted potatoes with a golden crunch, seasonal vegetables and rich, dark meat gravy. The beef is described as generous, tender slices with a deep, savoury flavour. Individual vegetables are not specified, so ask the pub if that detail matters to your order."
+    },
+    {
+      "question": "Is Wetherspoons roast beef available every day?",
+      "answer": "Wetherspoons roast beef is listed as available on Sundays only, not as an everyday main. The supplied information does not give specific roast serving hours or confirm availability at an individual pub. Contact your chosen pub before making a special trip, especially if the roast is the main reason for your visit."
+    },
+    {
+      "question": "Is the roast beef at Wetherspoons vegetarian?",
+      "answer": "The roast beef is not vegetarian or vegan: the plate includes beef and meat gravy. No dietary tags are listed for it in our data. Vegetarian Wellington and Vegan Wellington are alternatives in the [Sunday roasts](/sunday-roasts) section with relevant dietary tags, but check their current ingredients, allergens and local availability before ordering."
+    },
+    {
+      "question": "What allergens are in Wetherspoons roast beef?",
+      "answer": "The allergens recorded for Wetherspoons roast beef are cereals containing gluten, eggs and milk. Our data does not assign those allergens to individual components or establish suitability after a swap. Check the pub's current [allergen information](/allergen-information) before ordering, and explain any allergy or dietary requirement rather than relying on removing one accompaniment."
+    },
+    {
+      "question": "Can I get Wetherspoons roast beef as a meal deal?",
+      "answer": "A meal and drink offer is not confirmed for this roast in the supplied information, so ask your chosen pub. Many Wetherspoons mains can be ordered with an eligible soft or alcoholic drink, but that general option does not establish eligibility for roast beef. Confirm the local offer and included drinks before ordering."
+    }
+  ],
+  "slug": "roast-beef",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

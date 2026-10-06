@@ -1,0 +1,21 @@
+{
+  "city": "southampton",
+  "localNote": "Southampton's three Wetherspoons are spread across the High Street, London Road and Bitterne. The Standing Order on the High Street is a former Barclays bank and the first Wetherspoon to open in the city, The Giddy Bridge on London Road takes its name from a seventeenth-century field, and The Red Lion in Bitterne has been a pub site since the 1830s.",
+  "pubs": [
+    {
+      "name": "The Standing Order",
+      "history": "A former Barclays bank on the High Street, standing on the site of the medieval St Lawrence's Church, which was demolished in 1923. It was the first Wetherspoon pub to open in Southampton.",
+      "nearestStation": "Southampton Central station, about 10 minutes on foot"
+    },
+    {
+      "name": "The Giddy Bridge",
+      "history": "The Victorian building dates from 1885 and was previously known as the Queen's Inn, first licensed in 1857. The name comes from a seventeenth-century field that occupied this site, once rented by Nathaniel St Andre, an anatomist to King George I.",
+      "nearestStation": "Southampton Central station, about 12 minutes on foot"
+    },
+    {
+      "name": "The Red Lion",
+      "history": "The current building dates to the 1860s and was built in front of an earlier coaching inn of the same name from the 1830s. The pub stood at Bitterne Fork, a traffic bottleneck where the old High Street met Bursledon Road.",
+      "nearestStation": "Bitterne station, about 8 minutes on foot"
+    }
+  ]
+}

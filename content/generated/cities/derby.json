@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "title": "Wetherspoons Derby: pubs, menus and local prices guide",
+    "description": "Wetherspoons Derby guide to pubs on Iron Gate and Babington Lane. Compare locations, check pub-specific prices and plan breakfast before you visit."
+  },
+  "intro": "This guide covers {pubCount} open Wetherspoons pubs in Derby across {areaCount} areas: Iron Gate and Babington Lane. Every pub works from the national [Wetherspoons menu](/), but prices are set locally. Use it to choose between The Standing Order, The Thomas Leaper and The Babington Arms, then check the menu and typical prices at your chosen pub.\n\nThe guide also explains breakfast timings, club days and ordering options, with practical advice on what to confirm before visiting.",
+  "quickAnswer": "We list {pubCount} open Wetherspoons pubs in Derby across {areaCount} areas. The Standing Order and The Thomas Leaper are on Iron Gate, while The Babington Arms is on Babington Lane. Choose the area that suits your plans, then check your selected pub's menu for current dishes, typical prices and breakfast or club details.",
+  "areas": [
+    {
+      "area": "Iron Gate",
+      "text": "Iron Gate has The Standing Order and The Thomas Leaper, making it the area to consider if you want a choice of pubs on the same street. Compare their menus and typical prices before deciding, rather than assuming both will charge the same."
+    },
+    {
+      "area": "Babington Lane",
+      "text": "The Babington Arms is the listed Wetherspoons on Babington Lane. It suits visitors whose plans already bring them to this area, without needing to choose between the Iron Gate pubs. Check its own menu for current dishes and typical prices before ordering."
+    }
+  ],
+  "pricing": "Wetherspoons menu prices in Derby are set pub by pub, even though the food menu is broadly the same nationally. Treat any guide price as typical, not as the amount every local pub will charge.\n\nPopular dishes on the national menu include [burgers](/burgers), curries, fish and chips and pizza. Check the selected pub's menu to see what is offered and how each option is priced.\n\nCentral locations can matter: city centre pubs often charge more than suburban pubs. That does not establish which Derby pub is cheapest. For the exact current price, check the menu at your chosen pub or select that pub in the Wetherspoon app before placing an order.",
+  "breakfastAndClubs": "Breakfast at Wetherspoons is typically served from eight in the morning until noon, but confirm the service times at your chosen Derby pub. The traditional breakfast is among the popular dishes on the national menu; check the local menu before planning your order.\n\n[Curry Club](/curry-club) is traditionally on Thursday and [Steak Club](/steak-club) on Tuesday at participating pubs. Do not assume that every listed pub participates or has identical club details. Ask The Standing Order, The Thomas Leaper or The Babington Arms about the relevant day, current menu and typical prices before making it the basis of your visit.",
+  "tips": [
+    {
+      "title": "Choose your area",
+      "text": "Pick Iron Gate if you want to compare The Standing Order with The Thomas Leaper. Choose Babington Lane if The Babington Arms fits your plans better."
+    },
+    {
+      "title": "Check local prices",
+      "text": "Compare the menus for your shortlisted pubs before ordering. The national menu is broadly shared, but typical prices vary by pub, so one menu cannot confirm another pub's charges."
+    },
+    {
+      "title": "Confirm breakfast service",
+      "text": "Check breakfast service with your chosen pub if you are planning around it. The typical window is eight in the morning until noon, rather than a confirmed local timetable."
+    },
+    {
+      "title": "Ask about clubs",
+      "text": "Confirm participation before visiting for Curry Club or Steak Club. Thursday and Tuesday are the traditional days respectively, but the relevant pub should confirm its current arrangements."
+    },
+    {
+      "title": "Select the right pub",
+      "text": "Choose your actual pub in the Wetherspoon app before placing a table order. Ordering at the bar is another option if you prefer to check the menu there."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How many Wetherspoons are in Derby?",
+      "answer": "This guide lists {pubCount} open Wetherspoons pubs in Derby across {areaCount} areas. The Standing Order and The Thomas Leaper are on Iron Gate, and The Babington Arms is on Babington Lane. Compare the individual pub menus before choosing, because typical prices can differ despite the broadly shared national menu."
+    },
+    {
+      "question": "Which Wetherspoons in Derby are on Iron Gate?",
+      "answer": "The Standing Order and The Thomas Leaper are the listed Wetherspoons pubs on Iron Gate in Derby. This gives you a choice of pubs on the same street. Check each pub's current menu and typical prices rather than assuming that the shared location means identical charges."
+    },
+    {
+      "question": "Which Wetherspoons in Derby is on Babington Lane?",
+      "answer": "The Babington Arms is the listed Wetherspoons pub on Babington Lane in Derby. It is the option to consider if that area fits your plans better than Iron Gate. Consult its own menu for current dishes and typical prices, as Wetherspoons pricing is set by each pub."
+    },
+    {
+      "question": "What time does breakfast start at Wetherspoons in Derby?",
+      "answer": "Wetherspoons breakfast typically starts at eight in the morning and runs until noon; confirm those service times with your chosen Derby pub. The traditional breakfast is a popular dish on the national menu. Check the local menu and current service details before relying on breakfast being available when you arrive."
+    },
+    {
+      "question": "Are prices higher at Wetherspoons in Derby?",
+      "answer": "There is no confirmed citywide price difference in the information listed here: each Wetherspoons pub in Derby sets its own prices. City centre pubs often charge more than suburban pubs, but that does not show which local option is cheapest. Compare current menus at The Standing Order, The Thomas Leaper and The Babington Arms."
+    },
+    {
+      "question": "What days are Curry Club and Steak Club at Wetherspoons in Derby?",
+      "answer": "Curry Club is traditionally on Thursday and Steak Club on Tuesday at participating Wetherspoons pubs. For Derby, check participation and current arrangements with the pub you intend to visit. The traditional days alone do not confirm that a particular pub is taking part or establish its current menu and typical prices."
+    },
+    {
+      "question": "Can I order through the app at Wetherspoons in Derby?",
+      "answer": "Customers can order at the table with the Wetherspoon app or order at the bar. In Derby, select the pub you are actually visiting before placing an app order. Use that pub's menu to check current options and prices, rather than relying on details from another Wetherspoons location."
+    }
+  ],
+  "slug": "derby",
+  "generatedAt": "2026-10-06",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

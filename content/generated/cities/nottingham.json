@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "title": "Wetherspoons Nottingham: pubs, menu and prices guide",
+    "description": "Compare Wetherspoons Nottingham pubs by area, find breakfast and club timings, and learn how to check menu prices before choosing where to eat."
+  },
+  "intro": "This guide covers {pubCount} open Wetherspoons pubs in Nottingham across {areaCount} areas, with practical advice on choosing a pub and checking its menu. Every pub works from the national [Wetherspoons menu](/), but prices are set locally. Find The Roebuck Inn, The Joseph Else and The Company Inn by area, then compare what matters for your visit: food choices, typical pricing, breakfast service and club days.\n\nSpoonsMenu is an independent guide, not affiliated with J D Wetherspoon plc. Local availability and current prices should be checked with your chosen pub.",
+  "quickAnswer": "We list {pubCount} open Wetherspoons pubs in Nottingham: The Roebuck Inn in City Centre, The Joseph Else in Market Square and The Company Inn in Canalhouse. These are the open pubs covered by this guide, grouped by their listed areas. Choose the area that suits your plans, then check the pub's current menu and prices before ordering.",
+  "areas": [
+    {
+      "area": "City Centre",
+      "text": "The Roebuck Inn is the listed Wetherspoons option in City Centre. It suits visitors looking specifically for a pub in this area. Use its current menu to compare burgers, curries or other national menu choices, rather than assuming prices match another Nottingham branch."
+    },
+    {
+      "area": "Market Square",
+      "text": "The Joseph Else is the listed Wetherspoons pub in Market Square, on South Parade. Choose it if this area fits your plans for eating in Nottingham. Before settling on a meal, check local availability and the current price, particularly if you have compared menus at another branch."
+    },
+    {
+      "area": "Canalhouse",
+      "text": "The Company Inn is the listed Wetherspoons option in Canalhouse, at Castle Wharf on Canal Street. It suits anyone choosing a pub in this listed area. The national menu provides a starting point for deciding what to eat, but confirm the selection and prices with this branch."
+    }
+  ],
+  "pricing": "Wetherspoons menu prices in Nottingham vary by pub, even though the menu is broadly the same nationally. Treat any guide price as typical, not a fixed charge across The Roebuck Inn, The Joseph Else and The Company Inn.\n\nCity centre pubs often charge more than suburban branches, so a familiar dish need not cost the same at every location. Being in a central area does not establish which Nottingham pub is cheapest, however. Compare the same meal at your shortlisted branches rather than relying on location alone.\n\nFor the exact current price, check the menu at your chosen pub or select that branch in the Wetherspoon app before ordering. Ask at the bar if a price or meal option is unclear.",
+  "breakfastAndClubs": "Breakfast at Wetherspoons is typically served from eight in the morning until noon, while [Steak Club](/steak-club) is traditionally on Tuesday and [Curry Club](/curry-club) on Thursday at participating pubs. These are general timings and club days, not confirmation of the arrangements at every Nottingham branch.\n\nThe traditional breakfast is among the popular dishes on the national menu. Check your chosen pub's [breakfast](/breakfast-menu) service before planning around it, especially near the end of the usual serving period. For a club visit, confirm participation, the current selection and typical pricing with The Roebuck Inn, The Joseph Else or The Company Inn.",
+  "tips": [
+    {
+      "title": "Choose by area",
+      "text": "Start with the area that fits your plans: City Centre, Market Square or Canalhouse. This narrows your choice without assuming one Nottingham branch has a better menu or lower prices."
+    },
+    {
+      "title": "Compare like for like",
+      "text": "Compare the same dish at each pub when checking typical prices. A broadly shared national menu does not mean burgers, curries or breakfast cost the same across branches."
+    },
+    {
+      "title": "Check breakfast service",
+      "text": "Confirm breakfast service with your chosen pub before visiting. The typical window runs from eight in the morning until noon, but it should not be treated as a branch-specific promise."
+    },
+    {
+      "title": "Confirm club participation",
+      "text": "Ask whether your chosen pub is participating before planning a Tuesday Steak Club or Thursday Curry Club visit. Check the current selection and price at the same time."
+    },
+    {
+      "title": "Pick your ordering method",
+      "text": "Order at the bar or at your table using the Wetherspoon app. If using the app, select the correct Nottingham pub before checking its menu and placing your order."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How many Wetherspoons are in Nottingham?",
+      "answer": "This guide lists {pubCount} open Wetherspoons pubs in Nottingham across {areaCount} areas. The Roebuck Inn is in City Centre, The Joseph Else is in Market Square and The Company Inn is in Canalhouse. These are the listed options covered here, rather than a claim about every possible branch beyond this guide."
+    },
+    {
+      "question": "Which Wetherspoons in Nottingham is in City Centre?",
+      "answer": "The Roebuck Inn is the listed Wetherspoons pub in Nottingham's City Centre area. Choose it if that area suits your plans. The menu is broadly shared nationally, but this pub sets its own prices, so check the current menu before deciding what to order."
+    },
+    {
+      "question": "Which Wetherspoons in Nottingham is in Market Square?",
+      "answer": "The Joseph Else is the listed Wetherspoons pub in Nottingham's Market Square area, on South Parade. It is the option to consider if you want to eat in that listed area. Confirm current food availability and prices with the pub rather than assuming they match another Nottingham branch."
+    },
+    {
+      "question": "Which Wetherspoons in Nottingham is in Canalhouse?",
+      "answer": "The Company Inn is the listed Wetherspoons pub in Nottingham's Canalhouse area, at Castle Wharf on Canal Street. Use that location when choosing a branch for your visit. Prices are set pub by pub, so check its current menu even if you already know what you usually order elsewhere."
+    },
+    {
+      "question": "What time does breakfast start at Wetherspoons in Nottingham?",
+      "answer": "Wetherspoons breakfast typically starts at eight in the morning and is served until noon. That is the general service window, not a confirmed schedule for each Nottingham pub. The traditional breakfast appears among popular national menu dishes, but check local service and availability with your chosen branch before visiting."
+    },
+    {
+      "question": "Are prices higher at Wetherspoons in Nottingham?",
+      "answer": "Nottingham does not have a single Wetherspoons price level: each pub sets its own prices, and city centre pubs often charge more than suburban branches. This does not establish which listed pub is cheapest. Treat guide prices as typical and compare the same dish on each branch's current menu."
+    },
+    {
+      "question": "What days are Curry Club and Steak Club in Nottingham?",
+      "answer": "Curry Club is traditionally on Thursday and Steak Club on Tuesday at participating Wetherspoons pubs. Participation at a particular Nottingham branch should be checked before you plan a visit. Ask your chosen pub about its current club selection and typical prices rather than assuming the national pattern confirms local arrangements."
+    },
+    {
+      "question": "What food can I order at Wetherspoons in Nottingham?",
+      "answer": "Popular dishes on the national Wetherspoons menu include traditional breakfast, burgers, curries, fish and chips, and pizza. The menu is broadly the same nationally, but check availability and current prices at your chosen Nottingham pub. Orders can be placed at the bar or at the table using the Wetherspoon app."
+    }
+  ],
+  "slug": "nottingham",
+  "generatedAt": "2026-10-06",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

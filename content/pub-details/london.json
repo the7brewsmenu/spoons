@@ -1,0 +1,33 @@
+{
+  "city": "london",
+  "localNote": "London's Wetherspoons are spread across very different neighbourhoods. The Moon Under Water suits theatre-goers in the West End, The Crosse Keys serves City workers near Bank and Monument, The Metropolitan Bar sits right above Baker Street Underground station, and The Ice Wharf is a handy stop beside the Regent's Canal close to Camden Market.",
+  "pubs": [
+    {
+      "name": "The Moon Under Water",
+      "history": "Opened in 1992 as the chain's first pub in the West End, in a former steakhouse. Its name nods to George Orwell's 1946 essay describing his ideal pub, and the site was once home to the surgeon John Hunter.",
+      "nearestStation": "Leicester Square Underground station, about 2 minutes on foot"
+    },
+    {
+      "name": "The Sir John Oldcastle",
+      "history": "Named after a tavern recorded by 1680 in the grounds of the mansion of Sir John Oldcastle, a Lollard leader executed in 1417 who is widely thought to have inspired Shakespeare's Falstaff.",
+      "nearestStation": "Farringdon station, about 3 minutes on foot"
+    },
+    {
+      "name": "The Metropolitan Bar",
+      "history": "Occupies the former Chiltern Court Restaurant, which opened in 1929 inside the mansion block built by the Metropolitan Railway above Baker Street station. The pillared dining room later featured in John Betjeman's 1973 film Metro-Land.",
+      "nearestStation": "Baker Street Underground station, directly below the pub"
+    },
+    {
+      "name": "The Crosse Keys",
+      "history": "Set in the grand former London headquarters of the Hongkong and Shanghai Bank, opened in 1913. The name recalls an Elizabethan coaching inn nearby whose yard hosted plays, and the pub opened in 1999.",
+      "nearestStation": "Monument Underground station, about 3 minutes on foot",
+      "features": ["Listed building"]
+    },
+    {
+      "name": "The Ice Wharf",
+      "history": "Takes its name from the canalside wharf where the merchant William Leftwich stored ice imported from Norway in the 1830s. The building opened in 2002 as a Lloyds No. 1 bar.",
+      "nearestStation": "Camden Town Underground station, about 8 minutes on foot",
+      "features": ["Outdoor seating"]
+    }
+  ]
+}

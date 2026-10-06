@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "title": "Wetherspoons Leicester: pubs, menu and prices guide",
+    "description": "Compare Wetherspoons Leicester pubs across Market Place, High Street and Scraptoft, with menu guidance and pricing tips to help you choose where to go."
+  },
+  "intro": "This guide covers {pubCount} open Wetherspoons pubs in Leicester across {areaCount} areas: Market Place, High Street and Scraptoft. Every pub works from the national [Wetherspoons menu](/), but prices are set locally. This guide helps you choose between The Corn Exchange, The High Cross and The White House, compare how menu pricing works and plan around breakfast or club days.\n\nThis is an independent guide, not affiliated with the pub operator. Check your chosen pub’s current menu before deciding what to order.",
+  "quickAnswer": "There are {pubCount} open Wetherspoons pubs listed in Leicester: The Corn Exchange in Market Place, The High Cross on High Street and The White House in Scraptoft. The menu is broadly consistent nationally, but prices vary by pub. Choose the area that suits your plans, then check that pub’s menu and prices before ordering.",
+  "areas": [
+    {
+      "area": "Market Place",
+      "text": "The Corn Exchange is the listed Wetherspoons pub in Market Place, Leicester. It suits anyone whose plans bring them to this area and who wants to compare familiar national menu choices. Check its current menu rather than assuming its prices match those at The High Cross or The White House."
+    },
+    {
+      "area": "High Street",
+      "text": "The High Cross is the listed Wetherspoons pub on High Street, Leicester. Choose it if High Street is the most convenient area for your visit. Burgers, curries and fish and chips feature on the national menu, but check the pub’s current selection and prices before settling on a meal."
+    },
+    {
+      "area": "Scraptoft",
+      "text": "The White House is the listed Wetherspoons pub in Scraptoft, on Scraptoft Lane. It suits visitors who would rather choose a pub in this area than head to Market Place or High Street. Compare its current menu prices with the other listed pubs if cost is your deciding factor."
+    }
+  ],
+  "pricing": "Wetherspoons menu prices in Leicester vary by pub, even though the menu is broadly the same nationally. Popular national choices include traditional [breakfast](/breakfast-menu), [burgers](/burgers), curries, fish and chips and pizza. A familiar dish name does not mean an identical bill at every location.\n\nCity centre pubs often charge more than suburban pubs, so location can affect the typical price. That general pattern does not establish which Leicester pub is cheapest, and it is worth comparing the same order rather than assuming.\n\nFor the exact current price, select your chosen pub in the Wetherspoon app and review your order before paying, or check the menu and ask at the bar.",
+  "breakfastAndClubs": "Breakfast at Wetherspoons is typically served from eight am until midday, while [Curry Club](/curry-club) is traditionally on Thursday and [Steak Club](/steak-club) on Tuesday at participating pubs. For a Leicester visit, treat those timings and days as a planning guide rather than confirmation for a particular pub.\n\nTraditional breakfast appears on the national menu. Check with The Corn Exchange, The High Cross or The White House for current [breakfast](/breakfast-menu) service and club participation before making a special trip. Customers can order at the bar or at the table using the Wetherspoon app.",
+  "tips": [
+    {
+      "title": "Choose your area",
+      "text": "Start with the area that fits your plans: Market Place for The Corn Exchange, High Street for The High Cross, or Scraptoft for The White House."
+    },
+    {
+      "title": "Compare the same order",
+      "text": "Compare an identical meal at each pub if price matters most. The national menu is broadly shared, but each pub sets its own prices."
+    },
+    {
+      "title": "Check breakfast service",
+      "text": "Confirm breakfast service with your chosen pub before travelling specifically for it. The typical window is eight am until midday, not a confirmed schedule for every location."
+    },
+    {
+      "title": "Select the correct pub",
+      "text": "Choose the pub you are visiting in the Wetherspoon app before reviewing the menu and ordering. Ordering at the bar is also an option."
+    },
+    {
+      "title": "Confirm club participation",
+      "text": "Ask your chosen pub about club participation before planning around Tuesday or Thursday. Steak Club and Curry Club follow traditional days at participating pubs."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How many Wetherspoons are in Leicester?",
+      "answer": "There are {pubCount} open Wetherspoons pubs listed in Leicester, spread across {areaCount} areas. The Corn Exchange is in Market Place, The High Cross is on High Street and The White House is in Scraptoft. Each pub sets its own prices, so compare the current menus if you are choosing mainly on cost."
+    },
+    {
+      "question": "Which Wetherspoons in Leicester is on High Street?",
+      "answer": "The High Cross is the listed Wetherspoons pub on High Street in Leicester. It is the option to consider if that area best fits your plans. The menu is broadly the same nationally, but prices are set by the pub, so check its current menu rather than using another location’s prices."
+    },
+    {
+      "question": "Which Wetherspoons in Leicester is in Scraptoft?",
+      "answer": "The White House is the listed Wetherspoons pub in Scraptoft, on Scraptoft Lane in Leicester. Choose it if you want a pub in that area rather than Market Place or High Street. Check its current menu and prices before ordering, as a broadly shared national menu does not mean identical pricing."
+    },
+    {
+      "question": "What time does breakfast start at Wetherspoons in Leicester?",
+      "answer": "Breakfast at Wetherspoons typically starts at eight am and runs until midday, but confirm service with your chosen Leicester pub. Traditional breakfast features on the national menu. If breakfast is the main reason for your visit, check with The Corn Exchange, The High Cross or The White House before setting out."
+    },
+    {
+      "question": "Are prices higher at Wetherspoons in Leicester?",
+      "answer": "Leicester does not have one shared Wetherspoons price list, because each pub sets its own prices. City centre pubs often charge more than suburban pubs, but that does not establish a price ranking for the listed Leicester locations. Compare the same meal on each pub’s current menu to make a useful comparison."
+    },
+    {
+      "question": "What days are Curry Club and Steak Club in Leicester?",
+      "answer": "Curry Club is traditionally on Thursday and Steak Club on Tuesday at participating Wetherspoons pubs. For Leicester, check participation with The Corn Exchange, The High Cross or The White House before planning your visit around a club day. The traditional schedule alone does not confirm what an individual pub is currently offering."
+    },
+    {
+      "question": "Can I order through the app at Wetherspoons in Leicester?",
+      "answer": "Customers can order at the table using the Wetherspoon app or order at the bar. For a Leicester visit, select the pub you are in before reviewing the menu and placing an app order. Check the current price before paying, since prices vary between pubs despite the broadly shared national menu."
+    }
+  ],
+  "slug": "leicester",
+  "generatedAt": "2026-10-06",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

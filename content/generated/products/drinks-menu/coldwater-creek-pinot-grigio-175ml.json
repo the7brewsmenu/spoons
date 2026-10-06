@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "title": "Wetherspoons Coldwater Creek Pinot Grigio (175ml) Price and Calories 2026",
+    "description": "Wetherspoons Coldwater Creek Pinot Grigio costs a typical {price}. Explore its crisp, dry flavour, food pairings and allergen guidance before ordering."
+  },
+  "subtitle": "A chilled, dry white wine for drinkers who prefer light flavours, crisp acidity and subtle apple and pear notes.",
+  "quickAnswer": "{name} costs a typical {price}, with prices varying by pub. Calories are not verified in our data, so check the official nutrition information before ordering. The listed serving is a chilled glass of crisp, dry white wine; the suggested food pairings are separate choices rather than included accompaniments.",
+  "components": [
+    {
+      "name": "White wine",
+      "note": "The pale straw wine provides a light, dry base, served chilled with a clean, acidic finish."
+    },
+    {
+      "name": "Orchard fruit notes",
+      "note": "Subtle green apple and pear notes give the wine its fruit character without changing its dry style."
+    },
+    {
+      "name": "Citrus notes",
+      "note": "A hint of sharp citrus adds zest to the flavour and complements the wine's crisp finish."
+    }
+  ],
+  "taste": "This is a light, crisp white wine with a dry flavour profile and a clean, acidic finish. Green apple and pear provide subtle fruit notes, while a hint of sharp citrus gives it a zesty edge. The fruit character does not make it a sweet wine: dryness and freshness are the defining qualities. Its pale straw colour matches the light style described in the menu information.\n\nServed chilled, it suits a warm afternoon or a light evening meal. The acidity offers a useful contrast to richer food, with battered cod specifically suggested in the description. A side salad is another suggested match if you want food alongside without moving towards a richer pairing.",
+  "value": "At a typical {price}, this glass is {pricePosition} in the {category} we track. Its value depends on wanting a light, dry white wine rather than simply choosing the lowest-priced drink. Coldwater Creek Merlot is another wine option to compare, while Large Pepsi Max offers an alternative if you do not want alcohol.\n\nMany mains can be ordered with an eligible drink, but that does not confirm this wine is included. Check the meal's drink options and your pub's current price before deciding between a separate glass and a meal-with-drink order.",
+  "nutrition": "Calories for this wine are not verified in our data, so check the official [nutrition information](/nutrition-information) for the listed serving before ordering. A dry flavour profile is not a substitute for nutritional figures, and we cannot give a reliable calorie comparison with other drinks.\n\nFor a meal total, include the wine alongside any main, sides, sauces and additional drinks you order. Food pairing suggestions do not include those items in the wine's nutrition information. Check each separately if you are tracking your intake.",
+  "dietaryGuidance": "This wine is tagged vegan and vegetarian in our data, and sulphur dioxide is the listed allergen. Those dietary tags describe suitability for those diets; they do not mean the drink is suitable for someone with an allergy or sensitivity to sulphur dioxide.\n\nAsk the pub to check its current [allergen information](/allergen-information) if that affects your order. Any substitution or change to the drink selection can change the relevant allergen information. Food ordered alongside also needs its own dietary and allergen check.",
+  "bestFor": [
+    {
+      "title": "Dry white wine drinkers",
+      "text": "Choose this if you prefer crisp acidity and subtle fruit notes to sweetness. Green apple, pear and citrus shape a light wine with a clean finish."
+    },
+    {
+      "title": "A light evening meal",
+      "text": "The chilled serving and dry profile suit a light evening meal. A side salad is a suggested accompaniment when you want food alongside the glass."
+    },
+    {
+      "title": "A warm afternoon",
+      "text": "This is a refreshing option for a warm afternoon if you want white wine. Its chilled serving and zesty flavour are the main attractions."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "side-salad",
+      "reason": "Side salad is a pairing suggested in the wine description, making it a straightforward choice alongside the light, crisp white."
+    },
+    {
+      "slug": "bowl-chips-cheese",
+      "reason": "Consider chips with cheese if you want a richer accompaniment: the wine's clean acidity offers a contrast rather than adding more richness."
+    }
+  ],
+  "tips": [
+    "Check the price at your chosen pub before ordering, as {price} is typical rather than a fixed price across locations.",
+    "If ordering a main with a drink, check whether this wine appears among the eligible choices before selecting it separately.",
+    "Ask for the current allergen information if sulphur dioxide affects you; the vegan and vegetarian tags do not answer that question.",
+    "Order at the bar or through the Wetherspoon app, checking that you have selected the intended wine and serving.",
+    "Use the official nutrition information for the wine and any accompanying food separately, since our calorie figure for this serving is not verified."
+  ],
+  "faqs": [
+    {
+      "question": "How much is {name} at Wetherspoons?",
+      "answer": "{name} costs a typical {price}, but the amount varies by pub. Prices are set locally, so check your chosen pub's current menu before ordering. If you are buying a main with a drink, also check the eligible options rather than assuming this glass is included."
+    },
+    {
+      "question": "How many calories are in {name}?",
+      "answer": "Calories for {name} are not verified in our data, so check the official [nutrition](/nutrition-information) information for this serving. We cannot provide a reliable calorie total or ranking against other drinks. If you order food alongside, include the main, sides and sauces separately when working out your meal total."
+    },
+    {
+      "question": "Is {name} vegan and vegetarian?",
+      "answer": "{name} is tagged vegan and vegetarian in our data. Sulphur dioxide is also listed as an allergen, so those dietary tags should not be read as reassurance about allergies. Check the pub's current information if dietary suitability is important, especially if you accept a substitute wine."
+    },
+    {
+      "question": "What comes with {name}?",
+      "answer": "{name} is listed as a chilled glass of white wine, with no food accompaniment described as included. Battered cod and side salad are suggested pairings, not part of the wine serving. Check the details of any meal-with-drink order separately to understand what your chosen meal includes."
+    },
+    {
+      "question": "Is Coldwater Creek Pinot Grigio sweet or dry?",
+      "answer": "Coldwater Creek Pinot Grigio is described as dry, with crisp acidity and a clean finish. Its subtle green apple and pear notes sit alongside a hint of sharp citrus. Those fruit notes describe the flavour, not a sweet style, making it a suitable choice if you prefer dry white wine."
+    },
+    {
+      "question": "What allergens are listed for {name}?",
+      "answer": "Sulphur dioxide is the allergen listed for {name} in our data. Ask the pub to check its current [allergen information](/allergen-information) before ordering if you have an allergy or sensitivity. Vegan and vegetarian tags do not establish allergy suitability, and a substitute drink may have different allergen information."
+    },
+    {
+      "question": "Can I get {name} as part of a meal deal?",
+      "answer": "You need to check the eligible drink choices for your selected meal to confirm whether {name} is included. Many Wetherspoons mains can be ordered with an eligible soft or alcoholic drink, but that does not establish this wine's eligibility. Compare the local meal-with-drink options before ordering the glass separately."
+    }
+  ],
+  "slug": "coldwater-creek-pinot-grigio-175ml",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

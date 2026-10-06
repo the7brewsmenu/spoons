@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "title": "Wetherspoons Coventry: Pub locations and menu guide",
+    "description": "Find Wetherspoons Coventry pubs by area, compare typical menu pricing and check breakfast times. Choose where to eat with our practical local guide."
+  },
+  "intro": "This guide covers {pubCount} open Wetherspoons pubs in Coventry across {areaCount} areas, with options in the City Centre, High Street and Skydome. Every pub works from the national [Wetherspoons menu](/), but prices are set locally. This guide helps you choose a location, understand how typical menu prices vary and plan around breakfast and club days. National menu favourites include burgers, curries, fish and chips, and pizza, but check your chosen pub before ordering. SpoonsMenu is an independent guide, not affiliated with J D Wetherspoon plc.",
+  "quickAnswer": "Coventry has {pubCount} open Wetherspoons pubs in this guide: The Flying Standard in the City Centre, The Earl of Mercia in High Street and The Spon Gate in Skydome. Their addresses are on Trinity Street, Broadgate and Croft Road respectively. Choose the location that suits your plans, then check its current menu and typical prices.",
+  "areas": [
+    {
+      "area": "City Centre",
+      "text": "The Flying Standard is the listed Wetherspoons option in the City Centre, on Trinity Street. It suits anyone whose plans put them in this area and who wants a pub meal without choosing another part of Coventry. Check its current menu and typical prices before settling on an order."
+    },
+    {
+      "area": "High Street",
+      "text": "The Earl of Mercia is the pub listed for High Street, with an address on Broadgate. Choose it if this area fits your plans better than the City Centre or Skydome. The national menu provides a starting point, but confirm your preferred dish and typical price with the pub."
+    },
+    {
+      "area": "Skydome",
+      "text": "The Spon Gate is the listed Wetherspoons pub in Skydome, with its address at The Skydome on Croft Road. It suits visitors looking for a meal in this area rather than the other listed locations. Use the pub's current menu to check dishes and typical prices before ordering."
+    }
+  ],
+  "pricing": "Wetherspoons menu prices in Coventry vary by pub, even though the menu is broadly the same nationally. Treat any guide price as typical rather than a fixed amount across The Flying Standard, The Earl of Mercia and The Spon Gate.\n\nCentral location can make a difference: city centre pubs often charge more than suburban pubs. That general pattern does not establish which Coventry pub is cheapest, so compare the same dish at each location rather than assuming they match.\n\nFor the exact current price, check the menu at your chosen pub or select that pub in the Wetherspoon app before ordering. [burgers](/burgers), curries, fish and chips, and pizza are useful national menu options to look for.",
+  "breakfastAndClubs": "Breakfast at Wetherspoons is typically served from eight in the morning until noon, while [Curry Club](/curry-club) is traditionally on Thursday and [Steak Club](/steak-club) on Tuesday at participating pubs. For a Coventry visit, use those timings as a planning guide rather than a confirmed schedule for every location.\n\nThe traditional breakfast is among the popular dishes on the national menu. Check [breakfast](/breakfast-menu) service with The Flying Standard, The Earl of Mercia or The Spon Gate before setting out. Club participation and current choices also need checking with your selected pub, and typical prices can differ between locations.",
+  "tips": [
+    {
+      "title": "Choose by area",
+      "text": "Pick the pub in the area that best fits your plans. The Flying Standard, The Earl of Mercia and The Spon Gate cover the three areas listed here."
+    },
+    {
+      "title": "Compare the same dish",
+      "text": "Compare the same menu item at each pub if cost matters to you. A broadly shared national menu does not mean typical prices match across Coventry."
+    },
+    {
+      "title": "Check breakfast service",
+      "text": "Confirm breakfast service with your chosen pub before travelling. The typical national window runs from eight in the morning until noon, but check the local arrangements."
+    },
+    {
+      "title": "Confirm club participation",
+      "text": "Ask your selected pub about club participation before planning around it. Thursday is traditionally Curry Club day, while Tuesday is traditionally Steak Club day at participating pubs."
+    },
+    {
+      "title": "Choose how to order",
+      "text": "Order at the bar or at your table using the Wetherspoon app. If using the app, check that you have selected the pub you are visiting."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How many Wetherspoons are in Coventry?",
+      "answer": "Coventry has {pubCount} open Wetherspoons pubs listed in this guide, spread across {areaCount} areas. The Flying Standard is in the City Centre, The Earl of Mercia is listed under High Street, and The Spon Gate is in Skydome. Each pub sets its own prices, so check your chosen location before ordering."
+    },
+    {
+      "question": "Which Wetherspoons in Coventry is in the City Centre?",
+      "answer": "The Flying Standard is the Wetherspoons pub listed in Coventry's City Centre, with an address on Trinity Street. It is the relevant choice if you want that area rather than High Street or Skydome. Check the pub's current menu for dish availability and exact prices, as guide prices are typical."
+    },
+    {
+      "question": "Which Wetherspoons in Coventry is in Skydome?",
+      "answer": "The Spon Gate is the Wetherspoons pub listed in Skydome, at The Skydome on Croft Road in Coventry. Choose it when that area suits your plans. The menu is broadly shared nationally, but prices are set by each pub, so check the current menu rather than relying on typical guide prices."
+    },
+    {
+      "question": "What time does breakfast start at Wetherspoons in Coventry?",
+      "answer": "Wetherspoons breakfast typically starts at eight in the morning and runs until noon, but confirm service at your chosen Coventry pub. The traditional breakfast is a popular dish on the national menu. Contact The Flying Standard, The Earl of Mercia or The Spon Gate to check local breakfast arrangements before visiting."
+    },
+    {
+      "question": "Are prices higher at Wetherspoons in Coventry?",
+      "answer": "Coventry does not have a single Wetherspoons price level: each pub sets its own prices. City centre pubs often charge more than suburban pubs, but that does not prove which listed location is cheapest. Compare the same dish on current pub menus, and treat prices quoted in guides as typical."
+    },
+    {
+      "question": "What days are Curry Club and Steak Club in Coventry?",
+      "answer": "Curry Club is traditionally on Thursday and Steak Club on Tuesday at participating Wetherspoons pubs. For Coventry, check participation with The Flying Standard, The Earl of Mercia or The Spon Gate before planning your meal. Confirm the current choices and exact price at the pub, as guide prices are typical and vary by location."
+    },
+    {
+      "question": "Can I order with the Wetherspoon app in Coventry?",
+      "answer": "Customers can order at their table with the Wetherspoon app or order at the bar in Coventry's Wetherspoons pubs. Select the pub you are visiting before browsing or placing an app order. The menu is broadly the same nationally, but each location sets its own prices, so typical guide prices may differ."
+    }
+  ],
+  "slug": "coventry",
+  "generatedAt": "2026-10-06",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

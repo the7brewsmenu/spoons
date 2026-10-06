@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "title": "Wetherspoons 8oz Sirloin Steak Price and Calories 2026",
+    "description": "Wetherspoons eight ounce sirloin steak costs a typical {price}, with {calories} kcal. Served with chips and vegetables. Check sides, allergens and Tuesday pricing."
+  },
+  "subtitle": "A grilled sirloin with chips and vegetables, suited to diners who enjoy firm texture and rich beef flavour.",
+  "quickAnswer": "{name} costs a typical {price}, contains {calories} kcal and comes with chips, green peas, a grilled tomato half and a flat mushroom. Prices vary by pub, with [Steak Club](/steak-club) pricing on Tuesdays at participating locations. Check the local menu for current pricing and any eligible drink options.",
+  "components": [
+    {
+      "name": "Sirloin steak",
+      "note": "The grilled sirloin provides rich beef flavour, a firm texture and a caramelised exterior around a juicy centre."
+    },
+    {
+      "name": "Chips",
+      "note": "Golden chips provide the hearty accompaniment, making this a steak meal rather than a cut served on its own."
+    },
+    {
+      "name": "Green peas",
+      "note": "Sweet green peas bring a contrasting flavour alongside the pronounced savoury character of the beef."
+    },
+    {
+      "name": "Grilled tomato half",
+      "note": "The grilled tomato half adds another vegetable accompaniment alongside the chips, peas and earthy flat mushroom."
+    },
+    {
+      "name": "Flat mushroom",
+      "note": "The flat mushroom contributes an earthy flavour that sits comfortably with the steak's rich, savoury profile."
+    }
+  ],
+  "taste": "This sirloin offers rich beef flavour with a firm bite, balanced by tenderness and a juicy centre. The grilled exterior has a caramelised character, giving the steak a contrast between its surface and the meat inside. It is described as grilled to your liking, so stating your preferred doneness is an important part of ordering. Expect a pronounced savoury profile rather than a mild-tasting cut.\n\nGolden chips make the plate hearty, while sweet green peas contrast with the beef. A grilled tomato half and an earthy flat mushroom complete the accompaniments. Together, these give it the character of a classic steakhouse meal, with the steak remaining the main focus.",
+  "value": "The typical {price} buys a steak with chips and vegetable accompaniments, making it worth considering if you want a complete main rather than meat alone. Its price position is {pricePosition}; prices vary by pub.\n\nCompare it with the five ounce rump steak, fourteen ounce Aberdeen Angus rump steak and Mixed Grill before choosing. The sirloin's strongest reason to order is its balance of tenderness and rich beef flavour. [Steak Club](/steak-club) pricing applies on Tuesdays at participating pubs, often with a drink included. Check the local offer and eligible drinks before judging the overall value.",
+  "nutrition": "The listed {calories} kcal represents {calorieShare}, making the stated serving a useful starting point when planning your meal. Its calorie position is {caloriePosition} among the items tracked in this section.\n\nChips and vegetables are part of the described plate, so check the serving details before treating the figure as steak alone. Extra sides, added sauces and drinks can change your meal's total. If you alter the accompaniments, consult the current [nutrition information](/nutrition-information) rather than assuming the displayed figure still applies.",
+  "dietaryGuidance": "This beef steak is not suitable for vegetarians or vegans, and no dietary tags are recorded in our data. The listed allergens are mustard and sulphur dioxide. Anyone avoiding either should [check the current allergen](/allergen-information) information with the pub before ordering.\n\nThe data does not identify which part of the plate contains those allergens, so removing an accompaniment should not be treated as a reliable solution. Swaps, added sauces and extra sides can change the allergen profile. Discuss your requirements with staff rather than relying on the dish description alone.",
+  "bestFor": [
+    {
+      "title": "Classic steak diners",
+      "text": "This suits diners who want rich beef flavour, a firm bite and familiar accompaniments. Chips, peas, tomato and mushroom make it a straightforward steakhouse-style choice."
+    },
+    {
+      "title": "Tuesday pub meals",
+      "text": "Consider it for a Tuesday meal when your chosen pub participates in Steak Club. Check the local pricing and included drink options before placing your order."
+    },
+    {
+      "title": "Celebratory dinners",
+      "text": "The sirloin suits a celebratory pub dinner centred on steak rather than a mixed selection of meats. Its caramelised exterior and juicy centre are the main attractions."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "bowl-of-chips",
+      "reason": "Extra chips extend the hearty accompaniment already on the plate. Choose them if the included serving is not enough for your appetite."
+    },
+    {
+      "slug": "side-salad",
+      "reason": "A side salad adds another accompaniment without repeating the chips. Check its ingredients and dressing if you have dietary requirements."
+    },
+    {
+      "slug": "sticky-toffee-pudding",
+      "reason": "Sticky Toffee Pudding is an option if you want dessert after the savoury steak meal. Consider the complete meal's calories before adding it."
+    }
+  ],
+  "tips": [
+    "State your preferred doneness when ordering, as the sirloin is described as grilled to your liking rather than served at a fixed doneness.",
+    "Check Tuesday Steak Club pricing at your chosen pub, including which drinks qualify and whether the offer applies to your order.",
+    "Review the included chips, peas, tomato and mushroom before adding sides, so you do not order extra accompaniments you do not need.",
+    "Ask staff about mustard and sulphur dioxide before ordering if either is a concern, particularly when requesting swaps or adding sauces."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the sirloin steak at Wetherspoons?",
+      "answer": "{name} costs a typical {price}, although prices vary by pub. Its price position is {pricePosition} within the section tracked by SpoonsMenu. Tuesday [Steak Club](/steak-club) pricing is available at participating pubs, so check your chosen location's current menu and any eligible drink options before ordering."
+    },
+    {
+      "question": "How many calories are in the Wetherspoons sirloin steak?",
+      "answer": "{name} is listed at {calories} kcal, representing {calorieShare}. Its calorie position is {caloriePosition} among the tracked items in the section. Check the current serving details if you change the accompaniments, and account separately for any extra sides, sauces or drinks added to your meal."
+    },
+    {
+      "question": "What comes with the sirloin steak at Wetherspoons?",
+      "answer": "{name} comes with golden chips, sweet green peas, a grilled tomato half and an earthy flat mushroom. The sirloin itself is described as grilled to your liking, with a caramelised exterior and juicy centre. If you want to change an accompaniment, ask the pub what substitutions are possible before ordering."
+    },
+    {
+      "question": "Is the Wetherspoons sirloin steak vegetarian?",
+      "answer": "{name} is not vegetarian or vegan because it is a beef steak. No dietary tags are recorded for the dish in our data. The vegetable accompaniments do not change that status, and anyone with additional dietary requirements should check the pub's current ingredient and [allergen information](/allergen-information) before choosing it."
+    },
+    {
+      "question": "What allergens are listed for the Wetherspoons sirloin steak?",
+      "answer": "{name} has mustard and sulphur dioxide listed in our allergen data. The information does not specify which components contain them, so do not assume that removing a side resolves the concern. Check the current [allergen information](/allergen-information) with staff, especially if you plan to request swaps or add sauces."
+    },
+    {
+      "question": "Can I get the sirloin steak with a drink deal?",
+      "answer": "{name} has Steak Club pricing on Tuesdays at participating pubs, often with a drink included. Many mains can also be ordered with an eligible soft or alcoholic drink, but the options for this dish should be checked locally. Compare the full meal offer with the typical standalone price before deciding."
+    },
+    {
+      "question": "Can I choose how the Wetherspoons sirloin steak is cooked?",
+      "answer": "{name} is described as grilled to your liking, so state your preferred doneness when ordering. Ask the pub to confirm any specific request rather than assuming it can be accommodated. The dish description highlights a caramelised exterior, juicy centre and firm texture, which are the main features of this cut."
+    }
+  ],
+  "slug": "8oz-sirloin-steak",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

@@ -1,0 +1,27 @@
+{
+  "city": "stoke-on-trent",
+  "localNote": "The four Wetherspoons in the Stoke-on-Trent area reflect the Potteries' industrial heritage. The Reginald Mitchell in Hanley honours the designer of the Spitfire and occupies a Grade II listed former meat market. The Wheatsheaf in Stoke is on the site of a coaching inn from 1818, while The Arnold Machin in Newcastle-under-Lyme sits in a former Post Office and The Bradley Green in Biddulph takes its name from the area's old coal-mining identity.",
+  "pubs": [
+    {
+      "name": "The Reginald Mitchell",
+      "history": "Named after the Butt Lane-born aeronautical engineer who designed the Supermarine Spitfire. He was educated at Hanley High School. The Grade II listed building was originally Hanley's meat market and later served as a shopping centre.",
+      "nearestStation": "Stoke-on-Trent station, about 10 minutes by bus",
+      "features": ["Listed building"]
+    },
+    {
+      "name": "The Bradley Green",
+      "history": "Named after the historical name for Biddulph during the nineteenth-century coal and iron boom. The town was called Bradley Green until 1930, when Biddulph appeared on Ordnance Survey maps. The building was formerly a Congleton Co-operative Society premises.",
+      "nearestStation": "Congleton station, about 10 minutes by car"
+    },
+    {
+      "name": "The Wheatsheaf",
+      "history": "The site has been a local landmark since at least 1818, when it served as a coaching inn on the route between Newcastle-under-Lyme and Derby. The previous building was demolished in 1963. Before Wetherspoon took over in 1998, the venue was known as a live music pub.",
+      "nearestStation": "Stoke-on-Trent station, about 5 minutes on foot"
+    },
+    {
+      "name": "The Arnold Machin",
+      "history": "Named after the Staffordshire-born sculptor Arnold Machin, who designed the portrait of Queen Elizabeth II used on British postage stamps since 1967. The pub occupies a former Post Office, a fitting link to his stamp design legacy.",
+      "nearestStation": "Newcastle-under-Lyme has no station; Stoke-on-Trent station is about 15 minutes by bus"
+    }
+  ]
+}

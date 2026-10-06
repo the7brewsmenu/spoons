@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "title": "Wetherspoons Lavazza Cappuccino Price and Calories 2026",
+    "description": "Wetherspoons Lavazza Cappuccino typically costs {price} and has {calories} kcal. Enjoy creamy espresso with milk foam, and check ingredients and allergens."
+  },
+  "subtitle": "A hot Lavazza espresso with steamed milk, airy foam and chocolate powder, suited to drinkers who enjoy a creamy coffee.",
+  "quickAnswer": "The Wetherspoons Lavazza Cappuccino typically costs {price}, contains {calories} kcal and comes with Lavazza espresso, steamed milk, a thick milk foam topping and a light dusting of chocolate powder. Prices vary by pub. It is listed as vegetarian, with milk recorded as an allergen, and suits a mid-morning coffee break or an after-meal drink.",
+  "components": [
+    {
+      "name": "Lavazza espresso",
+      "note": "The robust espresso supplies a deep, complex coffee base that contrasts with the sweeter, creamier milk."
+    },
+    {
+      "name": "Steamed milk",
+      "note": "Velvety steamed milk softens the intense espresso flavour and gives the hot drink its creamy texture."
+    },
+    {
+      "name": "Milk foam",
+      "note": "A thick cap of airy milk foam adds a lighter texture above the espresso and steamed milk."
+    },
+    {
+      "name": "Chocolate powder",
+      "note": "The light dusting of chocolate powder brings gentle sweetness to the top of the finished cappuccino."
+    }
+  ],
+  "taste": "This cappuccino combines a robust espresso flavour with the softer sweetness of steamed milk. The Lavazza coffee provides the deep, complex base, while the milk makes the drink creamy rather than solely coffee-led. A light dusting of chocolate powder adds gentle sweetness at the surface without changing the espresso and milk combination at its centre.\n\nTexture is a key part of the appeal: velvety steamed milk sits beneath a thick, airy cap of foam. That contrast gives you both creaminess and a lighter topping. Served steaming hot, it suits a mid-morning pause or a coffee after a larger meal, especially alongside a mini chocolate brownie.",
+  "value": "At a typical {price}, this cappuccino is worth considering if you want espresso softened by steamed milk, with a substantial foam topping. Within our tracked {category} selection, it is {pricePosition}. Prices are set by each pub, so check the local menu before ordering.\n\nLavazza Filter Coffee is the named coffee alternative to compare when deciding how to spend. Large Pepsi Max and Diet Coke are other drinks to consider if coffee is not your priority. Compare their local prices rather than assuming one option costs less.",
+  "nutrition": "The listed cappuccino contains {calories} kcal, representing {calorieShare}. It is {caloriePosition} within our tracked {category} selection. That figure covers the drink as described, including its steamed milk, milk foam and chocolate powder.\n\nA mini brownie or another dessert adds to the total rather than being included in the coffee figure. Count any separately ordered sides, sauces and additional drinks too. If you request a change to the standard drink, check whether the published [nutrition information](/nutrition-information) still applies.",
+  "dietaryGuidance": "Lavazza Cappuccino is listed as vegetarian, and milk is the allergen recorded in our data. The steamed milk and milk foam mean the drink as described is not suitable for a vegan diet. Anyone with a milk allergy should take particular care before ordering.\n\nThe listed allergen is not a complete assurance about preparation or cross-contact. Ask the pub for its current [allergen information](/allergen-information) and discuss any dietary requirements with staff. Swaps can change both ingredients and allergens, so do not assume an altered version has the same dietary profile.",
+  "bestFor": [
+    {
+      "title": "A mid-morning pause",
+      "text": "Choose it for a hot coffee break when you want a robust espresso base tempered by creamy milk, with a thick foam topping."
+    },
+    {
+      "title": "After a larger meal",
+      "text": "The hot espresso and milk combination suits an after-meal coffee, particularly if you prefer a creamy finish rather than an espresso on its own."
+    },
+    {
+      "title": "Coffee with a brownie",
+      "text": "Order it alongside a mini chocolate brownie when you want a dessert pairing that echoes the light chocolate dusting on the cappuccino."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "mini-chocolate-brownie",
+      "reason": "The mini chocolate brownie is the pairing highlighted in the drink description, with its chocolate matching the cappuccino’s light chocolate dusting."
+    },
+    {
+      "slug": "chocolate-fudge-cake",
+      "reason": "Warm Chocolate Fudge Cake continues the chocolate theme, while the robust espresso base offers a coffee contrast alongside the dessert."
+    }
+  ],
+  "tips": [
+    "Check the price shown for your chosen pub before ordering, as {price} is typical rather than a fixed price across locations.",
+    "Order at the bar or through the Wetherspoon app at your table, checking the local listing for availability.",
+    "Ask staff about current milk allergen information before ordering if you have an allergy, and discuss any proposed ingredient swaps.",
+    "Allow the steaming hot drink to cool to a comfortable temperature before drinking, particularly beneath the thick foam topping.",
+    "If adding a mini brownie, account for its separate cost and nutrition rather than treating it as part of the cappuccino."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the Lavazza Cappuccino at Wetherspoons?",
+      "answer": "The Lavazza Cappuccino typically costs {price} at Wetherspoons, but the price varies by pub. Each location sets its own prices, so check the menu for the pub you plan to visit. In our tracked {category} selection, its price position is {pricePosition}."
+    },
+    {
+      "question": "How many calories are in a Wetherspoons Lavazza Cappuccino?",
+      "answer": "A Wetherspoons Lavazza Cappuccino contains {calories} kcal as listed, equivalent to {calorieShare}. This covers the espresso, steamed milk, milk foam and chocolate powder described for the drink. Any dessert or additional drink is separate, and changes to the ingredients may mean the listed figure no longer applies."
+    },
+    {
+      "question": "Is the Lavazza Cappuccino at Wetherspoons vegetarian?",
+      "answer": "The Lavazza Cappuccino at Wetherspoons is listed as vegetarian in our data. It contains steamed milk and milk foam, so the standard drink is not suitable for a vegan diet. Check with the pub if you have additional dietary requirements, particularly before requesting a change to the ingredients."
+    },
+    {
+      "question": "What allergens are in the Wetherspoons Lavazza Cappuccino?",
+      "answer": "Milk is the allergen recorded for the Wetherspoons Lavazza Cappuccino in our data. The drink includes both steamed milk and a milk foam topping. Ask the pub for current [allergen information](/allergen-information) before ordering if you have an allergy, as ingredient swaps and preparation arrangements may affect its suitability."
+    },
+    {
+      "question": "What comes with the Lavazza Cappuccino at Wetherspoons?",
+      "answer": "The Lavazza Cappuccino comes with a Lavazza espresso base, steamed milk, a thick cap of airy milk foam and a light dusting of chocolate powder. It is served hot. A mini chocolate brownie is a suggested pairing, not a component of the drink, so order it separately if wanted."
+    },
+    {
+      "question": "How do I order a Lavazza Cappuccino at Wetherspoons?",
+      "answer": "You can order a Lavazza Cappuccino at the bar or at your table using the Wetherspoon app. Check the chosen pub’s menu for its current price and availability. If you need allergen advice or want to request an ingredient change, speak to staff before placing the order."
+    },
+    {
+      "question": "Can I get the Lavazza Cappuccino as part of a meal deal?",
+      "answer": "Meal-deal eligibility for the Lavazza Cappuccino is not confirmed in our data, so check with your chosen pub before ordering. Many Wetherspoons mains can be ordered with an eligible soft or alcoholic drink, but that does not establish that this coffee is included. Confirm the options on the local menu."
+    }
+  ],
+  "slug": "lavazza-cappuccino",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

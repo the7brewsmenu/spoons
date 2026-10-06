@@ -1,0 +1,9 @@
+{
+  "city": "leicester",
+  "localNote": "The Corn Exchange stands in the Market Place, right by Leicester Market, and the High Cross is a short walk away near the Highcross shopping centre, so both suit a shopping trip. The White House is out in Scraptoft on the eastern edge of the city, better reached by car or bus.",
+  "pubs": [
+    { "name": "The Corn Exchange", "history": "A Grade II* listed market hall of 1850 by William Flint, given an upper floor for magistrates' hearings in 1855 along with its distinctive double staircase. Its weather vane carries a wyvern from the city arms.", "features": ["Listed building"] },
+    { "name": "The High Cross", "history": "Named after a domed market cross erected here in 1577 to shelter traders and largely removed by 1773. The building was once a temperance coffee house; granite setts in the road mark the cross's old spot." },
+    { "name": "The White House", "history": "A Georgian-style mansion built in 1928 for Leicester Tigers secretary Tom Crumbie, partly from stone salvaged from Normanton Hall in Rutland. It became a hotel and pub in 1950 and joined Wetherspoon in 2011." }
+  ]
+}

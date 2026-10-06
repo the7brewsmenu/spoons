@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "title": "Wetherspoons Fresh Fruit with Ice Cream Price and Calories 2026",
+    "description": "Wetherspoons fresh fruit with ice cream costs a typical {price}, with {calories} kcal. Get a chilled fruit dessert and check ingredients, milk and value."
+  },
+  "subtitle": "Chopped seasonal fruit with creamy vanilla ice cream, suited to diners wanting a refreshing finish after a heavy meal.",
+  "quickAnswer": "Wetherspoons fresh fruit with ice cream costs a typical {price}, contains {calories} kcal, and comes with freshly chopped seasonal fruit alongside a generous scoop of vanilla ice cream. Prices vary by pub. Served chilled, it combines crisp, juicy fruit with smooth ice cream for a lighter-feeling finish to your meal.",
+  "components": [
+    {
+      "name": "Seasonal fruit",
+      "note": "Freshly chopped seasonal fruit brings natural sweetness, crisp texture and juicy bites to contrast with the creamy ice cream."
+    },
+    {
+      "name": "Vanilla ice cream",
+      "note": "A generous scoop of soft vanilla ice cream adds smoothness and richness alongside the fresh fruit."
+    }
+  ],
+  "taste": "This is a chilled dessert built around the contrast between juicy seasonal fruit and soft vanilla ice cream. The freshly chopped pieces bring crispness and natural sweetness, while the ice cream adds a richer, smoother mouthful. Vanilla sits alongside the fruit rather than replacing its fresh flavour, so the appeal is in moving between those different textures.\n\nAfter a heavy meal, that crisp, juicy element offers a refreshing change of pace. You can take the fruit and ice cream together for a creamy bite, or eat them separately to keep the contrast distinct. It suits a warm afternoon, too, when a chilled finish sounds more appealing than another substantial course.",
+  "value": "At a typical {price}, this dessert is {pricePosition} in the [desserts](/desserts) section we track. Its value depends on what you want from the final course: freshly chopped fruit and vanilla ice cream make sense if a refreshing finish matters more to you than a pudding.\n\nCompare it with Warm Chocolate Fudge Cake or Sticky Toffee Pudding when choosing your dessert, rather than assuming the fruit option is the cheapest. Prices are set by individual pubs, so check the local menu before deciding. The generous scoop of ice cream gives it more substance than fruit alone.",
+  "nutrition": "The listed serving contains {calories} kcal, equivalent to {calorieShare}. It is {caloriePosition} among the desserts we track, which helps put this fruit-and-ice-cream option in context rather than judging it by its lighter feel alone.\n\nThat figure applies to the dessert, not your whole order. Any sides, sauces or drinks ordered separately change the total, so include those when comparing meal choices. Natural fruit sweetness does not make the accompanying ice cream irrelevant to your decision.",
+  "dietaryGuidance": "This dessert is tagged vegetarian, and milk is the allergen listed in our data. The vanilla ice cream means diners avoiding dairy should take care rather than treating the fruit-based name as reassurance.\n\nIf you have a milk allergy or another dietary requirement, check the pub's current [allergen information](/allergen-information) before ordering. Our listed allergen should not be taken as a complete assessment of your needs. Any agreed swap or omission can change the allergen profile, so ask staff to confirm the modified order rather than assuming it is suitable.",
+  "bestFor": [
+    {
+      "title": "After a heavy meal",
+      "text": "The chilled fruit and smooth ice cream suit diners who want a refreshing final course, with crisp, juicy bites providing contrast after a substantial main."
+    },
+    {
+      "title": "A warm afternoon",
+      "text": "Served chilled, this is a sensible choice when you want fruit and ice cream rather than a warm dessert. The contrast in texture is its main appeal."
+    },
+    {
+      "title": "Vegetarian dessert choices",
+      "text": "Its vegetarian tag makes it an option for diners comparing desserts on that basis. Milk is listed, so anyone also avoiding dairy should check suitability separately."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "lavazza-filter-coffee",
+      "reason": "Choose Lavazza Filter Coffee if you want coffee alongside your final course, leaving the dessert itself to supply the fruit and vanilla flavours."
+    },
+    {
+      "slug": "j2o-orange-passion-fruit",
+      "reason": "J2O Orange & Passion Fruit is an option if you want to keep a fruit theme across your dessert and accompanying drink."
+    }
+  ],
+  "tips": [
+    "Check the price at your chosen pub before ordering, since the typical {price} is a guide rather than a single price across locations.",
+    "Ask which seasonal fruit is included if you have a strong preference, as the description does not name the individual varieties.",
+    "Check current allergen information before ordering if you avoid milk, and confirm any proposed change with staff rather than assuming it removes the concern.",
+    "Order at the bar or through the Wetherspoon app at your table, checking the local listing for the dessert and its price."
+  ],
+  "faqs": [
+    {
+      "question": "How much is fresh fruit with ice cream at Wetherspoons?",
+      "answer": "Fresh fruit with ice cream at Wetherspoons costs a typical {price}, but prices vary by pub. It is {pricePosition} in the [desserts](/desserts) section we track. Check the menu at your chosen location, or its listing in the Wetherspoon app, for the price before ordering."
+    },
+    {
+      "question": "How many calories are in Wetherspoons fresh fruit with ice cream?",
+      "answer": "Wetherspoons fresh fruit with ice cream contains {calories} kcal per listed serving, equivalent to {calorieShare}. It is {caloriePosition} among the [desserts](/desserts) we track. The figure covers the dessert itself, so drinks and anything else you order need to be considered separately when working out your meal total."
+    },
+    {
+      "question": "What comes with fresh fruit with ice cream at Wetherspoons?",
+      "answer": "Fresh fruit with ice cream at Wetherspoons comes with freshly chopped seasonal fruit and a generous scoop of soft vanilla ice cream. It is served chilled, combining crisp, juicy fruit with a smooth, creamy accompaniment. The description does not specify individual fruit varieties, so ask the pub if that affects your choice."
+    },
+    {
+      "question": "Is Wetherspoons fresh fruit with ice cream vegetarian?",
+      "answer": "Wetherspoons fresh fruit with ice cream is tagged vegetarian in our data. Milk is also listed as an allergen, so the vegetarian tag does not mean it suits someone avoiding dairy. Check the pub's current dietary and allergen information if you have additional requirements or are considering a modified order."
+    },
+    {
+      "question": "Does Wetherspoons fresh fruit with ice cream contain milk?",
+      "answer": "Milk is listed as an allergen for Wetherspoons fresh fruit with ice cream. Diners with a milk allergy should check the pub's current allergen information and speak to staff before ordering. If you ask about removing or replacing the ice cream, confirm the revised allergen information rather than assuming the change makes it suitable."
+    },
+    {
+      "question": "Which fruit is in Wetherspoons fresh fruit with ice cream?",
+      "answer": "The description of Wetherspoons fresh fruit with ice cream specifies seasonal fruit but does not name the varieties. Expect freshly chopped pieces served chilled alongside vanilla ice cream. If you dislike a particular fruit or need ingredient information for a dietary requirement, ask the pub what is included before placing your order."
+    },
+    {
+      "question": "Is Wetherspoons fresh fruit with ice cream a lighter dessert?",
+      "answer": "Wetherspoons fresh fruit with ice cream is described as a lighter, refreshing dessert, particularly after a heavy meal. That describes its eating style rather than a guarantee about nutrition. The listed serving contains {calories} kcal, so use that figure alongside the fruit and vanilla ice cream description when deciding what suits you."
+    }
+  ],
+  "slug": "fresh-fruit-ice-cream",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

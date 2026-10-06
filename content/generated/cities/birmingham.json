@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "title": "Wetherspoons Birmingham: pubs, menu and prices guide",
+    "description": "Explore Wetherspoons Birmingham pubs by area, compare typical menu pricing and check breakfast and club days. Find the right pub before you visit."
+  },
+  "intro": "This guide covers {pubCount} open Wetherspoons pubs in Birmingham across {areaCount} areas, with practical advice on choosing a location and checking the menu before ordering. Every pub works from the national [Wetherspoons menu](/), but prices are set locally. It lists the pubs in City Centre, Broad Street and Perry Barr, explains how typical prices vary, and outlines breakfast service and club days. SpoonsMenu is an independent guide, not affiliated with J D Wetherspoon plc.",
+  "quickAnswer": "We list {pubCount} open Wetherspoons pubs in Birmingham across {areaCount} areas: The Briar Rose and The Square Peg in City Centre, The Figure of Eight on Broad Street, and The Arthur Robertson in Perry Barr. Start with the area that suits your visit, then check your chosen pub’s menu and current prices before ordering.",
+  "areas": [
+    {
+      "area": "City Centre",
+      "text": "The Briar Rose and The Square Peg are the listed City Centre options, on Bennetts Hill and Corporation Street respectively. These suit visitors choosing between central locations. Compare the current menus and typical prices rather than assuming both pubs charge the same for a shared national menu item."
+    },
+    {
+      "area": "Broad Street",
+      "text": "The Figure of Eight is the listed Wetherspoons option on Broad Street. It suits anyone who wants to choose a pub in this area rather than City Centre or Perry Barr. Check its current menu and typical prices before settling on breakfast, burgers or another national menu favourite."
+    },
+    {
+      "area": "Perry Barr",
+      "text": "The Arthur Robertson is the listed Perry Barr pub, at One Stop Shopping Centre on Walsall Road. It suits visitors whose preferred location is Perry Barr. Use its own menu to check typical prices, as a comparison with the central pubs needs current information rather than assumptions."
+    }
+  ],
+  "pricing": "Wetherspoons menu prices in Birmingham are set pub by pub, even though the menu is broadly the same nationally. Traditional [breakfast](/breakfast-menu), [burgers](/burgers), curries, fish and chips, and pizza are popular national menu choices, but check the selected pub’s menu for availability and its current charge.\n\nLocation matters when comparing typical prices: city centre pubs often charge more than suburban pubs. That is a general pattern, not evidence that a particular Birmingham pub is cheaper or dearer. A shared menu does not mean a shared price. To check the exact amount before ordering, select the correct pub in the Wetherspoon app or ask at the bar.",
+  "breakfastAndClubs": "Breakfast is typically served from eight am until noon, while [Curry Club](/curry-club) is traditionally on Thursday and [Steak Club](/steak-club) on Tuesday at participating pubs. For a Birmingham visit, treat these as general service patterns and confirm the details with your chosen pub.\n\nThe traditional breakfast is among the popular dishes on the national menu. Check the local menu for current choices and typical prices before ordering. If a club day is the reason for your visit, ask whether that pub participates and what is currently offered rather than assuming every location follows the same arrangement.",
+  "tips": [
+    {
+      "title": "Choose your area",
+      "text": "Start with City Centre, Broad Street or Perry Barr, then choose from the listed pubs. This keeps the location decision separate from menu and typical price comparisons."
+    },
+    {
+      "title": "Check the selected pub",
+      "text": "Select the intended pub in the Wetherspoon app before checking prices or ordering. The national menu is broadly shared, but each location sets its own prices."
+    },
+    {
+      "title": "Confirm breakfast service",
+      "text": "Use eight am until noon as the typical breakfast window, then confirm with your chosen pub. Breakfast service times should not be treated as opening hours."
+    },
+    {
+      "title": "Ask about club days",
+      "text": "Check participation before planning around Curry Club on Thursday or Steak Club on Tuesday. Ask the pub about the current offering and its typical price."
+    },
+    {
+      "title": "Choose how to order",
+      "text": "Order at the bar or at your table using the Wetherspoon app. If a menu detail is unclear, ask the pub before placing your order."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How many Wetherspoons are in Birmingham?",
+      "answer": "This guide lists {pubCount} open Wetherspoons pubs in Birmingham across {areaCount} areas. The Briar Rose and The Square Peg are in City Centre, The Figure of Eight is on Broad Street, and The Arthur Robertson is in Perry Barr. Choose the area first, then check the individual pub’s menu and typical prices."
+    },
+    {
+      "question": "Which Wetherspoons are in Birmingham city centre?",
+      "answer": "The Briar Rose and The Square Peg are the listed Wetherspoons pubs in Birmingham City Centre. Their addresses are on Bennetts Hill and Corporation Street respectively. Both are central options, but the broadly shared national menu does not mean identical prices. Check the selected pub’s current menu before ordering."
+    },
+    {
+      "question": "Which Wetherspoons is on Broad Street in Birmingham?",
+      "answer": "The Figure of Eight is the listed Wetherspoons pub on Broad Street in Birmingham. It is the option in this guide for visitors choosing that area. Customers can order at the bar or at their table with the Wetherspoon app, checking the pub’s current menu and typical prices first."
+    },
+    {
+      "question": "Which Wetherspoons is in Perry Barr?",
+      "answer": "The Arthur Robertson is the listed Wetherspoons pub in Perry Barr, at One Stop Shopping Centre on Walsall Road, Birmingham. It is the local option covered by this guide. Check its own menu for current choices and typical prices rather than assuming it charges the same as the City Centre pubs."
+    },
+    {
+      "question": "What time does breakfast start at Wetherspoons in Birmingham?",
+      "answer": "Breakfast at Wetherspoons is typically served from eight am until noon, but confirm the service times with your chosen Birmingham pub. The traditional breakfast is a popular national menu dish. Check the local menu for current availability and typical prices, and do not use the breakfast window as a statement of opening hours."
+    },
+    {
+      "question": "Are Wetherspoons prices higher in Birmingham city centre?",
+      "answer": "City centre Wetherspoons pubs often charge more than suburban pubs, but that does not establish the price difference between individual Birmingham locations. Each pub sets its own prices despite the broadly shared national menu. Compare the same item on the current menus, using the Wetherspoon app or asking at the bar."
+    },
+    {
+      "question": "What days are Curry Club and Steak Club at Wetherspoons in Birmingham?",
+      "answer": "Curry Club is traditionally on Thursday and Steak Club on Tuesday at participating Wetherspoons pubs. For Birmingham locations, confirm participation and the current offering directly with the pub before planning your visit. Typical prices vary by pub, so check the selected location’s menu rather than relying on a price from elsewhere."
+    }
+  ],
+  "slug": "birmingham",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

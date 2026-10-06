@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "title": "Wetherspoons Lavazza Filter Coffee Price and Calories 2026",
+    "description": "Wetherspoons Lavazza Filter Coffee costs a typical {price}, with {calories} kcal and free refills all day. Check flavour, dietary details and ordering tips."
+  },
+  "subtitle": "Freshly brewed coffee with free refills, suited to breakfast drinkers and anyone after a smooth, warming afternoon cup.",
+  "quickAnswer": "Wetherspoons Lavazza Filter Coffee costs a typical {price}, contains {calories} kcal and comes hot in a ceramic mug with free refills all day. The coffee has a smooth, medium-bodied flavour with roasted nut notes and gentle natural sweetness. Prices vary by pub, so check your chosen location before ordering.",
+  "components": [
+    {
+      "name": "Lavazza filter coffee",
+      "note": "Freshly brewed coffee brings a smooth, medium-bodied flavour, with gentle roasted nut notes and a naturally sweet undertone."
+    },
+    {
+      "name": "Free refills",
+      "note": "Free refills all day add practical value if you want another cup during breakfast or a relaxed afternoon visit."
+    }
+  ],
+  "taste": "Lavazza Filter Coffee is smooth and medium-bodied, with gentle roasted nut notes and a subtle, naturally sweet undertone. Its character is well rounded rather than harshly bitter, making it an approachable choice if you prefer an easy-drinking coffee. The nutty notes describe the flavour profile, not a confirmed ingredient list. There is enough body to make the cup feel satisfying without the flavour being described as intense.\n\nIt arrives steaming hot in a ceramic mug, freshly brewed and ready to accompany breakfast or a quiet afternoon pause. The warming character is central to its appeal. Free refills all day make it worth considering when you want more than a single cup.",
+  "value": "Free refills all day are the main value benefit, alongside a typical price of {price}. In our tracked {category}, it sits at {pricePosition}. Prices are set by each pub, so the amount shown should be treated as a guide rather than a fixed charge.\n\nCompare it with Lavazza Cappuccino if you are choosing between coffees, or Large Pepsi Max if you would rather have a soft drink. For a longer breakfast or an afternoon reading break, the refill benefit is the clearest reason to choose filter coffee. Confirm the current price and refill arrangements at your pub.",
+  "nutrition": "Lavazza Filter Coffee contains {calories} kcal in the listed serving, equivalent to {calorieShare}. Within our tracked {category}, it is {caloriePosition}. That figure is a starting point for the coffee, not a total for everything you might order with it.\n\nA breakfast, dessert, side dish, sauce or additional drink needs to be counted separately. If you change the serving or add anything, check the relevant nutritional information rather than assuming the listed figure still applies. Refills also need considering when tracking your overall intake.",
+  "dietaryGuidance": "Lavazza Filter Coffee is tagged vegan and vegetarian in our data. No allergens are listed in the supplied record, but that does not establish that the drink is suitable for every allergy or dietary restriction.\n\nAnyone with an allergy should [check the current allergen](/allergen-information) information with the pub before ordering. Roasted nut notes are a flavour description, not a complete ingredient statement. Any additions or swaps can change both the dietary suitability and allergen profile, so ask about the serving you intend to order.",
+  "bestFor": [
+    {
+      "title": "Breakfast coffee drinkers",
+      "text": "Choose this alongside a traditional or vegan breakfast when you want a smooth, warming coffee. Free refills are useful if you plan to have another cup."
+    },
+    {
+      "title": "Relaxed afternoon visits",
+      "text": "The hot ceramic mug and gentle flavour suit an unhurried afternoon reading break. Check the pub's refill arrangements if you expect to stay for several cups."
+    },
+    {
+      "title": "Fans of gentler coffee",
+      "text": "Its medium body, roasted nut notes and subtle natural sweetness suit drinkers who prefer a well-rounded flavour rather than harsh bitterness in their coffee."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "chocolate-fudge-cake",
+      "reason": "Warm Chocolate Fudge Cake is a dessert option alongside the coffee's roasted nut notes, with its smooth character keeping the drink approachable."
+    },
+    {
+      "slug": "vegan-chocolate-tart",
+      "reason": "Vegan Chocolate Tart is worth considering with this vegan-tagged coffee. Check the current dietary information for both before ordering them together."
+    },
+    {
+      "slug": "mini-chocolate-brownie",
+      "reason": "Mini Warm Chocolate Brownie offers a dessert companion for an afternoon cup, while the free refills let you follow it with more coffee."
+    }
+  ],
+  "tips": [
+    "Check the price at your chosen pub before ordering, as {price} is typical and individual locations set their own charges.",
+    "Ask how to obtain the free refills when you order, rather than assuming the same collection arrangements apply at every pub.",
+    "Order at the bar or through the Wetherspoon app at your table, checking the local listing for the coffee you want.",
+    "If you have an allergy, ask for current allergen information and mention any intended additions or swaps before placing your order."
+  ],
+  "faqs": [
+    {
+      "question": "How much is Lavazza Filter Coffee at Wetherspoons?",
+      "answer": "Lavazza Filter Coffee at Wetherspoons costs a typical {price}, with prices varying by pub. Free refills all day are included in the supplied description, which is the main value benefit. Check your chosen pub's current menu before ordering, as the typical price is a guide rather than a fixed charge."
+    },
+    {
+      "question": "How many calories are in Wetherspoons Lavazza Filter Coffee?",
+      "answer": "Wetherspoons Lavazza Filter Coffee contains {calories} kcal in the listed serving, equivalent to {calorieShare}. This figure covers the coffee as listed, not a breakfast or dessert alongside it. Any additions, changes to the serving or further drinks should be considered separately when working out your total intake."
+    },
+    {
+      "question": "Does Wetherspoons Lavazza Filter Coffee come with free refills?",
+      "answer": "Wetherspoons Lavazza Filter Coffee comes with free refills all day according to the supplied menu description. It is served hot in a ceramic mug, making it a practical option for breakfast or a relaxed afternoon visit. Ask your pub how refills are handled when you place your order."
+    },
+    {
+      "question": "Is Wetherspoons Lavazza Filter Coffee vegan and vegetarian?",
+      "answer": "Wetherspoons Lavazza Filter Coffee is tagged both vegan and vegetarian in our data. Those tags apply to the listed drink, so additions or swaps need checking separately. If dietary suitability is important to your order, confirm the current information with the pub rather than relying on the tags alone."
+    },
+    {
+      "question": "What allergens are listed for Wetherspoons Lavazza Filter Coffee?",
+      "answer": "No allergens are listed for Wetherspoons Lavazza Filter Coffee in our supplied data, but that is not an assurance of suitability for an allergy. Ask the pub for current [allergen information](/allergen-information) before ordering. The roasted nut notes describe its flavour and should not be treated as a complete ingredient statement."
+    },
+    {
+      "question": "What comes with Wetherspoons Lavazza Filter Coffee?",
+      "answer": "Wetherspoons Lavazza Filter Coffee is served steaming hot in a ceramic mug with free refills all day. No food accompaniment is specified in the supplied description. It is described as a companion to a traditional or vegan breakfast, but that does not mean breakfast is included with the coffee."
+    },
+    {
+      "question": "What does Wetherspoons Lavazza Filter Coffee taste like?",
+      "answer": "Wetherspoons Lavazza Filter Coffee has a smooth, medium-bodied flavour with gentle roasted nut notes and a subtle, naturally sweet undertone. The supplied description emphasises a well-rounded character without harsh bitterness. It is freshly brewed and served steaming hot, suited to someone seeking an approachable, warming cup."
+    }
+  ],
+  "slug": "lavazza-filter-coffee",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

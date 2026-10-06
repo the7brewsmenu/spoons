@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "title": "Wetherspoons Sheffield: Pubs, menus and prices guide",
+    "description": "Compare Wetherspoons Sheffield pubs across the city centre, Hillsborough and Woodseats, with menu guidance and price checks to help you choose."
+  },
+  "intro": "This guide covers {pubCount} open Wetherspoons pubs in Sheffield across {areaCount} areas: City Centre, Hillsborough and Woodseats. Every pub works from the national [Wetherspoons menu](/), but prices are set locally. Use it to choose a pub, understand how local pricing works and plan around typical breakfast service and club days. The national menu includes traditional breakfast, burgers, curries, fish and chips, and pizza, but check your chosen pub for current availability. SpoonsMenu is an independent guide.",
+  "quickAnswer": "There are {pubCount} open Wetherspoons pubs listed in Sheffield: The Bankers Draft and The Roebuck in City Centre, The Rawson Spring in Hillsborough, and The Woodseats Palace in Woodseats. Choose the area that suits your visit, then compare the current menu prices at the individual pubs. The menu is broadly shared nationally, but prices vary by location.",
+  "areas": [
+    {
+      "area": "City Centre",
+      "text": "The Bankers Draft and The Roebuck are the listed Wetherspoons choices in City Centre. The former is on Market Place; the latter is on Charles Street. They suit visitors who want a central option and a choice of pubs to compare before deciding where to eat."
+    },
+    {
+      "area": "Hillsborough",
+      "text": "The Rawson Spring is the listed Wetherspoons pub in Hillsborough, on Langsett Road. It suits anyone choosing Hillsborough as their preferred area for a meal. Check its current menu and prices rather than assuming they match the City Centre pubs."
+    },
+    {
+      "area": "Woodseats",
+      "text": "The Woodseats Palace is the listed Wetherspoons pub in Woodseats, on Chesterfield Road. It suits visitors who would rather eat in Woodseats than choose a City Centre pub. For a useful comparison, check the price of the same meal at each location you are considering."
+    }
+  ],
+  "pricing": "Wetherspoons menu prices in Sheffield vary by pub, even though the menu is broadly the same nationally. Traditional [breakfast](/breakfast-menu), [burgers](/burgers), curries, fish and chips, and pizza are useful starting points when comparing what to order, subject to local availability.\n\nLocation can make a difference: city centre pubs often charge more than suburban pubs. That is a general pattern, not a confirmed price ranking for these Sheffield locations, so do not assume either central pub costs more for every dish.\n\nCheck the current menu for your chosen pub, using the Wetherspoon app or asking at the bar to confirm the exact price before ordering. Any guide price should be treated as typical rather than fixed.",
+  "breakfastAndClubs": "Breakfast at Wetherspoons is typically served from eight in the morning until noon, so that is the general window to plan around in Sheffield. Confirm service times with your chosen pub rather than treating the national pattern as a local promise.\n\n[Curry Club](/curry-club) traditionally runs on Thursday and [Steak Club](/steak-club) on Tuesday at participating pubs. Check participation, the current club menu and typical prices before making a special visit. If you are choosing between breakfast and a later meal, use the local menu to confirm what will be available when you intend to order.",
+  "tips": [
+    {
+      "title": "Choose your area first",
+      "text": "Start with City Centre, Hillsborough or Woodseats according to where you want to eat. City Centre has a choice of listed pubs; each other area has one."
+    },
+    {
+      "title": "Compare the same dish",
+      "text": "Compare the same menu item at the pubs you are considering. Prices vary by pub, so a broadly shared national menu does not mean an identical bill."
+    },
+    {
+      "title": "Check breakfast service",
+      "text": "Plan breakfast around the typical service window of eight in the morning until noon. Confirm the timing with your chosen Sheffield pub before making a special visit."
+    },
+    {
+      "title": "Confirm club participation",
+      "text": "Check with the pub before planning around Curry Club or Steak Club. Thursday and Tuesday are the traditional days respectively, but participation needs confirming locally."
+    },
+    {
+      "title": "Choose how to order",
+      "text": "Order at the bar or at your table through the Wetherspoon app. Check that you have selected the intended pub before reviewing its menu and placing an order."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How many Wetherspoons are in Sheffield?",
+      "answer": "There are {pubCount} open Wetherspoons pubs listed in Sheffield across {areaCount} areas. The Bankers Draft and The Roebuck are in City Centre, The Rawson Spring is in Hillsborough, and The Woodseats Palace is in Woodseats. Prices vary by pub, so check your preferred location before ordering."
+    },
+    {
+      "question": "Which Wetherspoons are in Sheffield city centre?",
+      "answer": "The Bankers Draft and The Roebuck are the listed Wetherspoons pubs in Sheffield City Centre. You will find The Bankers Draft on Market Place and The Roebuck on Charles Street. Compare their current menus and prices if you are choosing between them, rather than assuming the same meal costs the same."
+    },
+    {
+      "question": "Which Wetherspoons are in Hillsborough and Woodseats?",
+      "answer": "The Rawson Spring is in Hillsborough, while The Woodseats Palace is in Woodseats. Their listed streets are Langsett Road and Chesterfield Road respectively. Choose according to the area where you want to eat, then check that pub's current menu, prices and service details before planning your meal."
+    },
+    {
+      "question": "What time does breakfast start at Wetherspoons in Sheffield?",
+      "answer": "Breakfast at Wetherspoons typically starts at eight in the morning and is served until noon. These are general service times, not confirmed hours for every Sheffield pub. Check with The Bankers Draft, The Roebuck, The Rawson Spring or The Woodseats Palace before planning a visit specifically for breakfast."
+    },
+    {
+      "question": "Are prices higher at Wetherspoons in Sheffield city centre?",
+      "answer": "City centre Wetherspoons pubs often charge more than suburban pubs, but there is no confirmed price ranking for the Sheffield pubs listed here. Each pub sets its own prices despite the broadly shared national menu. Compare the same dish on the current local menus to see which option costs less."
+    },
+    {
+      "question": "What food is on the Wetherspoons menu in Sheffield?",
+      "answer": "The broadly shared national Wetherspoons menu includes traditional breakfast, burgers, curries, fish and chips, and pizza. For a Sheffield visit, use those dishes as a starting point rather than a promise of local availability. Check the current menu at your selected pub for the choices and prices available."
+    },
+    {
+      "question": "What days are Curry Club and Steak Club in Sheffield?",
+      "answer": "Curry Club is traditionally on Thursday and Steak Club on Tuesday at participating Wetherspoons pubs. For Sheffield, confirm that your chosen pub participates before planning around either day. Ask about the current club menu and prices too, since the general schedule does not establish local participation or pricing."
+    }
+  ],
+  "slug": "sheffield",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

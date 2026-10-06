@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "title": "Wetherspoons 10oz Gammon Steak Price and Calories 2026",
+    "description": "Wetherspoons ten ounce gammon steak: typical {price}, {calories} kcal, chips and peas. Check toppings, Tuesday pricing and allergens before ordering."
+  },
+  "subtitle": "Grilled gammon with chips, garden peas and eggs or pineapple, suited to diners after a substantial, traditional pub meal.",
+  "quickAnswer": "{name} costs a typical {price} and has {calories} kcal, served with chips, garden peas and your choice of two fried eggs or pineapple rings. Prices vary by pub. It sits in the [Steak Club](/steak-club) section, with Tuesday pricing worth checking at your chosen location before ordering.",
+  "components": [
+    {
+      "name": "Gammon steak",
+      "note": "The thick, grilled gammon provides the plate’s firm, meaty texture and pronounced savoury flavour with a salty tang."
+    },
+    {
+      "name": "Fried eggs",
+      "note": "Choose two fried eggs for soft yolks that contrast with the firm gammon and keep the topping savoury."
+    },
+    {
+      "name": "Pineapple rings",
+      "note": "The alternative topping brings charred sweetness and acidity, offering a sharper contrast to the gammon’s salty flavour."
+    },
+    {
+      "name": "Chips",
+      "note": "A hearty portion of chips makes this a substantial plate alongside the thick gammon and your chosen topping."
+    },
+    {
+      "name": "Garden peas",
+      "note": "Sweet garden peas provide another contrast to the salty meat and complete the plate alongside the chips."
+    }
+  ],
+  "taste": "This is a substantial, savoury plate built around thick gammon with a firm, meaty bite and a noticeable salty tang. Grilling gives the meat its cooked finish while retaining the juicy character described in the dish. Chips make the meal more filling, while sweet garden peas offer a contrast to the gammon rather than competing with its flavour.\n\nYour topping choice makes the main difference to how it eats. Two fried eggs bring soft yolks against the firmer meat, keeping the combination predominantly savoury. Charred pineapple rings take it in a sweeter, more acidic direction, offsetting the saltiness. Served hot, it is a traditional, comforting dinner rather than a light meal.",
+  "value": "The typical {price} buys a complete plate with chips, peas and a choice of topping, making it worth considering for a substantial pub dinner. In our tracked [Steak Club](/steak-club) selection, it is {pricePosition}; local prices still vary.\n\nCompare it with the eight ounce sirloin steak or five ounce rump steak if you prefer another cut, rather than choosing on price alone. Tuesday Steak Club pricing is relevant here, and participating pubs often include a drink. Check the local offer and eligible drinks before comparing the total with a standard meal order.",
+  "nutrition": "{name} is listed at {calories} kcal, equivalent to {calorieShare}. Within the Steak Club items we track, it is {caloriePosition}, which gives you a comparison rather than a judgement about what you should eat.\n\nCheck which topping the listed figure covers before using it to plan your meal. Extra sides, any sauces you add and your drink can change the total, so do not assume they are covered by the dish figure. Chips and peas are already part of the described plate.",
+  "dietaryGuidance": "{name} is a meat dish, so it is not suitable for vegetarian or vegan diners. Our data lists mustard and sulphur dioxide as allergens, but provides no dietary tags confirming suitability for other requirements.\n\nAnyone avoiding either listed allergen should check the current information with the pub before ordering. The egg topping also needs attention if you avoid eggs. Choosing pineapple instead is not enough to establish suitability: topping changes, other swaps and preparation arrangements can affect the allergen picture. Ask staff to check the complete meal, not just the gammon.",
+  "bestFor": [
+    {
+      "title": "Traditional pub dinners",
+      "text": "Choose this for a familiar, substantial dinner built around grilled meat, chips and peas. The salty gammon and simple topping choice suit diners who prefer straightforward pub food."
+    },
+    {
+      "title": "Savoury egg fans",
+      "text": "The fried egg option suits diners who want a predominantly savoury plate, with soft yolks providing a clear texture contrast to the firm gammon."
+    },
+    {
+      "title": "Sweet and salty tastes",
+      "text": "Pick the pineapple topping if you enjoy sweet and salty combinations. Its charred sweetness and acidity give the gammon a different balance from the fried egg option."
+    },
+    {
+      "title": "Tuesday meal planning",
+      "text": "Consider it when comparing Tuesday Steak Club options at a participating pub. Check the local price and drink eligibility to judge the full meal cost before ordering."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "side-salad",
+      "reason": "A side salad adds a different accompaniment if you want more alongside the gammon without ordering another portion of chips."
+    },
+    {
+      "slug": "mini-chocolate-brownie",
+      "reason": "The Mini Warm Chocolate Brownie offers a chocolate finish after the salty main, if you still want dessert after a substantial plate."
+    },
+    {
+      "slug": "large-pepsi-max",
+      "reason": "Large Pepsi Max is an option if you want a soft drink alongside the meal. Check its eligibility before choosing a drink-inclusive order."
+    }
+  ],
+  "tips": [
+    "Choose eggs for a savoury topping with soft yolks, or pineapple for sweetness and acidity against the salty gammon.",
+    "Check Tuesday Steak Club pricing at your chosen pub, including which drinks qualify, before deciding between a meal offer and a separate drink.",
+    "Chips and garden peas already come with the plate, so consider the full meal before adding another side.",
+    "Ask which topping the listed calorie figure covers if you are comparing options or keeping track of your meal total.",
+    "Check the current allergen information with staff if mustard, sulphur dioxide or eggs are a concern, even when requesting a topping change."
+  ],
+  "faqs": [
+    {
+      "question": "How much is the gammon steak at Wetherspoons?",
+      "answer": "{name} costs a typical {price}, although each pub sets its own prices. In our tracked [Steak Club](/steak-club) selection, it is {pricePosition}. Tuesday Steak Club pricing may affect the comparison, so check the price and any eligible drink offer at the pub you plan to visit."
+    },
+    {
+      "question": "How many calories are in the Wetherspoons gammon steak?",
+      "answer": "{name} is listed at {calories} kcal, equivalent to {calorieShare}. It is {caloriePosition} within the [Steak Club](/steak-club) items we track. Check which topping the figure covers, and account separately for any extra sides, sauces or drinks rather than assuming the listed total includes your entire order."
+    },
+    {
+      "question": "What comes with the gammon steak at Wetherspoons?",
+      "answer": "{name} comes with chips, sweet garden peas and a choice of two fried eggs or charred pineapple rings. The gammon is thick and grilled, with a firm, meaty texture and salty flavour. Eggs add soft yolks, while pineapple brings sweetness and acidity to contrast with the meat."
+    },
+    {
+      "question": "Can I choose eggs or pineapple with the gammon steak?",
+      "answer": "Yes, {name} is described with a choice of two fried eggs or pineapple rings. Choose eggs if you want the topping to stay savoury, or pineapple for a sweet, acidic contrast to the salty gammon. Confirm your choice when ordering and check current availability with the pub."
+    },
+    {
+      "question": "Is the Wetherspoons gammon steak vegetarian?",
+      "answer": "No, {name} is a meat dish and is not suitable for vegetarian or vegan diners. Choosing pineapple instead of eggs does not change that. Our data contains no dietary tags confirming other suitability, so anyone with additional dietary requirements should check the current meal information with the pub."
+    },
+    {
+      "question": "What allergens are listed for the Wetherspoons gammon steak?",
+      "answer": "Mustard and sulphur dioxide are the allergens listed in our data for {name}. The egg topping also needs checking if you avoid eggs. Do not treat this list as a substitute for the pub’s current [allergen information](/allergen-information): topping choices, swaps and preparation arrangements can affect whether the complete meal suits your needs."
+    },
+    {
+      "question": "Can I get the gammon steak as a meal deal?",
+      "answer": "{name} has Tuesday Steak Club pricing, and participating pubs often offer Steak Club meals with a drink included. Many mains can also be ordered with an eligible soft or alcoholic drink. Check your chosen pub’s current menu for the applicable price, included drinks and availability before placing your order."
+    }
+  ],
+  "slug": "10oz-gammon-steak",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

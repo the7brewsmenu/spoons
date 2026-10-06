@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "title": "Wetherspoons Porridge with Honey Price and Calories 2026",
+    "description": "Wetherspoons porridge with honey costs a typical {price}, with {calories} kcal. Choose a warm vegetarian breakfast and check ingredients, allergens and tips."
+  },
+  "subtitle": "Warm, creamy porridge oats with a honey drizzle, suited to vegetarian diners and anyone wanting a lighter breakfast.",
+  "quickAnswer": "Wetherspoons porridge with honey costs a typical {price}, contains {calories} kcal and comes as a warm bowl of porridge oats topped with honey. Prices vary by pub. The creamy, smooth oats make this a lighter breakfast choice, with vegetarian suitability noted in our data. Listed allergens are cereals containing gluten and milk.",
+  "components": [
+    {
+      "name": "Porridge oats",
+      "note": "The traditional oats provide the warm, creamy base, with a smooth texture that makes this a gentle breakfast."
+    },
+    {
+      "name": "Honey",
+      "note": "A generous drizzle adds sweetness to the oats, melting into the warm porridge rather than providing a separate texture."
+    }
+  ],
+  "taste": "This is a warm, smooth bowl of porridge with honey providing the sweetness. The oats are cooked until creamy, so the main appeal is their soft texture rather than any crisp or crunchy element. A generous drizzle of honey melts gently into the porridge, bringing a delicate sweet flavour to the traditional oat base.\n\nServed steaming in a deep bowl, it is a comforting option when you want a gentle start to the morning. The rich texture gives it substance without turning it into a complicated breakfast. Choose it if warm oats and honey appeal more than a breakfast wrap or a traditional breakfast.",
+  "value": "At a typical {price}, this is worth considering if you want a straightforward bowl of oats and honey rather than a more elaborate breakfast. Within the {category}, it is {pricePosition}. Prices are set by each pub, so check the local menu before ordering.\n\nCompare it with Traditional Breakfast or Breakfast Wrap if those styles of breakfast appeal more. For another vegetarian option, consider Beans on Toast or Vegetarian Breakfast. The useful comparison is not price alone: choose the format you actually want to eat, rather than expecting porridge to replace a different kind of breakfast.",
+  "nutrition": "Porridge with honey contains {calories} kcal, representing {calorieShare}. In the {category}, it is {caloriePosition}. That gives you a useful starting point when comparing breakfast choices, but the figure should not be treated as the total for everything you order.\n\nAny additional sides, sauces or drinks need to be counted separately. If you add a cappuccino or another accompaniment, check its own [nutrition information](/nutrition-information) rather than assuming it is covered by the porridge figure. Calories alone do not establish whether a breakfast meets your individual dietary needs.",
+  "dietaryGuidance": "Porridge with honey is listed as vegetarian, and our [allergen data](/allergen-information) identifies cereals containing gluten and milk. Anyone avoiding either should check the current allergen information with the pub before ordering. The vegetarian tag does not mean the dish is suitable for every dietary requirement.\n\nDo not assume this bowl is vegan or suitable for a gluten-free diet. If you ask about changing an ingredient or topping, confirm whether the pub can accommodate it and how the change affects the allergens. Swaps can alter the dietary suitability of the dish.",
+  "bestFor": [
+    {
+      "title": "A lighter breakfast",
+      "text": "Choose this when a warm bowl of oats and honey sounds more appealing than Traditional Breakfast or Large Breakfast. Its creamy texture suits a gentle start to the day."
+    },
+    {
+      "title": "Vegetarian morning orders",
+      "text": "This is a listed vegetarian option for diners who prefer a sweet breakfast. Check the milk and cereals containing gluten allergens if those also affect your choice."
+    },
+    {
+      "title": "Cold morning comfort",
+      "text": "The steaming porridge and honey suit a morning when you want something warm and soft. It is a straightforward choice if crisp textures are not what you fancy."
+    }
+  ],
+  "pairings": [
+    {
+      "slug": "lavazza-filter-coffee",
+      "reason": "Lavazza filter coffee is a straightforward drink to consider alongside the honey-sweetened oats. Check its separate price and availability on your pub's menu."
+    },
+    {
+      "slug": "lavazza-cappuccino",
+      "reason": "Consider a Lavazza cappuccino if that is your preferred breakfast drink. Check its nutrition and allergen details separately from those for the porridge."
+    }
+  ],
+  "tips": [
+    "Plan to order between eight in the morning and noon, the stated daily serving window, and check breakfast availability with your chosen pub.",
+    "Check the local menu before paying: {price} is a typical price, and individual pubs set their own prices.",
+    "Ask staff to confirm the current milk and cereals containing gluten allergen information if either matters to your breakfast choice.",
+    "Order at the bar or through the Wetherspoon app at your table, checking that you have selected the porridge with honey.",
+    "If you would prefer a different topping arrangement, ask before ordering rather than assuming the pub can change the bowl."
+  ],
+  "faqs": [
+    {
+      "question": "How much is porridge with honey at Wetherspoons?",
+      "answer": "Porridge with honey at Wetherspoons costs a typical {price}, with prices varying by pub. It is {pricePosition} in the {category}. Check your chosen pub's menu for the local price before ordering, and account separately for any drink or other item you add."
+    },
+    {
+      "question": "How many calories are in Wetherspoons porridge with honey?",
+      "answer": "Wetherspoons porridge with honey contains {calories} kcal, representing {calorieShare}. It is {caloriePosition} in the {category}. That figure applies to the dish, not your whole breakfast order. Check separate [nutrition](/nutrition-information) information for any drinks, sides or sauces you choose to add."
+    },
+    {
+      "question": "Is Wetherspoons porridge with honey vegetarian?",
+      "answer": "Wetherspoons porridge with honey is listed as vegetarian in our data. Its listed allergens are cereals containing gluten and milk, so vegetarian suitability does not resolve those dietary concerns. If you need an ingredient change, ask the pub whether it is possible and confirm the resulting dietary suitability."
+    },
+    {
+      "question": "What comes with porridge with honey at Wetherspoons?",
+      "answer": "Wetherspoons porridge with honey comes as a warm bowl of traditional porridge oats with a generous honey drizzle. The oats are creamy and smooth, and the honey melts gently into them. No additional side or drink is specified in the dish description, so check any extras separately before ordering."
+    },
+    {
+      "question": "What allergens are in Wetherspoons porridge with honey?",
+      "answer": "The listed allergens for Wetherspoons porridge with honey are cereals containing gluten and milk. Check the pub's current [allergen information](/allergen-information) before ordering if you have an allergy or intolerance. A requested ingredient swap can change the allergen profile, so confirm the details rather than relying on the standard listing."
+    },
+    {
+      "question": "What time is porridge with honey served at Wetherspoons?",
+      "answer": "Porridge with honey is listed as served daily from eight in the morning until noon. It belongs to the [breakfast menu](/breakfast-menu), so plan your visit within that window if it is your preferred order. Check with your chosen pub before travelling specifically for it, as the listing does not guarantee availability."
+    },
+    {
+      "question": "Can I get Wetherspoons porridge with honey as a meal deal?",
+      "answer": "A meal deal is not specified for Wetherspoons porridge with honey in our information. Although many mains can be ordered with an eligible drink, that does not establish a breakfast deal for this dish. Check your pub's current menu and treat any accompanying drink as a separate choice unless a deal is shown."
+    }
+  ],
+  "slug": "porridge-honey",
+  "generatedAt": "2026-10-05",
+  "model": "gpt-6.1-sol",
+  "locked": false
+}

@@ -34,6 +34,11 @@ export default function RootLayout({
             gtag('js', new Date());
           `}
         </Script>
+        <Script
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8331873410180225"
+          crossOrigin="anonymous"
+          strategy="afterInteractive"
+        />
       </head>
       <body className="flex min-h-screen flex-col">
         <a href="#main-content" className="skip-link">

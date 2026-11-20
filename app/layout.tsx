@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import Script from 'next/script';
 import { serif, sans } from './fonts';
 import { SiteHeader } from '@/components/site-header';
 import { SiteFooter } from '@/components/site-footer';
@@ -21,6 +22,19 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en-GB" data-scroll-behavior="smooth" className={`${serif.variable} ${sans.variable}`}>
+      <head>
+        <Script
+          src="https://www.googletagmanager.com/gtm.js?id=GTM-TQK7JGTT"
+          strategy="afterInteractive"
+        />
+        <Script id="gtm-init" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+          `}
+        </Script>
+      </head>
       <body className="flex min-h-screen flex-col">
         <a href="#main-content" className="skip-link">
           Skip to main content

@@ -3,6 +3,7 @@ import Script from 'next/script';
 import { serif, sans } from './fonts';
 import { SiteHeader } from '@/components/site-header';
 import { SiteFooter } from '@/components/site-footer';
+import { AdUnit } from '@/components/ad-unit';
 import './globals.css';
 
 export const metadata: Metadata = {
@@ -44,6 +45,7 @@ export default function RootLayout({
         <a href="#main-content" className="skip-link">
           Skip to main content
         </a>
+        <AdUnit adSlot="9263784835" />
         <SiteHeader />
         <main id="main-content" className="flex-1">
           {children}
